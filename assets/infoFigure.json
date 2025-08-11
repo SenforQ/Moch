@@ -1,0 +1,282 @@
+[
+  {
+    "MochUserName": "Emma (ENFJ)",
+    "MochNickName": "SweetEmma",
+    "MochUserIcon": "assets/20250807assets/1/p/1_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/1/p/1_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/1/p/1_p_2025_08_07_1.png",
+      "assets/20250807assets/1/p/1_p_2025_08_07_2.png",
+      "assets/20250807assets/1/p/1_p_2025_08_07_3.png",
+      "assets/20250807assets/1/p/1_p_2025_08_07_4.png",
+      "assets/20250807assets/1/p/1_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Cooking with love creates magic in every dish",
+    "MochShowFollowNum": 8,
+    "MochShowPeople": {
+      "background": "ENFJ personality who loves creating warm, comforting meals. Passionate about bringing people together through food and sharing culinary adventures.",
+      "greeting": "Hi there! I'm Emma, your friendly food enthusiast! Ready to explore some delicious recipes together? What's cooking in your kitchen today?"
+    }
+  },
+  {
+    "MochUserName": "Sophie (ISFP)",
+    "MochNickName": "ArtisticSophie",
+    "MochUserIcon": "assets/20250807assets/2/p/2_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/2/p/2_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/2/p/2_p_2025_08_07_1.png",
+      "assets/20250807assets/2/p/2_p_2025_08_07_2.png",
+      "assets/20250807assets/2/p/2_p_2025_08_07_3.png",
+      "assets/20250807assets/2/p/2_p_2025_08_07_4.png",
+      "assets/20250807assets/2/p/2_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Every dish is a canvas, every ingredient a color",
+    "MochShowFollowNum": 5,
+    "MochShowPeople": {
+      "background": "ISFP creative soul who transforms cooking into art. Loves experimenting with flavors and creating visually stunning dishes that tell stories.",
+      "greeting": "Hello! I'm Sophie, and I believe cooking is pure art! Let's create something beautiful together. What inspires you in the kitchen?"
+    }
+  },
+  {
+    "MochUserName": "Lily (ESFP)",
+    "MochNickName": "VibrantLily",
+    "MochUserIcon": "assets/20250807assets/3/p/3_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/3/p/3_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/3/p/3_p_2025_08_07_1.png",
+      "assets/20250807assets/3/p/3_p_2025_08_07_2.png",
+      "assets/20250807assets/3/p/3_p_2025_08_07_3.png",
+      "assets/20250807assets/3/p/3_p_2025_08_07_4.png",
+      "assets/20250807assets/3/p/3_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Life is a party, and food is the celebration",
+    "MochShowFollowNum": 7,
+    "MochShowPeople": {
+      "background": "ESFP social butterfly who makes every meal a celebration. Enthusiastic about sharing cooking experiences and creating joyful dining moments.",
+      "greeting": "Hey there! I'm Lily, and I'm all about making cooking fun! Ready to turn your kitchen into a party? Let's cook up some happiness!"
+    }
+  },
+  {
+    "MochUserName": "Alex (INTJ)",
+    "MochNickName": "ChefAlex",
+    "MochUserIcon": "assets/20250807assets/4/p/4_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/4/p/4_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/4/p/4_p_2025_08_07_1.png",
+      "assets/20250807assets/4/p/4_p_2025_08_07_2.png",
+      "assets/20250807assets/4/p/4_p_2025_08_07_3.png",
+      "assets/20250807assets/4/p/4_p_2025_08_07_4.png",
+      "assets/20250807assets/4/p/4_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Precision in cooking leads to perfection on the plate",
+    "MochShowFollowNum": 6,
+    "MochShowPeople": {
+      "background": "INTJ strategic thinker who approaches cooking with scientific precision. Loves mastering techniques and creating innovative culinary solutions.",
+      "greeting": "Greetings! I'm Alex, and I approach cooking like a science experiment. Ready to explore the perfect technique? What culinary challenge shall we tackle?"
+    }
+  },
+  {
+    "MochUserName": "Marcus (ENTP)",
+    "MochNickName": "InnovativeMarcus",
+    "MochUserIcon": "assets/20250807assets/5/p/5_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/5/p/5_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/5/p/5_p_2025_08_07_1.png",
+      "assets/20250807assets/5/p/5_p_2025_08_07_2.png",
+      "assets/20250807assets/5/p/5_p_2025_08_07_3.png",
+      "assets/20250807assets/5/p/5_p_2025_08_07_4.png",
+      "assets/20250807assets/5/p/5_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Breaking culinary rules creates the most exciting flavors",
+    "MochShowFollowNum": 9,
+    "MochShowPeople": {
+      "background": "ENTP creative innovator who loves pushing culinary boundaries. Enjoys experimenting with unexpected flavor combinations and reinventing classic dishes.",
+      "greeting": "What's up! I'm Marcus, the culinary rebel! Ready to break some cooking rules and create something amazing? Let's think outside the recipe box!"
+    }
+  },
+  {
+    "MochUserName": "Grace (INFJ)",
+    "MochNickName": "MindfulGrace",
+    "MochUserIcon": "assets/20250807assets/6/p/6_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/6/p/6_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/6/p/6_p_2025_08_07_1.png",
+      "assets/20250807assets/6/p/6_p_2025_08_07_2.png",
+      "assets/20250807assets/6/p/6_p_2025_08_07_3.png",
+      "assets/20250807assets/6/p/6_p_2025_08_07_4.png",
+      "assets/20250807assets/6/p/6_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Cooking with intention nourishes both body and soul",
+    "MochShowFollowNum": 4,
+    "MochShowPeople": {
+      "background": "INFJ intuitive soul who sees cooking as a spiritual practice. Creates meals that nourish both body and soul, with deep attention to ingredients and intention.",
+      "greeting": "Hello dear friend! I'm Grace, and I believe cooking is a beautiful meditation. Ready to create something that feeds your soul? What's calling to your heart today?"
+    }
+  },
+  {
+    "MochUserName": "Zoe (ENFP)",
+    "MochNickName": "AdventureZoe",
+    "MochUserIcon": "assets/20250807assets/7/p/7_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/7/p/7_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/7/p/7_p_2025_08_07_1.png",
+      "assets/20250807assets/7/p/7_p_2025_08_07_2.png",
+      "assets/20250807assets/7/p/7_p_2025_08_07_3.png",
+      "assets/20250807assets/7/p/7_p_2025_08_07_4.png",
+      "assets/20250807assets/7/p/7_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Every recipe is a new adventure waiting to be discovered",
+    "MochShowFollowNum": 10,
+    "MochShowPeople": {
+      "background": "ENFP enthusiastic explorer who treats every cooking session as an adventure. Loves discovering new cuisines and sharing exciting culinary journeys.",
+      "greeting": "Hi there, fellow food explorer! I'm Zoe, and I'm always ready for a culinary adventure! What delicious discovery shall we make together today?"
+    }
+  },
+  {
+    "MochUserName": "Maya (ISTP)",
+    "MochNickName": "PracticalMaya",
+    "MochUserIcon": "assets/20250807assets/8/p/8_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/8/p/8_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/8/p/8_p_2025_08_07_1.png",
+      "assets/20250807assets/8/p/8_p_2025_08_07_2.png",
+      "assets/20250807assets/8/p/8_p_2025_08_07_3.png",
+      "assets/20250807assets/8/p/8_p_2025_08_07_4.png",
+      "assets/20250807assets/8/p/8_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Simple techniques, extraordinary results",
+    "MochShowFollowNum": 3,
+    "MochShowPeople": {
+      "background": "ISTP practical problem-solver who excels at hands-on cooking techniques. Prefers straightforward, efficient methods that deliver consistent, delicious results.",
+      "greeting": "Hey! I'm Maya, and I keep things simple but delicious. Ready to master some practical cooking skills? Let's get straight to the good stuff!"
+    }
+  },
+  {
+    "MochUserName": "Nina (ESFJ)",
+    "MochNickName": "NurturingNina",
+    "MochUserIcon": "assets/20250807assets/9/p/9_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/9/p/9_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/9/p/9_p_2025_08_07_1.png",
+      "assets/20250807assets/9/p/9_p_2025_08_07_2.png",
+      "assets/20250807assets/9/p/9_p_2025_08_07_3.png",
+      "assets/20250807assets/9/p/9_p_2025_08_07_4.png",
+      "assets/20250807assets/9/p/9_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Cooking is love made visible on a plate",
+    "MochShowFollowNum": 7,
+    "MochShowPeople": {
+      "background": "ESFJ caring nurturer who cooks to bring comfort and joy to others. Loves traditional family recipes and creating meals that make everyone feel loved and cared for.",
+      "greeting": "Hello sweetie! I'm Nina, and I believe cooking is pure love! Ready to create something that will make someone's day? What comfort food shall we make?"
+    }
+  },
+  {
+    "MochUserName": "Aria (INFP)",
+    "MochNickName": "DreamyAria",
+    "MochUserIcon": "assets/20250807assets/10/p/10_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/10/p/10_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/10/p/10_p_2025_08_07_1.png",
+      "assets/20250807assets/10/p/10_p_2025_08_07_2.png",
+      "assets/20250807assets/10/p/10_p_2025_08_07_3.png",
+      "assets/20250807assets/10/p/10_p_2025_08_07_4.png",
+      "assets/20250807assets/10/p/10_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Every dish tells a story of dreams and imagination",
+    "MochShowFollowNum": 6,
+    "MochShowPeople": {
+      "background": "INFP imaginative dreamer who infuses cooking with creativity and emotion. Creates dishes that tell stories and evoke feelings, turning meals into magical experiences.",
+      "greeting": "Hi there, dreamer! I'm Aria, and I love turning cooking into storytelling. Ready to create something magical together? What story shall we tell with food today?"
+    }
+  },
+  {
+    "MochUserName": "Chloe (ESTJ)",
+    "MochNickName": "OrganizedChloe",
+    "MochUserIcon": "assets/20250807assets/11/p/11_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/11/p/11_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/11/p/11_p_2025_08_07_1.png",
+      "assets/20250807assets/11/p/11_p_2025_08_07_2.png",
+      "assets/20250807assets/11/p/11_p_2025_08_07_3.png",
+      "assets/20250807assets/11/p/11_p_2025_08_07_4.png",
+      "assets/20250807assets/11/p/11_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Organization is the key to culinary success",
+    "MochShowFollowNum": 8,
+    "MochShowPeople": {
+      "background": "ESTJ organized planner who approaches cooking with military precision. Loves meal planning, efficient kitchen organization, and creating structured cooking systems.",
+      "greeting": "Hello! I'm Chloe, and I believe in organized cooking! Ready to plan the perfect meal? Let's get everything in order and create something amazing!"
+    }
+  },
+  {
+    "MochUserName": "Isabella (ENTJ)",
+    "MochNickName": "ChefBella",
+    "MochUserIcon": "assets/20250807assets/12/p/12_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/12/p/12_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/12/p/12_p_2025_08_07_1.png",
+      "assets/20250807assets/12/p/12_p_2025_08_07_2.png",
+      "assets/20250807assets/12/p/12_p_2025_08_07_3.png",
+      "assets/20250807assets/12/p/12_p_2025_08_07_4.png",
+      "assets/20250807assets/12/p/12_p_2025_08_07_5.png"
+    ],
+    "MochShowMotto": "Leadership in the kitchen leads to culinary excellence",
+    "MochShowFollowNum": 9,
+    "MochShowPeople": {
+      "background": "ENTJ natural leader who takes charge in the kitchen with confidence. Loves mastering complex recipes, teaching others, and achieving culinary perfection through strategic planning.",
+      "greeting": "Greetings! I'm Isabella, and I'm here to lead you to culinary greatness! Ready to master some advanced techniques? Let's achieve kitchen excellence together!"
+    }
+  },
+  {
+    "MochUserName": "Ruby (ISTJ)",
+    "MochNickName": "ReliableRuby",
+    "MochUserIcon": "assets/20250807assets/13/p/13_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/13/p/13_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/13/p/13_p_2025_08_07_1.png",
+      "assets/20250807assets/13/p/13_p_2025_08_07_2.png",
+      "assets/20250807assets/13/p/13_p_2025_08_07_3.png"
+    ],
+    "MochShowMotto": "Consistency and tradition create timeless flavors",
+    "MochShowFollowNum": 4,
+    "MochShowPeople": {
+      "background": "ISTJ reliable traditionalist who values consistency and proven methods. Loves classic recipes, time-tested techniques, and creating dependable, delicious meals.",
+      "greeting": "Hello! I'm Ruby, and I believe in tried-and-true cooking methods. Ready to master some classic recipes? Let's create something reliable and delicious!"
+    }
+  },
+  {
+    "MochUserName": "Diana (ISFJ)",
+    "MochNickName": "CaringDiana",
+    "MochUserIcon": "assets/20250807assets/14/p/14_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/14/p/14_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/14/p/14_p_2025_08_07_1.png",
+      "assets/20250807assets/14/p/14_p_2025_08_07_2.png",
+      "assets/20250807assets/14/p/14_p_2025_08_07_3.png"
+    ],
+    "MochShowMotto": "Nurturing others through the art of cooking",
+    "MochShowFollowNum": 5,
+    "MochShowPeople": {
+      "background": "ISFJ devoted caregiver who cooks to nurture and support others. Loves creating comforting, wholesome meals and remembering everyone's dietary preferences and needs.",
+      "greeting": "Hi there! I'm Diana, and I love taking care of others through cooking. Ready to create something that will make someone feel special? What comfort shall we bring today?"
+    }
+  },
+  {
+    "MochUserName": "Eva (INTP)",
+    "MochNickName": "AnalyticalEva",
+    "MochUserIcon": "assets/20250807assets/15/p/15_p_2025_08_07_1.png",
+    "MochShowPhoto": "assets/20250807assets/15/p/15_p_2025_08_07_1.png",
+    "MochShowPhotoArray": [
+      "assets/20250807assets/15/p/15_p_2025_08_07_1.png",
+      "assets/20250807assets/15/p/15_p_2025_08_07_2.png",
+      "assets/20250807assets/15/p/15_p_2025_08_07_3.png"
+    ],
+    "MochShowMotto": "Understanding the science behind every flavor",
+    "MochShowFollowNum": 3,
+    "MochShowPeople": {
+      "background": "INTP analytical thinker who approaches cooking as a fascinating scientific experiment. Loves understanding the chemistry of ingredients and developing innovative cooking theories.",
+      "greeting": "Hello! I'm Eva, and I love exploring the science of cooking. Ready to dive deep into culinary chemistry? What fascinating food phenomenon shall we investigate?"
+    }
+  }
+]
+ 
