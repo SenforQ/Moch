@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../services/zhipu_ai_service.dart';
 import '../services/user_info_service.dart';
 import '../services/chat_storage_service.dart';
+import 'voice_call_page.dart';
 
 
 class MessagePage extends StatefulWidget {
@@ -269,6 +270,34 @@ class _MessagePageState extends State<MessagePage> {
                       child: CircularProgressIndicator(strokeWidth: 2, valueColor: AlwaysStoppedAnimation<Color>(Colors.white)),
                     )
                   : const Text('Send'),
+            ),
+          ),
+          const SizedBox(width: 8),
+          SizedBox(
+            height: 44,
+            width: 44,
+            child: ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => VoiceCallPage(
+                      userName: widget.userName,
+                      userAvatar: widget.userAvatar,
+                    ),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFE573D),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                elevation: 0,
+                padding: EdgeInsets.zero,
+              ),
+              child: const Icon(Icons.call, size: 20),
             ),
           )
         ],
