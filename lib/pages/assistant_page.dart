@@ -5,7 +5,9 @@ import '../services/user_info_service.dart';
 import '../services/chat_storage_service.dart';
 
 class AssistantPage extends StatefulWidget {
-  const AssistantPage({super.key});
+  final bool hasParentPage;
+  
+  const AssistantPage({super.key, this.hasParentPage = false});
 
   @override
   State<AssistantPage> createState() => _AssistantPageState();
@@ -161,6 +163,7 @@ class _AssistantPageState extends State<AssistantPage> {
 
   @override
   Widget build(BuildContext context) {
+    print('AssistantPage build - hasParentPage: ${widget.hasParentPage}'); // 调试信息
     return Scaffold(
       backgroundColor: const Color(0xFFFFFFFF),
       body: Stack(
@@ -192,6 +195,40 @@ class _AssistantPageState extends State<AssistantPage> {
               fit: BoxFit.contain,
             ),
           ),
+          // 返回按钮 - 只在有上级页面时显示，放在AI图片之上
+          if (widget.hasParentPage)
+            Positioned(
+              top: 60,
+              left: 20,
+              child: SafeArea(
+                child: GestureDetector(
+                  onTap: () {
+                    print('返回按钮被点击了！'); // 调试信息
+                    Navigator.of(context).pop();
+                  },
+                  child: Container(
+                    width: 44,
+                    height: 44,
+                    decoration: BoxDecoration(
+                      color: Colors.white,
+                      shape: BoxShape.circle,
+                      boxShadow: [
+                        BoxShadow(
+                          color: Colors.black.withValues(alpha: 0.1),
+                          blurRadius: 8,
+                          offset: const Offset(0, 2),
+                        ),
+                      ],
+                    ),
+                    child: const Icon(
+                      Icons.arrow_back,
+                      color: Colors.black,
+                      size: 24,
+                    ),
+                  ),
+                ),
+              ),
+            ),
           // 聊天内容区域
           Positioned(
             top: 290, // AI图片下方留出空间

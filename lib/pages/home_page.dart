@@ -7,9 +7,12 @@ import '../services/user_filter_service.dart';
 import 'figure_detail_page.dart';
 import 'report_detail_page.dart';
 import 'gourmet_event_page.dart';
+import 'history_message_page.dart';
 
 class HomePage extends StatefulWidget {
-  const HomePage({super.key});
+  final bool hasParentPage;
+  
+  const HomePage({super.key, this.hasParentPage = false});
 
   @override
   State<HomePage> createState() => _HomePageState();
@@ -242,30 +245,95 @@ class _HomePageState extends State<HomePage> {
           SafeArea(
             child: Column(
               children: [
-                // 顶部图片和选择指示器
+                // 顶部区域：包含返回按钮、logo和message按钮
                 Padding(
-                  padding: const EdgeInsets.only(left: 15, top: 9),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
+                  padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 9),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Image.asset(
-                        'assets/home_recommend_nor_20250806.png',
-                        width: 130,
-                        height: 24,
-                        fit: BoxFit.contain,
-                      ),
-                      const SizedBox(height: 8),
-                      Align(
-                        alignment: Alignment.centerLeft,
-                        child: SizedBox(
-                          width: 130,
-                          child: Center(
-                            child: Image.asset(
-                              'assets/home_select_20250806.png',
-                              width: 30,
-                              height: 10,
+                      // 左侧：返回按钮（只在有上级页面时显示）或logo
+                      if (widget.hasParentPage)
+                        // 返回按钮
+                        GestureDetector(
+                          onTap: () {
+                            Navigator.of(context).pop();
+                          },
+                          child: Container(
+                            width: 44,
+                            height: 44,
+                            decoration: BoxDecoration(
+                              color: Colors.white,
+                              shape: BoxShape.circle,
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withValues(alpha: 0.1),
+                                  blurRadius: 8,
+                                  offset: const Offset(0, 2),
+                                ),
+                              ],
+                            ),
+                            child: const Icon(
+                              Icons.arrow_back,
+                              color: Colors.black,
+                              size: 24,
+                            ),
+                          ),
+                        )
+                      else
+                        // logo和选择指示器
+                        Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Image.asset(
+                              'assets/home_recommend_nor_20250806.png',
+                              width: 130,
+                              height: 24,
                               fit: BoxFit.contain,
                             ),
+                            const SizedBox(height: 8),
+                            Align(
+                              alignment: Alignment.centerLeft,
+                              child: SizedBox(
+                                width: 130,
+                                child: Center(
+                                  child: Image.asset(
+                                    'assets/home_select_20250806.png',
+                                    width: 30,
+                                    height: 10,
+                                    fit: BoxFit.contain,
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      // 右侧message按钮
+                      GestureDetector(
+                        onTap: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (context) => const HistoryMessagePage(),
+                            ),
+                          );
+                        },
+                        child: Container(
+                          width: 44,
+                          height: 44,
+                          decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(22),
+                            boxShadow: [
+                              BoxShadow(
+                                color: Colors.black.withValues(alpha: 0.1),
+                                blurRadius: 8,
+                                offset: const Offset(0, 2),
+                              ),
+                            ],
+                          ),
+                          child: const Icon(
+                            Icons.message_outlined,
+                            color: Color(0xFF666666),
+                            size: 24,
                           ),
                         ),
                       ),

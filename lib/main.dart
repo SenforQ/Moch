@@ -3,8 +3,10 @@ import 'pages/welcome_page.dart';
 import 'pages/home_page.dart';
 import 'pages/foot_page.dart';
 import 'pages/assistant_page.dart';
-import 'pages/history_message_page.dart';
 import 'pages/profile_page.dart';
+import 'pages/cooking_favorites_page.dart';
+import 'pages/recipe_list_page.dart';
+import 'pages/video_tutorial_page.dart';
 
 void main() {
   runApp(const MochApp());
@@ -51,21 +53,21 @@ class _MainTabBarState extends State<MainTabBar> {
   int _currentIndex = 0;
 
   final List<Widget> _pages = [
-    const HomePage(),
     const FootPage(),
-    const AssistantPage(),
-    const HistoryMessagePage(),
+    const HomePage(),
+    const RecipeListPage(),
+    const VideoTutorialPage(),
     const ProfilePage(),
   ];
 
   final List<Map<String, String>> _tabItems = [
     {
-      'normal': 'assets/tab_1_n_20250806.png',
-      'selected': 'assets/tab_1_s_20250806.png',
-    },
-    {
       'normal': 'assets/tab_2_n_20250806.png',
       'selected': 'assets/tab_2_s_20250806.png',
+    },
+    {
+      'normal': 'assets/tab_1_n_20250806.png',
+      'selected': 'assets/tab_1_s_20250806.png',
     },
     {
       'normal': 'assets/tab_5_n_20250806.png',
