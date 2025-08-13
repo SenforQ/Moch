@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
+import 'package:path_provider/path_provider.dart';
+import 'package:path/path.dart' as path;
 import '../services/recipe_service.dart';
 
 class CreateRecipePage extends StatefulWidget {
@@ -18,6 +20,7 @@ class _CreateRecipePageState extends State<CreateRecipePage> {
   String _selectedCategory = 'Pizza';
   String _selectedDifficulty = 'Easy';
   File? _selectedImage;
+  String _selectedImagePath = ''; // 保存相对路径
   final ImagePicker _picker = ImagePicker();
 
   final List<String> _categories = ['Pizza', 'Burger', 'BBQ', 'Dessert', 'Soup', 'Salad'];
@@ -31,22 +34,89 @@ class _CreateRecipePageState extends State<CreateRecipePage> {
     super.dispose();
   }
 
+  /// 将图片保存到沙盒中
+  Future<String?> _saveImageToSandbox(File imageFile) async {
+    try {
+      // 获取应用文档目录
+      final appDocDir = await getApplicationDocumentsDirectory();
+      final imagesDir = Directory('${appDocDir.path}/recipe_images');
+      
+      // 创建图片目录（如果不存在）
+      if (!await imagesDir.exists()) {
+        await imagesDir.create(recursive: true);
+      }
+      
+      // 生成唯一的文件名
+      final timestamp = DateTime.now().millisecondsSinceEpoch;
+      final originalExtension = path.extension(imageFile.path);
+      final fileName = 'recipe_$timestamp$originalExtension';
+      final targetPath = '${imagesDir.path}/$fileName';
+      
+      // 复制图片到沙盒目录
+      final savedFile = await imageFile.copy(targetPath);
+      
+      // 返回相对路径（相对于应用文档目录）
+      return 'recipe_images/$fileName';
+    } catch (e) {
+      print('Error saving image to sandbox: $e');
+      return null;
+    }
+  }
+
   Future<void> _pickImage() async {
-    final XFile? image = await _picker.pickImage(source: ImageSource.gallery);
-    if (image != null) {
-      setState(() {
-        _selectedImage = File(image.path);
-      });
+    try {
+      final XFile? image = await _picker.pickImage(
+        source: ImageSource.gallery,
+        maxWidth: 1024,
+        maxHeight: 1024,
+        imageQuality: 85,
+      );
+      
+      if (image != null) {
+        final imageFile = File(image.path);
+        
+        // 保存图片到沙盒
+        final relativePath = await _saveImageToSandbox(imageFile);
+        
+        if (relativePath != null) {
+          setState(() {
+            _selectedImage = imageFile;
+            _selectedImagePath = relativePath;
+          });
+        } else {
+          // 保存失败，显示错误提示
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Failed to save image. Please try again.'),
+                backgroundColor: Color(0xFFFF6B6B),
+                duration: Duration(seconds: 2),
+              ),
+            );
+          }
+        }
+      }
+    } catch (e) {
+      print('Error picking image: $e');
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Error picking image: $e'),
+            backgroundColor: const Color(0xFFFF6B6B),
+            duration: const Duration(seconds: 2),
+          ),
+        );
+      }
     }
   }
 
   Future<void> _submitRecipe() async {
-    if (_formKey.currentState!.validate() && _selectedImage != null) {
-      // 创建新的食谱对象
+    if (_formKey.currentState!.validate() && _selectedImage != null && _selectedImagePath.isNotEmpty) {
+      // 创建新的食谱对象，使用相对路径
       final newRecipe = MyRecipe(
         id: RecipeService.generateId(),
         title: _titleController.text,
-        imagePath: _selectedImage!.path,
+        imagePath: _selectedImagePath, // 使用相对路径
         category: _selectedCategory,
         cookingTime: _cookingTimeController.text,
         difficulty: _selectedDifficulty,
@@ -82,7 +152,7 @@ class _CreateRecipePageState extends State<CreateRecipePage> {
           );
         }
       }
-    } else if (_selectedImage == null) {
+    } else if (_selectedImage == null || _selectedImagePath.isEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Please select an image for your recipe'),

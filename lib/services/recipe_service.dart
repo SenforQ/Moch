@@ -65,15 +65,15 @@ class RecipeService {
       final String? recipesJson = prefs.getString(_storageKey);
       
       if (recipesJson == null || recipesJson.isEmpty) {
-        // 如果没有数据，返回默认的示例食谱
-        return _getDefaultRecipes();
+        // 如果没有数据，返回空列表
+        return [];
       }
       
       final List<dynamic> recipesList = json.decode(recipesJson);
       return recipesList.map((json) => MyRecipe.fromJson(json)).toList();
     } catch (e) {
       print('Error loading recipes: $e');
-      return _getDefaultRecipes();
+      return [];
     }
   }
   
@@ -145,45 +145,6 @@ class RecipeService {
       print('Error updating recipe favorite: $e');
       return false;
     }
-  }
-  
-  // 获取默认食谱（首次使用时的示例数据）
-  static List<MyRecipe> _getDefaultRecipes() {
-    return [
-      MyRecipe(
-        id: '1',
-        title: 'My Special Pizza',
-        imagePath: 'assets/pepperoni_1_20250808.png',
-        category: 'Pizza',
-        cookingTime: '30Min',
-        difficulty: 'Medium',
-        description: 'A unique pizza recipe I created with special ingredients.',
-        createdAt: DateTime.now().subtract(const Duration(days: 2)),
-        isFavorite: true,
-      ),
-      MyRecipe(
-        id: '2',
-        title: 'Homemade Burger',
-        imagePath: 'assets/hamburger_1_20250808.png',
-        category: 'Burger',
-        cookingTime: '25Min',
-        difficulty: 'Easy',
-        description: 'My secret recipe for the perfect homemade burger.',
-        createdAt: DateTime.now().subtract(const Duration(days: 5)),
-        isFavorite: false,
-      ),
-      MyRecipe(
-        id: '3',
-        title: 'Grilled Salmon',
-        imagePath: 'assets/bbq_1_20250808.png',
-        category: 'BBQ',
-        cookingTime: '40Min',
-        difficulty: 'Hard',
-        description: 'A sophisticated grilled salmon recipe with herbs.',
-        createdAt: DateTime.now().subtract(const Duration(days: 7)),
-        isFavorite: true,
-      ),
-    ];
   }
   
   // 生成唯一ID

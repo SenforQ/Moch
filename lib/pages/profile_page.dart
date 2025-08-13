@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
+import 'package:path_provider/path_provider.dart';
 import 'terms_conditions_page.dart';
 import 'privacy_policy_page.dart';
 import 'about_us_page.dart';
@@ -25,11 +26,15 @@ class _ProfilePageState extends State<ProfilePage> {
 
   Future<void> _loadUserInfo() async {
     try {
+      print('ProfilePage - Loading user info...');
       final userInfo = await UserInfoService.getUserInfo();
+      print('ProfilePage - User info loaded: ${userInfo.avatarPath}');
       setState(() {
         _userInfo = userInfo;
       });
+      print('ProfilePage - User info updated in state');
     } catch (e) {
+      print('ProfilePage - Error loading user info: $e');
       // Handle error silently
     }
   }
@@ -122,40 +127,103 @@ class _ProfilePageState extends State<ProfilePage> {
                           height: 100,
                           fit: BoxFit.cover,
                           errorBuilder: (context, error, stackTrace) {
-                            return Container(
-                              width: 100,
-                              height: 100,
-                              decoration: const BoxDecoration(
-                                color: Color(0xFFF5F5F5),
-                                shape: BoxShape.circle,
-                              ),
-                              child: const Icon(
-                                Icons.person,
-                                size: 50,
-                                color: Color(0xFFCCCCCC),
-                              ),
-                            );
+                            return _buildAvatarPlaceholder();
                           },
                         )
-                      : Image.file(
-                          File(_userInfo.avatarPath),
-                          width: 100,
-                          height: 100,
-                          fit: BoxFit.cover,
-                          errorBuilder: (context, error, stackTrace) {
-                            return Image.asset(
-                              'assets/user_default_icon_1024.png',
-                              width: 100,
-                              height: 100,
-                              fit: BoxFit.cover,
-                            );
-                          },
-                        ),
+                      : _buildAvatarImage(_userInfo.avatarPath),
                 ),
               ),
             ),
           ),
         ],
+      ),
+    );
+  }
+
+  /// 构建头像图片
+  Widget _buildAvatarImage(String avatarPath) {
+    print('ProfilePage - Building avatar image for path: $avatarPath');
+    
+    if (avatarPath.startsWith('assets/')) {
+      print('ProfilePage - Using Image.asset for assets path');
+      return Image.asset(
+        avatarPath,
+        width: 100,
+        height: 100,
+        fit: BoxFit.cover,
+      );
+    } else {
+      // 检查是否为临时文件路径（image_picker返回的）
+      if (avatarPath.contains('image_picker') || avatarPath.startsWith('/tmp/')) {
+        print('ProfilePage - Using Image.file for temporary path');
+        // 直接使用临时文件路径显示
+        return Image.file(
+          File(avatarPath),
+          width: 100,
+          height: 100,
+          fit: BoxFit.cover,
+          errorBuilder: (context, error, stackTrace) {
+            print('ProfilePage - Error loading temporary file: $error');
+            return _buildAvatarPlaceholder();
+          },
+        );
+      } else {
+        print('ProfilePage - Using FutureBuilder for sandbox path');
+        // 对于沙盒中的相对路径，需要构建完整路径
+        return FutureBuilder<String?>(
+          future: _getFullAvatarPath(avatarPath),
+          builder: (context, snapshot) {
+            if (snapshot.connectionState == ConnectionState.waiting) {
+              print('ProfilePage - Loading sandbox image...');
+              return _buildAvatarPlaceholder();
+            }
+            
+            if (snapshot.hasData && snapshot.data != null) {
+              print('ProfilePage - Sandbox image loaded: ${snapshot.data}');
+              return Image.file(
+                File(snapshot.data!),
+                width: 100,
+                height: 100,
+                fit: BoxFit.cover,
+                errorBuilder: (context, error, stackTrace) {
+                  print('ProfilePage - Error loading sandbox image: $error');
+                  return _buildAvatarPlaceholder();
+                },
+              );
+            }
+            
+            print('ProfilePage - No sandbox image data');
+            return _buildAvatarPlaceholder();
+          },
+        );
+      }
+    }
+  }
+
+  /// 获取头像的完整路径
+  Future<String?> _getFullAvatarPath(String relativePath) async {
+    try {
+      final appDocDir = await getApplicationDocumentsDirectory();
+      return '${appDocDir.path}/$relativePath';
+    } catch (e) {
+      print('Error getting full avatar path: $e');
+      return null;
+    }
+  }
+
+  /// 构建头像占位符
+  Widget _buildAvatarPlaceholder() {
+    return Container(
+      width: 100,
+      height: 100,
+      decoration: const BoxDecoration(
+        color: Color(0xFFF5F5F5),
+        shape: BoxShape.circle,
+      ),
+      child: const Icon(
+        Icons.person,
+        size: 50,
+        color: Color(0xFFCCCCCC),
       ),
     );
   }

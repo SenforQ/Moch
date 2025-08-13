@@ -38,18 +38,41 @@ class UserInfoService {
   // 保存头像到沙盒
   static Future<String> saveAvatarToSandbox(File imageFile) async {
     try {
+      print('UserInfoService - Starting to save avatar to sandbox...');
+      print('UserInfoService - Source image path: ${imageFile.path}');
+      
       final appDir = await getApplicationDocumentsDirectory();
+      print('UserInfoService - App documents directory: ${appDir.path}');
+      
       final avatarDir = Directory('${appDir.path}/avatars');
+      print('UserInfoService - Avatar directory path: ${avatarDir.path}');
       
       if (!await avatarDir.exists()) {
+        print('UserInfoService - Creating avatar directory...');
         await avatarDir.create(recursive: true);
+        print('UserInfoService - Avatar directory created successfully');
+      } else {
+        print('UserInfoService - Avatar directory already exists');
       }
       
       final fileName = 'avatar_${DateTime.now().millisecondsSinceEpoch}.jpg';
-      final savedFile = await imageFile.copy('${avatarDir.path}/$fileName');
+      final targetPath = '${avatarDir.path}/$fileName';
+      print('UserInfoService - Target file path: $targetPath');
       
-      return savedFile.path;
+      final savedFile = await imageFile.copy(targetPath);
+      print('UserInfoService - File copied successfully to: ${savedFile.path}');
+      
+      // 返回相对路径而不是绝对路径
+      final relativePath = 'avatars/$fileName';
+      print('UserInfoService - Returning relative path: $relativePath');
+      
+      // 验证文件是否真的存在
+      final savedFileExists = await savedFile.exists();
+      print('UserInfoService - Saved file exists: $savedFileExists');
+      
+      return relativePath;
     } catch (e) {
+      print('UserInfoService - Error saving avatar: $e');
       // Error saving avatar
       return 'assets/user_default_icon_1024.png';
     }
@@ -57,7 +80,12 @@ class UserInfoService {
   
   // 检查头像路径是否为本地文件
   static bool isLocalAvatar(String avatarPath) {
-    return avatarPath.startsWith('/') || avatarPath.startsWith('file://');
+    // 检查是否为绝对路径、沙盒中的相对路径、或临时文件路径
+    return avatarPath.startsWith('/') || 
+           avatarPath.startsWith('file://') || 
+           avatarPath.contains('image_picker') ||
+           avatarPath.startsWith('/tmp/') ||
+           (avatarPath.contains('/') && !avatarPath.startsWith('assets/'));
   }
 }
  

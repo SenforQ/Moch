@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'dart:io';
+import 'package:path_provider/path_provider.dart';
 import '../services/recipe_service.dart';
+import 'create_recipe_page.dart'; // Added import for CreateRecipePage
 
 class MyRecipesPage extends StatefulWidget {
   const MyRecipesPage({super.key});
@@ -148,12 +151,40 @@ class _MyRecipesPageState extends State<MyRecipesPage> {
               width: double.infinity,
               height: 200,
               margin: const EdgeInsets.all(20),
-              decoration: BoxDecoration(
+              child: ClipRRect(
                 borderRadius: BorderRadius.circular(12),
-                image: DecorationImage(
-                  image: AssetImage(recipe.imagePath),
-                  fit: BoxFit.cover,
-                ),
+                child: recipe.imagePath.startsWith('assets/')
+                    ? Image.asset(
+                        recipe.imagePath,
+                        width: double.infinity,
+                        height: 200,
+                        fit: BoxFit.cover,
+                        errorBuilder: (context, error, stackTrace) {
+                          return _buildImagePlaceholder();
+                        },
+                      )
+                    : FutureBuilder<String?>(
+                        future: _getFullImagePath(recipe.imagePath),
+                        builder: (context, snapshot) {
+                          if (snapshot.connectionState == ConnectionState.waiting) {
+                            return _buildImagePlaceholder();
+                          }
+                          
+                          if (snapshot.hasData && snapshot.data != null) {
+                            return Image.file(
+                              File(snapshot.data!),
+                              width: double.infinity,
+                              height: 200,
+                              fit: BoxFit.cover,
+                              errorBuilder: (context, error, stackTrace) {
+                                return _buildImagePlaceholder();
+                              },
+                            );
+                          }
+                          
+                          return _buildImagePlaceholder();
+                        },
+                      ),
               ),
             ),
             // 菜谱信息
@@ -227,56 +258,29 @@ class _MyRecipesPageState extends State<MyRecipesPage> {
                     ),
                   ),
                   const SizedBox(height: 20),
-                  Row(
-                    children: [
-                      Expanded(
-                        child: ElevatedButton(
-                          onPressed: () {
-                            Navigator.pop(context);
-                            // TODO: 编辑食谱功能
-                          },
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: const Color(0xFFFE573D),
-                            foregroundColor: Colors.white,
-                            padding: const EdgeInsets.symmetric(vertical: 16),
-                            shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(12),
-                            ),
-                          ),
-                          child: const Text(
-                            'Edit Recipe',
-                            style: TextStyle(
-                              fontSize: 16,
-                              fontWeight: FontWeight.w600,
-                            ),
-                          ),
+                  SizedBox(
+                    width: double.infinity,
+                    child: OutlinedButton(
+                      onPressed: () {
+                        Navigator.pop(context);
+                        _deleteRecipe(recipe.id);
+                      },
+                      style: OutlinedButton.styleFrom(
+                        foregroundColor: const Color(0xFFFF6B6B),
+                        side: const BorderSide(color: Color(0xFFFF6B6B)),
+                        padding: const EdgeInsets.symmetric(vertical: 16),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(12),
                         ),
                       ),
-                      const SizedBox(width: 12),
-                      Expanded(
-                        child: OutlinedButton(
-                          onPressed: () {
-                            Navigator.pop(context);
-                            _deleteRecipe(recipe.id);
-                          },
-                          style: OutlinedButton.styleFrom(
-                            foregroundColor: const Color(0xFFFF6B6B),
-                            side: const BorderSide(color: Color(0xFFFF6B6B)),
-                            padding: const EdgeInsets.symmetric(vertical: 16),
-                            shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(12),
-                            ),
-                          ),
-                          child: const Text(
-                            'Delete',
-                            style: TextStyle(
-                              fontSize: 16,
-                              fontWeight: FontWeight.w600,
-                            ),
-                          ),
+                      child: const Text(
+                        'Delete Recipe',
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.w600,
                         ),
                       ),
-                    ],
+                    ),
                   ),
                 ],
               ),
@@ -449,6 +453,26 @@ class _MyRecipesPageState extends State<MyRecipesPage> {
               color: Colors.grey[500],
             ),
           ),
+          const SizedBox(height: 24),
+          ElevatedButton.icon(
+            onPressed: () {
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => const CreateRecipePage(),
+                ),
+              );
+            },
+            icon: const Icon(Icons.add),
+            label: const Text('Create First Recipe'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFE573D),
+              foregroundColor: Colors.white,
+              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
+            ),
+          ),
         ],
       ),
     );
@@ -481,12 +505,38 @@ class _MyRecipesPageState extends State<MyRecipesPage> {
                   topLeft: Radius.circular(12),
                   topRight: Radius.circular(12),
                 ),
-                child: Image.asset(
-                  recipe.imagePath,
-                  width: double.infinity,
-                  height: 200,
-                  fit: BoxFit.cover,
-                ),
+                child: recipe.imagePath.startsWith('assets/')
+                    ? Image.asset(
+                        recipe.imagePath,
+                        width: double.infinity,
+                        height: 200,
+                        fit: BoxFit.cover,
+                        errorBuilder: (context, error, stackTrace) {
+                          return _buildImagePlaceholder();
+                        },
+                      )
+                    : FutureBuilder<String?>(
+                        future: _getFullImagePath(recipe.imagePath),
+                        builder: (context, snapshot) {
+                          if (snapshot.connectionState == ConnectionState.waiting) {
+                            return _buildImagePlaceholder();
+                          }
+                          
+                          if (snapshot.hasData && snapshot.data != null) {
+                            return Image.file(
+                              File(snapshot.data!),
+                              width: double.infinity,
+                              height: 200,
+                              fit: BoxFit.cover,
+                              errorBuilder: (context, error, stackTrace) {
+                                return _buildImagePlaceholder();
+                              },
+                            );
+                          }
+                          
+                          return _buildImagePlaceholder();
+                        },
+                      ),
               ),
               // 菜谱信息和按钮
               Padding(
@@ -582,5 +632,30 @@ class _MyRecipesPageState extends State<MyRecipesPage> {
         );
       },
     );
+  }
+
+  /// 构建图片占位符
+  Widget _buildImagePlaceholder() {
+    return Container(
+      width: double.infinity,
+      height: 200,
+      color: const Color(0xFFF5F5F5),
+      child: const Icon(
+        Icons.image,
+        color: Color(0xFFCCCCCC),
+        size: 40,
+      ),
+    );
+  }
+
+  /// 获取图片的完整路径
+  Future<String?> _getFullImagePath(String relativePath) async {
+    try {
+      final appDocDir = await getApplicationDocumentsDirectory();
+      return '${appDocDir.path}/$relativePath';
+    } catch (e) {
+      print('Error getting full image path: $e');
+      return null;
+    }
   }
 } 

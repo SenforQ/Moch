@@ -1,6 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:path_provider/path_provider.dart';
 import '../models/user_info.dart';
 import '../services/user_info_service.dart';
 
@@ -48,11 +49,14 @@ class _EditProfilePageState extends State<EditProfilePage> {
       );
 
       if (image != null) {
+        print('Selected image path: ${image.path}');
         setState(() {
           _avatarPath = image.path;
         });
+        print('Updated _avatarPath to: $_avatarPath');
       }
     } catch (e) {
+      print('Error picking image: $e');
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(content: Text('Failed to pick image: $e')),
@@ -75,14 +79,22 @@ class _EditProfilePageState extends State<EditProfilePage> {
 
     try {
       String finalAvatarPath = _avatarPath;
+      print('Saving avatar - original path: $_avatarPath');
+      print('Original user avatar path: ${widget.userInfo.avatarPath}');
+      print('Is local avatar: ${UserInfoService.isLocalAvatar(_avatarPath)}');
       
       // 如果选择了新头像，保存到沙盒
-      if (_avatarPath != widget.userInfo.avatarPath && 
-          !UserInfoService.isLocalAvatar(_avatarPath)) {
+      if (_avatarPath != widget.userInfo.avatarPath) {
+        print('Saving new avatar to sandbox...');
         final File imageFile = File(_avatarPath);
         if (await imageFile.exists()) {
           finalAvatarPath = await UserInfoService.saveAvatarToSandbox(imageFile);
+          print('Avatar saved to sandbox: $finalAvatarPath');
+        } else {
+          print('Image file does not exist: $_avatarPath');
         }
+      } else {
+        print('Using existing avatar path: $finalAvatarPath');
       }
 
       final updatedUserInfo = UserInfo(
@@ -92,11 +104,13 @@ class _EditProfilePageState extends State<EditProfilePage> {
       );
 
       await UserInfoService.saveUserInfo(updatedUserInfo);
+      print('User info saved with avatar path: $finalAvatarPath');
 
       if (mounted) {
         Navigator.of(context).pop(updatedUserInfo);
       }
     } catch (e) {
+      print('Error saving user info: $e');
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(content: Text('Failed to save: $e')),
@@ -109,6 +123,87 @@ class _EditProfilePageState extends State<EditProfilePage> {
         });
       }
     }
+  }
+
+  /// 构建头像图片
+  Widget _buildAvatarImage(String avatarPath) {
+    print('Building avatar image for path: $avatarPath');
+    
+    if (avatarPath.startsWith('assets/')) {
+      print('Using Image.asset for assets path');
+      return Image.asset(
+        avatarPath,
+        width: 100,
+        height: 100,
+        fit: BoxFit.cover,
+      );
+    } else {
+      // 检查是否为临时文件路径（image_picker返回的）
+      if (avatarPath.contains('image_picker') || avatarPath.startsWith('/tmp/')) {
+        print('Using Image.file for temporary path');
+        // 直接使用临时文件路径显示
+        return Image.file(
+          File(avatarPath),
+          width: 100,
+          height: 100,
+          fit: BoxFit.cover,
+          errorBuilder: (context, error, stackTrace) {
+            print('Error loading temporary file: $error');
+            return _buildAvatarPlaceholder();
+          },
+        );
+      } else {
+        print('Using FutureBuilder for sandbox path');
+        // 对于沙盒中的相对路径，需要构建完整路径
+        return FutureBuilder<String?>(
+          future: _getFullAvatarPath(avatarPath),
+          builder: (context, snapshot) {
+            if (snapshot.connectionState == ConnectionState.waiting) {
+              print('Loading sandbox image...');
+              return _buildAvatarPlaceholder();
+            }
+            
+            if (snapshot.hasData && snapshot.data != null) {
+              print('Sandbox image loaded: ${snapshot.data}');
+              return Image.file(
+                File(snapshot.data!),
+                width: 100,
+                height: 100,
+                fit: BoxFit.cover,
+                errorBuilder: (context, error, stackTrace) {
+                  print('Error loading sandbox image: $error');
+                  return _buildAvatarPlaceholder();
+                },
+              );
+            }
+            
+            print('No sandbox image data');
+            return _buildAvatarPlaceholder();
+          },
+        );
+      }
+    }
+  }
+
+  /// 获取头像的完整路径
+  Future<String?> _getFullAvatarPath(String relativePath) async {
+    try {
+      final appDocDir = await getApplicationDocumentsDirectory();
+      return '${appDocDir.path}/$relativePath';
+    } catch (e) {
+      print('Error getting full avatar path: $e');
+      return null;
+    }
+  }
+
+  /// 构建头像占位符
+  Widget _buildAvatarPlaceholder() {
+    return Image.asset(
+      'assets/user_default_icon_1024.png',
+      width: 100,
+      height: 100,
+      fit: BoxFit.cover,
+    );
   }
 
   @override
@@ -164,20 +259,7 @@ class _EditProfilePageState extends State<EditProfilePage> {
                                       height: 100,
                                       fit: BoxFit.cover,
                                     )
-                                  : Image.file(
-                                      File(_avatarPath),
-                                      width: 100,
-                                      height: 100,
-                                      fit: BoxFit.cover,
-                                      errorBuilder: (context, error, stackTrace) {
-                                        return Image.asset(
-                                          'assets/user_default_icon_1024.png',
-                                          width: 100,
-                                          height: 100,
-                                          fit: BoxFit.cover,
-                                        );
-                                      },
-                                    ),
+                                  : _buildAvatarImage(_avatarPath),
                             ),
                           ),
                           const SizedBox(height: 8),
