@@ -4,6 +4,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import '../models/user_info.dart';
 import '../services/user_info_service.dart';
+import '../services/vip_service.dart';
 
 class EditProfilePage extends StatefulWidget {
   final UserInfo userInfo;
@@ -22,6 +23,7 @@ class _EditProfilePageState extends State<EditProfilePage> {
   late TextEditingController _signatureController;
   late String _avatarPath;
   bool _isLoading = false;
+  bool _isVipActive = false;
 
   @override
   void initState() {
@@ -29,6 +31,7 @@ class _EditProfilePageState extends State<EditProfilePage> {
     _nameController = TextEditingController(text: widget.userInfo.name);
     _signatureController = TextEditingController(text: widget.userInfo.signature);
     _avatarPath = widget.userInfo.avatarPath;
+    _loadVipStatus();
   }
 
   @override
@@ -36,6 +39,19 @@ class _EditProfilePageState extends State<EditProfilePage> {
     _nameController.dispose();
     _signatureController.dispose();
     super.dispose();
+  }
+
+  Future<void> _loadVipStatus() async {
+    try {
+      final isActive = await VipService.isVipActive();
+      final isExpired = await VipService.isVipExpired();
+      
+      setState(() {
+        _isVipActive = isActive && !isExpired;
+      });
+    } catch (e) {
+      print('EditProfilePage - Error loading VIP status: $e');
+    }
   }
 
   Future<void> _pickImage() async {
@@ -66,6 +82,16 @@ class _EditProfilePageState extends State<EditProfilePage> {
   }
 
   Future<void> _saveInformation() async {
+    // 检查VIP权限
+    final isVipActive = await VipService.isVipActive();
+    final isVipExpired = await VipService.isVipExpired();
+    
+    if (!isVipActive || isVipExpired) {
+      // 显示VIP权限提示对话框
+      _showVipRequiredDialog();
+      return;
+    }
+
     if (_nameController.text.trim().isEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('Please enter your name')),
@@ -123,6 +149,133 @@ class _EditProfilePageState extends State<EditProfilePage> {
         });
       }
     }
+  }
+
+  /// 显示VIP权限提示对话框
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    colors: [
+                      Color(0xFFFFD700),
+                      Color(0xFFFFA500),
+                    ],
+                  ),
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: const Icon(
+                  Icons.star,
+                  color: Colors.white,
+                  size: 20,
+                ),
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'VIP Required',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: Color(0xFF333333),
+                ),
+              ),
+            ],
+          ),
+          content: const Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Editing profile information is a VIP feature.',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Color(0xFF666666),
+                ),
+              ),
+              SizedBox(height: 12),
+              Text(
+                'Upgrade to VIP to:',
+                style: TextStyle(
+                  fontSize: 14,
+                  fontWeight: FontWeight.w600,
+                  color: Color(0xFF333333),
+                ),
+              ),
+              SizedBox(height: 8),
+              Row(
+                children: [
+                  Icon(Icons.check_circle, color: Color(0xFF4CAF50), size: 16),
+                  SizedBox(width: 8),
+                  Text('Edit your profile information', style: TextStyle(fontSize: 14)),
+                ],
+              ),
+              Row(
+                children: [
+                  Icon(Icons.check_circle, color: Color(0xFF4CAF50), size: 16),
+                  SizedBox(width: 8),
+                  Text('Change your avatar', style: TextStyle(fontSize: 14)),
+                ],
+              ),
+              Row(
+                children: [
+                  Icon(Icons.check_circle, color: Color(0xFF4CAF50), size: 16),
+                  SizedBox(width: 8),
+                  Text('Update your signature', style: TextStyle(fontSize: 14)),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Color(0xFF999999),
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _navigateToVipPage();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFFD700),
+                foregroundColor: Colors.black,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Get VIP',
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  /// 导航到VIP页面
+  void _navigateToVipPage() {
+    Navigator.of(context).pushNamed('/vip-detail');
   }
 
   /// 构建头像图片
@@ -241,33 +394,64 @@ class _EditProfilePageState extends State<EditProfilePage> {
                       onTap: _pickImage,
                       child: Column(
                         children: [
-                          Container(
-                            width: 100,
-                            height: 100,
-                            decoration: BoxDecoration(
-                              shape: BoxShape.circle,
-                              border: Border.all(
-                                color: const Color(0xFFE0E0E0),
-                                width: 2,
+                          Stack(
+                            children: [
+                              Container(
+                                width: 100,
+                                height: 100,
+                                decoration: BoxDecoration(
+                                  shape: BoxShape.circle,
+                                  border: Border.all(
+                                    color: const Color(0xFFE0E0E0),
+                                    width: 2,
+                                  ),
+                                ),
+                                child: ClipOval(
+                                  child: _avatarPath.startsWith('assets/')
+                                      ? Image.asset(
+                                          _avatarPath,
+                                          width: 100,
+                                          height: 100,
+                                          fit: BoxFit.cover,
+                                        )
+                                      : _buildAvatarImage(_avatarPath),
+                                ),
                               ),
-                            ),
-                            child: ClipOval(
-                              child: _avatarPath.startsWith('assets/')
-                                  ? Image.asset(
-                                      _avatarPath,
-                                      width: 100,
-                                      height: 100,
-                                      fit: BoxFit.cover,
-                                    )
-                                  : _buildAvatarImage(_avatarPath),
-                            ),
+                              // VIP状态指示器
+                              if (_isVipActive)
+                                Positioned(
+                                  top: 0,
+                                  right: 0,
+                                  child: Container(
+                                    padding: const EdgeInsets.all(4),
+                                    decoration: BoxDecoration(
+                                      gradient: const LinearGradient(
+                                        colors: [
+                                          Color(0xFFFFD700),
+                                          Color(0xFFFFA500),
+                                        ],
+                                      ),
+                                      shape: BoxShape.circle,
+                                      border: Border.all(
+                                        color: Colors.white,
+                                        width: 2,
+                                      ),
+                                    ),
+                                    child: const Icon(
+                                      Icons.star,
+                                      color: Colors.white,
+                                      size: 16,
+                                    ),
+                                  ),
+                                ),
+                            ],
                           ),
                           const SizedBox(height: 8),
-                          const Text(
-                            'Tap to change avatar',
+                          Text(
+                            _isVipActive ? 'Tap to change avatar (VIP)' : 'Tap to change avatar (VIP Required)',
                             style: TextStyle(
                               fontSize: 12,
-                              color: Color(0xFF999999),
+                              color: _isVipActive ? const Color(0xFF4CAF50) : const Color(0xFFFF6B6B),
                             ),
                           ),
                         ],
@@ -308,36 +492,77 @@ class _EditProfilePageState extends State<EditProfilePage> {
             // Save Button
             Padding(
               padding: const EdgeInsets.all(20),
-              child: SizedBox(
-                width: MediaQuery.of(context).size.width - 40,
-                height: 52,
-                child: ElevatedButton(
-                  onPressed: _isLoading ? null : _saveInformation,
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: const Color(0xFFFE573D),
-                    foregroundColor: const Color(0xFFFFFFFF),
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(26),
-                    ),
-                    elevation: 0,
-                  ),
-                  child: _isLoading
-                      ? const SizedBox(
-                          width: 20,
-                          height: 20,
-                          child: CircularProgressIndicator(
-                            strokeWidth: 2,
-                            valueColor: AlwaysStoppedAnimation<Color>(Color(0xFFFFFFFF)),
-                          ),
-                        )
-                      : const Text(
-                          'Save Information',
-                          style: TextStyle(
-                            fontSize: 16,
-                            fontWeight: FontWeight.w600,
-                          ),
+              child: Column(
+                children: [
+                  // VIP状态提示
+                  if (!_isVipActive)
+                    Container(
+                      width: double.infinity,
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFFFFF3E0),
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(
+                          color: const Color(0xFFFFB74D),
+                          width: 1,
                         ),
-                ),
+                      ),
+                      child: Row(
+                        children: [
+                          const Icon(
+                            Icons.info_outline,
+                            color: Color(0xFFFF9800),
+                            size: 20,
+                          ),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: Text(
+                              'VIP subscription required to edit profile information',
+                              style: const TextStyle(
+                                color: Color(0xFFE65100),
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  if (!_isVipActive) const SizedBox(height: 16),
+                  // 保存按钮
+                  SizedBox(
+                    width: MediaQuery.of(context).size.width - 40,
+                    height: 52,
+                    child: ElevatedButton(
+                      onPressed: _isVipActive && !_isLoading ? _saveInformation : null,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: _isVipActive 
+                            ? const Color(0xFFFE573D) 
+                            : const Color(0xFFCCCCCC),
+                        foregroundColor: const Color(0xFFFFFFFF),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(26),
+                        ),
+                        elevation: 0,
+                      ),
+                      child: _isLoading
+                          ? const SizedBox(
+                              width: 20,
+                              height: 20,
+                              child: CircularProgressIndicator(
+                                strokeWidth: 2,
+                                valueColor: AlwaysStoppedAnimation<Color>(Color(0xFFFFFFFF)),
+                              ),
+                            )
+                          : Text(
+                              _isVipActive ? 'Save Information' : 'VIP Required',
+                              style: const TextStyle(
+                                fontSize: 16,
+                                fontWeight: FontWeight.w600,
+                              ),
+                            ),
+                    ),
+                  ),
+                ],
               ),
             ),
           ],

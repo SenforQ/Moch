@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
+import '../services/coin_service.dart';
 import '../services/zhipu_ai_service.dart';
 import '../services/user_info_service.dart';
 import '../services/chat_storage_service.dart';
@@ -24,6 +25,9 @@ class _AssistantPageState extends State<AssistantPage> {
   String _selfAvatarPath = 'assets/user_default_icon_1024.png';
   bool _selfAvatarIsLocal = false;
 
+  // 金币相关
+  int _currentCoins = 0;
+
   late final String _convKey;
 
   @override
@@ -32,6 +36,7 @@ class _AssistantPageState extends State<AssistantPage> {
     _convKey = ChatStorageService.conversationKey('AI_Assistant', 'assets/AI_Assistant_20250811.png');
     _initUser();
     _loadHistory();
+    _loadCoins();
   }
 
   @override
@@ -80,6 +85,129 @@ class _AssistantPageState extends State<AssistantPage> {
     });
   }
 
+  /// 加载用户金币余额
+  Future<void> _loadCoins() async {
+    final coins = await CoinService.getCurrentCoins();
+    setState(() {
+      _currentCoins = coins;
+    });
+  }
+
+  /// 检查是否有足够的金币发送消息
+  bool _hasEnoughCoins() {
+    return _currentCoins >= CoinService.messageCost;
+  }
+
+  /// 消耗金币
+  Future<void> _consumeCoins() async {
+    final success = await CoinService.consumeCoins();
+    if (success) {
+      await _loadCoins(); // 重新加载金币余额
+    }
+  }
+
+  /// 显示金币不足提示
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: Colors.white,
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  color: const Color(0xFFFFD700),
+                  shape: BoxShape.circle,
+                ),
+                child: const Icon(
+                  Icons.monetization_on,
+                  color: Colors.white,
+                  size: 24,
+                ),
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'Insufficient Coins',
+                style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.black,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'You need ${CoinService.messageCost} coins to send a message. Current balance: $_currentCoins coins.',
+                style: const TextStyle(
+                  fontSize: 16,
+                  color: Colors.black,
+                  height: 1.4,
+                ),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'Please purchase more coins to continue chatting with the AI assistant.',
+                style: TextStyle(
+                  fontSize: 14,
+                  color: Colors.grey,
+                  height: 1.4,
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.grey,
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _navigateToWallet();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFFD700),
+                foregroundColor: Colors.black,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Buy Coins',
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  /// 导航到钱包页面
+  void _navigateToWallet() {
+    Navigator.of(context).pushNamed('/wallet');
+  }
+
   @override
   void dispose() {
     _inputController.dispose();
@@ -90,6 +218,13 @@ class _AssistantPageState extends State<AssistantPage> {
   Future<void> _send() async {
     final text = _inputController.text.trim();
     if (text.isEmpty || _sending) return;
+    
+    // 检查金币余额
+    if (!_hasEnoughCoins()) {
+      _showInsufficientCoinsDialog();
+      return;
+    }
+    
     setState(() {
       _sending = true;
       _showChatArea = true; // 显示聊天区域
@@ -98,6 +233,9 @@ class _AssistantPageState extends State<AssistantPage> {
     });
     _scrollToBottomDeferred();
     await _persist();
+
+    // 消耗金币
+    await _consumeCoins();
 
     // Build message history for API
     final history = <Map<String, String>>[
@@ -121,6 +259,13 @@ class _AssistantPageState extends State<AssistantPage> {
 
   Future<void> _sendPresetQuestion(String question) async {
     if (_sending) return;
+    
+    // 检查金币余额
+    if (!_hasEnoughCoins()) {
+      _showInsufficientCoinsDialog();
+      return;
+    }
+    
     setState(() {
       _sending = true;
       _showChatArea = true; // 显示聊天区域
@@ -128,6 +273,9 @@ class _AssistantPageState extends State<AssistantPage> {
     });
     _scrollToBottomDeferred();
     await _persist();
+
+    // 消耗金币
+    await _consumeCoins();
 
     // Build message history for API
     final history = <Map<String, String>>[
@@ -229,6 +377,46 @@ class _AssistantPageState extends State<AssistantPage> {
                 ),
               ),
             ),
+          // 右上角金币显示
+          Positioned(
+            top: 60,
+            right: 20,
+            child: SafeArea(
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: BorderRadius.circular(20),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withValues(alpha: 0.1),
+                      blurRadius: 8,
+                      offset: const Offset(0, 2),
+                    ),
+                  ],
+                ),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    const Icon(
+                      Icons.monetization_on,
+                      color: Color(0xFFFFD700),
+                      size: 20,
+                    ),
+                    const SizedBox(width: 6),
+                    Text(
+                      '$_currentCoins',
+                      style: const TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.black,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
           // 聊天内容区域
           Positioned(
             top: 290, // AI图片下方留出空间
@@ -409,11 +597,33 @@ class _AssistantPageState extends State<AssistantPage> {
               controller: _inputController,
               textInputAction: TextInputAction.send,
               onSubmitted: (_) => _send(),
-              decoration: const InputDecoration(
-                hintText: 'Ask me anything about cooking...',
-                border: OutlineInputBorder(),
+              decoration: InputDecoration(
+                hintText: 'Ask me anything about cooking... (Costs ${CoinService.messageCost} coins)',
+                border: const OutlineInputBorder(),
                 isDense: true,
-                contentPadding: EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                suffixIcon: Container(
+                  padding: const EdgeInsets.all(8),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      const Icon(
+                        Icons.monetization_on,
+                        color: Color(0xFFFFD700),
+                        size: 16,
+                      ),
+                      const SizedBox(width: 4),
+                      Text(
+                        '${CoinService.messageCost}',
+                        style: const TextStyle(
+                          fontSize: 12,
+                          fontWeight: FontWeight.bold,
+                          color: Color(0xFFFFD700),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
               ),
             ),
           ),

@@ -1,12 +1,16 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'terms_conditions_page.dart';
 import 'privacy_policy_page.dart';
 import 'about_us_page.dart';
 import 'edit_profile_page.dart';
+import 'vip_detail_page.dart';
+import 'wallet_page.dart';
 import '../models/user_info.dart';
 import '../services/user_info_service.dart';
+import '../services/vip_service.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});
@@ -17,11 +21,13 @@ class ProfilePage extends StatefulWidget {
 
 class _ProfilePageState extends State<ProfilePage> {
   UserInfo _userInfo = UserInfo.defaultUser;
+  bool _isVipActive = false;
 
   @override
   void initState() {
     super.initState();
     _loadUserInfo();
+    _loadVipStatus();
   }
 
   Future<void> _loadUserInfo() async {
@@ -39,6 +45,27 @@ class _ProfilePageState extends State<ProfilePage> {
     }
   }
 
+  Future<void> _loadVipStatus() async {
+    try {
+      final isActive = await VipService.isVipActive();
+      final isExpired = await VipService.isVipExpired();
+      
+      setState(() {
+        _isVipActive = isActive && !isExpired;
+      });
+      
+      // 如果VIP已过期，自动停用
+      if (isActive && isExpired) {
+        await VipService.deactivateVip();
+        setState(() {
+          _isVipActive = false;
+        });
+      }
+    } catch (e) {
+      print('ProfilePage - Error loading VIP status: $e');
+    }
+  }
+
   Future<void> _onEditProfile() async {
     final result = await Navigator.of(context).push(
       MaterialPageRoute(
@@ -50,6 +77,26 @@ class _ProfilePageState extends State<ProfilePage> {
       setState(() {
         _userInfo = result;
       });
+    }
+  }
+
+  Future<void> _onVipDetail() async {
+    final result = await Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const VipDetailPage(),
+      ),
+    );
+
+    // 检查VIP状态是否更新
+    if (result != null && result is Map<String, dynamic>) {
+      if (result['vip_activated'] == true) {
+        // VIP已激活，更新状态
+        setState(() {
+          _isVipActive = true;
+        });
+        // 重新加载VIP状态以确保数据同步
+        await _loadVipStatus();
+      }
     }
   }
 
@@ -241,14 +288,60 @@ class _ProfilePageState extends State<ProfilePage> {
                 padding: const EdgeInsets.symmetric(horizontal: 24),
                 child: Column(
                   children: [
-                    // 用户名
-                    Text(
-                      _userInfo.name,
-                      style: const TextStyle(
-                        fontSize: 24,
-                        fontWeight: FontWeight.bold,
-                        color: Color(0xFF333333),
-                      ),
+                    // 用户名和VIP状态
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Text(
+                          _userInfo.name,
+                          style: const TextStyle(
+                            fontSize: 24,
+                            fontWeight: FontWeight.bold,
+                            color: Color(0xFF333333),
+                          ),
+                        ),
+                        if (_isVipActive) ...[
+                          const SizedBox(width: 8),
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                            decoration: BoxDecoration(
+                              gradient: const LinearGradient(
+                                colors: [
+                                  Color(0xFFFFD700),
+                                  Color(0xFFFFA500),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(12),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: const Color(0xFFFFD700).withValues(alpha: 0.3),
+                                  blurRadius: 8,
+                                  offset: const Offset(0, 2),
+                                ),
+                              ],
+                            ),
+                            child: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Icon(
+                                  Icons.star,
+                                  color: Colors.white,
+                                  size: 16,
+                                ),
+                                const SizedBox(width: 4),
+                                const Text(
+                                  'VIP',
+                                  style: TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ],
+                      ],
                     ),
                     const SizedBox(height: 8),
                     // 用户描述
@@ -264,6 +357,9 @@ class _ProfilePageState extends State<ProfilePage> {
                       overflow: TextOverflow.ellipsis,
                     ),
                     const SizedBox(height: 32),
+                    // 钱包和VIP按钮
+                    _buildWalletVipButtons(),
+                    const SizedBox(height: 32),
                     // 设置列表
                     _buildSettingsSection(),
                     const SizedBox(height: 32), // 底部间距
@@ -274,6 +370,38 @@ class _ProfilePageState extends State<ProfilePage> {
           ],
         ),
       ),
+    );
+  }
+
+  Widget _buildWalletVipButtons() {
+    return Row(
+      children: [
+        Expanded(
+          child: InkWell(
+            onTap: () {
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => const WalletPage(),
+                ),
+              );
+            },
+            child: Image.asset(
+              'assets/btn_me_wallet_20250806.png',
+              fit: BoxFit.fitWidth,
+            ),
+          ),
+        ),
+        const SizedBox(width: 11),
+        Expanded(
+          child: InkWell(
+            onTap: _onVipDetail,
+            child: Image.asset(
+              'assets/btn_me_vip_20250806.png',
+              fit: BoxFit.fitWidth,
+            ),
+          ),
+        ),
+      ],
     );
   }
 

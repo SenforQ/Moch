@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'services/coin_service.dart';
 import 'pages/welcome_page.dart';
 import 'pages/home_page.dart';
 import 'pages/foot_page.dart';
@@ -7,9 +8,28 @@ import 'pages/profile_page.dart';
 import 'pages/cooking_favorites_page.dart';
 import 'pages/recipe_list_page.dart';
 import 'pages/video_tutorial_page.dart';
+import 'pages/wallet_page.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  
+  // 检查是否为新用户并赠送金币
+  await _checkNewUserAndGiveCoins();
+  
   runApp(const MochApp());
+}
+
+/// 检查是否为新用户，如果是则赠送100金币
+Future<void> _checkNewUserAndGiveCoins() async {
+  try {
+    final isNewUser = await CoinService.checkNewUserAndGiveBonus();
+    if (isNewUser) {
+      print('Welcome bonus coins have been added to new user!');
+    }
+  } catch (e) {
+    // 如果出现错误，不影响App启动
+    print('Error checking new user status: $e');
+  }
 }
 
 class MochApp extends StatelessWidget {
@@ -37,6 +57,7 @@ class MochApp extends StatelessWidget {
       home: const WelcomePage(),
       routes: {
         '/main': (context) => const MainTabBar(),
+        '/wallet': (context) => const WalletPage(),
       },
     );
   }
