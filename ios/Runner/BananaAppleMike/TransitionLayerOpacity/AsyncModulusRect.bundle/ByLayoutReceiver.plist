@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonInsideBridge</key>
+	<string>interfaceCompositeCenter</string>
+	<key>completerActivityRate</key>
+	<string>progressbarInStrategy</string>
+	<key>directResourceFormat</key>
+	<string>smallEventInterval</string>
+	<key>factoryLevelSize</key>
+	<string>singletonVersusInterpreter</string>
+	<key>radioContextTheme</key>
+	<string>nodeDespiteCommand</string>
+	<key>tappableNotificationHue</key>
+	<string>delicateFutureInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveMethodSkewy</key>
+	<string>entityValueFormat</string>
+	<key>layoutParamTag</key>
+	<string>labelStateDensity</string>
+	<key>stateExceptSingleton</key>
+	<string>awaitParamSpacing</string>
+	<key>staticContainerTransparency</key>
+	<string>gateAtMethod</string>
+	<key>storeAgainstState</key>
+	<string>apertureLikeProxy</string>
+</dict>
+</plist>

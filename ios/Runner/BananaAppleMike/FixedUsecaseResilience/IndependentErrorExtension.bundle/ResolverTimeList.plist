@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCustompaintBehavior</key>
+	<string>stateStageInteraction</string>
+	<key>imageInValue</key>
+	<string>assetDuringActivity</string>
+	<key>mobileIncludeCycle</key>
+	<string>bufferLayerSize</string>
+	<key>originalGrainPadding</key>
+	<string>ternaryVariableShape</string>
+	<key>overlayIncludeProxy</key>
+	<string>paddingTempleBrightness</string>
+	<key>rapidPaddingStyle</key>
+	<string>serviceObserverDelay</string>
+	<key>secondBuilderOrigin</key>
+	<string>monsterEnvironmentOffset</string>
+	<key>synchronousTextfieldMargin</key>
+	<string>workflowTempleRate</string>
+</dict>
+</plist>

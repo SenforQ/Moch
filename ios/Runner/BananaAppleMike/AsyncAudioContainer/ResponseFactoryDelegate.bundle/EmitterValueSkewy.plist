@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAmongDecorator</key>
+	<string>profilePhaseTop</string>
+	<key>immutableIntensityRotation</key>
+	<string>requiredVectorHue</string>
+	<key>layoutFacadeKind</key>
+	<string>cupertinoHashShape</string>
+	<key>skinBesideFlyweight</key>
+	<string>diversifiedCoordinatorSkewx</string>
+</dict>
+</plist>

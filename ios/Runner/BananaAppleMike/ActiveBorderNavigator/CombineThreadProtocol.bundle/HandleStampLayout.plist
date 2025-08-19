@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowNumberSaturation</key>
+	<string>kernelPerSystem</string>
+	<key>capsuleOperationAcceleration</key>
+	<string>lossSystemCoord</string>
+	<key>customCheckboxTheme</key>
+	<string>switchSingletonTint</string>
+	<key>fixedAnimationMode</key>
+	<string>particleTaskStatus</string>
+	<key>hierarchicalEquipmentAppearance</key>
+	<string>basicSizedboxFormat</string>
+	<key>interpolationTaskForce</key>
+	<string>deferredEventInset</string>
+	<key>methodLevelTint</key>
+	<string>disabledDrawerAlignment</string>
+	<key>providerActivityPosition</key>
+	<string>sophisticatedTextfieldSaturation</string>
+	<key>tweenEnvironmentStatus</key>
+	<string>textureDuringDecorator</string>
+	<key>widgetAdapterResponse</key>
+	<string>mutableMediaTransparency</string>
+</dict>
+</plist>

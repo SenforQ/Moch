@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePerVisitor</key>
+	<string>normalEffectRate</string>
+	<key>chartLayerVisibility</key>
+	<string>secondExceptionBound</string>
+	<key>layoutOperationFeedback</key>
+	<string>viewCompositeInterval</string>
+	<key>logarithmInsideCommand</key>
+	<string>alignmentTierSpacing</string>
+	<key>normalCosineTint</key>
+	<string>inactiveGraphOrientation</string>
+	<key>resilientScaffoldFeedback</key>
+	<string>discardedTimerScale</string>
+	<key>resultTaskShade</key>
+	<string>cubitStatePosition</string>
+	<key>switchVarBound</key>
+	<string>decorationBufferFormat</string>
+	<key>textureIncludeMediator</key>
+	<string>nativeEntropyMargin</string>
+	<key>vectorPerLayer</key>
+	<string>entityAboutTask</string>
+</dict>
+</plist>

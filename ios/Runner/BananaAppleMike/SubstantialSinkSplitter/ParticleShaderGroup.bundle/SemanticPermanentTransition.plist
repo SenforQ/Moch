@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterFlyweightOrientation</key>
+	<string>specifyScreenTag</string>
+	<key>fixedFrameFlags</key>
+	<string>chapterWithBuffer</string>
+	<key>inkwellTierType</key>
+	<string>sequentialQueueInset</string>
+	<key>momentumVersusObserver</key>
+	<string>hierarchicalCompleterInterval</string>
+</dict>
+</plist>

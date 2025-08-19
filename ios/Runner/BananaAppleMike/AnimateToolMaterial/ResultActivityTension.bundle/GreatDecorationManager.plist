@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRouterPosition</key>
+	<string>screenBesideTemple</string>
+	<key>decorationForSystem</key>
+	<string>timerPatternShade</string>
+	<key>directSignatureVisible</key>
+	<string>seamlessBufferMode</string>
+	<key>easyRichtextStyle</key>
+	<string>completerExceptStructure</string>
+	<key>eventFunctionSkewy</key>
+	<string>activatedPageviewKind</string>
+	<key>independentNavigatorSaturation</key>
+	<string>switchMethodMode</string>
+	<key>tabviewDespiteDecorator</key>
+	<string>synchronousNavigatorOrientation</string>
+	<key>textMementoFrequency</key>
+	<string>intermediateGraphMargin</string>
+	<key>titlePlatformFrequency</key>
+	<string>mainGraphType</string>
+</dict>
+</plist>

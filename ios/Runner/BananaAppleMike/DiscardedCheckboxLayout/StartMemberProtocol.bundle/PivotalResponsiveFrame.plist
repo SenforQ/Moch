@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBlocBehavior</key>
+	<string>stackStructureTag</string>
+	<key>heroAgainstTier</key>
+	<string>delicateTextCenter</string>
+	<key>mobxAndComposite</key>
+	<string>sliderAtFacade</string>
+	<key>responsiveLabelCount</key>
+	<string>euclideanTickerInterval</string>
+	<key>switchSinceProxy</key>
+	<string>intensityShapeBorder</string>
+	<key>taskStateDirection</key>
+	<string>singletonInMode</string>
+</dict>
+</plist>

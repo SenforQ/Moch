@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorThroughCommand</key>
+	<string>cellLikePattern</string>
+	<key>heroStrategySpacing</key>
+	<string>intermediateActionLeft</string>
+	<key>permissiveSliderSpacing</key>
+	<string>resultExceptLevel</string>
+	<key>secondMovementColor</key>
+	<string>typicalResourceOpacity</string>
+	<key>semanticsSystemName</key>
+	<string>beginnerPresenterScale</string>
+	<key>sophisticatedCoordinatorVelocity</key>
+	<string>dedicatedNotifierSkewy</string>
+	<key>transformerEnvironmentTint</key>
+	<string>spineForFunction</string>
+</dict>
+</plist>

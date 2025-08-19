@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTierVelocity</key>
+	<string>effectOrNumber</string>
+	<key>autoBatchMargin</key>
+	<string>euclideanAnchorPressure</string>
+	<key>baseThroughEnvironment</key>
+	<string>alignmentBesideMemento</string>
+	<key>enabledPositionOpacity</key>
+	<string>touchBeyondBuffer</string>
+	<key>resilientPlaybackBrightness</key>
+	<string>crucialMarginBorder</string>
+	<key>scaleProcessShade</key>
+	<string>pinchableFrameForce</string>
+	<key>threadVarStatus</key>
+	<string>sizeAgainstTask</string>
+	<key>unaryOrPrototype</key>
+	<string>completerWorkTransparency</string>
+	<key>vectorJobShade</key>
+	<string>scenePerMemento</string>
+</dict>
+</plist>

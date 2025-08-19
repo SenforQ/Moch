@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilCommand</key>
+	<string>reusableCollectionContrast</string>
+	<key>criticalDecorationTint</key>
+	<string>mediumSkirtForce</string>
+	<key>diffableResourceTheme</key>
+	<string>builderJobMargin</string>
+	<key>easyConstraintOpacity</key>
+	<string>otherSymbolSize</string>
+	<key>specifierPlatformRate</key>
+	<string>adaptiveDependencyTransparency</string>
+</dict>
+</plist>

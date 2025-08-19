@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBlocOffset</key>
+	<string>controllerMediatorStyle</string>
+	<key>dynamicPositionBound</key>
+	<string>coordinatorThroughStage</string>
+	<key>easyAsyncPosition</key>
+	<string>errorIncludeVisitor</string>
+	<key>newestFragmentSize</key>
+	<string>finalCaptionColor</string>
+	<key>protectedDescriptionForce</key>
+	<string>isolateForJob</string>
+	<key>techniqueSingletonInset</key>
+	<string>catalystExceptMode</string>
+</dict>
+</plist>

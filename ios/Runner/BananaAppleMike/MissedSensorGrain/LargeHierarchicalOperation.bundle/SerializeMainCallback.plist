@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWorkRotation</key>
+	<string>textfieldActivityResponse</string>
+	<key>characterInTier</key>
+	<string>nibModeVisible</string>
+	<key>concurrentMarginValidation</key>
+	<string>largeInjectionVisibility</string>
+	<key>customizedResourceContrast</key>
+	<string>projectionAgainstPattern</string>
+	<key>delegateContainOperation</key>
+	<string>largeSliderEdge</string>
+	<key>dropdownbuttonCycleInteraction</key>
+	<string>giftFrameworkType</string>
+	<key>layoutBufferLeft</key>
+	<string>ignoredCaptionScale</string>
+	<key>localizationLikeMethod</key>
+	<string>timerSinceLayer</string>
+	<key>opaqueViewInterval</key>
+	<string>certificateWorkMode</string>
+</dict>
+</plist>

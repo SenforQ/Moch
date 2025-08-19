@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapShapeFeedback</key>
+	<string>visibleLayoutName</string>
+	<key>interfaceMethodInteraction</key>
+	<string>resizableCommandBorder</string>
+	<key>iterativeTouchColor</key>
+	<string>callbackChainPadding</string>
+	<key>offsetThroughCycle</key>
+	<string>hyperbolicBufferTag</string>
+	<key>rowActivityEdge</key>
+	<string>sineAdapterStatus</string>
+	<key>substantialIconSkewx</key>
+	<string>equalizationCycleFeedback</string>
+	<key>switchAtForm</key>
+	<string>interactiveDependencySkewx</string>
+</dict>
+</plist>

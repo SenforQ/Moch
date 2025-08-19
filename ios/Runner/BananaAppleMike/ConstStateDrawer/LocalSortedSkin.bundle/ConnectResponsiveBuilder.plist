@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPrototypeFlags</key>
+	<string>skirtInPattern</string>
+	<key>fusedMemberMode</key>
+	<string>methodWithKind</string>
+	<key>navigationKindBound</key>
+	<string>relationalButtonBrightness</string>
+	<key>tappableOverlayRotation</key>
+	<string>requestAsPattern</string>
+	<key>temporaryMatrixSize</key>
+	<string>awaitChainFlags</string>
+	<key>themeMediatorAppearance</key>
+	<string>animationChainOrientation</string>
+	<key>topicPatternVelocity</key>
+	<string>taskAndType</string>
+	<key>tweenNearStage</key>
+	<string>mediaqueryBeyondMethod</string>
+</dict>
+</plist>

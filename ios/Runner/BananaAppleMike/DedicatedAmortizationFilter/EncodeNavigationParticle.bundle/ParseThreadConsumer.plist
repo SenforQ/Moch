@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStrategyAlignment</key>
+	<string>mobileImageInteraction</string>
+	<key>bulletAtKind</key>
+	<string>scrollPatternCoord</string>
+	<key>errorDecoratorBrightness</key>
+	<string>referenceStateTransparency</string>
+	<key>mobileStyleBound</key>
+	<string>compositionalMissionFeedback</string>
+	<key>paddingExceptDecorator</key>
+	<string>decorationTaskVisibility</string>
+	<key>pinchableSensorPosition</key>
+	<string>statelessContainMediator</string>
+	<key>profileOrMode</key>
+	<string>containerOutsideTemple</string>
+	<key>specifyExceptionVelocity</key>
+	<string>borderShapeAlignment</string>
+	<key>threadWithoutParam</key>
+	<string>labelFacadeHead</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentPhaseDistance</key>
+	<string>injectionFormAcceleration</string>
+	<key>functionalLoopShade</key>
+	<string>standaloneRequestDuration</string>
+	<key>immediateWidgetBehavior</key>
+	<string>imperativeDialogsOffset</string>
+	<key>newestSubscriptionLocation</key>
+	<string>operationFrameworkTheme</string>
+	<key>presenterDecoratorAcceleration</key>
+	<string>activatedCallbackTop</string>
+	<key>progressbarStyleColor</key>
+	<string>dedicatedMarginLocation</string>
+	<key>respectiveConstraintTheme</key>
+	<string>stackStructureBorder</string>
+	<key>streamCompositeVelocity</key>
+	<string>scrollableBlocTransparency</string>
+</dict>
+</plist>

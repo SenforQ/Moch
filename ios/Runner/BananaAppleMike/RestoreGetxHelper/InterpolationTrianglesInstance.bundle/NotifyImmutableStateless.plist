@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapFromLayer</key>
+	<string>mainSubscriptionAppearance</string>
+	<key>lostCollectionEdge</key>
+	<string>roleVersusPlatform</string>
+	<key>movementStrategyLocation</key>
+	<string>hashCommandCount</string>
+	<key>presenterAgainstFramework</key>
+	<string>localizationObserverDirection</string>
+	<key>requestAmongInterpreter</key>
+	<string>accordionFutureLocation</string>
+	<key>scrollFromActivity</key>
+	<string>resilientMatrixName</string>
+	<key>spritePatternFrequency</key>
+	<string>notificationParamTop</string>
+	<key>tabviewIncludeFramework</key>
+	<string>managerViaCommand</string>
+	<key>temporaryBlocAppearance</key>
+	<string>largeHeroInset</string>
+	<key>tensorRowVelocity</key>
+	<string>sliderOutsideBridge</string>
+</dict>
+</plist>

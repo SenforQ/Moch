@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCupertinoTint</key>
+	<string>builderMethodDensity</string>
+	<key>captionPlatformSpeed</key>
+	<string>typicalDialogsValidation</string>
+	<key>channelsAsLevel</key>
+	<string>rowPerBuffer</string>
+	<key>nibThroughState</key>
+	<string>subpixelAdapterRotation</string>
+	<key>smartZoneOffset</key>
+	<string>missedAsyncIndex</string>
+	<key>topicObserverColor</key>
+	<string>diffableStampBorder</string>
+</dict>
+</plist>

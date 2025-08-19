@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelScopeSpeed</key>
+	<string>painterOutsideStructure</string>
+	<key>gemIncludeJob</key>
+	<string>methodProcessSpacing</string>
+	<key>liteBufferLeft</key>
+	<string>discardedIntegerMargin</string>
+	<key>viewShapeAcceleration</key>
+	<string>inheritedPreviewDelay</string>
+	<key>widgetAsActivity</key>
+	<string>enabledBitrateDistance</string>
+</dict>
+</plist>

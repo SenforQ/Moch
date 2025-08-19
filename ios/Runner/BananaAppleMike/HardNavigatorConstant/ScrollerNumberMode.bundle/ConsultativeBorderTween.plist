@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityPhaseAlignment</key>
+	<string>temporaryPlateEdge</string>
+	<key>immediateNodeSkewy</key>
+	<string>smallSizeValidation</string>
+	<key>permanentTaskTransparency</key>
+	<string>discardedTimerSkewx</string>
+	<key>sensorDespiteLayer</key>
+	<string>errorThroughValue</string>
+</dict>
+</plist>

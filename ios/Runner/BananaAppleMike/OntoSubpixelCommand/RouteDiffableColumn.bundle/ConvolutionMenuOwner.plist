@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateVarOffset</key>
+	<string>cursorVersusShape</string>
+	<key>ignoredTransitionInterval</key>
+	<string>constraintAtBuffer</string>
+	<key>robustStreamTint</key>
+	<string>baselineParamName</string>
+	<key>specifyMemberResponse</key>
+	<string>featureOutsideStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderForState</key>
+	<string>nativeDurationFrequency</string>
+	<key>constraintObserverDistance</key>
+	<string>logScopeEdge</string>
+	<key>descriptionMediatorShade</key>
+	<string>screenBesideAction</string>
+	<key>dynamicCapsuleOpacity</key>
+	<string>functionalPreviewType</string>
+	<key>effectMethodTag</key>
+	<string>animatedHeroDepth</string>
+	<key>exponentPhaseSkewx</key>
+	<string>transitionOutsideActivity</string>
+	<key>inkwellLikeValue</key>
+	<string>smartFragmentBottom</string>
+	<key>layoutExceptCommand</key>
+	<string>effectPerType</string>
+	<key>petJobPressure</key>
+	<string>criticalContainerTransparency</string>
+</dict>
+</plist>

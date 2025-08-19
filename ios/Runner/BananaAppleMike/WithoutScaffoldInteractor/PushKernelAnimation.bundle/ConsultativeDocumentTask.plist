@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAmongBuffer</key>
+	<string>spotDuringForm</string>
+	<key>notifierForBridge</key>
+	<string>notifierViaObserver</string>
+	<key>optionVarFeedback</key>
+	<string>widgetForMediator</string>
+	<key>tableStructureVisible</key>
+	<string>protectedBorderInset</string>
+</dict>
+</plist>

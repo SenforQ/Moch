@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>momentumParameterAppearance</key>
+	<string>frameSingletonBehavior</string>
+	<key>nativeStackLeft</key>
+	<string>plateLayerScale</string>
+	<key>pinchableChecklistRight</key>
+	<string>projectionOfFlyweight</string>
+	<key>positionedScopeTint</key>
+	<string>layoutAgainstCycle</string>
+	<key>relationalInterfaceOrigin</key>
+	<string>normalConstraintTheme</string>
+	<key>resizableProfileRate</key>
+	<string>variantObserverInteraction</string>
+</dict>
+</plist>

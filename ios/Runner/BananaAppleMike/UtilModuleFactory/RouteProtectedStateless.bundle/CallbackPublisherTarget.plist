@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerWithoutKind</key>
+	<string>completionLikeScope</string>
+	<key>cursorOperationCenter</key>
+	<string>materialAwayVariable</string>
+	<key>dependencyThanCycle</key>
+	<string>routerAtWork</string>
+	<key>eagerControllerAlignment</key>
+	<string>sophisticatedStateState</string>
+	<key>prismaticParticleInterval</key>
+	<string>intermediateReducerInset</string>
+	<key>singleTransitionDelay</key>
+	<string>streamPatternSpeed</string>
+	<key>smallStackHue</key>
+	<string>unsortedCustompaintValidation</string>
+	<key>viewInMethod</key>
+	<string>overlayTierSize</string>
+	<key>viewVisitorCoord</key>
+	<string>sinkValueRotation</string>
+</dict>
+</plist>

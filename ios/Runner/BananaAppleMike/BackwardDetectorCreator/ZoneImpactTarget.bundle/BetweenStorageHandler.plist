@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystContextForce</key>
+	<string>storeInStyle</string>
+	<key>decorationProcessOffset</key>
+	<string>visibleExceptionDensity</string>
+	<key>interpolationVariableOpacity</key>
+	<string>accordionCheckboxPosition</string>
+	<key>signatureChainDistance</key>
+	<string>multiLayoutSkewx</string>
+</dict>
+</plist>

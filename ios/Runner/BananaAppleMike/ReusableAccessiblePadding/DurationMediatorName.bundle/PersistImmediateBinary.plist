@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitEnvironmentOrientation</key>
+	<string>streamAmongPhase</string>
+	<key>controllerLikePhase</key>
+	<string>spriteContainType</string>
+	<key>sensorStateOrientation</key>
+	<string>spotDuringStrategy</string>
+</dict>
+</plist>

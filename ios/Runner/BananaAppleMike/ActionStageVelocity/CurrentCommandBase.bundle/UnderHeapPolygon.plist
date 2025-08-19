@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAgainstNumber</key>
+	<string>columnTaskPressure</string>
+	<key>canvasAdapterCount</key>
+	<string>criticalResourceDensity</string>
+	<key>flexibleRouterHue</key>
+	<string>resizableCommandIndex</string>
+	<key>imageCompositeDuration</key>
+	<string>graphicFacadeVelocity</string>
+	<key>retainedRouteName</key>
+	<string>statefulValueSize</string>
+	<key>reusableStreamFeedback</key>
+	<string>topicIncludeLevel</string>
+	<key>sortedFutureFlags</key>
+	<string>allocatorFromFlyweight</string>
+	<key>substantialAppbarDensity</key>
+	<string>logarithmParameterCount</string>
+	<key>widgetOrDecorator</key>
+	<string>singleSkinMode</string>
+</dict>
+</plist>

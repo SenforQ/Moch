@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCommandVisible</key>
+	<string>smallBoxResponse</string>
+	<key>euclideanQueryFlags</key>
+	<string>previewCompositeOpacity</string>
+	<key>multiIsolateFeedback</key>
+	<string>semanticStoreMargin</string>
+	<key>stepActionDelay</key>
+	<string>durationBesideFunction</string>
+</dict>
+</plist>

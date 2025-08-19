@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFrameworkShape</key>
+	<string>completerSystemRight</string>
+	<key>binaryFromValue</key>
+	<string>menuLayerBound</string>
+	<key>binaryStageSpeed</key>
+	<string>normalBoxSize</string>
+	<key>featurePhaseInterval</key>
+	<string>cycleLayerScale</string>
+	<key>flexibleIconShade</key>
+	<string>notificationOfProxy</string>
+	<key>inkwellFlyweightDirection</key>
+	<string>responsiveRectTint</string>
+	<key>multiplicationLevelStatus</key>
+	<string>groupAmongForm</string>
+	<key>originalStateSkewy</key>
+	<string>injectionAgainstBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDuringMethod</key>
+	<string>viewProxyShape</string>
+	<key>aspectCycleOpacity</key>
+	<string>temporaryContainerDistance</string>
+	<key>backwardLayoutSaturation</key>
+	<string>contractionVariableState</string>
+	<key>completerFlyweightFeedback</key>
+	<string>flexibleFactoryDepth</string>
+	<key>riverpodBesideMode</key>
+	<string>beginnerMarginLeft</string>
+	<key>timerPatternTint</key>
+	<string>canvasVersusTier</string>
+	<key>webGraphicBrightness</key>
+	<string>consultativeModalLeft</string>
+</dict>
+</plist>

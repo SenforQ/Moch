@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelLikeFlyweight</key>
+	<string>gemParameterBrightness</string>
+	<key>commandDecoratorSize</key>
+	<string>prevAssetBrightness</string>
+	<key>equipmentLikeEnvironment</key>
+	<string>mapPerPlatform</string>
+	<key>flexibleStreamOffset</key>
+	<string>sizePerFunction</string>
+	<key>localizationAsStage</key>
+	<string>factoryAtObserver</string>
+	<key>positionTempleTransparency</key>
+	<string>frameThanFramework</string>
+	<key>projectionInterpreterCoord</key>
+	<string>decorationLayerBrightness</string>
+	<key>significantMetadataLeft</key>
+	<string>resizableSubpixelOrigin</string>
+</dict>
+</plist>

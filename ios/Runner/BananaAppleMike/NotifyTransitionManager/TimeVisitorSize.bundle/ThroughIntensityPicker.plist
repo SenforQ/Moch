@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStateAcceleration</key>
+	<string>discardedCallbackRight</string>
+	<key>diversifiedButtonOrientation</key>
+	<string>exponentFormBottom</string>
+	<key>iconEnvironmentIndex</key>
+	<string>errorOutsideAdapter</string>
+	<key>largeSampleOrientation</key>
+	<string>swiftLayerVelocity</string>
+	<key>localWidgetFormat</key>
+	<string>euclideanBaselineLocation</string>
+	<key>protocolViaBridge</key>
+	<string>isolateFunctionIndex</string>
+	<key>radioVariableLocation</key>
+	<string>declarativeManagerSaturation</string>
+</dict>
+</plist>

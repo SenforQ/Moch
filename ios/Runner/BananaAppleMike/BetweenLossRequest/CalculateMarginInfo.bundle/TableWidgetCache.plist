@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuringState</key>
+	<string>chapterPatternRotation</string>
+	<key>coordinatorInScope</key>
+	<string>comprehensiveControllerName</string>
+	<key>fusedPlaybackOpacity</key>
+	<string>similarDecorationMode</string>
+	<key>groupBeyondMethod</key>
+	<string>histogramThroughDecorator</string>
+	<key>hierarchicalTouchCount</key>
+	<string>storePatternDelay</string>
+	<key>labelTypeRate</key>
+	<string>nativePreviewBorder</string>
+	<key>listviewOutsideCycle</key>
+	<string>transformerTypeOrientation</string>
+	<key>otherLogarithmLeft</key>
+	<string>cellVersusMethod</string>
+	<key>symbolInMethod</key>
+	<string>robustErrorFrequency</string>
+	<key>vectorDuringActivity</key>
+	<string>relationalActionVisible</string>
+</dict>
+</plist>

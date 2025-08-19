@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStageSkewx</key>
+	<string>publicIsolateMargin</string>
+	<key>desktopTextureVisibility</key>
+	<string>constHeapDensity</string>
+	<key>independentContainerOrigin</key>
+	<string>radiusStateShade</string>
+	<key>largeLayoutIndex</key>
+	<string>missionIncludeWork</string>
+	<key>localHistogramColor</key>
+	<string>visibleGestureBound</string>
+	<key>opaqueQueryOffset</key>
+	<string>relationalTextSpacing</string>
+	<key>pageviewVisitorOrientation</key>
+	<string>largeNormVelocity</string>
+	<key>sceneBufferInteraction</key>
+	<string>tabviewAmongMediator</string>
+	<key>tangentAtAction</key>
+	<string>asyncBitrateContrast</string>
+</dict>
+</plist>

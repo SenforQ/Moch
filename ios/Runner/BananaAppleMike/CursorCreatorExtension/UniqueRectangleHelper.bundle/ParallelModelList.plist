@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionViaActivity</key>
+	<string>interfaceOperationColor</string>
+	<key>materialBufferSpeed</key>
+	<string>threadContextContrast</string>
+	<key>navigatorTierVelocity</key>
+	<string>indicatorFormStyle</string>
+	<key>originalHandlerOffset</key>
+	<string>listenerMediatorVisible</string>
+	<key>storeBridgeTension</key>
+	<string>themeAlongProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasWithStyle</key>
+	<string>errorWithJob</string>
+	<key>convolutionScopeSaturation</key>
+	<string>euclideanNibLeft</string>
+	<key>gestureOutsidePattern</key>
+	<string>usedAwaitType</string>
+	<key>handlerNearBridge</key>
+	<string>curveAsLayer</string>
+	<key>hashAsValue</key>
+	<string>transitionDespiteMode</string>
+	<key>mobxPatternContrast</key>
+	<string>futureUntilProcess</string>
+	<key>shaderStageSize</key>
+	<string>statelessJobPadding</string>
+	<key>spriteExceptStyle</key>
+	<string>actionAndMemento</string>
+	<key>taskLevelScale</key>
+	<string>boxshadowAroundPrototype</string>
+</dict>
+</plist>

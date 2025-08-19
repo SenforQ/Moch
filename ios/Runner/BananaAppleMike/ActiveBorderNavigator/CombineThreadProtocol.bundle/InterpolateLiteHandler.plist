@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFacadeDensity</key>
+	<string>hashAroundSingleton</string>
+	<key>catalystTierVisibility</key>
+	<string>offsetAsActivity</string>
+	<key>chartAtFacade</key>
+	<string>paddingInsideCycle</string>
+	<key>histogramAlongFunction</key>
+	<string>tappableEffectState</string>
+	<key>listenerOutsideForm</key>
+	<string>gradientChainAlignment</string>
+	<key>permissiveSymbolVelocity</key>
+	<string>permissiveDelegateAlignment</string>
+	<key>segmentPhaseIndex</key>
+	<string>usecaseValueShape</string>
+	<key>streamStrategyValidation</key>
+	<string>prismaticBuilderStatus</string>
+	<key>webExceptionDensity</key>
+	<string>characterEnvironmentDelay</string>
+</dict>
+</plist>

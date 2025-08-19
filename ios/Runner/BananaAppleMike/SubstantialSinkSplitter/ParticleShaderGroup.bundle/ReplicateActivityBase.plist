@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryTempleOrientation</key>
+	<string>robustAlignmentHue</string>
+	<key>contractionAdapterVelocity</key>
+	<string>cycleAlongJob</string>
+	<key>contractionPlatformStatus</key>
+	<string>scrollAwayShape</string>
+	<key>enabledPopupPadding</key>
+	<string>baselineAboutEnvironment</string>
+	<key>flexibleCycleRotation</key>
+	<string>routerContextInset</string>
+	<key>frameModeMomentum</key>
+	<string>primarySwiftOrientation</string>
+	<key>kernelInterpreterKind</key>
+	<string>seamlessAppbarHead</string>
+	<key>queueContextValidation</key>
+	<string>managerStrategyFrequency</string>
+	<key>serviceMementoBehavior</key>
+	<string>multiProtocolAlignment</string>
+	<key>similarEventFrequency</key>
+	<string>sensorEnvironmentOrigin</string>
+</dict>
+</plist>

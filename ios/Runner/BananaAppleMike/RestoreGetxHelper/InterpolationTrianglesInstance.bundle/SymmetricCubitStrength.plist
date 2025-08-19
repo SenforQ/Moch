@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentForActivity</key>
+	<string>cycleTypeTransparency</string>
+	<key>containerLevelHead</key>
+	<string>prismaticAppbarBorder</string>
+	<key>contractionParamVisible</key>
+	<string>tabviewFlyweightVelocity</string>
+	<key>layoutTypeState</key>
+	<string>documentVariableInteraction</string>
+	<key>resilientManagerMomentum</key>
+	<string>providerCompositeIndex</string>
+	<key>rowBeyondObserver</key>
+	<string>descriptionBridgeShape</string>
+	<key>semanticStorageRotation</key>
+	<string>permissiveRouterFormat</string>
+</dict>
+</plist>

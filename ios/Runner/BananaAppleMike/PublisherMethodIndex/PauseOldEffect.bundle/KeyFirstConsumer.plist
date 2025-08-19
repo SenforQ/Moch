@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateWithSystem</key>
+	<string>viewFormSize</string>
+	<key>dependencyTierTop</key>
+	<string>operationFrameworkOrientation</string>
+	<key>discardedPreviewFlags</key>
+	<string>spotCompositeRight</string>
+	<key>geometricCaptionBorder</key>
+	<string>scrollableWidgetForce</string>
+	<key>imageValueInteraction</key>
+	<string>appbarExceptComposite</string>
+	<key>notifierPatternTransparency</key>
+	<string>curveDuringMethod</string>
+	<key>permanentMultiplicationDistance</key>
+	<string>mutableSemanticsPosition</string>
+	<key>queryNumberTop</key>
+	<string>serviceProxyOpacity</string>
+	<key>robustConfigurationInset</key>
+	<string>originalPreviewDensity</string>
+	<key>streamStrategyAlignment</key>
+	<string>apertureAwayStructure</string>
+</dict>
+</plist>

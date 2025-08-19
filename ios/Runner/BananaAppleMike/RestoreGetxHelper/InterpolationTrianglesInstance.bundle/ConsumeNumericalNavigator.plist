@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoByPlatform</key>
+	<string>timerSinceFramework</string>
+	<key>diffableTimerTransparency</key>
+	<string>allocatorBeyondFunction</string>
+	<key>invisiblePetVelocity</key>
+	<string>controllerWithParam</string>
+	<key>layerWorkCenter</key>
+	<string>greatLayoutDensity</string>
+	<key>mobxThanMethod</key>
+	<string>containerCompositeTail</string>
+	<key>reducerPerVisitor</key>
+	<string>otherCaptionBrightness</string>
+	<key>resilientQueryType</key>
+	<string>hierarchicalRepositoryOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaPerStructure</key>
+	<string>appbarVarDirection</string>
+	<key>blocContainMethod</key>
+	<string>singleStateBehavior</string>
+	<key>durationAroundDecorator</key>
+	<string>storyboardFromBuffer</string>
+	<key>heroStrategyContrast</key>
+	<string>getxThroughLevel</string>
+	<key>presenterAdapterSpeed</key>
+	<string>fragmentDuringLayer</string>
+	<key>resultTypeDuration</key>
+	<string>channelIncludeMethod</string>
+	<key>sinkWithScope</key>
+	<string>layerContainStage</string>
+	<key>subsequentContainerSize</key>
+	<string>relationalTransitionVisible</string>
+	<key>subsequentDecorationOrientation</key>
+	<string>zoneInsideStrategy</string>
+	<key>themePlatformRate</key>
+	<string>transformerPlatformSkewy</string>
+</dict>
+</plist>

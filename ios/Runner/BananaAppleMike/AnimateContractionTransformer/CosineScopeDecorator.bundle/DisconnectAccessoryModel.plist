@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStageValidation</key>
+	<string>displayableCosineBrightness</string>
+	<key>behaviorAdapterLeft</key>
+	<string>euclideanGetxFlags</string>
+	<key>cupertinoErrorSpeed</key>
+	<string>resultOrLayer</string>
+	<key>disabledNavigatorStatus</key>
+	<string>techniqueDuringActivity</string>
+	<key>euclideanInteractorOrigin</key>
+	<string>standaloneStorageAcceleration</string>
+	<key>layoutAwayMediator</key>
+	<string>popupAboutFunction</string>
+	<key>singletonNearProcess</key>
+	<string>themeLikeFramework</string>
+	<key>subtleProjectDepth</key>
+	<string>resultProcessTop</string>
+</dict>
+</plist>

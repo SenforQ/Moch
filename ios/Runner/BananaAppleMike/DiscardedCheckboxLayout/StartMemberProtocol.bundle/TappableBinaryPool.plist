@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLayerName</key>
+	<string>statelessAdapterValidation</string>
+	<key>flexAwaySingleton</key>
+	<string>assetActionOpacity</string>
+	<key>gestureDecoratorShade</key>
+	<string>normalProgressbarCount</string>
+	<key>liteCubitBound</key>
+	<string>immediateAlignmentOrientation</string>
+	<key>optimizerContextIndex</key>
+	<string>exceptionViaVisitor</string>
+	<key>priorSpriteSaturation</key>
+	<string>bitrateDecoratorHue</string>
+	<key>semanticsOutsideFunction</key>
+	<string>variantScopeContrast</string>
+	<key>significantNibBound</key>
+	<string>otherSwitchSkewx</string>
+</dict>
+</plist>

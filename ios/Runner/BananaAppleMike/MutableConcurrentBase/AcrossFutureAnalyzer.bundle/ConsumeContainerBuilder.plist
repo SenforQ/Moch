@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSkirtCenter</key>
+	<string>queueParameterFrequency</string>
+	<key>effectSingletonBorder</key>
+	<string>widgetBeyondObserver</string>
+	<key>equalizationAsOperation</key>
+	<string>synchronousEqualizationValidation</string>
+	<key>labelVariablePressure</key>
+	<string>listenerBeyondLayer</string>
+	<key>responseWorkShape</key>
+	<string>scrollableCubitSkewx</string>
+	<key>tickerAboutValue</key>
+	<string>reducerNumberLeft</string>
+</dict>
+</plist>

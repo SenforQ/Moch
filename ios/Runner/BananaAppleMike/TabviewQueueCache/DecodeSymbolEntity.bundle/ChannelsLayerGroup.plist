@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAgainstFacade</key>
+	<string>signatureWithNumber</string>
+	<key>cubitAndStrategy</key>
+	<string>lastLayoutAppearance</string>
+	<key>declarativePopupState</key>
+	<string>cycleThroughVariable</string>
+	<key>singleBehaviorBorder</key>
+	<string>zoneLayerState</string>
+	<key>sliderScopeCenter</key>
+	<string>screenValueInset</string>
+	<key>specifyNibResponse</key>
+	<string>responseSinceParameter</string>
+	<key>synchronousReferenceBottom</key>
+	<string>primaryNavigatorRotation</string>
+	<key>textDecoratorShade</key>
+	<string>aspectLikeLayer</string>
+</dict>
+</plist>

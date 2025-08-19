@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFlyweightRotation</key>
+	<string>immediateMemberAlignment</string>
+	<key>directlyLogFormat</key>
+	<string>agileNotificationResponse</string>
+	<key>discardedCompletionPosition</key>
+	<string>painterPerJob</string>
+	<key>draggableTaskColor</key>
+	<string>errorActivityContrast</string>
+</dict>
+</plist>

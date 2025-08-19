@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAsSingleton</key>
+	<string>reusableEventScale</string>
+	<key>channelNearContext</key>
+	<string>spriteStateBehavior</string>
+	<key>chartPrototypeHead</key>
+	<string>effectFacadeColor</string>
+	<key>clipperPatternCenter</key>
+	<string>largeNavigatorAcceleration</string>
+	<key>numericalEntityAlignment</key>
+	<string>requestStrategyTint</string>
+	<key>radiusInObserver</key>
+	<string>robustControllerAcceleration</string>
+	<key>storyboardProxyCenter</key>
+	<string>topicSingletonStyle</string>
+	<key>viewAsMemento</key>
+	<string>subscriptionAmongMode</string>
+</dict>
+</plist>

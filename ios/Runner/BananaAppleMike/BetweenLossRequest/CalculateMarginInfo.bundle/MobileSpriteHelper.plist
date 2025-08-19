@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChannelsAlignment</key>
+	<string>channelThroughAdapter</string>
+	<key>graphicFacadeSaturation</key>
+	<string>staticCapsulePadding</string>
+	<key>handlerSinceEnvironment</key>
+	<string>equalizationByProxy</string>
+	<key>materialPhaseIndex</key>
+	<string>profileLikeMediator</string>
+	<key>subscriptionStyleType</key>
+	<string>channelChainTag</string>
+	<key>touchFormLocation</key>
+	<string>requestPhaseResponse</string>
+</dict>
+</plist>

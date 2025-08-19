@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDuringLevel</key>
+	<string>navigationAndAction</string>
+	<key>invisiblePlateSkewx</key>
+	<string>textureAlongPlatform</string>
+	<key>managerAndLevel</key>
+	<string>delegateAsLevel</string>
+	<key>monsterLayerLocation</key>
+	<string>usecaseOutsideSingleton</string>
+	<key>optimizerAlongBuffer</key>
+	<string>usecaseProcessTag</string>
+	<key>popupThroughStage</key>
+	<string>widgetModeBottom</string>
+	<key>semanticsWithPlatform</key>
+	<string>gestureNumberRotation</string>
+	<key>tickerBridgeMode</key>
+	<string>resilientSinkState</string>
+	<key>vectorContextBorder</key>
+	<string>nextHashFrequency</string>
+</dict>
+</plist>

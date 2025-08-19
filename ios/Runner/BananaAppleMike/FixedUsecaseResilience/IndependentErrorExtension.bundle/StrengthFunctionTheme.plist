@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStructureRight</key>
+	<string>exceptionStyleShade</string>
+	<key>fusedMethodPosition</key>
+	<string>layerFrameworkTop</string>
+	<key>observerAlongFramework</key>
+	<string>arithmeticContextDepth</string>
+	<key>providerStyleFormat</key>
+	<string>protectedModelState</string>
+	<key>responsiveIconVelocity</key>
+	<string>aspectratioContextDirection</string>
+	<key>statefulActionBehavior</key>
+	<string>semanticDependencyDirection</string>
+</dict>
+</plist>

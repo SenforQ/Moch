@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionActivityDepth</key>
+	<string>geometricFrameRight</string>
+	<key>disabledHandlerIndex</key>
+	<string>heroObserverCoord</string>
+	<key>inactiveGraphRight</key>
+	<string>sortedCharacterSpacing</string>
+	<key>lazyFutureResponse</key>
+	<string>transitionWithTask</string>
+	<key>resultVisitorInteraction</key>
+	<string>variantKindBehavior</string>
+	<key>sliderWithoutStage</key>
+	<string>coordinatorExceptPhase</string>
+	<key>standaloneVectorDepth</key>
+	<string>statefulSegmentTag</string>
+	<key>tabviewAsNumber</key>
+	<string>animatedcontainerPerParameter</string>
+</dict>
+</plist>

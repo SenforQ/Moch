@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchJobAlignment</key>
+	<string>allocatorWithoutVisitor</string>
+	<key>constraintNearOperation</key>
+	<string>iterativeSceneOrigin</string>
+	<key>displayableResponseRight</key>
+	<string>featureForScope</string>
+	<key>mobileThreadVisibility</key>
+	<string>textCompositeFrequency</string>
+	<key>monsterAndStage</key>
+	<string>textfieldPhaseMode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInsideProcess</key>
+	<string>staticResponseValidation</string>
+	<key>compositionalDecorationResponse</key>
+	<string>operationAlongAction</string>
+	<key>gradientMediatorSpeed</key>
+	<string>tappableStatefulAcceleration</string>
+	<key>menuPatternSkewx</key>
+	<string>interactivePopupMomentum</string>
+	<key>modelAdapterSaturation</key>
+	<string>textAdapterSpacing</string>
+	<key>navigatorPlatformBound</key>
+	<string>activeOperationContrast</string>
+</dict>
+</plist>

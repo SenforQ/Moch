@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorCompositeFrequency</key>
+	<string>largeCubitDirection</string>
+	<key>logDuringCycle</key>
+	<string>futureDuringCommand</string>
+	<key>richtextAmongVariable</key>
+	<string>notificationOperationTint</string>
+	<key>statelessOutsideShape</key>
+	<string>awaitNumberScale</string>
+	<key>taskDecoratorBorder</key>
+	<string>associatedCurveStyle</string>
+</dict>
+</plist>

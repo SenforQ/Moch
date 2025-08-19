@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOffsetPadding</key>
+	<string>streamWorkTag</string>
+	<key>concurrentCompletionMomentum</key>
+	<string>tensorOperationBrightness</string>
+	<key>grainCommandPadding</key>
+	<string>mainResponseCount</string>
+	<key>instructionScopeBehavior</key>
+	<string>resourceIncludeStructure</string>
+	<key>layoutThroughValue</key>
+	<string>interpolationInMediator</string>
+	<key>widgetModeHead</key>
+	<string>inheritedIntensityTint</string>
+</dict>
+</plist>

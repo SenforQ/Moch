@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAsPrototype</key>
+	<string>usageAlongInterpreter</string>
+	<key>completerFlyweightVisible</key>
+	<string>localScaleTag</string>
+	<key>dialogsAndBridge</key>
+	<string>asynchronousGraphLeft</string>
+	<key>nibWithoutForm</key>
+	<string>hyperbolicGateVisible</string>
+	<key>operationUntilFunction</key>
+	<string>isolateScopeShade</string>
+	<key>parallelQueryTransparency</key>
+	<string>playbackUntilTemple</string>
+	<key>rapidDurationTint</key>
+	<string>staticActionScale</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProviderBound</key>
+	<string>arithmeticModeVisible</string>
+	<key>axisObserverEdge</key>
+	<string>viewContainActivity</string>
+	<key>granularObserverLocation</key>
+	<string>boxLevelColor</string>
+	<key>routeAsFunction</key>
+	<string>firstEntropyLeft</string>
+	<key>segmentAsState</key>
+	<string>chapterStageBottom</string>
+</dict>
+</plist>

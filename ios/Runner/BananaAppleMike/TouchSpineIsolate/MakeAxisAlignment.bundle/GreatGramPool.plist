@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCoordinatorFeedback</key>
+	<string>exceptionNearJob</string>
+	<key>easyPresenterOrientation</key>
+	<string>pageviewSinceFlyweight</string>
+	<key>fusedBuilderDensity</key>
+	<string>utilNearFlyweight</string>
+	<key>previewSystemPressure</key>
+	<string>mediaquerySingletonName</string>
+	<key>symmetricCardShape</key>
+	<string>oldSlashRotation</string>
+	<key>uniqueProviderCoord</key>
+	<string>lostStampResponse</string>
+</dict>
+</plist>

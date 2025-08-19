@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeType</key>
+	<string>loopThanSingleton</string>
+	<key>denseEventRate</key>
+	<string>actionFromComposite</string>
+	<key>dependencyInActivity</key>
+	<string>routerFunctionTransparency</string>
+	<key>oldDrawerShape</key>
+	<string>imperativeRemainderPosition</string>
+	<key>oldRepositoryIndex</key>
+	<string>handlerMediatorMomentum</string>
+	<key>radiusInState</key>
+	<string>standaloneZoneBrightness</string>
+</dict>
+</plist>

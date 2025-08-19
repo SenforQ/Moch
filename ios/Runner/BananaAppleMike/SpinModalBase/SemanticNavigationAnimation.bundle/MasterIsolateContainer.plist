@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTabbarContrast</key>
+	<string>iterativeDescriptionSize</string>
+	<key>controllerSincePattern</key>
+	<string>mainMenuOrigin</string>
+	<key>flexibleSceneSaturation</key>
+	<string>utilVersusMediator</string>
+	<key>functionalGateInteraction</key>
+	<string>asynchronousLocalizationSpeed</string>
+	<key>responsiveWidgetDelay</key>
+	<string>difficultReducerVisible</string>
+	<key>sensorCommandValidation</key>
+	<string>sliderStateOpacity</string>
+</dict>
+</plist>

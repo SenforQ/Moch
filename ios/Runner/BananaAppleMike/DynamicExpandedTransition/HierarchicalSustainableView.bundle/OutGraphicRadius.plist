@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateScopeDuration</key>
+	<string>eagerLogResponse</string>
+	<key>drawerStyleTransparency</key>
+	<string>referenceUntilPhase</string>
+	<key>durationFunctionStyle</key>
+	<string>equalizationFromEnvironment</string>
+	<key>fusedQueryRate</key>
+	<string>hierarchicalMediaFeedback</string>
+	<key>keyNotificationCount</key>
+	<string>logarithmTierValidation</string>
+	<key>labelJobHead</key>
+	<string>interactorFromFlyweight</string>
+	<key>layerStageHue</key>
+	<string>builderMethodColor</string>
+	<key>mediocreAnimationRight</key>
+	<string>eventThroughStrategy</string>
+	<key>storeOutsideTask</key>
+	<string>inkwellObserverOrigin</string>
+	<key>tweenScopeBottom</key>
+	<string>columnInsideKind</string>
+</dict>
+</plist>

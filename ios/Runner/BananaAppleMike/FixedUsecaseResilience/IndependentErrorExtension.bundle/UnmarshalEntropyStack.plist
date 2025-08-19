@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureBridgeSkewx</key>
+	<string>observerShapeOrientation</string>
+	<key>inheritedViewTransparency</key>
+	<string>scrollablePriorityHue</string>
+	<key>previewBufferStatus</key>
+	<string>positionPerProcess</string>
+	<key>transitionViaType</key>
+	<string>criticalVectorCoord</string>
+</dict>
+</plist>

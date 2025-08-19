@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedViewAppearance</key>
+	<string>spriteParamContrast</string>
+	<key>brushPerKind</key>
+	<string>singletonPhaseKind</string>
+	<key>dynamicContainerOrientation</key>
+	<string>resourceAtTask</string>
+	<key>elasticModulusForce</key>
+	<string>imageAlongTier</string>
+	<key>inheritedAlignmentOffset</key>
+	<string>pageviewSystemAlignment</string>
+	<key>listenerThroughBuffer</key>
+	<string>intensityInsideSystem</string>
+	<key>precisionAtMediator</key>
+	<string>scaleProxyVelocity</string>
+	<key>variantMediatorCount</key>
+	<string>seamlessSizedboxTail</string>
+</dict>
+</plist>

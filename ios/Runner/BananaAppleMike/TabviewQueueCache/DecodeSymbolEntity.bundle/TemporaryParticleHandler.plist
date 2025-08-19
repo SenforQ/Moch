@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSizeVisible</key>
+	<string>alertEnvironmentForce</string>
+	<key>groupNumberDensity</key>
+	<string>masterAndActivity</string>
+	<key>mapTaskTop</key>
+	<string>durationVersusShape</string>
+	<key>observerStrategyDensity</key>
+	<string>permissiveIntegerContrast</string>
+	<key>optimizerThroughPattern</key>
+	<string>popupCompositeMode</string>
+	<key>reducerOutsideWork</key>
+	<string>semanticTextVisible</string>
+</dict>
+</plist>

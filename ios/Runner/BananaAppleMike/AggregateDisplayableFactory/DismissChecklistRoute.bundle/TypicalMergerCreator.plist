@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVarStyle</key>
+	<string>builderThroughChain</string>
+	<key>completionAmongProxy</key>
+	<string>imageActivitySpacing</string>
+	<key>ignoredHandlerAlignment</key>
+	<string>spriteBridgeSkewx</string>
+	<key>normalGraphicAppearance</key>
+	<string>controllerExceptPrototype</string>
+	<key>oldStreamTag</key>
+	<string>intensityVersusPhase</string>
+	<key>paddingScopeBehavior</key>
+	<string>actionInValue</string>
+	<key>sliderAndStructure</key>
+	<string>presenterIncludePrototype</string>
+	<key>storyboardContextSize</key>
+	<string>delicateTangentTag</string>
+</dict>
+</plist>

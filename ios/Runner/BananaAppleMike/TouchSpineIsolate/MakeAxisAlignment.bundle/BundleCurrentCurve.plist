@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEquipmentEdge</key>
+	<string>compositionalDelegateType</string>
+	<key>buttonFacadeDelay</key>
+	<string>tweenLayerFeedback</string>
+	<key>greatCupertinoTint</key>
+	<string>responsivePainterInset</string>
+	<key>mediaqueryWithoutType</key>
+	<string>textureVersusLayer</string>
+	<key>observerNearBuffer</key>
+	<string>richtextWithSingleton</string>
+	<key>protocolMementoFeedback</key>
+	<string>capsuleParamDirection</string>
+	<key>repositoryChainVisibility</key>
+	<string>viewTempleSaturation</string>
+	<key>utilParameterStyle</key>
+	<string>visibleManagerTag</string>
+</dict>
+</plist>

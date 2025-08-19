@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationSystemFormat</key>
+	<string>interactorIncludeProcess</string>
+	<key>denseTextTop</key>
+	<string>unsortedAppbarScale</string>
+	<key>layoutMediatorInteraction</key>
+	<string>largeErrorVelocity</string>
+	<key>otherTitleBehavior</key>
+	<string>painterObserverInteraction</string>
+	<key>sharedFutureTail</key>
+	<string>invisibleBrushKind</string>
+</dict>
+</plist>

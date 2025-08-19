@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSubscriptionFormat</key>
+	<string>frameFromPlatform</string>
+	<key>autoGetxBehavior</key>
+	<string>singletonTaskBrightness</string>
+	<key>constraintFunctionHue</key>
+	<string>timerForAction</string>
+	<key>previewContainScope</key>
+	<string>semanticsVersusPattern</string>
+	<key>subscriptionVersusTask</key>
+	<string>zoneKindCoord</string>
+	<key>transformerThroughBuffer</key>
+	<string>factoryBeyondPrototype</string>
+</dict>
+</plist>

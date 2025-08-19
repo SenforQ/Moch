@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVariableVelocity</key>
+	<string>inheritedPreviewDistance</string>
+	<key>greatNormMargin</key>
+	<string>taskCommandIndex</string>
+	<key>layoutForVar</key>
+	<string>sophisticatedInteractorSize</string>
+	<key>metadataUntilFlyweight</key>
+	<string>customCurveForce</string>
+	<key>nextStepInset</key>
+	<string>blocMediatorStyle</string>
+	<key>nodeStructurePosition</key>
+	<string>graphUntilFlyweight</string>
+	<key>resolverContextVisibility</key>
+	<string>subsequentSpineBottom</string>
+	<key>semanticInteractorRight</key>
+	<string>providerTypeVisibility</string>
+</dict>
+</plist>

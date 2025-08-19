@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarProxyOpacity</key>
+	<string>inheritedStoreRotation</string>
+	<key>cacheMediatorDuration</key>
+	<string>permanentPreviewDuration</string>
+	<key>curveAndPhase</key>
+	<string>previewFlyweightDepth</string>
+	<key>decorationAsTemple</key>
+	<string>signMementoTail</string>
+	<key>effectLikeEnvironment</key>
+	<string>dialogsFlyweightSize</string>
+	<key>grayscaleSingletonShape</key>
+	<string>tappableRadiusOrientation</string>
+	<key>scrollableLossHead</key>
+	<string>granularRouteName</string>
+	<key>stepPhaseOffset</key>
+	<string>appbarBufferShape</string>
+	<key>subtleLabelDepth</key>
+	<string>reducerAlongForm</string>
+	<key>widgetAroundSingleton</key>
+	<string>stackWithoutCommand</string>
+</dict>
+</plist>

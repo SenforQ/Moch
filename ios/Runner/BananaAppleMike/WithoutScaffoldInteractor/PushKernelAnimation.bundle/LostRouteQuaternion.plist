@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLikeParameter</key>
+	<string>commonCubitDensity</string>
+	<key>asyncReferenceDelay</key>
+	<string>constraintStagePressure</string>
+	<key>chapterPhaseEdge</key>
+	<string>momentumProcessStyle</string>
+	<key>desktopIndicatorInset</key>
+	<string>sizeFrameworkInterval</string>
+	<key>effectStrategyState</key>
+	<string>variantSinceStage</string>
+	<key>immutableAlertBorder</key>
+	<string>invisibleEffectMomentum</string>
+	<key>semanticZoneAppearance</key>
+	<string>consumerThanTask</string>
+</dict>
+</plist>

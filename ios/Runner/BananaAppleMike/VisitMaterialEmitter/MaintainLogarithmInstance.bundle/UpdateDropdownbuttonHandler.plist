@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayerMargin</key>
+	<string>subscriptionFunctionLocation</string>
+	<key>commandSinceContext</key>
+	<string>overlayNearAction</string>
+	<key>concurrentHeapAcceleration</key>
+	<string>resilientTweenState</string>
+	<key>cupertinoAsParam</key>
+	<string>repositoryAgainstShape</string>
+	<key>durationParameterRight</key>
+	<string>textKindInteraction</string>
+	<key>interactiveSensorLeft</key>
+	<string>tensorActivityTag</string>
+	<key>nativeRadiusDensity</key>
+	<string>commandWithoutBridge</string>
+	<key>transitionAgainstTask</key>
+	<string>stampProcessStatus</string>
+</dict>
+</plist>

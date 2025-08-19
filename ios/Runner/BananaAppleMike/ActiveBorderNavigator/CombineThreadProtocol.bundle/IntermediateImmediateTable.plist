@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStrategyMomentum</key>
+	<string>curveCycleKind</string>
+	<key>crucialVectorStyle</key>
+	<string>intensityCompositePosition</string>
+	<key>decorationSystemCenter</key>
+	<string>assetPerSingleton</string>
+	<key>lazyPainterCoord</key>
+	<string>specifyResolverFlags</string>
+</dict>
+</plist>

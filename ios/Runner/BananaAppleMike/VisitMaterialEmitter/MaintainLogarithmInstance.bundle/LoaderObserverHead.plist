@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePerValue</key>
+	<string>errorAtFramework</string>
+	<key>documentJobName</key>
+	<string>batchPrototypeBorder</string>
+	<key>particleAlongParameter</key>
+	<string>taskDecoratorAppearance</string>
+	<key>progressbarProcessBehavior</key>
+	<string>pinchableBufferEdge</string>
+	<key>uniqueIntensityDuration</key>
+	<string>profileAndMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInsideType</key>
+	<string>expandedAsJob</string>
+	<key>buttonCycleSpacing</key>
+	<string>sliderVarValidation</string>
+	<key>descriptionSingletonDensity</key>
+	<string>currentSizeColor</string>
+	<key>hierarchicalGestureBottom</key>
+	<string>gradientAroundFramework</string>
+	<key>imperativeTabbarIndex</key>
+	<string>overlayDecoratorBorder</string>
+	<key>relationalUtilMode</key>
+	<string>publicTernaryBrightness</string>
+	<key>requiredSkinContrast</key>
+	<string>musicIncludeCommand</string>
+</dict>
+</plist>

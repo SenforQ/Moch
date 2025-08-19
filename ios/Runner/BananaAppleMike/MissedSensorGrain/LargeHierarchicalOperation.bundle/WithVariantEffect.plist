@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPrototypeVisibility</key>
+	<string>smallListviewTail</string>
+	<key>basicPopupShade</key>
+	<string>observerModeSpeed</string>
+	<key>descriptorOfJob</key>
+	<string>chapterModeSpeed</string>
+	<key>dimensionStyleFormat</key>
+	<string>optionBeyondBridge</string>
+	<key>metadataVersusStructure</key>
+	<string>spineStructureBehavior</string>
+	<key>pointDecoratorStyle</key>
+	<string>boxshadowFacadeInset</string>
+	<key>previewSystemTag</key>
+	<string>tickerInStructure</string>
+	<key>reducerScopeShape</key>
+	<string>progressbarThroughPlatform</string>
+</dict>
+</plist>

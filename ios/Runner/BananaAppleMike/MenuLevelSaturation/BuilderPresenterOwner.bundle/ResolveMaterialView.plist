@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStatelessValidation</key>
+	<string>draggableListviewForce</string>
+	<key>displayableTextOffset</key>
+	<string>singleAllocatorForce</string>
+	<key>eagerRowHue</key>
+	<string>eventViaPrototype</string>
+	<key>fusedPlateTint</key>
+	<string>previewWithMode</string>
+	<key>mainTabbarOffset</key>
+	<string>frameTempleCoord</string>
+	<key>methodMementoPosition</key>
+	<string>topicWithoutContext</string>
+	<key>transitionModeVisible</key>
+	<string>cubitDespiteJob</string>
+	<key>usecaseVisitorOpacity</key>
+	<string>awaitValueState</string>
+</dict>
+</plist>

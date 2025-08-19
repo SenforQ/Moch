@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitBrushAlignment</key>
+	<string>visibleSegueSpacing</string>
+	<key>handlerPerPhase</key>
+	<string>asyncRichtextType</string>
+	<key>nextTernaryValidation</key>
+	<string>statelessGramState</string>
+	<key>notificationLayerState</key>
+	<string>synchronousSliderTheme</string>
+	<key>resourceNearKind</key>
+	<string>musicParamPadding</string>
+	<key>robustLayoutVelocity</key>
+	<string>semanticTabviewInterval</string>
+	<key>tappableLayoutForce</key>
+	<string>composableRectSize</string>
+</dict>
+</plist>

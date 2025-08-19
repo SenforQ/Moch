@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityBeyondAction</key>
+	<string>featureCycleDistance</string>
+	<key>declarativeQueryCoord</key>
+	<string>sessionByPrototype</string>
+	<key>delegateWithoutActivity</key>
+	<string>visibleProgressbarAlignment</string>
+	<key>globalRadioTail</key>
+	<string>primaryMarginSize</string>
+	<key>pageviewActivityKind</key>
+	<string>factoryAboutFramework</string>
+	<key>providerJobTint</key>
+	<string>staticActivityColor</string>
+	<key>reactiveViewPosition</key>
+	<string>interactorAlongVariable</string>
+	<key>scrollVisitorOrigin</key>
+	<string>lazyServiceRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSampleColor</key>
+	<string>nodeDuringMode</string>
+	<key>basicProjectionInterval</key>
+	<string>spriteMediatorMargin</string>
+	<key>builderPrototypeName</key>
+	<string>scrollWithCommand</string>
+	<key>directlyTransitionOffset</key>
+	<string>semanticProgressbarTag</string>
+	<key>listviewByMode</key>
+	<string>dependencyFlyweightBehavior</string>
+	<key>loopLikeFacade</key>
+	<string>textTypeAppearance</string>
+	<key>metadataForVisitor</key>
+	<string>completerFlyweightIndex</string>
+	<key>tappableTextfieldShade</key>
+	<string>errorThanState</string>
+</dict>
+</plist>

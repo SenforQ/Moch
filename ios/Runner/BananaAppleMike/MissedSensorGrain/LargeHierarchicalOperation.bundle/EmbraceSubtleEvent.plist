@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartWithoutBuffer</key>
+	<string>asynchronousMediaqueryColor</string>
+	<key>cursorIncludeMemento</key>
+	<string>textStyleDensity</string>
+	<key>getxOfComposite</key>
+	<string>hashAdapterDepth</string>
+	<key>interpolationBridgeDistance</key>
+	<string>stackPatternSkewx</string>
+	<key>notificationKindBottom</key>
+	<string>radiusLevelEdge</string>
+	<key>sliderVariableResponse</key>
+	<string>checkboxVisitorInteraction</string>
+	<key>stepCycleName</key>
+	<string>richtextStrategyVisibility</string>
+	<key>temporaryRepositoryTop</key>
+	<string>multiCursorColor</string>
+	<key>usageCommandTheme</key>
+	<string>expandedContainSingleton</string>
+</dict>
+</plist>

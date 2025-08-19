@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramInBridge</key>
+	<string>singletonAmongFlyweight</string>
+	<key>modulusDuringLevel</key>
+	<string>radioExceptVariable</string>
+	<key>reusableCoordinatorSkewy</key>
+	<string>gridSingletonInterval</string>
+	<key>smallMediaquerySkewy</key>
+	<string>liteResultTension</string>
+	<key>stateTaskSkewy</key>
+	<string>dialogsContextDistance</string>
+</dict>
+</plist>

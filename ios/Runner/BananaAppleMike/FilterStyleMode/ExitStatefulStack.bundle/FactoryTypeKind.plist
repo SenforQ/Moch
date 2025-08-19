@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransitionBorder</key>
+	<string>matrixAndBridge</string>
+	<key>agileCoordinatorAcceleration</key>
+	<string>secondTouchPosition</string>
+	<key>crucialHeapBehavior</key>
+	<string>basicSpriteOrientation</string>
+	<key>dialogsInPhase</key>
+	<string>animatedTextfieldFormat</string>
+	<key>isolatePerMemento</key>
+	<string>featureWorkScale</string>
+	<key>semanticPresenterCoord</key>
+	<string>entityStrategyBehavior</string>
+	<key>subsequentCurveRight</key>
+	<string>chartDuringMode</string>
+	<key>swiftAdapterShape</key>
+	<string>titleLikeState</string>
+	<key>toolAlongEnvironment</key>
+	<string>segmentFunctionInterval</string>
+	<key>usedChapterState</key>
+	<string>storeDespiteLevel</string>
+</dict>
+</plist>

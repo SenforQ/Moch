@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaThanMediator</key>
+	<string>tappableCommandOpacity</string>
+	<key>blocAgainstProcess</key>
+	<string>mediumUtilState</string>
+	<key>labelParameterMargin</key>
+	<string>entityPhaseMargin</string>
+	<key>localizationTaskInteraction</key>
+	<string>channelsAboutProcess</string>
+	<key>resourceEnvironmentLocation</key>
+	<string>directFactoryVisible</string>
+	<key>rowBeyondType</key>
+	<string>sliderVersusSystem</string>
+	<key>standaloneTaskBound</key>
+	<string>tabviewIncludeStyle</string>
+	<key>transformerFrameworkResponse</key>
+	<string>brushAgainstCycle</string>
+	<key>variantTierTransparency</key>
+	<string>viewOutsideCommand</string>
+</dict>
+</plist>

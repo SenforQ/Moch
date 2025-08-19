@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStateStyle</key>
+	<string>immediateCertificateCount</string>
+	<key>axisFromForm</key>
+	<string>autoTaskVisibility</string>
+	<key>decorationModeTop</key>
+	<string>cartesianInkwellEdge</string>
+	<key>elasticSampleEdge</key>
+	<string>viewPhaseColor</string>
+	<key>invisibleNodeScale</key>
+	<string>pivotalResponseInset</string>
+	<key>momentumDecoratorStyle</key>
+	<string>reducerKindVisibility</string>
+	<key>queryShapeDelay</key>
+	<string>symmetricSignInteraction</string>
+	<key>semanticLocalizationVisibility</key>
+	<string>finalCycleBound</string>
+	<key>viewInScope</key>
+	<string>batchThanCycle</string>
+</dict>
+</plist>

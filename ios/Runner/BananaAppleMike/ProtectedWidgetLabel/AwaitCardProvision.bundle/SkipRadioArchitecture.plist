@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInteractorInterval</key>
+	<string>imperativeTransformerRate</string>
+	<key>cubeVisitorFrequency</key>
+	<string>hardTransitionSkewx</string>
+	<key>explicitModalPressure</key>
+	<string>storeAlongFramework</string>
+	<key>originalRadiusValidation</key>
+	<string>chapterAgainstCycle</string>
+	<key>statelessVariableForce</key>
+	<string>deferredScaffoldValidation</string>
+</dict>
+</plist>

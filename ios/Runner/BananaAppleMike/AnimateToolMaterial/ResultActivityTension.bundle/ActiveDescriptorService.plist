@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryNearMethod</key>
+	<string>interpolationBridgeFeedback</string>
+	<key>permanentQueryOrientation</key>
+	<string>positionedWithJob</string>
+	<key>permissiveCollectionCenter</key>
+	<string>taskBesideLevel</string>
+	<key>sliderFormLocation</key>
+	<string>reactiveSceneVelocity</string>
+	<key>subpixelPhaseOpacity</key>
+	<string>basicPositionState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianReducerBound</key>
+	<string>gradientSingletonFrequency</string>
+	<key>cubitModeLocation</key>
+	<string>allocatorThroughSingleton</string>
+	<key>ephemeralSignMargin</key>
+	<string>titleDecoratorOrigin</string>
+	<key>nibInsideType</key>
+	<string>configurationNumberShade</string>
+	<key>prismaticFactoryDelay</key>
+	<string>riverpodMediatorTheme</string>
+	<key>responsiveCapsuleLocation</key>
+	<string>promiseAmongStrategy</string>
+	<key>serviceBesideInterpreter</key>
+	<string>spotAtStyle</string>
+</dict>
+</plist>

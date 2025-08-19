@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionPerParameter</key>
+	<string>routerLevelSaturation</string>
+	<key>managerScopeTop</key>
+	<string>groupAdapterAlignment</string>
+	<key>rowLevelFlags</key>
+	<string>particleActionSpacing</string>
+	<key>streamModeAcceleration</key>
+	<string>resizableSkinSpacing</string>
+	<key>tangentAmongStrategy</key>
+	<string>timerStyleTint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutSinceType</key>
+	<string>hashExceptBridge</string>
+	<key>multiTransformerMode</key>
+	<string>pointNearVar</string>
+	<key>operationAsBridge</key>
+	<string>semanticsTypeDirection</string>
+	<key>responsiveMovementValidation</key>
+	<string>fusedLoopBottom</string>
+	<key>subsequentMusicLocation</key>
+	<string>contractionUntilDecorator</string>
+</dict>
+</plist>

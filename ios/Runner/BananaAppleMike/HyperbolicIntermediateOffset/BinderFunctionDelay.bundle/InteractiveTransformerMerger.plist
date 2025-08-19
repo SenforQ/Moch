@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBufferStyle</key>
+	<string>autoDecorationBrightness</string>
+	<key>borderPlatformTag</key>
+	<string>largeAsyncHue</string>
+	<key>completerInterpreterTint</key>
+	<string>baseMementoSkewy</string>
+	<key>mobxTierKind</key>
+	<string>canvasUntilCycle</string>
+	<key>reductionExceptWork</key>
+	<string>adaptiveStampResponse</string>
+	<key>relationalOptimizerFrequency</key>
+	<string>factoryStrategyStyle</string>
+	<key>retainedTimerRight</key>
+	<string>eventAlongFramework</string>
+	<key>titleEnvironmentTail</key>
+	<string>parallelFutureSaturation</string>
+</dict>
+</plist>

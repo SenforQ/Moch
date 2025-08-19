@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandActionVisible</key>
+	<string>responsiveBinaryType</string>
+	<key>featureVersusDecorator</key>
+	<string>asyncAlertDuration</string>
+	<key>iterativeCaptionOrientation</key>
+	<string>decorationShapeFlags</string>
+	<key>utilActivityMode</key>
+	<string>normBesideLevel</string>
+</dict>
+</plist>

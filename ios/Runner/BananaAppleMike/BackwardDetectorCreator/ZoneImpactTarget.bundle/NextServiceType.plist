@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionNumberOffset</key>
+	<string>certificateStageFeedback</string>
+	<key>eventBridgeCount</key>
+	<string>expandedCompositeOrigin</string>
+	<key>greatTextPressure</key>
+	<string>storyboardStateStatus</string>
+	<key>gridviewPerAction</key>
+	<string>viewAdapterResponse</string>
+	<key>parallelAlignmentTransparency</key>
+	<string>animatedcontainerActionFormat</string>
+	<key>previewPrototypeBound</key>
+	<string>containerCompositeBrightness</string>
+	<key>storyboardAmongEnvironment</key>
+	<string>draggableScaleAppearance</string>
+	<key>taskParameterBound</key>
+	<string>dedicatedPopupSpacing</string>
+	<key>temporaryStorageDuration</key>
+	<string>contractionEnvironmentCount</string>
+</dict>
+</plist>

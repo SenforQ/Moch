@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFlyweightSpeed</key>
+	<string>unaryWithContext</string>
+	<key>permanentScreenResponse</key>
+	<string>requiredTabbarHead</string>
+	<key>queryAtCycle</key>
+	<string>offsetAmongOperation</string>
+	<key>responseAwayLevel</key>
+	<string>cupertinoFragmentDepth</string>
+	<key>rowTierTop</key>
+	<string>publicNotificationOrientation</string>
+	<key>storeAboutInterpreter</key>
+	<string>composableCanvasAlignment</string>
+	<key>textAmongFramework</key>
+	<string>associatedSignatureTail</string>
+	<key>unaryAwayProxy</key>
+	<string>builderBeyondBuffer</string>
+</dict>
+</plist>

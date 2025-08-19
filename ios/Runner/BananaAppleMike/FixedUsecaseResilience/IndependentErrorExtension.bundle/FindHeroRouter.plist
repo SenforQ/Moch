@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheObserverRate</key>
+	<string>signatureFromJob</string>
+	<key>currentTabviewPadding</key>
+	<string>directlyAlignmentMargin</string>
+	<key>desktopRepositoryStatus</key>
+	<string>statefulIncludeValue</string>
+	<key>factoryAroundMediator</key>
+	<string>streamContainLayer</string>
+	<key>hardGramCount</key>
+	<string>backwardTweenInterval</string>
+	<key>inactiveTabviewHue</key>
+	<string>respectiveOverlayMode</string>
+	<key>metadataInsideMethod</key>
+	<string>queryAndPhase</string>
+	<key>rectScopeForce</key>
+	<string>stateExceptPattern</string>
+	<key>routeContainTask</key>
+	<string>invisibleBatchStyle</string>
+</dict>
+</plist>

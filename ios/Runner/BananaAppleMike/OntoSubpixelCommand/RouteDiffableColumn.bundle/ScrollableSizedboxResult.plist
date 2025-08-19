@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerIncludeComposite</key>
+	<string>equalizationFlyweightInteraction</string>
+	<key>effectWithVariable</key>
+	<string>baseActivityTint</string>
+	<key>optionJobVisibility</key>
+	<string>gramFromParameter</string>
+	<key>requiredStatefulForce</key>
+	<string>tickerVersusProxy</string>
+	<key>rowAmongJob</key>
+	<string>declarativeApertureOrigin</string>
+	<key>textfieldTempleForce</key>
+	<string>injectionAmongPlatform</string>
+	<key>titleExceptChain</key>
+	<string>flexibleRowColor</string>
+</dict>
+</plist>

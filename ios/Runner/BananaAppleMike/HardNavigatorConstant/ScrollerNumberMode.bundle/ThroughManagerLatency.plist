@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBinarySize</key>
+	<string>agileTangentPadding</string>
+	<key>disabledSineHead</key>
+	<string>integerLevelHead</string>
+	<key>entityStageSkewy</key>
+	<string>customCommandType</string>
+	<key>graphicAgainstBuffer</key>
+	<string>liteStateMode</string>
+	<key>materialCollectionLocation</key>
+	<string>builderThroughInterpreter</string>
+	<key>permissiveArithmeticFeedback</key>
+	<string>localizationInsideContext</string>
+	<key>retainedConsumerSpeed</key>
+	<string>pivotalBuilderMargin</string>
+	<key>seamlessStackColor</key>
+	<string>instructionAsOperation</string>
+	<key>sizeProxyVisibility</key>
+	<string>topicProxyHead</string>
+</dict>
+</plist>

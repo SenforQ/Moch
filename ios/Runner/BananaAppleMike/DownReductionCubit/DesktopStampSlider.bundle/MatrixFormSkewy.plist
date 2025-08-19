@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateModeSize</key>
+	<string>spriteStateSkewy</string>
+	<key>descriptionDespiteBridge</key>
+	<string>modalWorkFrequency</string>
+	<key>eagerChannelRate</key>
+	<string>pageviewCommandAppearance</string>
+	<key>finalResourceDensity</key>
+	<string>delicatePetDepth</string>
+	<key>permanentControllerAcceleration</key>
+	<string>invisibleButtonDensity</string>
+	<key>scrollableStateOrigin</key>
+	<string>ephemeralControllerCoord</string>
+	<key>stepProcessDelay</key>
+	<string>optimizerSingletonMargin</string>
+	<key>unactivatedStatefulDirection</key>
+	<string>rowModeCoord</string>
+</dict>
+</plist>

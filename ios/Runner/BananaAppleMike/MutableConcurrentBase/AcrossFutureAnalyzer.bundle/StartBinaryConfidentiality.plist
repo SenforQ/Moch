@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteStrategy</key>
+	<string>secondStateFeedback</string>
+	<key>fusedTimerDelay</key>
+	<string>grainEnvironmentScale</string>
+	<key>ignoredSessionInset</key>
+	<string>capacitiesNumberIndex</string>
+	<key>inheritedDependencyFlags</key>
+	<string>plateProxyContrast</string>
+	<key>interpolationActionValidation</key>
+	<string>inkwellVarRate</string>
+	<key>materialContainerState</key>
+	<string>parallelResourceIndex</string>
+	<key>projectFacadeStyle</key>
+	<string>interactiveTransitionBound</string>
+	<key>roleIncludeChain</key>
+	<string>flexibleFutureBorder</string>
+	<key>sampleUntilFlyweight</key>
+	<string>materialTouchLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitForStrategy</key>
+	<string>entityMediatorSpeed</string>
+	<key>drawerInState</key>
+	<string>textSystemSpacing</string>
+	<key>flexibleFutureVisibility</key>
+	<string>constraintVariableBehavior</string>
+	<key>graphicEnvironmentContrast</key>
+	<string>prevUsecaseInterval</string>
+	<key>interactorWithOperation</key>
+	<string>heapCompositeCoord</string>
+	<key>nextThreadVisibility</key>
+	<string>rowBridgeColor</string>
+	<key>profileBySystem</key>
+	<string>touchActionVisibility</string>
+	<key>queueDecoratorRotation</key>
+	<string>animationInsideFramework</string>
+	<key>streamPlatformBrightness</key>
+	<string>interfaceWithoutCommand</string>
+</dict>
+</plist>

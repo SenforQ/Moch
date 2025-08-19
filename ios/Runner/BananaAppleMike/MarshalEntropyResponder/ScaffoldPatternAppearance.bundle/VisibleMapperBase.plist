@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalLayerBorder</key>
+	<string>pinchableUtilCenter</string>
+	<key>offsetIncludeFlyweight</key>
+	<string>dropdownbuttonWorkBorder</string>
+	<key>radioParamMargin</key>
+	<string>uniquePopupBottom</string>
+	<key>spineWithSystem</key>
+	<string>momentumBeyondLayer</string>
+</dict>
+</plist>

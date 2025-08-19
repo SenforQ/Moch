@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedInteractorAlignment</key>
+	<string>multiStreamInterval</string>
+	<key>intermediateCursorSpacing</key>
+	<string>matrixWithType</string>
+	<key>normalProtocolScale</key>
+	<string>effectExceptScope</string>
+	<key>previewContextOffset</key>
+	<string>concurrentMetadataBehavior</string>
+	<key>shaderParameterSaturation</key>
+	<string>cellStageRotation</string>
+	<key>topicTypeDelay</key>
+	<string>rectMethodSaturation</string>
+	<key>transitionLikeBridge</key>
+	<string>interactiveAsyncDuration</string>
+</dict>
+</plist>

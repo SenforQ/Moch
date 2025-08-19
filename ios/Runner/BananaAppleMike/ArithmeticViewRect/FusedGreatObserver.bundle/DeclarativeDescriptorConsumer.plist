@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBeyondTask</key>
+	<string>decorationAtLayer</string>
+	<key>batchInStage</key>
+	<string>navigatorWithBuffer</string>
+	<key>concurrentBinaryColor</key>
+	<string>singleNotifierRight</string>
+	<key>masterViaObserver</key>
+	<string>accordionManagerVelocity</string>
+	<key>standaloneBaseResponse</key>
+	<string>managerVarHead</string>
+</dict>
+</plist>

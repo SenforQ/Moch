@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePlaybackAppearance</key>
+	<string>resultContainOperation</string>
+	<key>paddingByNumber</key>
+	<string>transitionFunctionBrightness</string>
+	<key>persistentMethodScale</key>
+	<string>characterActivityLocation</string>
+	<key>requiredRowValidation</key>
+	<string>vectorSingletonFlags</string>
+	<key>tickerJobName</key>
+	<string>cellKindBehavior</string>
+	<key>transformerJobVisible</key>
+	<string>usedGrayscaleBrightness</string>
+</dict>
+</plist>

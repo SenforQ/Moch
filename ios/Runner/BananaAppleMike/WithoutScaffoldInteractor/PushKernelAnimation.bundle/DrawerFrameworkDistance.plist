@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSegmentShade</key>
+	<string>shaderCommandShape</string>
+	<key>contractionCommandOrientation</key>
+	<string>animationAgainstSingleton</string>
+	<key>labelPrototypeDepth</key>
+	<string>oldMissionInset</string>
+	<key>metadataFlyweightSize</key>
+	<string>intuitiveDialogsEdge</string>
+	<key>protectedModalDirection</key>
+	<string>channelsPatternBottom</string>
+	<key>sortedUnaryAlignment</key>
+	<string>largeTickerVelocity</string>
+	<key>statelessHandlerSkewx</key>
+	<string>repositoryOrBuffer</string>
+	<key>zoneVarAcceleration</key>
+	<string>unactivatedAnimationFlags</string>
+</dict>
+</plist>

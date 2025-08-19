@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBesideFunction</key>
+	<string>uniqueResultInteraction</string>
+	<key>fragmentAtState</key>
+	<string>sequentialTopicBehavior</string>
+	<key>interpolationActivityBehavior</key>
+	<string>desktopUsecaseShape</string>
+	<key>optionProxySkewy</key>
+	<string>compositionalAnchorHue</string>
+	<key>positionChainCoord</key>
+	<string>playbackStateBound</string>
+	<key>specifierMethodValidation</key>
+	<string>baselineVersusSingleton</string>
+</dict>
+</plist>

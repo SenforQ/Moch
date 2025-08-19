@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryUntilVariable</key>
+	<string>missionPatternPressure</string>
+	<key>boxAmongVariable</key>
+	<string>decorationTypeTransparency</string>
+	<key>capacitiesAroundSingleton</key>
+	<string>boxshadowFunctionSize</string>
+	<key>enabledPreviewTop</key>
+	<string>durationModeOffset</string>
+	<key>materialMobxTheme</key>
+	<string>plateOutsidePattern</string>
+	<key>taskOperationResponse</key>
+	<string>normalTouchDensity</string>
+	<key>zoneBridgeDirection</key>
+	<string>explicitClipperKind</string>
+</dict>
+</plist>

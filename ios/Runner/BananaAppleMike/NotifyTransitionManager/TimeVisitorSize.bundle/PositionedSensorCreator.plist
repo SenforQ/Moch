@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBlocIndex</key>
+	<string>modelInVar</string>
+	<key>commandBesideSystem</key>
+	<string>dropdownbuttonParameterSpacing</string>
+	<key>dependencyWithoutLevel</key>
+	<string>tickerActivityPadding</string>
+	<key>elasticCosineDirection</key>
+	<string>explicitAwaitTail</string>
+	<key>globalGridviewLocation</key>
+	<string>customizedSignOrientation</string>
+	<key>navigatorOutsideCommand</key>
+	<string>reductionAgainstBuffer</string>
+	<key>providerDecoratorVisibility</key>
+	<string>notificationInsideValue</string>
+	<key>retainedMobxOffset</key>
+	<string>interpolationInsideSystem</string>
+	<key>statelessAlongSystem</key>
+	<string>activatedUsecaseTension</string>
+	<key>timerValueName</key>
+	<string>listenerContextRate</string>
+</dict>
+</plist>

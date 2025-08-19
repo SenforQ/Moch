@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDuringStage</key>
+	<string>providerStylePadding</string>
+	<key>grainAboutVisitor</key>
+	<string>callbackProcessOrientation</string>
+	<key>rolePerNumber</key>
+	<string>enabledCallbackOffset</string>
+	<key>serviceWithoutPlatform</key>
+	<string>normalInterfaceOpacity</string>
+	<key>tabbarStructureVisibility</key>
+	<string>immutableActivityVisible</string>
+</dict>
+</plist>

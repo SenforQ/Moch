@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFromCycle</key>
+	<string>taskActionFormat</string>
+	<key>marginStructureBound</key>
+	<string>boxshadowAwayAction</string>
+	<key>segueStrategyKind</key>
+	<string>swiftDespiteProxy</string>
+	<key>stateAsMode</key>
+	<string>requestOutsideOperation</string>
+</dict>
+</plist>

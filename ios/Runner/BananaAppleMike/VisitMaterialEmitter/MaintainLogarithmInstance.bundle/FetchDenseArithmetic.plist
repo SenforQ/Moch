@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAmongScope</key>
+	<string>secondSpriteSpeed</string>
+	<key>greatTransitionSkewy</key>
+	<string>mobileSceneHue</string>
+	<key>layoutLevelMode</key>
+	<string>heroStrategyFormat</string>
+	<key>multiOverlayOrientation</key>
+	<string>builderEnvironmentDensity</string>
+	<key>navigatorPrototypeDepth</key>
+	<string>inheritedAlertDepth</string>
+	<key>respectiveDelegateCenter</key>
+	<string>otherIsolateOrigin</string>
+	<key>shaderBeyondVariable</key>
+	<string>fixedTabbarIndex</string>
+	<key>typicalTaskRotation</key>
+	<string>pageviewInsideState</string>
+	<key>utilValueCoord</key>
+	<string>requestFromInterpreter</string>
+</dict>
+</plist>

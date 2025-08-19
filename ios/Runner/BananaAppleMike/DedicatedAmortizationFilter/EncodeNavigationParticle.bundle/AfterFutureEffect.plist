@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptPrototype</key>
+	<string>behaviorContainMediator</string>
+	<key>blocWithFramework</key>
+	<string>mapNearLayer</string>
+	<key>collectionCommandDensity</key>
+	<string>pointPerParameter</string>
+	<key>difficultParticleFlags</key>
+	<string>prismaticTimerColor</string>
+	<key>expandedStateCoord</key>
+	<string>marginStyleOrientation</string>
+	<key>liteLabelVisibility</key>
+	<string>requestFunctionDelay</string>
+	<key>presenterForFunction</key>
+	<string>prevMetadataDistance</string>
+	<key>projectCycleIndex</key>
+	<string>frameCycleDensity</string>
+</dict>
+</plist>

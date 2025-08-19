@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsCommandShape</key>
+	<string>variantSingletonHead</string>
+	<key>curveThroughBuffer</key>
+	<string>persistentFeatureContrast</string>
+	<key>exponentBesideFramework</key>
+	<string>exponentStyleBound</string>
+	<key>greatExpandedSpacing</key>
+	<string>discardedListenerDuration</string>
+	<key>gridNumberSkewy</key>
+	<string>missedExceptionDuration</string>
+	<key>inactiveIndicatorMode</key>
+	<string>symbolNearComposite</string>
+	<key>smallLayoutInteraction</key>
+	<string>effectSingletonState</string>
+	<key>tappableCapsulePosition</key>
+	<string>completionObserverName</string>
+	<key>viewAwayStrategy</key>
+	<string>injectionLikeType</string>
+</dict>
+</plist>

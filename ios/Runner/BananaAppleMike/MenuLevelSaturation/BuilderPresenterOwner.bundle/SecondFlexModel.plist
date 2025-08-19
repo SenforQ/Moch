@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsActivityType</key>
+	<string>lostEntityTag</string>
+	<key>controllerProcessDirection</key>
+	<string>storageNearContext</string>
+	<key>fusedRouterInterval</key>
+	<string>appbarAboutPlatform</string>
+	<key>gestureContainDecorator</key>
+	<string>storeValueDelay</string>
+	<key>inkwellLikeShape</key>
+	<string>toolLevelValidation</string>
+	<key>protectedFactorySize</key>
+	<string>seamlessVectorLeft</string>
+	<key>threadIncludeFlyweight</key>
+	<string>sinkPlatformResponse</string>
+	<key>usecaseTempleInterval</key>
+	<string>menuSinceVar</string>
+</dict>
+</plist>

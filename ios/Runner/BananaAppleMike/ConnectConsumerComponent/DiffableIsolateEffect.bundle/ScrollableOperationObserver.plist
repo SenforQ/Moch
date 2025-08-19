@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateChecklistInterval</key>
+	<string>fusedSingletonPosition</string>
+	<key>interfaceNearBuffer</key>
+	<string>transitionNearBuffer</string>
+	<key>mobxKindValidation</key>
+	<string>subsequentGroupSkewy</string>
+	<key>radiusDespiteVariable</key>
+	<string>descriptorProxyDistance</string>
+	<key>retainedServiceRotation</key>
+	<string>blocActionMode</string>
+	<key>techniqueVersusInterpreter</key>
+	<string>serviceAmongMode</string>
+</dict>
+</plist>

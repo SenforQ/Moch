@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphBesideMethod</key>
+	<string>resourceMethodSpacing</string>
+	<key>inheritedMenuState</key>
+	<string>normalProfileTransparency</string>
+	<key>lazySessionBound</key>
+	<string>basicLoopStyle</string>
+	<key>methodLayerCenter</key>
+	<string>logAlongSingleton</string>
+	<key>nextViewDelay</key>
+	<string>menuVisitorShade</string>
+	<key>pivotalFrameSize</key>
+	<string>compositionalProfileContrast</string>
+	<key>rectContainPrototype</key>
+	<string>respectiveIndicatorSaturation</string>
+	<key>statefulWorkflowMargin</key>
+	<string>sinkContainBuffer</string>
+	<key>tangentWithoutStrategy</key>
+	<string>sampleValueKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorActivityOrientation</key>
+	<string>accessoryShapeContrast</string>
+	<key>cellDuringBridge</key>
+	<string>pageviewObserverDirection</string>
+	<key>custompaintStagePosition</key>
+	<string>observerContainPhase</string>
+	<key>displayableNibBrightness</key>
+	<string>mediaFunctionInteraction</string>
+	<key>enabledViewHead</key>
+	<string>constraintValueSkewy</string>
+	<key>multiSegueVisible</key>
+	<string>discardedSliderOffset</string>
+	<key>radioBesideVisitor</key>
+	<string>unactivatedApertureFeedback</string>
+	<key>tableVarRight</key>
+	<string>notifierSystemMode</string>
+	<key>usedRepositoryCount</key>
+	<string>singletonAtMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFragmentShade</key>
+	<string>utilInsideComposite</string>
+	<key>cycleTaskBound</key>
+	<string>rowWithObserver</string>
+	<key>frameAtFacade</key>
+	<string>decorationOrContext</string>
+	<key>hashLevelSkewy</key>
+	<string>offsetTaskTension</string>
+	<key>responseLayerForce</key>
+	<string>missedCellType</string>
+	<key>topicLikeStyle</key>
+	<string>cursorLevelDepth</string>
+</dict>
+</plist>

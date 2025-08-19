@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPrototypeRotation</key>
+	<string>behaviorExceptProxy</string>
+	<key>coordinatorDespiteMemento</key>
+	<string>prevDrawerAlignment</string>
+	<key>globalGroupTransparency</key>
+	<string>prevDelegateCenter</string>
+	<key>listenerPhaseOrientation</key>
+	<string>semanticDescriptorTag</string>
+	<key>skinAlongVar</key>
+	<string>behaviorVarTop</string>
+	<key>threadAroundJob</key>
+	<string>queryPrototypeDepth</string>
+	<key>variantStrategyForce</key>
+	<string>currentSubscriptionSkewx</string>
+</dict>
+</plist>

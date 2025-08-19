@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCursorOpacity</key>
+	<string>expandedMethodRight</string>
+	<key>eagerCardMode</key>
+	<string>arithmeticVarShape</string>
+	<key>handlerScopeBound</key>
+	<string>positionWithoutFramework</string>
+	<key>layoutTaskForce</key>
+	<string>permissiveConfigurationInterval</string>
+	<key>localUsecaseFeedback</key>
+	<string>cartesianPaddingBound</string>
+	<key>presenterBufferDirection</key>
+	<string>spineMethodShape</string>
+	<key>sliderStyleFeedback</key>
+	<string>awaitTierDelay</string>
+</dict>
+</plist>

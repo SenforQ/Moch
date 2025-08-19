@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOffsetAcceleration</key>
+	<string>advancedPriorityColor</string>
+	<key>backwardCollectionDepth</key>
+	<string>requestThroughFramework</string>
+	<key>cartesianConsumerSkewy</key>
+	<string>tabbarOfPlatform</string>
+	<key>cycleFlyweightVisible</key>
+	<string>responseViaOperation</string>
+	<key>independentSceneVisible</key>
+	<string>sequentialMasterResponse</string>
+	<key>primaryDependencyColor</key>
+	<string>durationAmongAdapter</string>
+	<key>staticFutureOrientation</key>
+	<string>injectionBesideEnvironment</string>
+	<key>textfieldTypeVelocity</key>
+	<string>alignmentFromEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrFacade</key>
+	<string>retainedRichtextSkewy</string>
+	<key>extensionThanFlyweight</key>
+	<string>coordinatorThroughFlyweight</string>
+	<key>flexThanAdapter</key>
+	<string>utilAlongWork</string>
+	<key>plateInsideMode</key>
+	<string>particleFunctionShade</string>
+	<key>timerBeyondState</key>
+	<string>entropyDuringKind</string>
+</dict>
+</plist>

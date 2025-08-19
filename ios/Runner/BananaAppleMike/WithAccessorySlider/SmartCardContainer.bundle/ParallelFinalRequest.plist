@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDuringTier</key>
+	<string>uniformAwaitVisibility</string>
+	<key>observerAboutSingleton</key>
+	<string>gridviewByMediator</string>
+	<key>playbackAroundOperation</key>
+	<string>queueInsideCycle</string>
+	<key>priorChannelsHead</key>
+	<string>cubitByPhase</string>
+	<key>reducerFromTier</key>
+	<string>optimizerThroughFlyweight</string>
+	<key>sliderExceptInterpreter</key>
+	<string>immutableDescriptionDistance</string>
+</dict>
+</plist>

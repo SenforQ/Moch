@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTitleForce</key>
+	<string>frameContainCycle</string>
+	<key>modulusStructureValidation</key>
+	<string>cartesianChapterCount</string>
+	<key>precisionContextScale</key>
+	<string>disparateExtensionMode</string>
+</dict>
+</plist>

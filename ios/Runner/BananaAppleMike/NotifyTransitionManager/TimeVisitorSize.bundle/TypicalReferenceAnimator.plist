@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleChainTheme</key>
+	<string>equalizationModeOrigin</string>
+	<key>chapterActionSaturation</key>
+	<string>gemThroughBuffer</string>
+	<key>entropyMethodIndex</key>
+	<string>cartesianGridFeedback</string>
+	<key>newestAnimatedcontainerDepth</key>
+	<string>animatedRectLeft</string>
+	<key>previewJobBorder</key>
+	<string>presenterWorkDensity</string>
+	<key>rectObserverMargin</key>
+	<string>descriptionPatternType</string>
+	<key>usageNumberSize</key>
+	<string>substantialViewContrast</string>
+</dict>
+</plist>

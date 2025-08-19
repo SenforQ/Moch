@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationEnvironmentAlignment</key>
+	<string>referenceStructureCount</string>
+	<key>discardedNodeStyle</key>
+	<string>spriteForParam</string>
+	<key>nodeByMode</key>
+	<string>synchronousResourceVelocity</string>
+	<key>staticTechniqueSpacing</key>
+	<string>sinkAmongTier</string>
+	<key>unactivatedRiverpodTop</key>
+	<string>prismaticLayerAlignment</string>
+	<key>viewParamFrequency</key>
+	<string>cartesianQueryInterval</string>
+</dict>
+</plist>

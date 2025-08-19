@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureInterpreterSpeed</key>
+	<string>decorationTaskAcceleration</string>
+	<key>navigationWithBridge</key>
+	<string>layerBridgeHead</string>
+	<key>numericalTaskOpacity</key>
+	<string>deferredSkinResponse</string>
+	<key>slashFlyweightHue</key>
+	<string>skirtPhaseDelay</string>
+	<key>tappableNavigatorEdge</key>
+	<string>uniformSineRotation</string>
+</dict>
+</plist>

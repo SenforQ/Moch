@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasInStage</key>
+	<string>cubeOfJob</string>
+	<key>challengeVarPressure</key>
+	<string>menuOrTier</string>
+	<key>coordinatorOutsideTask</key>
+	<string>delegateAtNumber</string>
+	<key>metadataAsBridge</key>
+	<string>cursorByFlyweight</string>
+	<key>pointStyleHead</key>
+	<string>interactorBeyondWork</string>
+	<key>stateContextMargin</key>
+	<string>singletonForObserver</string>
+	<key>threadOperationHead</key>
+	<string>awaitAlongParam</string>
+</dict>
+</plist>

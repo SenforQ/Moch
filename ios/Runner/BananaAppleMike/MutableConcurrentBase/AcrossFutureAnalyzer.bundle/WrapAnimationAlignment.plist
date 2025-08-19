@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistInKind</key>
+	<string>specifierSinceChain</string>
+	<key>discardedCallbackValidation</key>
+	<string>subsequentDescriptionName</string>
+	<key>easyLayoutForce</key>
+	<string>buttonVisitorPadding</string>
+	<key>functionalSignatureIndex</key>
+	<string>visibleTitleSpacing</string>
+	<key>interpolationActionOrientation</key>
+	<string>menuPatternContrast</string>
+	<key>missedStoreDistance</key>
+	<string>transitionTypeAlignment</string>
+	<key>parallelBorderRate</key>
+	<string>widgetSystemOrientation</string>
+</dict>
+</plist>

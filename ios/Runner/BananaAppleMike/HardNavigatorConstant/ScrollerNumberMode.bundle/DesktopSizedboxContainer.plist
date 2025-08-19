@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionContainMethod</key>
+	<string>dependencyValueInteraction</string>
+	<key>independentAspectDistance</key>
+	<string>tappableTernaryValidation</string>
+	<key>localDecorationDistance</key>
+	<string>presenterAmongNumber</string>
+	<key>modalOutsideMode</key>
+	<string>intuitiveTabviewHue</string>
+	<key>permissiveLayerTop</key>
+	<string>methodWithTemple</string>
+	<key>segueObserverLeft</key>
+	<string>groupBufferDelay</string>
+	<key>sizeLayerSpeed</key>
+	<string>viewPhaseFlags</string>
+	<key>sustainablePlateFeedback</key>
+	<string>rowAboutAdapter</string>
+	<key>webDependencyContrast</key>
+	<string>materialLayoutShape</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncShapePressure</key>
+	<string>baselineTempleTint</string>
+	<key>finalMediaqueryDuration</key>
+	<string>transformerAsObserver</string>
+	<key>inheritedPlaybackCoord</key>
+	<string>parallelCompositionOrientation</string>
+	<key>viewForTier</key>
+	<string>curveViaStrategy</string>
+</dict>
+</plist>

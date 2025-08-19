@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicArithmeticTag</key>
+	<string>staticCycleLocation</string>
+	<key>builderVersusFlyweight</key>
+	<string>diffableDependencyRate</string>
+	<key>diffableCompleterOpacity</key>
+	<string>cardContextSkewy</string>
+	<key>labelTempleOpacity</key>
+	<string>commandFunctionRate</string>
+	<key>requestNearForm</key>
+	<string>nextTableTint</string>
+</dict>
+</plist>

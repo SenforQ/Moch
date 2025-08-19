@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStorageSpacing</key>
+	<string>gridviewAtFacade</string>
+	<key>baseForComposite</key>
+	<string>easyWidgetMargin</string>
+	<key>localizationWithoutMethod</key>
+	<string>accessoryCompositeVelocity</string>
+	<key>operationPhaseKind</key>
+	<string>visibleMatrixScale</string>
+	<key>positionedUntilProcess</key>
+	<string>globalThreadLeft</string>
+</dict>
+</plist>

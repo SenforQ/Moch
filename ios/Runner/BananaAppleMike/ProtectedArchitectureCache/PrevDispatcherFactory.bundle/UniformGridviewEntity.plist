@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCycleTheme</key>
+	<string>dependencyAdapterTheme</string>
+	<key>ephemeralCatalystHead</key>
+	<string>unsortedScrollMode</string>
+	<key>loopFromMethod</key>
+	<string>intuitiveTabviewHue</string>
+	<key>nativeAxisVisible</key>
+	<string>variantFacadeColor</string>
+	<key>positionOutsideWork</key>
+	<string>metadataDecoratorSize</string>
+	<key>scaleThanFacade</key>
+	<string>taskPhaseDuration</string>
+</dict>
+</plist>

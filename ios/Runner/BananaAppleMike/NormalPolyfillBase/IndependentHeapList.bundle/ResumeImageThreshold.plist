@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionNearStructure</key>
+	<string>notifierStrategyContrast</string>
+	<key>controllerStatePosition</key>
+	<string>interactiveAwaitValidation</string>
+	<key>flexDuringTask</key>
+	<string>textPerLayer</string>
+	<key>materialWithoutSingleton</key>
+	<string>subpixelAtCycle</string>
+	<key>mediaMediatorDirection</key>
+	<string>canvasKindContrast</string>
+	<key>notifierIncludeTask</key>
+	<string>allocatorAroundParameter</string>
+	<key>projectBridgeType</key>
+	<string>mainContainerState</string>
+</dict>
+</plist>

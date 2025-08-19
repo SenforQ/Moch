@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelLikeShape</key>
+	<string>permanentDependencyShape</string>
+	<key>concurrentAsyncAcceleration</key>
+	<string>seamlessSpriteValidation</string>
+	<key>curveObserverScale</key>
+	<string>logarithmTierShape</string>
+	<key>frameThanBridge</key>
+	<string>timerIncludeTask</string>
+	<key>taskExceptVar</key>
+	<string>respectiveDelegateAlignment</string>
+	<key>zoneValueHue</key>
+	<string>permissiveMetadataCoord</string>
+</dict>
+</plist>

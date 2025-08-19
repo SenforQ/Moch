@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveWorkBehavior</key>
+	<string>featureMementoSkewy</string>
+	<key>futureOperationTheme</key>
+	<string>dialogsVariableTension</string>
+	<key>geometricContainerDensity</key>
+	<string>subpixelByTask</string>
+	<key>lazyBaselineSkewy</key>
+	<string>semanticFeatureVelocity</string>
+	<key>lostDelegateTheme</key>
+	<string>spriteBeyondPrototype</string>
+	<key>managerBeyondShape</key>
+	<string>declarativeContainerStyle</string>
+	<key>masterPerScope</key>
+	<string>otherProviderTail</string>
+	<key>mobileAtCommand</key>
+	<string>transitionVariableTension</string>
+	<key>titleExceptStyle</key>
+	<string>specifierViaTask</string>
+</dict>
+</plist>

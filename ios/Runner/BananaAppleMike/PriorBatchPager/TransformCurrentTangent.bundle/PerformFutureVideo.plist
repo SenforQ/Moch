@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationParamSize</key>
+	<string>factoryInterpreterPadding</string>
+	<key>greatLogPadding</key>
+	<string>visibleDimensionSaturation</string>
+	<key>layoutUntilDecorator</key>
+	<string>immutableMenuRight</string>
+	<key>plateProcessOrigin</key>
+	<string>resultInterpreterDuration</string>
+	<key>reducerViaLevel</key>
+	<string>boxTypeTransparency</string>
+	<key>streamDuringSingleton</key>
+	<string>streamPhaseState</string>
+</dict>
+</plist>

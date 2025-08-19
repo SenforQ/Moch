@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBesideCommand</key>
+	<string>containerTierLeft</string>
+	<key>cosineShapeSpacing</key>
+	<string>controllerChainDistance</string>
+	<key>cyclePatternMode</key>
+	<string>standaloneKernelCount</string>
+	<key>memberStrategyDepth</key>
+	<string>factoryVisitorState</string>
+	<key>progressbarStyleForce</key>
+	<string>hyperbolicSignatureVelocity</string>
+	<key>progressbarTempleBrightness</key>
+	<string>eagerDimensionSkewy</string>
+	<key>requestAgainstLayer</key>
+	<string>utilWorkKind</string>
+	<key>scrollableRowOpacity</key>
+	<string>keyArithmeticDistance</string>
+	<key>standaloneRichtextInteraction</key>
+	<string>textureStructureBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineNearMethod</key>
+	<string>playbackModeContrast</string>
+	<key>crudeCardDensity</key>
+	<string>oldSinkScale</string>
+	<key>descriptionAdapterOrigin</key>
+	<string>providerByProxy</string>
+	<key>eventVisitorInset</key>
+	<string>previewAmongCommand</string>
+	<key>rapidRepositoryOrigin</key>
+	<string>radioPrototypeVisible</string>
+	<key>utilProcessDelay</key>
+	<string>graphProcessLeft</string>
+</dict>
+</plist>

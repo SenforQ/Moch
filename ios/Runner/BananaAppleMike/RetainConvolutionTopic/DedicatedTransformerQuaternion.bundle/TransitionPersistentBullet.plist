@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateAnimationTag</key>
+	<string>robustTickerHead</string>
+	<key>notificationProcessPressure</key>
+	<string>futureFromContext</string>
+	<key>protectedEntityScale</key>
+	<string>cubeLayerBorder</string>
+	<key>requestCycleTheme</key>
+	<string>cardValueInset</string>
+	<key>requiredLabelCoord</key>
+	<string>textNearBridge</string>
+	<key>sinkUntilAdapter</key>
+	<string>nodeVisitorLocation</string>
+	<key>usecasePrototypePosition</key>
+	<string>groupDuringStrategy</string>
+</dict>
+</plist>

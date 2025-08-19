@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTweenTail</key>
+	<string>spineFacadeTop</string>
+	<key>asynchronousResultOffset</key>
+	<string>canvasOperationSkewy</string>
+	<key>autoSeguePadding</key>
+	<string>constMarginShape</string>
+	<key>mobxLevelTheme</key>
+	<string>tangentOutsideObserver</string>
+	<key>priorityTierMode</key>
+	<string>extensionDuringCommand</string>
+	<key>radiusLikeKind</key>
+	<string>decorationWithState</string>
+	<key>requestTempleMargin</key>
+	<string>globalNotificationHead</string>
+</dict>
+</plist>

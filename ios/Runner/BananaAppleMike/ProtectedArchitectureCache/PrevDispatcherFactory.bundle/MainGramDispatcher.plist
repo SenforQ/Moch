@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerTypeFormat</key>
+	<string>responseVersusOperation</string>
+	<key>menuBesideContext</key>
+	<string>tensorSensorPosition</string>
+	<key>positionIncludeParam</key>
+	<string>screenThroughCommand</string>
+	<key>resilientParticleTransparency</key>
+	<string>typicalBinaryMargin</string>
+	<key>stackStateMargin</key>
+	<string>methodAtShape</string>
+</dict>
+</plist>

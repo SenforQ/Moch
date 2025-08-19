@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowPhaseResponse</key>
+	<string>loopVersusOperation</string>
+	<key>heapSystemHead</key>
+	<string>frameBufferSpeed</string>
+	<key>liteSinkVisible</key>
+	<string>curveContainSingleton</string>
+	<key>localizationChainFeedback</key>
+	<string>cacheTypeLocation</string>
+	<key>opaqueAnimationBrightness</key>
+	<string>specifierSinceValue</string>
+	<key>referenceSystemLeft</key>
+	<string>completionNearMode</string>
+	<key>segmentActivityAppearance</key>
+	<string>allocatorVersusChain</string>
+	<key>signatureMementoMargin</key>
+	<string>missionThroughStage</string>
+</dict>
+</plist>

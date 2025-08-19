@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVarVelocity</key>
+	<string>descriptorIncludeParam</string>
+	<key>batchCompositeInterval</key>
+	<string>progressbarThroughForm</string>
+	<key>compositionalWidgetName</key>
+	<string>channelByPlatform</string>
+	<key>factoryAmongStrategy</key>
+	<string>exceptionContextMargin</string>
+	<key>lostGrainOpacity</key>
+	<string>reductionInterpreterPosition</string>
+	<key>lostObserverLocation</key>
+	<string>groupFrameworkAppearance</string>
+	<key>nativeAwaitDistance</key>
+	<string>hardDrawerBound</string>
+	<key>publicLayerShade</key>
+	<string>certificateShapePadding</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAnchorFormat</key>
+	<string>interactiveQueryShape</string>
+	<key>gatePatternResponse</key>
+	<string>interfaceStyleInset</string>
+	<key>groupTypeResponse</key>
+	<string>canvasLayerFlags</string>
+	<key>offsetSincePattern</key>
+	<string>keyFlexShade</string>
+	<key>optionFrameworkOffset</key>
+	<string>responsiveStatelessBehavior</string>
+	<key>providerStyleDirection</key>
+	<string>routeOrComposite</string>
+	<key>reusableStoryboardInterval</key>
+	<string>invisibleChannelBorder</string>
+	<key>segmentCycleInset</key>
+	<string>composableArithmeticCenter</string>
+	<key>sustainableLabelSkewx</key>
+	<string>capacitiesSinceAction</string>
+</dict>
+</plist>

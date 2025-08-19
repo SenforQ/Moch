@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTransformerMode</key>
+	<string>explicitChartStyle</string>
+	<key>invisibleContainerSkewy</key>
+	<string>awaitLayerAppearance</string>
+	<key>protocolInStrategy</key>
+	<string>sineTypeLocation</string>
+	<key>sliderNearMode</key>
+	<string>gestureDecoratorBehavior</string>
+	<key>synchronousUtilRate</key>
+	<string>equalizationLayerHue</string>
+</dict>
+</plist>

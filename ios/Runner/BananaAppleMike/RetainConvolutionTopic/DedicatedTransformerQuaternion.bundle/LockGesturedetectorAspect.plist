@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedBrushInterval</key>
+	<string>graphPerStrategy</string>
+	<key>gateWithMode</key>
+	<string>operationCompositeSkewy</string>
+	<key>interactiveStatefulValidation</key>
+	<string>decorationVersusBuffer</string>
+	<key>otherOffsetRate</key>
+	<string>stackInterpreterOrigin</string>
+	<key>parallelCharacterFormat</key>
+	<string>responseLikeSystem</string>
+	<key>responseTempleTag</key>
+	<string>matrixInterpreterTail</string>
+	<key>sensorParameterCoord</key>
+	<string>flexibleDialogsVelocity</string>
+	<key>sliderInsideForm</key>
+	<string>cacheValueColor</string>
+</dict>
+</plist>

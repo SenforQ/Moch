@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarActionName</key>
+	<string>blocPerProcess</string>
+	<key>cachePhaseOpacity</key>
+	<string>observerSystemInset</string>
+	<key>localizationStructureBound</key>
+	<string>discardedListenerFormat</string>
+	<key>symmetricStorageLocation</key>
+	<string>segmentModeAlignment</string>
+	<key>viewBeyondFramework</key>
+	<string>baseAlongKind</string>
+</dict>
+</plist>

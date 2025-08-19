@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerIncludeForm</key>
+	<string>unactivatedCollectionTop</string>
+	<key>cupertinoThreadFrequency</key>
+	<string>associatedTickerSpacing</string>
+	<key>lossSingletonMargin</key>
+	<string>borderViaScope</string>
+	<key>lostMemberEdge</key>
+	<string>paddingNumberTheme</string>
+	<key>reactiveStorageRight</key>
+	<string>referenceModeCount</string>
+	<key>timerTempleVisible</key>
+	<string>techniqueAtActivity</string>
+</dict>
+</plist>

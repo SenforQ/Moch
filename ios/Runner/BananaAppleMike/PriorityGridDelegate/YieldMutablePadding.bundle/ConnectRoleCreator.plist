@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorContextRotation</key>
+	<string>activeNavigatorColor</string>
+	<key>discardedExpandedBrightness</key>
+	<string>tableAgainstFramework</string>
+	<key>enabledResultPressure</key>
+	<string>scrollableResponseHue</string>
+	<key>firstCosineTheme</key>
+	<string>synchronousDurationAppearance</string>
+	<key>layerNearCommand</key>
+	<string>completionOutsideProcess</string>
+	<key>resolverAwayTask</key>
+	<string>serviceContextSpacing</string>
+	<key>stampOrComposite</key>
+	<string>scaleNearPlatform</string>
+	<key>visibleAspectratioOrigin</key>
+	<string>presenterPlatformDuration</string>
+</dict>
+</plist>

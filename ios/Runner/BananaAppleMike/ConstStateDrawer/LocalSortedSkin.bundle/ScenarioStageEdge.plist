@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPerState</key>
+	<string>significantIntensityHead</string>
+	<key>nodeTierSkewy</key>
+	<string>standaloneIsolateState</string>
+	<key>sampleInMediator</key>
+	<string>asyncAlongProxy</string>
+	<key>stepWithoutMethod</key>
+	<string>providerAtFunction</string>
+	<key>storeIncludeValue</key>
+	<string>mainGridEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAboutProxy</key>
+	<string>resolverBySingleton</string>
+	<key>checklistLikePrototype</key>
+	<string>arithmeticFromFlyweight</string>
+	<key>customizedControllerBehavior</key>
+	<string>oldLossScale</string>
+	<key>ephemeralTransformerDistance</key>
+	<string>isolateTaskTint</string>
+	<key>hyperbolicHistogramInteraction</key>
+	<string>reductionNearComposite</string>
+	<key>pivotalInterfaceName</key>
+	<string>vectorWithoutStage</string>
+	<key>tappableSensorCenter</key>
+	<string>labelPatternHue</string>
+	<key>techniquePhaseResponse</key>
+	<string>gridMethodBorder</string>
+	<key>timerModeFrequency</key>
+	<string>normalRoleType</string>
+	<key>typicalObserverValidation</key>
+	<string>interactiveConvolutionAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeJobRotation</key>
+	<string>providerTypeVelocity</string>
+	<key>deferredPopupColor</key>
+	<string>sizeOutsideFlyweight</string>
+	<key>enabledRichtextInterval</key>
+	<string>tabbarStrategyScale</string>
+	<key>entityActionTheme</key>
+	<string>otherLayoutHue</string>
+	<key>interpolationStyleColor</key>
+	<string>immediateResolverBehavior</string>
+	<key>offsetLayerOrigin</key>
+	<string>capsuleMementoKind</string>
+	<key>roleDecoratorCenter</key>
+	<string>cursorTaskMode</string>
+	<key>stampTaskKind</key>
+	<string>challengeActionPosition</string>
+</dict>
+</plist>

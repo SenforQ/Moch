@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCollectionSpeed</key>
+	<string>standaloneStatefulDuration</string>
+	<key>buttonPlatformFlags</key>
+	<string>roleLayerDirection</string>
+	<key>descriptionLayerRotation</key>
+	<string>cubeInsideCommand</string>
+	<key>displayableReferenceTag</key>
+	<string>euclideanStorageBehavior</string>
+	<key>liteAwaitCount</key>
+	<string>curveCommandOpacity</string>
+	<key>seamlessObserverContrast</key>
+	<string>lostResourceStatus</string>
+	<key>sessionProxyTint</key>
+	<string>hierarchicalTopicTag</string>
+	<key>smallMapSpacing</key>
+	<string>multiplicationAroundParameter</string>
+</dict>
+</plist>

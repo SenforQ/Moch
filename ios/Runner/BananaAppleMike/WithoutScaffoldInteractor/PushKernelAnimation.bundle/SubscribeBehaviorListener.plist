@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxForSystem</key>
+	<string>heapMethodMargin</string>
+	<key>buttonPerMethod</key>
+	<string>adaptiveQueueDuration</string>
+	<key>cycleOperationRight</key>
+	<string>dynamicMaterialSkewx</string>
+	<key>intensityPerEnvironment</key>
+	<string>gestureTypeTheme</string>
+	<key>liteSensorResponse</key>
+	<string>observerInValue</string>
+	<key>mutableTransitionRotation</key>
+	<string>webAppbarDistance</string>
+	<key>requestAroundStyle</key>
+	<string>localSceneOpacity</string>
+	<key>sampleVariableInset</key>
+	<string>finalLogarithmTail</string>
+	<key>temporaryParticleColor</key>
+	<string>delegateOfPhase</string>
+</dict>
+</plist>

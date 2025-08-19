@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPainterKind</key>
+	<string>tangentCycleFrequency</string>
+	<key>declarativeIsolateTint</key>
+	<string>euclideanGroupHue</string>
+	<key>imageBesideTask</key>
+	<string>elasticStatelessCount</string>
+	<key>intensityAtTask</key>
+	<string>mediaqueryNearOperation</string>
+	<key>subsequentCaptionHue</key>
+	<string>resizableSubscriptionMode</string>
+	<key>tableNearStrategy</key>
+	<string>reducerWithLevel</string>
+</dict>
+</plist>

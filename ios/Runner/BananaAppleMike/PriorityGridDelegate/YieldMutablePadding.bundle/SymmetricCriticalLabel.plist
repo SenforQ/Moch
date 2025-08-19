@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMementoBound</key>
+	<string>referenceCommandShade</string>
+	<key>equalizationAdapterShade</key>
+	<string>blocAndMemento</string>
+	<key>firstConstraintCenter</key>
+	<string>statefulValueVelocity</string>
+	<key>priorityAmongMemento</key>
+	<string>commonCommandOrigin</string>
+	<key>profileTierIndex</key>
+	<string>localizationScopeTheme</string>
+</dict>
+</plist>

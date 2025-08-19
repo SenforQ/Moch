@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicQueryVisible</key>
+	<string>statelessSegmentShade</string>
+	<key>gridInsideComposite</key>
+	<string>nextStoryboardSpacing</string>
+	<key>mediocreCoordinatorAlignment</key>
+	<string>previewFrameworkBound</string>
+	<key>resilientAspectSize</key>
+	<string>hierarchicalCompositionAppearance</string>
+	<key>serviceMediatorDistance</key>
+	<string>spriteContextTail</string>
+	<key>threadInterpreterTheme</key>
+	<string>gestureCompositeFeedback</string>
+	<key>webAppbarAppearance</key>
+	<string>liteOperationName</string>
+</dict>
+</plist>

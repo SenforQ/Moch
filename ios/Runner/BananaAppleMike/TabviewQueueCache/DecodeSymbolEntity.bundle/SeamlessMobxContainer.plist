@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarViaCommand</key>
+	<string>positionedCycleScale</string>
+	<key>chapterWithoutForm</key>
+	<string>beginnerTransitionContrast</string>
+	<key>newestPlaybackCount</key>
+	<string>advancedSymbolMode</string>
+	<key>reactiveCallbackFlags</key>
+	<string>displayablePlateInterval</string>
+	<key>signParameterHue</key>
+	<string>stepPlatformRate</string>
+	<key>singletonBesideMode</key>
+	<string>entropyViaParam</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRowColor</key>
+	<string>usedMemberBehavior</string>
+	<key>constProfileShade</key>
+	<string>autoMetadataTransparency</string>
+	<key>consumerValueScale</key>
+	<string>lossAmongSingleton</string>
+	<key>heroBesideLevel</key>
+	<string>arithmeticReducerBorder</string>
+	<key>ignoredBuilderRotation</key>
+	<string>autoConfigurationDelay</string>
+	<key>interfaceSystemTheme</key>
+	<string>firstLayoutTag</string>
+	<key>intermediateHashStyle</key>
+	<string>materialTaskHue</string>
+	<key>presenterAroundMethod</key>
+	<string>clipperAsEnvironment</string>
+	<key>variantSinceLayer</key>
+	<string>effectPlatformHue</string>
+</dict>
+</plist>

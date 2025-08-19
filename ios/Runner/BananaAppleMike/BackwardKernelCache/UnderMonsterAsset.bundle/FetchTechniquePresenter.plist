@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCubitBehavior</key>
+	<string>tableStageMomentum</string>
+	<key>futureVersusAdapter</key>
+	<string>checkboxAtComposite</string>
+	<key>graphicWorkInterval</key>
+	<string>cartesianProjectDelay</string>
+	<key>menuAboutEnvironment</key>
+	<string>beginnerPresenterOrigin</string>
+	<key>rapidTimerCenter</key>
+	<string>permanentMobileAppearance</string>
+	<key>rowLayerRate</key>
+	<string>errorActionHead</string>
+	<key>toolParameterInset</key>
+	<string>synchronousRiverpodRight</string>
+</dict>
+</plist>

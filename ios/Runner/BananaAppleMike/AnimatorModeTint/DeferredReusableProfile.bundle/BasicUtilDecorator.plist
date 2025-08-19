@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorTempleSaturation</key>
+	<string>borderTempleValidation</string>
+	<key>progressbarAgainstFacade</key>
+	<string>adaptiveTopicBrightness</string>
+	<key>reactiveQueueSkewy</key>
+	<string>vectorExceptActivity</string>
+	<key>resolverByEnvironment</key>
+	<string>entityAroundState</string>
+	<key>retainedExceptionFormat</key>
+	<string>masterByParameter</string>
+</dict>
+</plist>

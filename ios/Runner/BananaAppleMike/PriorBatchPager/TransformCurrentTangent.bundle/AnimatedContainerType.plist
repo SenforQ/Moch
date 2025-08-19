@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStrategyStyle</key>
+	<string>clipperCommandTheme</string>
+	<key>heapDuringProxy</key>
+	<string>gridBesideMethod</string>
+	<key>singletonDespiteContext</key>
+	<string>activityObserverTop</string>
+	<key>textureNearMemento</key>
+	<string>curveFlyweightVelocity</string>
+	<key>tweenOutsideFacade</key>
+	<string>inkwellJobDensity</string>
+	<key>viewAlongCommand</key>
+	<string>routeFacadeVisibility</string>
+</dict>
+</plist>

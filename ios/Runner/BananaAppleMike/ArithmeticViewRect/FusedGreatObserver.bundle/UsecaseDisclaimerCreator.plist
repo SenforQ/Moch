@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleScopeCoord</key>
+	<string>titleThroughLevel</string>
+	<key>cellByCycle</key>
+	<string>finalLogBound</string>
+	<key>custompaintPerBridge</key>
+	<string>layoutOrOperation</string>
+	<key>materialInterfaceOpacity</key>
+	<string>grayscaleParamFlags</string>
+	<key>offsetLevelDuration</key>
+	<string>fixedInterpolationRate</string>
+	<key>publicInjectionShape</key>
+	<string>subsequentAllocatorVisibility</string>
+</dict>
+</plist>

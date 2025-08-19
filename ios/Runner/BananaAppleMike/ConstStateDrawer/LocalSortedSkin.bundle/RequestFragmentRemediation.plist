@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTabviewOrientation</key>
+	<string>actionVariableOrientation</string>
+	<key>activeReducerDensity</key>
+	<string>retainedManagerMode</string>
+	<key>asyncAsScope</key>
+	<string>awaitStageBorder</string>
+	<key>layoutAgainstForm</key>
+	<string>segmentFromTask</string>
+	<key>storePhaseVisible</key>
+	<string>capacitiesAtVar</string>
+</dict>
+</plist>

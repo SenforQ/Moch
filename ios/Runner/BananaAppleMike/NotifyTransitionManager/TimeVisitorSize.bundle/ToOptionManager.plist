@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleProcessInterval</key>
+	<string>notificationVersusProxy</string>
+	<key>compositionDespiteDecorator</key>
+	<string>crudeScreenShape</string>
+	<key>customAccessoryFlags</key>
+	<string>modulusBeyondVariable</string>
+	<key>dependencyExceptParam</key>
+	<string>compositionFromStructure</string>
+	<key>errorSingletonScale</key>
+	<string>directlyOperationDensity</string>
+	<key>factoryObserverPressure</key>
+	<string>smartTextIndex</string>
+	<key>layerFromPrototype</key>
+	<string>draggableEventFlags</string>
+	<key>notifierViaScope</key>
+	<string>mobileObserverValidation</string>
+	<key>scaffoldOfEnvironment</key>
+	<string>semanticConstraintState</string>
+</dict>
+</plist>

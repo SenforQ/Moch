@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandLayerFlags</key>
+	<string>statefulAlongMediator</string>
+	<key>containerContextDelay</key>
+	<string>secondCompletionValidation</string>
+	<key>exponentJobVisible</key>
+	<string>behaviorMementoResponse</string>
+	<key>fragmentFrameworkContrast</key>
+	<string>associatedTextureTransparency</string>
+	<key>isolateNearStage</key>
+	<string>timerNearLevel</string>
+	<key>sensorScopeShape</key>
+	<string>positionEnvironmentDistance</string>
+	<key>standaloneGridRotation</key>
+	<string>momentumPlatformOrientation</string>
+	<key>subpixelAgainstPattern</key>
+	<string>relationalApertureSaturation</string>
+	<key>synchronousTimerFeedback</key>
+	<string>navigatorActivityDirection</string>
+</dict>
+</plist>

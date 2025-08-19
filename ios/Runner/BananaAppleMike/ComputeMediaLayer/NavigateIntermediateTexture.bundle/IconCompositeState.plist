@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForMethod</key>
+	<string>multiAllocatorDensity</string>
+	<key>groupByType</key>
+	<string>responsiveDelegateTop</string>
+	<key>inkwellFromType</key>
+	<string>listviewWithoutForm</string>
+	<key>listenerSinceInterpreter</key>
+	<string>skinActionDensity</string>
+	<key>musicAsContext</key>
+	<string>matrixVersusJob</string>
+	<key>observerExceptPhase</key>
+	<string>memberTempleFeedback</string>
+	<key>resolverTaskBottom</key>
+	<string>certificateEnvironmentTransparency</string>
+	<key>scaleNearStrategy</key>
+	<string>animatedLayoutVelocity</string>
+	<key>stateWithForm</key>
+	<string>graphInterpreterPosition</string>
+</dict>
+</plist>

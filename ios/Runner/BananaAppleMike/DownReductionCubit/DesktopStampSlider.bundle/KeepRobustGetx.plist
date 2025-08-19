@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleMediatorFeedback</key>
+	<string>draggableViewHue</string>
+	<key>frameAboutLayer</key>
+	<string>constraintViaPrototype</string>
+	<key>gridviewExceptLayer</key>
+	<string>sharedDrawerBrightness</string>
+	<key>lazyStepVisibility</key>
+	<string>rowAgainstFacade</string>
+	<key>mapStrategyCenter</key>
+	<string>viewDespitePlatform</string>
+	<key>mediaWithParameter</key>
+	<string>interactiveInkwellInset</string>
+	<key>pinchableSpecifierFeedback</key>
+	<string>curveWorkStyle</string>
+	<key>requiredQueueCount</key>
+	<string>usecaseBeyondType</string>
+	<key>unaryLevelState</key>
+	<string>marginPlatformFlags</string>
+</dict>
+</plist>

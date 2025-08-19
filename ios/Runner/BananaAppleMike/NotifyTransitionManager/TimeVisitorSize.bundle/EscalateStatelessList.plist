@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGradientBrightness</key>
+	<string>cycleSystemOpacity</string>
+	<key>backwardButtonDepth</key>
+	<string>callbackVersusEnvironment</string>
+	<key>buttonBeyondAction</key>
+	<string>animationAsScope</string>
+	<key>independentLocalizationType</key>
+	<string>mediumVariantStatus</string>
+	<key>metadataAndProcess</key>
+	<string>metadataTierVisible</string>
+	<key>profileProcessHue</key>
+	<string>draggableStreamVisibility</string>
+	<key>retainedStateFeedback</key>
+	<string>consultativeTaskShape</string>
+</dict>
+</plist>

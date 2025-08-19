@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceTier</key>
+	<string>graphSystemRotation</string>
+	<key>brushOperationDistance</key>
+	<string>factoryKindLocation</string>
+	<key>contractionActivityFrequency</key>
+	<string>activeButtonInterval</string>
+	<key>graphicNumberPosition</key>
+	<string>utilByTier</string>
+	<key>instructionFormPadding</key>
+	<string>marginFormSpacing</string>
+	<key>missedChecklistTheme</key>
+	<string>subscriptionAroundChain</string>
+	<key>rectAwayContext</key>
+	<string>themeTierBehavior</string>
+	<key>responseObserverType</key>
+	<string>elasticResolverBrightness</string>
+	<key>staticCatalystStyle</key>
+	<string>cubeLikeValue</string>
+	<key>subscriptionParamRight</key>
+	<string>agileStreamTheme</string>
+</dict>
+</plist>

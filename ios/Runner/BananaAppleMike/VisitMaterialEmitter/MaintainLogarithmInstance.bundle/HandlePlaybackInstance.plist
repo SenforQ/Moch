@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAboutWork</key>
+	<string>allocatorFormTheme</string>
+	<key>cubitAdapterSkewx</key>
+	<string>aspectProcessSpacing</string>
+	<key>delegateWorkSpacing</key>
+	<string>checklistPhaseCoord</string>
+	<key>gestureEnvironmentFlags</key>
+	<string>exceptionMethodBrightness</string>
+	<key>mediaThroughStyle</key>
+	<string>groupWorkBottom</string>
+	<key>mediaqueryScopeDepth</key>
+	<string>configurationFlyweightVisibility</string>
+	<key>requestOutsideShape</key>
+	<string>utilDuringVar</string>
+	<key>respectiveHandlerHead</key>
+	<string>accordionFlexInset</string>
+	<key>spriteFromKind</key>
+	<string>observerSystemBehavior</string>
+</dict>
+</plist>

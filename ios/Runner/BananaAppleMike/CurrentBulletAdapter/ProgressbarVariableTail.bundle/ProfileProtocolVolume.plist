@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionPerDecorator</key>
+	<string>numericalListviewInterval</string>
+	<key>keyDecorationCoord</key>
+	<string>tappableObserverVelocity</string>
+	<key>missedTabbarPosition</key>
+	<string>unsortedEventOffset</string>
+	<key>permanentRectRotation</key>
+	<string>roleObserverForce</string>
+	<key>sizeContextColor</key>
+	<string>playbackPhaseKind</string>
+	<key>sliderVersusLevel</key>
+	<string>resourceAroundForm</string>
+</dict>
+</plist>

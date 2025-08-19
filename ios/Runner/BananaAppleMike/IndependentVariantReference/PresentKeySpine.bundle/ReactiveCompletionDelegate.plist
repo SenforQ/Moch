@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLevelOrigin</key>
+	<string>popupTypePressure</string>
+	<key>descriptionAwayValue</key>
+	<string>routeAboutNumber</string>
+	<key>hierarchicalEventBound</key>
+	<string>resilientTouchRotation</string>
+	<key>matrixCommandShade</key>
+	<string>gestureUntilPhase</string>
+	<key>transitionFlyweightLeft</key>
+	<string>cupertinoCommandScale</string>
+</dict>
+</plist>

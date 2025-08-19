@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customErrorInteraction</key>
+	<string>toolByLevel</string>
+	<key>dimensionCommandDirection</key>
+	<string>brushVersusForm</string>
+	<key>scaleOrVariable</key>
+	<string>gateStyleVisible</string>
+	<key>tabviewFlyweightOffset</key>
+	<string>cartesianResponseAlignment</string>
+</dict>
+</plist>

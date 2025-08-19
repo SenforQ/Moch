@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxFacadeSaturation</key>
+	<string>checkboxBridgeBehavior</string>
+	<key>crucialGroupResponse</key>
+	<string>interactivePageviewPadding</string>
+	<key>immutableObserverTransparency</key>
+	<string>intensityCycleOpacity</string>
+	<key>independentAnimatedcontainerEdge</key>
+	<string>rectViaMediator</string>
+	<key>intermediateStateBehavior</key>
+	<string>sampleOperationVisibility</string>
+	<key>mainProjectCenter</key>
+	<string>textureForParam</string>
+	<key>painterOutsideStructure</key>
+	<string>materialOperationKind</string>
+	<key>progressbarBridgeBrightness</key>
+	<string>gemFromFramework</string>
+</dict>
+</plist>

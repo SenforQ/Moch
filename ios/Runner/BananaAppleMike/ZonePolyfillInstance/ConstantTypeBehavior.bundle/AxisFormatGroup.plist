@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSinkBehavior</key>
+	<string>concreteObserverCount</string>
+	<key>completionCycleFormat</key>
+	<string>primaryThreadTheme</string>
+	<key>draggableOperationBehavior</key>
+	<string>subpixelBeyondNumber</string>
+	<key>equalizationOutsideInterpreter</key>
+	<string>alphaUntilOperation</string>
+	<key>intensityJobSkewx</key>
+	<string>layerTempleInterval</string>
+	<key>projectSystemSkewy</key>
+	<string>semanticLossOrigin</string>
+	<key>segmentNearNumber</key>
+	<string>responseForWork</string>
+	<key>statelessLayoutDepth</key>
+	<string>beginnerCupertinoSpacing</string>
+</dict>
+</plist>

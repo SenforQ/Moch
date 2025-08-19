@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalLoopType</key>
+	<string>notifierAdapterBound</string>
+	<key>constraintVarOrientation</key>
+	<string>resourceDecoratorFeedback</string>
+	<key>cubitLayerName</key>
+	<string>particleOutsideAction</string>
+	<key>grainAdapterBottom</key>
+	<string>staticStreamFlags</string>
+	<key>smartConsumerDistance</key>
+	<string>queueVarBorder</string>
+</dict>
+</plist>

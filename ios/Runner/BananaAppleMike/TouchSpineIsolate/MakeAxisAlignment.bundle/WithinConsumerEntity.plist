@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandLevelSpacing</key>
+	<string>projectionTypeShape</string>
+	<key>commonImageType</key>
+	<string>nativeGraphSkewy</string>
+	<key>groupAndStrategy</key>
+	<string>vectorByJob</string>
+	<key>opaqueActionTransparency</key>
+	<string>coordinatorDuringLevel</string>
+	<key>sliderOfVariable</key>
+	<string>geometricRichtextRotation</string>
+	<key>typicalSingletonDelay</key>
+	<string>animationAwayStrategy</string>
+	<key>usageInSystem</key>
+	<string>widgetChainTail</string>
+</dict>
+</plist>

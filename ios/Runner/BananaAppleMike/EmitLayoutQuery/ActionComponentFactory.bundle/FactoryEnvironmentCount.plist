@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedOptionFrequency</key>
+	<string>painterInsideAdapter</string>
+	<key>materialStackFrequency</key>
+	<string>interactiveSineHead</string>
+	<key>webSliderPadding</key>
+	<string>isolateFacadeHue</string>
+</dict>
+</plist>

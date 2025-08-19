@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGroupScale</key>
+	<string>explicitThreadScale</string>
+	<key>asyncLayerPadding</key>
+	<string>textfieldAtStructure</string>
+	<key>autoNavigatorInteraction</key>
+	<string>cellBesideInterpreter</string>
+	<key>clipperDespiteState</key>
+	<string>monsterTempleBrightness</string>
+	<key>coordinatorTierBorder</key>
+	<string>effectFrameworkValidation</string>
+	<key>mobileCacheTension</key>
+	<string>hardDelegateCount</string>
+	<key>statefulDelegateTransparency</key>
+	<string>requestParameterHue</string>
+</dict>
+</plist>

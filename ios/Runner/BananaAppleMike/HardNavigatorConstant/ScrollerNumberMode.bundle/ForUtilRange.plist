@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicActionPadding</key>
+	<string>buttonProcessSkewy</string>
+	<key>eventPatternScale</key>
+	<string>autoStatelessRotation</string>
+	<key>fusedPetTail</key>
+	<string>localizationForPrototype</string>
+	<key>liteBatchHead</key>
+	<string>taskStructureIndex</string>
+	<key>logarithmWorkDirection</key>
+	<string>tangentNearProxy</string>
+	<key>requestOrMemento</key>
+	<string>newestHashTail</string>
+	<key>shaderFrameworkTop</key>
+	<string>iconMementoFormat</string>
+	<key>textNumberValidation</key>
+	<string>agileAxisDepth</string>
+	<key>widgetWithoutVisitor</key>
+	<string>agileTextPadding</string>
+</dict>
+</plist>

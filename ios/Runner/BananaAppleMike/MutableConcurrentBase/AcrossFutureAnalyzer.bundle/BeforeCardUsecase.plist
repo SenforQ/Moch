@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorObserverInset</key>
+	<string>animatedAccessoryFeedback</string>
+	<key>animatedActivityBehavior</key>
+	<string>builderForTemple</string>
+	<key>collectionTempleContrast</key>
+	<string>segueTierOpacity</string>
+	<key>explicitScaleInteraction</key>
+	<string>multiBulletColor</string>
+	<key>explicitToolMargin</key>
+	<string>materialModelBorder</string>
+	<key>gridviewParamDuration</key>
+	<string>gridNearProxy</string>
+	<key>semanticStoryboardMargin</key>
+	<string>diffableTransitionSaturation</string>
+	<key>symmetricTextFormat</key>
+	<string>builderLayerSkewy</string>
+	<key>synchronousNotifierVelocity</key>
+	<string>buttonAwayCycle</string>
+	<key>tableNearMode</key>
+	<string>containerAndWork</string>
+</dict>
+</plist>

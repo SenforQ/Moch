@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorExceptOperation</key>
+	<string>histogramStrategyMomentum</string>
+	<key>buttonWorkFormat</key>
+	<string>largeTextureCenter</string>
+	<key>enabledConstraintTransparency</key>
+	<string>unsortedStorageBound</string>
+	<key>resolverAmongObserver</key>
+	<string>workflowProcessHead</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDocumentMargin</key>
+	<string>resultOrBridge</string>
+	<key>boxshadowFormFrequency</key>
+	<string>bufferBesideFramework</string>
+	<key>coordinatorDespiteStrategy</key>
+	<string>denseCurveDelay</string>
+	<key>delegateSinceAction</key>
+	<string>buttonBridgeDirection</string>
+	<key>easyCubitHead</key>
+	<string>cubitJobValidation</string>
+	<key>eventExceptState</key>
+	<string>layoutDespiteLayer</string>
+	<key>layerWithMemento</key>
+	<string>inactiveBuilderShape</string>
+	<key>mainAnimatedcontainerSize</key>
+	<string>oldEventTransparency</string>
+	<key>requestObserverRotation</key>
+	<string>relationalDelegateStatus</string>
+</dict>
+</plist>

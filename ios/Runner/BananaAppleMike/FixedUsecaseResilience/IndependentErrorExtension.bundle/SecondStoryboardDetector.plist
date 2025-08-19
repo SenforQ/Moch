@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityEnvironmentFeedback</key>
+	<string>controllerContainJob</string>
+	<key>appbarBridgeVisibility</key>
+	<string>dropdownbuttonTempleVisibility</string>
+	<key>certificateThroughTask</key>
+	<string>channelByEnvironment</string>
+	<key>dialogsBesideVariable</key>
+	<string>finalSizeVisibility</string>
+	<key>independentMenuTransparency</key>
+	<string>kernelWorkDensity</string>
+	<key>layerParameterOrientation</key>
+	<string>materialFormBehavior</string>
+	<key>scaffoldFromLevel</key>
+	<string>tensorQueryKind</string>
+	<key>scaleAlongFunction</key>
+	<string>sequentialDependencyOpacity</string>
+	<key>sinkDuringContext</key>
+	<string>hardConstraintType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledNotifierMargin</key>
+	<string>columnWorkBehavior</string>
+	<key>indicatorByProcess</key>
+	<string>sensorAroundFunction</string>
+	<key>methodIncludeMethod</key>
+	<string>hardCallbackInterval</string>
+	<key>plateSinceSingleton</key>
+	<string>lossSingletonScale</string>
+	<key>queuePrototypeKind</key>
+	<string>requestTaskType</string>
+</dict>
+</plist>

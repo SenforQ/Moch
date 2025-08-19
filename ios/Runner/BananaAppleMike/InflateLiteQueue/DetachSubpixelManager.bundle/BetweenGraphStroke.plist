@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionContainStrategy</key>
+	<string>scrollPatternAcceleration</string>
+	<key>constQueryDensity</key>
+	<string>fusedCurveAcceleration</string>
+	<key>cupertinoForVisitor</key>
+	<string>chartSingletonStyle</string>
+	<key>functionalThreadIndex</key>
+	<string>textPrototypeOpacity</string>
+	<key>otherVariantVisibility</key>
+	<string>alignmentUntilPrototype</string>
+	<key>slashBufferKind</key>
+	<string>rectContextState</string>
+</dict>
+</plist>

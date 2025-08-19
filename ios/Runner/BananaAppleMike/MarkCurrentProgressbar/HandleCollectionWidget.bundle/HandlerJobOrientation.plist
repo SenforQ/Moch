@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorModeLeft</key>
+	<string>multiplicationAgainstStage</string>
+	<key>disabledSignFlags</key>
+	<string>cursorPhaseResponse</string>
+	<key>localizationByJob</key>
+	<string>easyCubeRight</string>
+	<key>lossAdapterVelocity</key>
+	<string>pivotalMusicShape</string>
+	<key>oldPositionPressure</key>
+	<string>textfieldWorkSkewx</string>
+	<key>operationBesideContext</key>
+	<string>sustainableControllerSpeed</string>
+	<key>paddingAroundCycle</key>
+	<string>capacitiesStageSize</string>
+	<key>permissiveMenuAppearance</key>
+	<string>inactiveDecorationVelocity</string>
+	<key>requiredAnimationSkewx</key>
+	<string>semanticsSystemSkewx</string>
+</dict>
+</plist>

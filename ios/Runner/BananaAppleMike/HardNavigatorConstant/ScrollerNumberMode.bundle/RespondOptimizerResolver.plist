@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAboutProxy</key>
+	<string>ephemeralListenerValidation</string>
+	<key>delegateVisitorDensity</key>
+	<string>animatedChartAppearance</string>
+	<key>desktopPlaybackOpacity</key>
+	<string>zoneVisitorSpeed</string>
+	<key>frameVersusLevel</key>
+	<string>transitionAwayKind</string>
+	<key>gemJobDelay</key>
+	<string>aspectWithChain</string>
+	<key>granularEventDensity</key>
+	<string>subtleButtonInterval</string>
+	<key>intensityOrKind</key>
+	<string>collectionVisitorDepth</string>
+	<key>touchLevelDepth</key>
+	<string>menuProcessPadding</string>
+</dict>
+</plist>

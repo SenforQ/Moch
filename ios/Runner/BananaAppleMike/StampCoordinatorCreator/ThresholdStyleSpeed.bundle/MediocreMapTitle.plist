@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionFromStyle</key>
+	<string>routeAwayMode</string>
+	<key>declarativeBlocTint</key>
+	<string>tabbarBesideCommand</string>
+	<key>ephemeralManagerBehavior</key>
+	<string>masterAsFlyweight</string>
+	<key>imperativePainterShade</key>
+	<string>storageWithTemple</string>
+	<key>positionedBeyondFlyweight</key>
+	<string>activePrecisionVisible</string>
+	<key>remainderShapeDepth</key>
+	<string>sessionAtAction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartContainAdapter</key>
+	<string>declarativeTaskBrightness</string>
+	<key>delegateAgainstVariable</key>
+	<string>alignmentSinceBuffer</string>
+	<key>euclideanAwaitBottom</key>
+	<string>globalSensorColor</string>
+	<key>interpolationAtMemento</key>
+	<string>functionalUsageInterval</string>
+	<key>stateWithMode</key>
+	<string>columnTypeFeedback</string>
+	<key>subsequentInterpolationVisible</key>
+	<string>activityShapeDensity</string>
+	<key>taskBufferVisibility</key>
+	<string>layoutValueBehavior</string>
+</dict>
+</plist>

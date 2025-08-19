@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBufferStyle</key>
+	<string>activityPrototypeOrigin</string>
+	<key>diversifiedOperationInteraction</key>
+	<string>statePerScope</string>
+	<key>featureAtPhase</key>
+	<string>delegateOrFacade</string>
+	<key>gesturedetectorSinceAdapter</key>
+	<string>dependencyMementoPadding</string>
+	<key>immediateHistogramForce</key>
+	<string>vectorIncludeValue</string>
+	<key>visibleViewAppearance</key>
+	<string>contractionStrategyStatus</string>
+</dict>
+</plist>

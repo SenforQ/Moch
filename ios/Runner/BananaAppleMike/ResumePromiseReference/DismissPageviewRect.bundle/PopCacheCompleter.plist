@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitInBridge</key>
+	<string>crucialQueryValidation</string>
+	<key>constraintMethodFlags</key>
+	<string>blocExceptFunction</string>
+	<key>featureObserverSize</key>
+	<string>frameOperationFrequency</string>
+	<key>imageLayerShape</key>
+	<string>collectionMementoSkewy</string>
+	<key>lossAboutMediator</key>
+	<string>localIntensityDensity</string>
+	<key>priorMovementShade</key>
+	<string>ephemeralMapOrigin</string>
+	<key>routerTierKind</key>
+	<string>permissiveTaskVelocity</string>
+	<key>singletonScopeFeedback</key>
+	<string>durationVarHue</string>
+</dict>
+</plist>

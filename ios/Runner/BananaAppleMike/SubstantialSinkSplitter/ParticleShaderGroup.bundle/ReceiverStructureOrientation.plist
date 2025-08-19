@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePerBridge</key>
+	<string>inheritedLayerState</string>
+	<key>controllerFormSaturation</key>
+	<string>channelsCycleMode</string>
+	<key>cubeModeDepth</key>
+	<string>movementContainParam</string>
+	<key>priorProviderShape</key>
+	<string>characterInsideDecorator</string>
+	<key>sceneValueVelocity</key>
+	<string>switchAmongFlyweight</string>
+	<key>sliderModeOrigin</key>
+	<string>uniformLayerAcceleration</string>
+	<key>specifySizeTop</key>
+	<string>comprehensiveCycleVisible</string>
+</dict>
+</plist>

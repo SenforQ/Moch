@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeFramework</key>
+	<string>ternaryIncludeScope</string>
+	<key>awaitModePressure</key>
+	<string>unsortedRequestShape</string>
+	<key>decorationProxyBehavior</key>
+	<string>dynamicStoryboardBound</string>
+	<key>gradientVersusOperation</key>
+	<string>animationUntilPrototype</string>
+	<key>gridMementoMode</key>
+	<string>dedicatedInterfaceFrequency</string>
+	<key>skinDespiteLayer</key>
+	<string>subsequentGraphBehavior</string>
+	<key>spriteEnvironmentShape</key>
+	<string>positionOrShape</string>
+	<key>sustainableModelDelay</key>
+	<string>logOfPlatform</string>
+	<key>webThreadTag</key>
+	<string>allocatorVisitorSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAtType</key>
+	<string>routeParamInteraction</string>
+	<key>coordinatorPerPattern</key>
+	<string>localIntegerSpeed</string>
+	<key>screenLevelPosition</key>
+	<string>axisBridgeAlignment</string>
+	<key>semanticEventTheme</key>
+	<string>assetBridgeSpeed</string>
+	<key>spriteValueFeedback</key>
+	<string>popupThroughShape</string>
+	<key>subscriptionFromScope</key>
+	<string>animationTierRight</string>
+</dict>
+</plist>

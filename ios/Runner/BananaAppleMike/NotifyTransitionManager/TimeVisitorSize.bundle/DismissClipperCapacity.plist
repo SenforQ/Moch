@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitContainMode</key>
+	<string>mediaOperationOpacity</string>
+	<key>navigatorInterpreterBehavior</key>
+	<string>imperativeSubpixelVisibility</string>
+	<key>positionAndFlyweight</key>
+	<string>modelProxyDuration</string>
+	<key>taskUntilLevel</key>
+	<string>animationAtSingleton</string>
+	<key>textfieldJobOffset</key>
+	<string>usageProcessBehavior</string>
+</dict>
+</plist>

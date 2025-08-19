@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSingletonFlags</key>
+	<string>constraintOfMode</string>
+	<key>draggableCacheTail</key>
+	<string>timerInPhase</string>
+	<key>ignoredGroupIndex</key>
+	<string>providerDuringShape</string>
+	<key>methodSystemDuration</key>
+	<string>resourceDespiteSystem</string>
+	<key>routeDecoratorCoord</key>
+	<string>serviceMethodMode</string>
+	<key>statelessSignatureResponse</key>
+	<string>overlayUntilStrategy</string>
+	<key>unsortedBuilderOpacity</key>
+	<string>tabviewCompositeTag</string>
+	<key>usecaseDespiteContext</key>
+	<string>desktopSegueSpacing</string>
+	<key>utilAndLevel</key>
+	<string>errorAsCommand</string>
+</dict>
+</plist>

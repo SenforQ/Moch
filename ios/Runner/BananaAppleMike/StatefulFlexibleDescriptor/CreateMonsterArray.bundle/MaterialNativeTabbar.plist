@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDrawerColor</key>
+	<string>buttonProcessTransparency</string>
+	<key>bufferStrategyInterval</key>
+	<string>resourceStageTint</string>
+	<key>controllerViaBuffer</key>
+	<string>controllerAwayShape</string>
+	<key>iterativeGestureBottom</key>
+	<string>shaderFromShape</string>
+	<key>permanentMatrixBorder</key>
+	<string>tweenOutsidePhase</string>
+	<key>requestVersusMediator</key>
+	<string>scaffoldActionTail</string>
+	<key>shaderInsideProxy</key>
+	<string>extensionThanStyle</string>
+	<key>significantSegmentBorder</key>
+	<string>mediumSizedboxLeft</string>
+	<key>usedIsolateResponse</key>
+	<string>standaloneModulusInterval</string>
+</dict>
+</plist>

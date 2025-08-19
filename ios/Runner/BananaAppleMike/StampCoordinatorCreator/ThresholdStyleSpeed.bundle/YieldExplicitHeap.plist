@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customResolverSaturation</key>
+	<string>gemFormLeft</string>
+	<key>grainTierDepth</key>
+	<string>menuLikeMediator</string>
+	<key>precisionByStage</key>
+	<string>positionInScope</string>
+	<key>providerAgainstValue</key>
+	<string>heapStageInteraction</string>
+	<key>reducerCycleName</key>
+	<string>completionCommandState</string>
+	<key>responseProcessInset</key>
+	<string>specifyGemInterval</string>
+	<key>routerExceptFacade</key>
+	<string>storeModeCenter</string>
+	<key>sequentialHashName</key>
+	<string>reducerByEnvironment</string>
+	<key>serviceCompositeDelay</key>
+	<string>otherStepOrientation</string>
+</dict>
+</plist>

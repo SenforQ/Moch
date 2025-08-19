@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAgainstComposite</key>
+	<string>commonConvolutionForce</string>
+	<key>commandAmongStage</key>
+	<string>screenIncludeShape</string>
+	<key>dependencyProxyName</key>
+	<string>equipmentPatternFrequency</string>
+	<key>firstStreamSpeed</key>
+	<string>opaqueTextPosition</string>
+	<key>hyperbolicSingletonHue</key>
+	<string>robustRectForce</string>
+	<key>localizationInsideMode</key>
+	<string>getxOfDecorator</string>
+	<key>materialScopeType</key>
+	<string>inactiveTextureOrientation</string>
+	<key>metadataBridgeFrequency</key>
+	<string>heapSinceComposite</string>
+	<key>reactiveInterpolationDistance</key>
+	<string>inkwellObserverMomentum</string>
+	<key>textShapeSaturation</key>
+	<string>constraintParameterSkewy</string>
+</dict>
+</plist>

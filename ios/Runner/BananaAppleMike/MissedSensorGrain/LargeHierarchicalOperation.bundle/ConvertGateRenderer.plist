@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertThanWork</key>
+	<string>mobileCommandSize</string>
+	<key>giftPatternTint</key>
+	<string>rowPhaseTransparency</string>
+	<key>hashNumberShade</key>
+	<string>customBoxshadowTop</string>
+	<key>inheritedDependencyLeft</key>
+	<string>intuitiveResultOrientation</string>
+	<key>mediaqueryScopeOrigin</key>
+	<string>routeInterpreterDirection</string>
+	<key>observerModeSaturation</key>
+	<string>resizableRouteHead</string>
+	<key>serviceJobForce</key>
+	<string>lazyDurationAcceleration</string>
+	<key>slashNearAction</key>
+	<string>skinShapeOrigin</string>
+	<key>unactivatedSegmentRotation</key>
+	<string>textfieldValueMode</string>
+</dict>
+</plist>

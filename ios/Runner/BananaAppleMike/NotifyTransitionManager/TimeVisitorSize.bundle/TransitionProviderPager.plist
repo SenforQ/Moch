@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobResponse</key>
+	<string>constPlateInterval</string>
+	<key>cardBridgeAppearance</key>
+	<string>baselineInsideBridge</string>
+	<key>cellLevelBound</key>
+	<string>sophisticatedActionFrequency</string>
+	<key>checkboxAroundMemento</key>
+	<string>inactiveListenerOffset</string>
+	<key>coordinatorWithMode</key>
+	<string>spriteBufferStatus</string>
+	<key>cubitVariablePressure</key>
+	<string>cellAboutObserver</string>
+	<key>matrixFormColor</key>
+	<string>fragmentTypeForce</string>
+	<key>nextMethodOrigin</key>
+	<string>agileAnchorDelay</string>
+	<key>operationMediatorPosition</key>
+	<string>completionContextSaturation</string>
+	<key>providerTypeState</key>
+	<string>stampNumberTag</string>
+</dict>
+</plist>

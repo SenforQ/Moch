@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushStateFormat</key>
+	<string>declarativeDecorationFeedback</string>
+	<key>effectInsideMemento</key>
+	<string>originalContainerStatus</string>
+	<key>futureBufferMargin</key>
+	<string>blocOperationDuration</string>
+	<key>particleViaFramework</key>
+	<string>queueAgainstKind</string>
+	<key>scaffoldWithoutFunction</key>
+	<string>currentCommandVelocity</string>
+	<key>sliderOperationOrientation</key>
+	<string>fixedTextfieldPressure</string>
+</dict>
+</plist>

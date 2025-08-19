@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAgainstShape</key>
+	<string>multiFlexVisibility</string>
+	<key>decorationMediatorSaturation</key>
+	<string>priorStorageState</string>
+	<key>enabledViewResponse</key>
+	<string>segmentAgainstFramework</string>
+	<key>ephemeralRowShade</key>
+	<string>nativeFactoryRate</string>
+	<key>functionalCupertinoRotation</key>
+	<string>temporaryChannelMargin</string>
+	<key>lastRouteIndex</key>
+	<string>independentGroupSaturation</string>
+	<key>resilientLabelBottom</key>
+	<string>singleProgressbarDepth</string>
+</dict>
+</plist>

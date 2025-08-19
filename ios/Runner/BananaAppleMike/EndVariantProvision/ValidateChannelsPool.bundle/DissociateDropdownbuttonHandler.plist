@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonGraphMode</key>
+	<string>parallelButtonHue</string>
+	<key>directTitleSkewx</key>
+	<string>uniqueGrayscaleMode</string>
+	<key>gramActivityOffset</key>
+	<string>rowNumberDensity</string>
+	<key>interactorStageBottom</key>
+	<string>routeOrVisitor</string>
+	<key>loopBesideEnvironment</key>
+	<string>asyncParamStatus</string>
+	<key>memberNearStrategy</key>
+	<string>enabledStateContrast</string>
+	<key>textureInPrototype</key>
+	<string>notifierBesideParam</string>
+</dict>
+</plist>

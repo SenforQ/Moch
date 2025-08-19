@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTextureAcceleration</key>
+	<string>currentActivityOrigin</string>
+	<key>draggableDropdownbuttonBottom</key>
+	<string>constraintInterpreterIndex</string>
+	<key>intensityPhaseSkewx</key>
+	<string>difficultSpriteMargin</string>
+	<key>menuAmongStyle</key>
+	<string>viewSingletonAcceleration</string>
+	<key>radiusAsTask</key>
+	<string>capacitiesEnvironmentCenter</string>
+</dict>
+</plist>

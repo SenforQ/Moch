@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterActivityMode</key>
+	<string>textDespiteVariable</string>
+	<key>cursorByStage</key>
+	<string>allocatorByActivity</string>
+	<key>easyOperationIndex</key>
+	<string>axisStageRotation</string>
+	<key>globalReducerPadding</key>
+	<string>accessibleDocumentMargin</string>
+	<key>interactiveCollectionOffset</key>
+	<string>constraintJobRotation</string>
+	<key>lazyGestureOrientation</key>
+	<string>offsetVisitorRate</string>
+	<key>methodMediatorPressure</key>
+	<string>singletonBridgeCoord</string>
+	<key>techniqueProcessStyle</key>
+	<string>geometricResponseDepth</string>
+	<key>tensorFeatureAlignment</key>
+	<string>awaitPatternMode</string>
+</dict>
+</plist>

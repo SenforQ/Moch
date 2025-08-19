@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFromEnvironment</key>
+	<string>optimizerBufferType</string>
+	<key>currentButtonKind</key>
+	<string>equipmentAgainstAdapter</string>
+	<key>durationUntilCommand</key>
+	<string>dialogsCommandKind</string>
+	<key>parallelStreamInterval</key>
+	<string>topicInsideParam</string>
+	<key>segueUntilAdapter</key>
+	<string>multiplicationContainCycle</string>
+	<key>threadBridgeName</key>
+	<string>semanticHeapLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentFacadeTail</key>
+	<string>animationAmongFacade</string>
+	<key>intuitiveBrushFlags</key>
+	<string>coordinatorBufferValidation</string>
+	<key>multiMetadataOrigin</key>
+	<string>painterThanContext</string>
+	<key>storageOutsideContext</key>
+	<string>numericalChartColor</string>
+	<key>symmetricModelSpeed</key>
+	<string>geometricControllerLocation</string>
+</dict>
+</plist>

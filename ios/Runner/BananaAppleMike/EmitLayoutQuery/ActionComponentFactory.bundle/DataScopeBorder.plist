@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOfLevel</key>
+	<string>sceneDecoratorResponse</string>
+	<key>descriptionBeyondParam</key>
+	<string>custompaintTaskSize</string>
+	<key>flexibleHeapRight</key>
+	<string>inheritedAllocatorLocation</string>
+	<key>groupNumberFormat</key>
+	<string>dynamicIsolateKind</string>
+	<key>navigatorStageForce</key>
+	<string>sineAlongObserver</string>
+	<key>reusableCanvasTail</key>
+	<string>materialDelegateName</string>
+	<key>shaderAdapterBound</key>
+	<string>activatedUtilBrightness</string>
+</dict>
+</plist>

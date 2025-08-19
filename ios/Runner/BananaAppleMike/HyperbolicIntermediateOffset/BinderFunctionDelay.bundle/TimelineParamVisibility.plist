@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseIconSpacing</key>
+	<string>errorOrPhase</string>
+	<key>mapDuringActivity</key>
+	<string>widgetDecoratorTint</string>
+	<key>protectedTableIndex</key>
+	<string>autoResourceSaturation</string>
+	<key>resolverProcessValidation</key>
+	<string>stateTaskDepth</string>
+	<key>specifierInsidePattern</key>
+	<string>sliderContextDirection</string>
+	<key>standaloneSizeTension</key>
+	<string>subtleExpandedValidation</string>
+	<key>uniformObserverPressure</key>
+	<string>featureDespiteAdapter</string>
+	<key>visibleBoxStatus</key>
+	<string>utilViaMethod</string>
+</dict>
+</plist>

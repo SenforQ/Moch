@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTempleRight</key>
+	<string>builderEnvironmentVisible</string>
+	<key>errorAgainstCycle</key>
+	<string>particleFacadeInteraction</string>
+	<key>groupThroughLayer</key>
+	<string>allocatorBesideFramework</string>
+	<key>listenerForSingleton</key>
+	<string>matrixStructureHead</string>
+	<key>lossOutsideWork</key>
+	<string>denseEventSize</string>
+	<key>mobileModeVisible</key>
+	<string>errorViaSystem</string>
+	<key>paddingOutsideComposite</key>
+	<string>resolverStageAppearance</string>
+	<key>scaleForState</key>
+	<string>ternaryInsideTier</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContainCommand</key>
+	<string>standaloneTitleMargin</string>
+	<key>gemTypeInteraction</key>
+	<string>cupertinoActionAppearance</string>
+	<key>metadataValueName</key>
+	<string>extensionBridgeFlags</string>
+	<key>responsePerState</key>
+	<string>pointVarVelocity</string>
+	<key>tensorSessionSize</key>
+	<string>utilThroughPrototype</string>
+</dict>
+</plist>

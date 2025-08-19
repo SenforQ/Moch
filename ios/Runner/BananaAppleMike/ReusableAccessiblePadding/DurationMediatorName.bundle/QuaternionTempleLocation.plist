@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAgainstParameter</key>
+	<string>spriteVersusForm</string>
+	<key>controllerContextTransparency</key>
+	<string>semanticNormResponse</string>
+	<key>draggableEventStatus</key>
+	<string>sortedStepTag</string>
+	<key>firstSignInterval</key>
+	<string>nodeMementoTheme</string>
+	<key>grainTaskRate</key>
+	<string>disabledAnimatedcontainerAppearance</string>
+	<key>largeIsolateScale</key>
+	<string>configurationScopeColor</string>
+	<key>lazyThemeColor</key>
+	<string>globalCharacterRate</string>
+	<key>missedRadiusSkewy</key>
+	<string>grayscaleCompositeRight</string>
+	<key>sinkSinceOperation</key>
+	<string>cursorForFacade</string>
+	<key>textureVarBorder</key>
+	<string>requiredAsyncAppearance</string>
+</dict>
+</plist>

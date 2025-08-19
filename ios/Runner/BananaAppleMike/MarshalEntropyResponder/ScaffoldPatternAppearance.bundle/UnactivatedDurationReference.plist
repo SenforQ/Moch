@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectObserverHue</key>
+	<string>borderLayerAlignment</string>
+	<key>fusedListviewInterval</key>
+	<string>desktopStreamCount</string>
+	<key>grainAgainstPlatform</key>
+	<string>multiTextureMode</string>
+	<key>layerWithoutTask</key>
+	<string>observerVariableTension</string>
+	<key>layoutOutsidePrototype</key>
+	<string>containerWithoutEnvironment</string>
+	<key>lazyRouteLocation</key>
+	<string>geometricTickerDelay</string>
+	<key>loopAlongOperation</key>
+	<string>heapFromWork</string>
+	<key>profileProxyHead</key>
+	<string>labelAndDecorator</string>
+	<key>progressbarTypeMargin</key>
+	<string>taskDecoratorMargin</string>
+	<key>titleCompositeContrast</key>
+	<string>taskDuringMode</string>
+</dict>
+</plist>

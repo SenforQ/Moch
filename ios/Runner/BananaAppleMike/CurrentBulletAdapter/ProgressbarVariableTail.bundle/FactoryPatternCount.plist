@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackThanVisitor</key>
+	<string>accessibleOffsetPosition</string>
+	<key>containerFormPosition</key>
+	<string>checkboxInObserver</string>
+	<key>desktopDependencyBound</key>
+	<string>tickerContextBound</string>
+	<key>labelOrMethod</key>
+	<string>blocBesideCycle</string>
+	<key>permanentNodeInset</key>
+	<string>controllerOfCommand</string>
+	<key>singleStatefulShape</key>
+	<string>builderSystemHue</string>
+	<key>statefulStreamKind</key>
+	<string>descriptionSingletonBottom</string>
+	<key>switchOperationInset</key>
+	<string>temporaryGemContrast</string>
+</dict>
+</plist>

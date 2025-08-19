@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrType</key>
+	<string>cellByLayer</string>
+	<key>constraintContextSize</key>
+	<string>progressbarVersusTemple</string>
+	<key>cupertinoParamLocation</key>
+	<string>coordinatorInsideFlyweight</string>
+	<key>largeTimerStatus</key>
+	<string>normalIndicatorTail</string>
+	<key>resilientMissionRate</key>
+	<string>lostPositionTail</string>
+	<key>stackAboutCycle</key>
+	<string>grainStructureName</string>
+	<key>stampUntilTemple</key>
+	<string>gesturedetectorAmongValue</string>
+</dict>
+</plist>

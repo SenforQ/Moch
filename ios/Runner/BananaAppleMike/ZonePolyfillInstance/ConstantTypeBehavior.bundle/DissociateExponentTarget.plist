@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsMethodInset</key>
+	<string>mobileLabelDelay</string>
+	<key>difficultSceneStyle</key>
+	<string>servicePatternFeedback</string>
+	<key>effectSinceChain</key>
+	<string>screenAlongAction</string>
+	<key>ephemeralNodeVisible</key>
+	<string>singletonParamMode</string>
+	<key>granularProfileVelocity</key>
+	<string>sustainableBufferFlags</string>
+	<key>navigatorAmongObserver</key>
+	<string>gramVariableHue</string>
+	<key>subtleActionValidation</key>
+	<string>smartPainterScale</string>
+	<key>textureStageHue</key>
+	<string>graphicOutsideWork</string>
+</dict>
+</plist>

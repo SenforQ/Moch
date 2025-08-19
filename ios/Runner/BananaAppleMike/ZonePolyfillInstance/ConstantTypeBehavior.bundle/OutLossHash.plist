@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAroundSingleton</key>
+	<string>layoutSincePlatform</string>
+	<key>cubitLayerState</key>
+	<string>sizedboxExceptFunction</string>
+	<key>keyCycleVisibility</key>
+	<string>providerFlyweightOrientation</string>
+	<key>requiredTimerRotation</key>
+	<string>basicRowTransparency</string>
+	<key>resultFrameworkName</key>
+	<string>completionThanShape</string>
+</dict>
+</plist>

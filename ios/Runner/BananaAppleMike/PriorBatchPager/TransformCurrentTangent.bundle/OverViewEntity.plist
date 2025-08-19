@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentActivityEdge</key>
+	<string>dropdownbuttonAmongBuffer</string>
+	<key>disabledCaptionEdge</key>
+	<string>optionOrVariable</string>
+	<key>eventExceptMethod</key>
+	<string>serviceFlyweightTop</string>
+	<key>marginStateInterval</key>
+	<string>observerContainSingleton</string>
+	<key>presenterStateBound</key>
+	<string>histogramThanPlatform</string>
+	<key>statefulTierSaturation</key>
+	<string>certificateAdapterLeft</string>
+	<key>tensorTransformerRotation</key>
+	<string>rapidAsyncMomentum</string>
+</dict>
+</plist>

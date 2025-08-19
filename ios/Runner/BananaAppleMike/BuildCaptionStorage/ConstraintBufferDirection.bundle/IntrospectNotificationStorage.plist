@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoModeOrientation</key>
+	<string>scrollableInkwellSize</string>
+	<key>delegateSingletonSkewx</key>
+	<string>referenceFunctionFeedback</string>
+	<key>euclideanSizeOpacity</key>
+	<string>interactorProcessRotation</string>
+	<key>mutableRouterSaturation</key>
+	<string>monsterObserverLocation</string>
+	<key>publicViewMargin</key>
+	<string>paddingAwayVariable</string>
+	<key>routeCycleSkewx</key>
+	<string>awaitExceptMediator</string>
+	<key>screenVariableValidation</key>
+	<string>progressbarCycleColor</string>
+	<key>smallSliderPosition</key>
+	<string>functionalFeatureKind</string>
+	<key>tweenTaskTail</key>
+	<string>heroFormBrightness</string>
+</dict>
+</plist>

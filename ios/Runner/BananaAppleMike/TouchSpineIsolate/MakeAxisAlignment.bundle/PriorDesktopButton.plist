@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedResponseShape</key>
+	<string>publicTickerState</string>
+	<key>capsuleThroughStyle</key>
+	<string>delegateIncludeMode</string>
+	<key>compositionalModelTransparency</key>
+	<string>localizationSystemDistance</string>
+	<key>criticalHeapTag</key>
+	<string>aspectAboutBridge</string>
+	<key>immutableBrushTint</key>
+	<string>declarativeEquipmentOpacity</string>
+	<key>sizedboxVisitorScale</key>
+	<string>eagerOperationDensity</string>
+	<key>taskKindVisible</key>
+	<string>usedListenerOrientation</string>
+	<key>tweenPlatformDirection</key>
+	<string>projectionInsideLevel</string>
+</dict>
+</plist>

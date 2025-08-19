@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerContainJob</key>
+	<string>reducerWithoutPattern</string>
+	<key>baseExceptMediator</key>
+	<string>assetThroughSystem</string>
+	<key>concurrentSwiftDirection</key>
+	<string>responsiveRequestDepth</string>
+	<key>decorationAgainstFlyweight</key>
+	<string>axisViaPrototype</string>
+	<key>fusedGradientOpacity</key>
+	<string>nodePhaseSkewx</string>
+	<key>normKindScale</key>
+	<string>resourceValueDistance</string>
+	<key>usedCompletionInterval</key>
+	<string>fragmentPhaseOrigin</string>
+</dict>
+</plist>

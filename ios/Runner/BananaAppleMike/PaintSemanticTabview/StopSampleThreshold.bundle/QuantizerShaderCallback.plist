@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAlongStage</key>
+	<string>fixedVectorCoord</string>
+	<key>compositionalProviderResponse</key>
+	<string>permanentTextMode</string>
+	<key>constraintFromShape</key>
+	<string>resourceTaskOffset</string>
+	<key>delegateBeyondContext</key>
+	<string>crudeErrorVelocity</string>
+	<key>delegateStateOpacity</key>
+	<string>disabledBaseSpacing</string>
+	<key>expandedOperationBound</key>
+	<string>consumerStructureInset</string>
+	<key>lostReducerDepth</key>
+	<string>multiplicationBeyondDecorator</string>
+	<key>seamlessAsyncTint</key>
+	<string>tappableBoxshadowEdge</string>
+	<key>toolParamBound</key>
+	<string>sortedDurationTint</string>
+	<key>uniqueBehaviorHue</key>
+	<string>autoRowInterval</string>
+</dict>
+</plist>

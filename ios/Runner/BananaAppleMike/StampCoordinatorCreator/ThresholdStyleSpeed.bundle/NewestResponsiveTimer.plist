@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsideVariable</key>
+	<string>liteButtonTransparency</string>
+	<key>callbackAdapterCenter</key>
+	<string>normWithPattern</string>
+	<key>discardedStateIndex</key>
+	<string>currentEffectStyle</string>
+	<key>gateSingletonAppearance</key>
+	<string>allocatorOutsidePattern</string>
+	<key>missedNodeTop</key>
+	<string>widgetThroughBridge</string>
+	<key>positionAmongParam</key>
+	<string>certificateThanCycle</string>
+	<key>skinAndFlyweight</key>
+	<string>switchTypeSpacing</string>
+	<key>tickerBeyondPattern</key>
+	<string>mutableSymbolShade</string>
+</dict>
+</plist>

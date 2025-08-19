@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAgainstContext</key>
+	<string>singleDescriptorType</string>
+	<key>globalCommandFrequency</key>
+	<string>chartOfContext</string>
+	<key>hyperbolicProgressbarShade</key>
+	<string>imperativeInteractorPressure</string>
+	<key>taskInBridge</key>
+	<string>isolateOfVariable</string>
+	<key>tensorSizedboxOrientation</key>
+	<string>cubitObserverShade</string>
+</dict>
+</plist>

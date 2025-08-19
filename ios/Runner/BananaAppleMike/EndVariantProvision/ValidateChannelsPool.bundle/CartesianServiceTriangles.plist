@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationBesideKind</key>
+	<string>stepFacadeVelocity</string>
+	<key>explicitProgressbarFrequency</key>
+	<string>cacheCommandDensity</string>
+	<key>granularMenuCount</key>
+	<string>transitionInKind</string>
+	<key>layerStageBound</key>
+	<string>nativeTickerAlignment</string>
+</dict>
+</plist>

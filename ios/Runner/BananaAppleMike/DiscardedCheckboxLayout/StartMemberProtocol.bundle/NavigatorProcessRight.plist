@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletInChain</key>
+	<string>alignmentContextDirection</string>
+	<key>chartValueBrightness</key>
+	<string>descriptorStateScale</string>
+	<key>elasticAllocatorRate</key>
+	<string>concurrentTextOffset</string>
+	<key>sophisticatedToolOffset</key>
+	<string>bulletPlatformPosition</string>
+	<key>titleContextShade</key>
+	<string>finalStoryboardSize</string>
+	<key>usedBaselineBound</key>
+	<string>criticalTweenBrightness</string>
+</dict>
+</plist>

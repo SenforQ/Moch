@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStageName</key>
+	<string>modelJobInteraction</string>
+	<key>dedicatedServiceScale</key>
+	<string>constraintActionInterval</string>
+	<key>directlyCoordinatorSkewx</key>
+	<string>sliderAsMediator</string>
+	<key>intermediateSingletonVelocity</key>
+	<string>sensorProcessHue</string>
+	<key>labelPerPrototype</key>
+	<string>responsiveBufferDuration</string>
+	<key>sizeFunctionFlags</key>
+	<string>seamlessTableKind</string>
+	<key>standaloneStoryboardDirection</key>
+	<string>methodByProxy</string>
+</dict>
+</plist>

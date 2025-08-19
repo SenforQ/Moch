@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContextContrast</key>
+	<string>compositionExceptActivity</string>
+	<key>exceptionByFacade</key>
+	<string>mediaFromShape</string>
+	<key>progressbarFormPadding</key>
+	<string>advancedContractionDensity</string>
+	<key>sizeAgainstStage</key>
+	<string>basicInteractorFrequency</string>
+</dict>
+</plist>

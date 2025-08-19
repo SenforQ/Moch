@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellPrototypeBehavior</key>
+	<string>cacheDuringSystem</string>
+	<key>criticalControllerMomentum</key>
+	<string>tabviewWithoutBridge</string>
+	<key>cupertinoScrollSpeed</key>
+	<string>interactorPlatformForce</string>
+	<key>immediateSceneOffset</key>
+	<string>coordinatorAwayNumber</string>
+	<key>injectionSinceSystem</key>
+	<string>promiseThroughFramework</string>
+	<key>pinchableModelSize</key>
+	<string>notificationTierVisible</string>
+	<key>sceneActionBorder</key>
+	<string>capsuleStyleInset</string>
+	<key>spotPlatformCoord</key>
+	<string>plateProxyEdge</string>
+	<key>substantialNavigationTransparency</key>
+	<string>intermediateEffectPadding</string>
+</dict>
+</plist>

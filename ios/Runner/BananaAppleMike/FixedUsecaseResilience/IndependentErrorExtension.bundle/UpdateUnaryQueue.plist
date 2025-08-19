@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEffectSaturation</key>
+	<string>durationUntilSingleton</string>
+	<key>aspectOutsideLayer</key>
+	<string>certificateThroughFramework</string>
+	<key>flexibleEffectDepth</key>
+	<string>animationAlongProcess</string>
+	<key>largeSliderPadding</key>
+	<string>comprehensiveTitlePadding</string>
+	<key>richtextOutsideFlyweight</key>
+	<string>durationContainStyle</string>
+</dict>
+</plist>

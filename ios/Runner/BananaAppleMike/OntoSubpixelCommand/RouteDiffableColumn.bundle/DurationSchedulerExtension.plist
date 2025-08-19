@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionKindHead</key>
+	<string>beginnerQueueDepth</string>
+	<key>asyncFeatureOrientation</key>
+	<string>symbolCompositePadding</string>
+	<key>desktopMatrixBrightness</key>
+	<string>mobxAlongFunction</string>
+	<key>lazyMemberBorder</key>
+	<string>grainBeyondPlatform</string>
+	<key>materialAdapterMode</key>
+	<string>curveEnvironmentBrightness</string>
+	<key>metadataCycleAppearance</key>
+	<string>spotStrategyStyle</string>
+	<key>metadataKindAppearance</key>
+	<string>metadataCompositeInterval</string>
+	<key>pinchableModalScale</key>
+	<string>exponentAdapterDensity</string>
+	<key>transitionParamTheme</key>
+	<string>themeWorkDensity</string>
+</dict>
+</plist>

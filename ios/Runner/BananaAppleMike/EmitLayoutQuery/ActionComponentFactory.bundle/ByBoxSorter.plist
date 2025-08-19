@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletIncludeShape</key>
+	<string>fusedCurveDirection</string>
+	<key>challengeSincePlatform</key>
+	<string>routerByBridge</string>
+	<key>difficultWidgetCount</key>
+	<string>mobileCursorDepth</string>
+	<key>momentumProxySpacing</key>
+	<string>dedicatedResponseCount</string>
+	<key>numericalEventPadding</key>
+	<string>singletonIncludeFacade</string>
+	<key>protocolVarCount</key>
+	<string>menuAsContext</string>
+	<key>tappableSubpixelVelocity</key>
+	<string>paddingSingletonTail</string>
+	<key>utilAboutState</key>
+	<string>threadProcessTail</string>
+</dict>
+</plist>

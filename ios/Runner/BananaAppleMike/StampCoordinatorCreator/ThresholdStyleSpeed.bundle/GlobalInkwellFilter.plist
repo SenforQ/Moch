@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteBinaryCoord</key>
+	<string>storyboardFunctionTint</string>
+	<key>enabledSinkLeft</key>
+	<string>protectedContainerAppearance</string>
+	<key>exceptionTypeLeft</key>
+	<string>scrollableContainerTint</string>
+	<key>multiScrollOrigin</key>
+	<string>keyChannelOrigin</string>
+	<key>reductionProcessOrigin</key>
+	<string>invisibleSinkAcceleration</string>
+	<key>topicAwayBridge</key>
+	<string>nativeIntegerLeft</string>
+</dict>
+</plist>

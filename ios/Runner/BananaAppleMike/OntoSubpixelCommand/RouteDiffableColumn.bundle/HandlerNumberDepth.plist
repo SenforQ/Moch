@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheLikeActivity</key>
+	<string>arithmeticBesideNumber</string>
+	<key>compositionAmongChain</key>
+	<string>custompaintInMediator</string>
+	<key>controllerUntilPattern</key>
+	<string>containerInMethod</string>
+	<key>gemVersusBridge</key>
+	<string>methodDuringMediator</string>
+	<key>positionAlongVisitor</key>
+	<string>symbolBeyondBuffer</string>
+	<key>vectorMementoFormat</key>
+	<string>pageviewProcessCenter</string>
+</dict>
+</plist>

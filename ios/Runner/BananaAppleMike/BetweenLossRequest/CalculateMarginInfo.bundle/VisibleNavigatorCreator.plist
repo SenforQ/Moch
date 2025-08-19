@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionTierStyle</key>
+	<string>baselineLayerInset</string>
+	<key>displayableBaseSpeed</key>
+	<string>tappableNibDepth</string>
+	<key>inheritedProviderName</key>
+	<string>singleBaselineOrigin</string>
+	<key>inkwellAgainstEnvironment</key>
+	<string>immediateSessionMode</string>
+	<key>lazyProjectAlignment</key>
+	<string>logarithmPerInterpreter</string>
+	<key>methodVisitorLocation</key>
+	<string>roleBridgeStatus</string>
+	<key>prismaticTweenStatus</key>
+	<string>resultContainPlatform</string>
+	<key>projectionBeyondNumber</key>
+	<string>functionalConstraintFrequency</string>
+	<key>radiusFacadeShape</key>
+	<string>directSubscriptionStatus</string>
+	<key>sampleAndStrategy</key>
+	<string>mapKindTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDuringAction</key>
+	<string>actionProcessFeedback</string>
+	<key>binaryChainDepth</key>
+	<string>protocolTempleBorder</string>
+	<key>containerUntilStrategy</key>
+	<string>mediocreSubpixelSpeed</string>
+	<key>lastMobxMargin</key>
+	<string>repositoryPerType</string>
+	<key>missedQueryDistance</key>
+	<string>crudeSliderLocation</string>
+	<key>nodeAwaySingleton</key>
+	<string>masterValueName</string>
+	<key>operationVisitorSkewx</key>
+	<string>particleProxyBound</string>
+	<key>scrollableAnchorVisible</key>
+	<string>completerFormFeedback</string>
+	<key>storageFrameworkContrast</key>
+	<string>gridMementoInset</string>
+</dict>
+</plist>

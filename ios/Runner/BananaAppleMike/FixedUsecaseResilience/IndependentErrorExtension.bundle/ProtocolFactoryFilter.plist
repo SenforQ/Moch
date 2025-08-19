@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDecoratorStatus</key>
+	<string>mediaqueryCycleTint</string>
+	<key>cursorVarAppearance</key>
+	<string>resultBesideFramework</string>
+	<key>featureBridgeStyle</key>
+	<string>crucialGraphTint</string>
+	<key>sinkObserverKind</key>
+	<string>callbackLayerTint</string>
+	<key>stampMediatorMomentum</key>
+	<string>stepLevelRight</string>
+	<key>statelessGesturedetectorHue</key>
+	<string>integerCycleCenter</string>
+	<key>tickerCommandRate</key>
+	<string>directAppbarRotation</string>
+	<key>transitionInsideType</key>
+	<string>stateWithValue</string>
+</dict>
+</plist>

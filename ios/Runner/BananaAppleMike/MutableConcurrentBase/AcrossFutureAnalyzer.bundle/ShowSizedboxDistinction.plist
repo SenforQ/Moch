@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTopicResponse</key>
+	<string>bufferCycleSaturation</string>
+	<key>buttonContainCycle</key>
+	<string>spriteProcessEdge</string>
+	<key>factoryCycleBehavior</key>
+	<string>progressbarTypeTop</string>
+	<key>iconPrototypeHead</key>
+	<string>completionViaBridge</string>
+	<key>liteAccessoryAlignment</key>
+	<string>borderAlongType</string>
+	<key>monsterMediatorTail</key>
+	<string>substantialLoopColor</string>
+	<key>navigatorForObserver</key>
+	<string>cartesianScreenVisibility</string>
+	<key>retainedBorderHead</key>
+	<string>grayscaleUntilType</string>
+	<key>techniqueFormShape</key>
+	<string>robustGridFeedback</string>
+</dict>
+</plist>

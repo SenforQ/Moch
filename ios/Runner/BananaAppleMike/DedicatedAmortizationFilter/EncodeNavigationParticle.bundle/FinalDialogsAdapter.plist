@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutAdapter</key>
+	<string>respectiveRouteCount</string>
+	<key>entityParamLocation</key>
+	<string>asyncSpriteBound</string>
+	<key>hyperbolicSessionTransparency</key>
+	<string>protocolInAdapter</string>
+	<key>petAtPhase</key>
+	<string>builderContextBrightness</string>
+	<key>queueObserverState</key>
+	<string>resourceJobState</string>
+	<key>retainedParticlePressure</key>
+	<string>variantWithVisitor</string>
+	<key>standaloneStackStyle</key>
+	<string>protectedVectorFeedback</string>
+	<key>utilChainAlignment</key>
+	<string>stampDecoratorKind</string>
+</dict>
+</plist>

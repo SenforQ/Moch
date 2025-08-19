@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAroundFlyweight</key>
+	<string>taskByDecorator</string>
+	<key>bitrateFlyweightPressure</key>
+	<string>cosineDespiteBuffer</string>
+	<key>compositionalToolMode</key>
+	<string>inactiveImageKind</string>
+	<key>robustTweenValidation</key>
+	<string>immediateStackStatus</string>
+	<key>usedColumnVisibility</key>
+	<string>signPerTier</string>
+</dict>
+</plist>

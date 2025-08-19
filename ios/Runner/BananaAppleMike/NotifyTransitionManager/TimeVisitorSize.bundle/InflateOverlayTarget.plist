@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateByMode</key>
+	<string>inactiveAwaitFeedback</string>
+	<key>handlerAboutPattern</key>
+	<string>columnAlongStrategy</string>
+	<key>permanentDelegateFlags</key>
+	<string>transitionWithPhase</string>
+	<key>stepNumberEdge</key>
+	<string>crucialTangentEdge</string>
+	<key>visibleInteractorSize</key>
+	<string>elasticAspectContrast</string>
+</dict>
+</plist>

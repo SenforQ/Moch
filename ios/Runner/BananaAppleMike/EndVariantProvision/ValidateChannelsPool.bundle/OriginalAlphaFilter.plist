@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredButtonDirection</key>
+	<string>completionUntilPattern</string>
+	<key>desktopVariantBottom</key>
+	<string>navigatorBesidePlatform</string>
+	<key>errorPlatformFrequency</key>
+	<string>richtextActionTheme</string>
+	<key>immediateSliderLocation</key>
+	<string>protectedApertureOffset</string>
+	<key>providerSinceAction</key>
+	<string>navigatorSinceObserver</string>
+	<key>sessionLevelCenter</key>
+	<string>certificateAlongParam</string>
+	<key>vectorThanKind</key>
+	<string>playbackPlatformMode</string>
+	<key>widgetLayerOrientation</key>
+	<string>dedicatedExceptionDistance</string>
+</dict>
+</plist>

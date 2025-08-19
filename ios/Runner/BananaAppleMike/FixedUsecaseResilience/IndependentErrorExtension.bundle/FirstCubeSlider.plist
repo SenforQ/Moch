@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAwayActivity</key>
+	<string>sizeDuringChain</string>
+	<key>axisAgainstBridge</key>
+	<string>permissiveCubitValidation</string>
+	<key>explicitIndicatorVisible</key>
+	<string>prevGetxAlignment</string>
+	<key>groupNumberResponse</key>
+	<string>hashDuringNumber</string>
+	<key>largeQueueDirection</key>
+	<string>alignmentCompositeLeft</string>
+	<key>progressbarStageBrightness</key>
+	<string>signAndOperation</string>
+	<key>stateParameterContrast</key>
+	<string>smallResolverKind</string>
+	<key>viewAgainstPattern</key>
+	<string>sustainableSliderTop</string>
+</dict>
+</plist>

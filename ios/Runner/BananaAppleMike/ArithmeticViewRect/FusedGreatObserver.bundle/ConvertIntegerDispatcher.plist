@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardParticleTheme</key>
+	<string>gemExceptInterpreter</string>
+	<key>dynamicNotificationDelay</key>
+	<string>inactiveExceptionStatus</string>
+	<key>instructionFunctionValidation</key>
+	<string>scrollableAwaitDelay</string>
+	<key>lazyReducerMode</key>
+	<string>delicateControllerSpacing</string>
+	<key>metadataVariableCoord</key>
+	<string>capacitiesBeyondState</string>
+	<key>semanticsCycleFrequency</key>
+	<string>curveAgainstCycle</string>
+</dict>
+</plist>

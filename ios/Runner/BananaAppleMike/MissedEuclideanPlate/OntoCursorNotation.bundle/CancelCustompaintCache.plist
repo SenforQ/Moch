@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelTierSpeed</key>
+	<string>entropyVariableDistance</string>
+	<key>nativeEffectHue</key>
+	<string>statefulProviderFeedback</string>
+	<key>progressbarLikeScope</key>
+	<string>persistentGroupFormat</string>
+	<key>routerBeyondWork</key>
+	<string>webRowAppearance</string>
+	<key>workflowTempleTag</key>
+	<string>synchronousBorderRotation</string>
+</dict>
+</plist>

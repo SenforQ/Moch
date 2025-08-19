@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterTypeBehavior</key>
+	<string>listenerPerActivity</string>
+	<key>checkboxWorkType</key>
+	<string>exceptionPerAction</string>
+	<key>grainKindTint</key>
+	<string>flexibleArithmeticAppearance</string>
+	<key>labelFormCount</key>
+	<string>dynamicRiverpodSpeed</string>
+	<key>offsetStrategyBrightness</key>
+	<string>stampAndVar</string>
+	<key>previewPerState</key>
+	<string>boxshadowSystemBottom</string>
+	<key>reactiveGestureAppearance</key>
+	<string>configurationInTask</string>
+	<key>storageDuringProxy</key>
+	<string>allocatorThroughParameter</string>
+	<key>storageVisitorMargin</key>
+	<string>interactivePointFlags</string>
+</dict>
+</plist>

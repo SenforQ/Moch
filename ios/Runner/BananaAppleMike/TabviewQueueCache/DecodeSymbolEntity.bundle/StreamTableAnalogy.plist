@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBufferBound</key>
+	<string>groupStageDelay</string>
+	<key>animationCycleVelocity</key>
+	<string>uniformDrawerSaturation</string>
+	<key>gridShapeRotation</key>
+	<string>cubitActionInterval</string>
+	<key>materialSpriteRate</key>
+	<string>missionJobTension</string>
+	<key>notifierForSingleton</key>
+	<string>sineValueName</string>
+	<key>routerDecoratorSkewx</key>
+	<string>graphAlongVar</string>
+	<key>scrollableInteractorDelay</key>
+	<string>progressbarThanFacade</string>
+	<key>scrollableMobxPressure</key>
+	<string>sliderChainTint</string>
+</dict>
+</plist>

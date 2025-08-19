@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicMobileDensity</key>
+	<string>signatureIncludeAction</string>
+	<key>enabledEntropyRotation</key>
+	<string>pinchableSessionDepth</string>
+	<key>interactorContainStyle</key>
+	<string>staticAxisFormat</string>
+	<key>logOperationBorder</key>
+	<string>permissiveChartColor</string>
+	<key>nodeTaskType</key>
+	<string>playbackNumberSize</string>
+	<key>rectAlongPhase</key>
+	<string>capsuleActivityCount</string>
+</dict>
+</plist>

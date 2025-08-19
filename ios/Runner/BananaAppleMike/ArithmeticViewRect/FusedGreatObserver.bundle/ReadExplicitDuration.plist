@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionSystemBehavior</key>
+	<string>hierarchicalTabviewMargin</string>
+	<key>customizedEqualizationOrigin</key>
+	<string>stateStructureDistance</string>
+	<key>optimizerInsideActivity</key>
+	<string>stateAgainstEnvironment</string>
+	<key>rapidZoneSpacing</key>
+	<string>cartesianDelegateOrigin</string>
+	<key>signScopeVisible</key>
+	<string>mutableReductionOrientation</string>
+	<key>statelessSensorMode</key>
+	<string>autoNodeHead</string>
+	<key>unsortedMomentumHead</key>
+	<string>timerActionSaturation</string>
+	<key>workflowExceptMemento</key>
+	<string>builderUntilParameter</string>
+</dict>
+</plist>

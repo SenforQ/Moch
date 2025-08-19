@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventForEnvironment</key>
+	<string>handlerWithoutState</string>
+	<key>gestureIncludeFunction</key>
+	<string>cycleCompositeKind</string>
+	<key>graphProxyInset</key>
+	<string>localizationFacadeVelocity</string>
+	<key>materialOrLevel</key>
+	<string>effectEnvironmentShade</string>
+	<key>normalExceptionForce</key>
+	<string>functionalRectFlags</string>
+	<key>storeWithoutAction</key>
+	<string>referenceMediatorShade</string>
+</dict>
+</plist>

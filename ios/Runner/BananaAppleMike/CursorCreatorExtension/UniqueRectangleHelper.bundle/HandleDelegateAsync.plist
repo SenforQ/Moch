@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeIncludeComposite</key>
+	<string>aperturePrototypeOrigin</string>
+	<key>frameMementoPressure</key>
+	<string>standaloneSliderPadding</string>
+	<key>localScaffoldSkewy</key>
+	<string>routeLayerSkewy</string>
+	<key>standaloneCollectionBrightness</key>
+	<string>constPreviewTag</string>
+	<key>vectorLayerSpacing</key>
+	<string>methodParamName</string>
+</dict>
+</plist>

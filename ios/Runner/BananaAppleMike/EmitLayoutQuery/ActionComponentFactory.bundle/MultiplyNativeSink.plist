@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionVarInterval</key>
+	<string>normalMatrixDuration</string>
+	<key>channelPhaseBound</key>
+	<string>cubitAndLayer</string>
+	<key>cosineStateAlignment</key>
+	<string>tensorViewInteraction</string>
+	<key>gridviewAtType</key>
+	<string>clipperLayerBorder</string>
+	<key>hyperbolicDurationVelocity</key>
+	<string>imperativeCallbackVisible</string>
+</dict>
+</plist>

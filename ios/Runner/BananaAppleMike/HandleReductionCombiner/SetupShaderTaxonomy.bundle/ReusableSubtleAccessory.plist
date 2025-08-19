@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptOperation</key>
+	<string>ephemeralRadiusPressure</string>
+	<key>baselineMethodSkewy</key>
+	<string>zoneContextFrequency</string>
+	<key>capsuleVariableOrigin</key>
+	<string>hierarchicalSkinDepth</string>
+	<key>desktopEffectKind</key>
+	<string>unsortedNodeDuration</string>
+	<key>localizationLevelFrequency</key>
+	<string>promiseByKind</string>
+	<key>missedMobxDuration</key>
+	<string>mediaqueryContextInteraction</string>
+	<key>resourceInForm</key>
+	<string>gradientJobPadding</string>
+	<key>standaloneFeatureValidation</key>
+	<string>alignmentActivityInteraction</string>
+	<key>touchFlyweightFlags</key>
+	<string>descriptorBufferAppearance</string>
+</dict>
+</plist>

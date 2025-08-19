@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerSingletonOrientation</key>
+	<string>hierarchicalResourceStyle</string>
+	<key>fusedSingletonTransparency</key>
+	<string>channelInterpreterCount</string>
+	<key>isolateByWork</key>
+	<string>isolateAsBridge</string>
+	<key>largeSessionRotation</key>
+	<string>visibleTopicFlags</string>
+	<key>oldBaselineColor</key>
+	<string>singleGesturePadding</string>
+	<key>queueProcessInterval</key>
+	<string>greatIndicatorInteraction</string>
+	<key>statelessCommandVisible</key>
+	<string>mapActionDepth</string>
+</dict>
+</plist>

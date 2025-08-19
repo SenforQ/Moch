@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVariableDistance</key>
+	<string>constListenerSaturation</string>
+	<key>borderInContext</key>
+	<string>commonDrawerState</string>
+	<key>euclideanNavigatorTag</key>
+	<string>controllerInFacade</string>
+	<key>masterNearKind</key>
+	<string>concreteGrainLocation</string>
+	<key>momentumPhaseBehavior</key>
+	<string>accessibleMetadataAcceleration</string>
+	<key>repositoryWithSystem</key>
+	<string>stampActivityTag</string>
+</dict>
+</plist>

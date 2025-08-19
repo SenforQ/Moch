@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAgainstComposite</key>
+	<string>ephemeralZoneFormat</string>
+	<key>descriptionFrameworkTint</key>
+	<string>effectForStage</string>
+	<key>labelByStrategy</key>
+	<string>spriteOfTier</string>
+	<key>protectedScaffoldMargin</key>
+	<string>intermediateInjectionMode</string>
+	<key>segmentAlongStrategy</key>
+	<string>mainScaleCoord</string>
+	<key>semanticBatchBottom</key>
+	<string>composableCatalystCoord</string>
+	<key>temporaryKernelEdge</key>
+	<string>oldCardTop</string>
+	<key>transformerNearSystem</key>
+	<string>fusedSwiftTop</string>
+	<key>vectorBufferVisible</key>
+	<string>spriteMementoForce</string>
+</dict>
+</plist>

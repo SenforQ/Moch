@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInsideChain</key>
+	<string>cosineStageAcceleration</string>
+	<key>cartesianBlocDistance</key>
+	<string>modelFrameworkSkewx</string>
+	<key>dimensionBufferTop</key>
+	<string>constraintNearShape</string>
+	<key>keyFragmentInset</key>
+	<string>smallViewSkewx</string>
+	<key>sequentialCatalystShade</key>
+	<string>viewPerActivity</string>
+</dict>
+</plist>

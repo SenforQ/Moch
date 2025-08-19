@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStateMode</key>
+	<string>missionAtContext</string>
+	<key>crudeCurveBehavior</key>
+	<string>capacitiesAlongCycle</string>
+	<key>referenceNumberLocation</key>
+	<string>respectiveUsageVisibility</string>
+	<key>semanticConstraintScale</key>
+	<string>menuBySystem</string>
+	<key>similarTitleSpacing</key>
+	<string>desktopNotifierTop</string>
+</dict>
+</plist>

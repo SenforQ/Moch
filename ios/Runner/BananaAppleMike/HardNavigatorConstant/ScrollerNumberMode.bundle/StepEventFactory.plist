@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMovementBehavior</key>
+	<string>containerOrValue</string>
+	<key>cardPrototypeInteraction</key>
+	<string>sharedAnimationMomentum</string>
+	<key>effectActivityContrast</key>
+	<string>cubeSingletonSkewx</string>
+	<key>fragmentMementoSize</key>
+	<string>segmentTypeOrientation</string>
+	<key>getxVarFeedback</key>
+	<string>menuNearShape</string>
+	<key>interpolationWorkHead</key>
+	<string>sustainableBehaviorTop</string>
+	<key>liteProtocolType</key>
+	<string>invisibleManagerAlignment</string>
+	<key>modelLevelAcceleration</key>
+	<string>tableTempleTheme</string>
+	<key>singleAllocatorPosition</key>
+	<string>usageByProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHeroFrequency</key>
+	<string>interactorVersusTier</string>
+	<key>enabledFutureCoord</key>
+	<string>publicFrameForce</string>
+	<key>interactiveReducerBrightness</key>
+	<string>drawerScopePosition</string>
+	<key>mapCommandMargin</key>
+	<string>taskStructureFrequency</string>
+	<key>otherEventOrientation</key>
+	<string>logarithmUntilType</string>
+	<key>shaderFlyweightBottom</key>
+	<string>completionLikeBridge</string>
+	<key>storageByFacade</key>
+	<string>tableDecoratorSize</string>
+	<key>textVariableTint</key>
+	<string>unaryFlyweightOpacity</string>
+</dict>
+</plist>

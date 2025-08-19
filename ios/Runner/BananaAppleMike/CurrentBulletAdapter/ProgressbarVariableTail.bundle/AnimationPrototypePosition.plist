@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTypeVisibility</key>
+	<string>alignmentParamState</string>
+	<key>baselineVariablePosition</key>
+	<string>loopAtType</string>
+	<key>cubitViaFunction</key>
+	<string>indicatorVisitorEdge</string>
+	<key>cycleModeSpacing</key>
+	<string>prevQueryBottom</string>
+	<key>decorationChainOrientation</key>
+	<string>utilWithPlatform</string>
+	<key>interpolationStrategyBrightness</key>
+	<string>scrollablePositionAppearance</string>
+	<key>observerAboutMemento</key>
+	<string>drawerWithoutVariable</string>
+	<key>stateActionContrast</key>
+	<string>resourceStateDelay</string>
+</dict>
+</plist>

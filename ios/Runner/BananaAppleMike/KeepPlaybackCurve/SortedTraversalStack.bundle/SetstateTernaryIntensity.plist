@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonExponentSkewx</key>
+	<string>dynamicAsyncRate</string>
+	<key>composableGrainOrigin</key>
+	<string>actionPatternVelocity</string>
+	<key>draggableBinarySaturation</key>
+	<string>channelPerFlyweight</string>
+	<key>elasticWidgetInset</key>
+	<string>dynamicTaskFlags</string>
+	<key>independentIndicatorAlignment</key>
+	<string>tweenIncludeAdapter</string>
+	<key>interactorBeyondAdapter</key>
+	<string>labelVisitorHue</string>
+	<key>liteGroupMomentum</key>
+	<string>specifyWidgetAcceleration</string>
+	<key>queryKindKind</key>
+	<string>mutableStackVelocity</string>
+	<key>widgetInterpreterVisible</key>
+	<string>capsuleActivityAcceleration</string>
+</dict>
+</plist>

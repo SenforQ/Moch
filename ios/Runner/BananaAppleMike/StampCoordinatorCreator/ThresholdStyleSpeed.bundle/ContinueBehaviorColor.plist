@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartMethodSkewx</key>
+	<string>localFlexColor</string>
+	<key>durationBridgeMode</key>
+	<string>permissiveAnimationTop</string>
+	<key>exceptionInsideCycle</key>
+	<string>graphNumberEdge</string>
+	<key>invisibleExceptionLocation</key>
+	<string>opaqueSizeBrightness</string>
+	<key>shaderFacadeKind</key>
+	<string>routeLikeNumber</string>
+	<key>subtleBorderTheme</key>
+	<string>axisTierResponse</string>
+	<key>switchOutsideTask</key>
+	<string>actionUntilFramework</string>
+</dict>
+</plist>

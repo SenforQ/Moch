@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScrollBound</key>
+	<string>subscriptionAmongFacade</string>
+	<key>beginnerGridSkewy</key>
+	<string>basicFrameSize</string>
+	<key>callbackStageDepth</key>
+	<string>asyncMediatorOrientation</string>
+	<key>compositionalDimensionState</key>
+	<string>challengeTierDepth</string>
+	<key>disabledConfigurationPosition</key>
+	<string>descriptionVisitorSkewy</string>
+	<key>granularBlocVisibility</key>
+	<string>statelessTaskScale</string>
+	<key>prioritySystemVisible</key>
+	<string>autoPrecisionShape</string>
+	<key>subtleTweenDelay</key>
+	<string>interactiveTimerMargin</string>
+</dict>
+</plist>

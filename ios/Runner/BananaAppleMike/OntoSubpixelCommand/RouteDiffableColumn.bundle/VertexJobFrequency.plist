@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularToolRight</key>
+	<string>reducerWithScope</string>
+	<key>particleCommandOpacity</key>
+	<string>pageviewScopeTint</string>
+	<key>resolverJobKind</key>
+	<string>richtextShapeRate</string>
+	<key>signSystemOrientation</key>
+	<string>characterDuringAdapter</string>
+	<key>tableCycleOffset</key>
+	<string>batchShapeDuration</string>
+	<key>tappableTopicName</key>
+	<string>descriptorMementoTag</string>
+	<key>timerProcessTint</key>
+	<string>transformerActivitySkewx</string>
+	<key>workflowCycleSpeed</key>
+	<string>utilCommandTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRepositoryOrientation</key>
+	<string>expandedStageInset</string>
+	<key>cacheThroughAdapter</key>
+	<string>stateBesideComposite</string>
+	<key>diffableActionOrigin</key>
+	<string>activeNavigatorSkewx</string>
+	<key>disabledConsumerPosition</key>
+	<string>accordionCardFlags</string>
+	<key>gridThroughState</key>
+	<string>accessibleDurationName</string>
+	<key>widgetScopeHue</key>
+	<string>scaleScopeFeedback</string>
+</dict>
+</plist>

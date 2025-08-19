@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentParameterInterval</key>
+	<string>singleStackInteraction</string>
+	<key>gridOutsideChain</key>
+	<string>listviewThroughTask</string>
+	<key>iterativeMobxAlignment</key>
+	<string>storyboardObserverHue</string>
+	<key>notifierFacadeRight</key>
+	<string>durationMethodLocation</string>
+	<key>tickerViaProcess</key>
+	<string>curveOfStyle</string>
+	<key>variantCommandSpeed</key>
+	<string>checklistAroundChain</string>
+	<key>workflowJobIndex</key>
+	<string>listenerForTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFlyweightAlignment</key>
+	<string>tickerPrototypeLeft</string>
+	<key>channelsStructureSkewy</key>
+	<string>cubitAtVar</string>
+	<key>denseReducerDelay</key>
+	<string>mutableTabviewInteraction</string>
+	<key>routerSincePhase</key>
+	<string>controllerExceptParam</string>
+	<key>singletonAroundAdapter</key>
+	<string>batchPatternType</string>
+	<key>tableFunctionCenter</key>
+	<string>skirtTaskBorder</string>
+	<key>timerExceptCycle</key>
+	<string>variantViaType</string>
+</dict>
+</plist>

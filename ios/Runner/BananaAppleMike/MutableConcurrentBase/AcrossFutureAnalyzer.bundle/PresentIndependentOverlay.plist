@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMenuAlignment</key>
+	<string>permanentHandlerMargin</string>
+	<key>backwardAssetSkewy</key>
+	<string>gestureChainFeedback</string>
+	<key>basicCurveSize</key>
+	<string>interactorForSingleton</string>
+	<key>basicOptionSize</key>
+	<string>graphAgainstBuffer</string>
+	<key>certificateBeyondBridge</key>
+	<string>webLoopFormat</string>
+	<key>chartScopeInset</key>
+	<string>effectScopeOffset</string>
+	<key>delegateNearActivity</key>
+	<string>significantApertureCount</string>
+	<key>interpolationCycleRate</key>
+	<string>semanticListenerIndex</string>
+	<key>mobxCompositeRight</key>
+	<string>loopViaSystem</string>
+	<key>rapidPainterKind</key>
+	<string>animationValueVisibility</string>
+</dict>
+</plist>

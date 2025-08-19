@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleThanOperation</key>
+	<string>layoutSingletonTop</string>
+	<key>featureInComposite</key>
+	<string>callbackStateFormat</string>
+	<key>intuitiveUtilStyle</key>
+	<string>mobileVersusTask</string>
+	<key>tabbarContextStatus</key>
+	<string>effectViaPattern</string>
+	<key>visibleGroupInterval</key>
+	<string>navigatorProcessLocation</string>
+	<key>widgetDespiteContext</key>
+	<string>difficultContractionBorder</string>
+</dict>
+</plist>

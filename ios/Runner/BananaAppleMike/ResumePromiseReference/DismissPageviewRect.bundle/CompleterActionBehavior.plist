@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoHashType</key>
+	<string>positionBesideSingleton</string>
+	<key>gesturedetectorMediatorIndex</key>
+	<string>primaryConsumerSkewx</string>
+	<key>lazyBaselineFlags</key>
+	<string>flexScopeState</string>
+	<key>statefulContractionSkewy</key>
+	<string>symmetricOptimizerTint</string>
+	<key>temporaryNavigatorStyle</key>
+	<string>directSubpixelSkewx</string>
+	<key>usageOfVariable</key>
+	<string>segueDecoratorEdge</string>
+</dict>
+</plist>

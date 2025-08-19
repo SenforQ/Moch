@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResolverIndex</key>
+	<string>retainedExceptionBound</string>
+	<key>bulletNumberShape</key>
+	<string>resultAgainstDecorator</string>
+	<key>deferredRowRate</key>
+	<string>serviceFormOrientation</string>
+	<key>grayscaleAboutDecorator</key>
+	<string>respectiveCanvasOffset</string>
+	<key>localBrushLocation</key>
+	<string>intuitiveSemanticsRotation</string>
+	<key>segmentInLayer</key>
+	<string>vectorInterpreterTension</string>
+	<key>usecasePlatformDistance</key>
+	<string>flexProcessName</string>
+</dict>
+</plist>

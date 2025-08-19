@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableNavigatorOffset</key>
+	<string>gestureFromCommand</string>
+	<key>liteInteractorOrigin</key>
+	<string>configurationByCommand</string>
+	<key>navigatorTierFeedback</key>
+	<string>tickerIncludeStyle</string>
+	<key>pointViaType</key>
+	<string>specifyNavigatorHue</string>
+	<key>seamlessPresenterOpacity</key>
+	<string>canvasAboutScope</string>
+	<key>tweenLikeNumber</key>
+	<string>storageThanPlatform</string>
+</dict>
+</plist>

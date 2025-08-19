@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationPerOperation</key>
+	<string>consumerBeyondBuffer</string>
+	<key>invisibleOffsetScale</key>
+	<string>offsetLikeObserver</string>
+	<key>nextKernelFormat</key>
+	<string>containerWithoutState</string>
+	<key>sequentialRowRate</key>
+	<string>spotActionLocation</string>
+	<key>sineLikeOperation</key>
+	<string>variantSingletonMode</string>
+	<key>unactivatedEffectResponse</key>
+	<string>typicalTableBorder</string>
+</dict>
+</plist>

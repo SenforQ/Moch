@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferEnvironmentTag</key>
+	<string>labelThroughLayer</string>
+	<key>chapterModeDirection</key>
+	<string>mainTopicOrientation</string>
+	<key>decorationSingletonSkewx</key>
+	<string>listenerModeDensity</string>
+	<key>mobileModeFrequency</key>
+	<string>sceneLevelFormat</string>
+	<key>primaryMobileState</key>
+	<string>concurrentPositionTop</string>
+	<key>segmentStyleResponse</key>
+	<string>entropyMethodOrientation</string>
+	<key>tabviewPatternHue</key>
+	<string>subpixelFacadeFeedback</string>
+</dict>
+</plist>

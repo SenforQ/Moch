@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAnimationMomentum</key>
+	<string>zoneOutsideState</string>
+	<key>channelsByFacade</key>
+	<string>mobxByParameter</string>
+	<key>enabledDocumentFeedback</key>
+	<string>inactiveUsecaseResponse</string>
+	<key>interactorPatternInset</key>
+	<string>errorObserverDirection</string>
+	<key>sessionTaskRotation</key>
+	<string>channelOutsideKind</string>
+	<key>stateCycleTransparency</key>
+	<string>tweenMementoStatus</string>
+	<key>themeFormLocation</key>
+	<string>topicCommandTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNotificationDistance</key>
+	<string>normalDialogsPadding</string>
+	<key>checklistPrototypeBound</key>
+	<string>threadAlongNumber</string>
+	<key>descriptorNumberFlags</key>
+	<string>columnVariableShape</string>
+	<key>dynamicRowOpacity</key>
+	<string>gestureVariableTag</string>
+	<key>gridParameterFeedback</key>
+	<string>grainSystemContrast</string>
+	<key>popupContainObserver</key>
+	<string>bulletIncludeContext</string>
+	<key>specifierChainBrightness</key>
+	<string>particleExceptVariable</string>
+	<key>touchInParameter</key>
+	<string>blocPatternAlignment</string>
+	<key>webRectAlignment</key>
+	<string>menuByLevel</string>
+</dict>
+</plist>

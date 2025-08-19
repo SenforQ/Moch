@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorObserverPressure</key>
+	<string>smartCatalystRotation</string>
+	<key>bulletCompositeBehavior</key>
+	<string>parallelQueuePadding</string>
+	<key>crucialSemanticsShade</key>
+	<string>unsortedCupertinoHue</string>
+	<key>crudeBoxshadowInterval</key>
+	<string>missedBuilderRotation</string>
+	<key>exponentMethodFormat</key>
+	<string>characterAroundFacade</string>
+	<key>futureBridgeName</key>
+	<string>cardOfForm</string>
+	<key>screenProxyAppearance</key>
+	<string>otherRemainderOpacity</string>
+	<key>spriteStageTop</key>
+	<string>resultViaComposite</string>
+	<key>statefulInStyle</key>
+	<string>finalCosineName</string>
+</dict>
+</plist>

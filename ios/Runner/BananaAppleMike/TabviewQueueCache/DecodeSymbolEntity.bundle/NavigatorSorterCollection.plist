@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxLikeFacade</key>
+	<string>persistentTransformerMode</string>
+	<key>inkwellSinceTask</key>
+	<string>assetActivityStatus</string>
+	<key>tappableMusicState</key>
+	<string>unactivatedInterfaceName</string>
+</dict>
+</plist>

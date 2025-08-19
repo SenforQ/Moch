@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerActionKind</key>
+	<string>hierarchicalPriorityPosition</string>
+	<key>coordinatorOfState</key>
+	<string>resizableRichtextBottom</string>
+	<key>crudeNavigatorFormat</key>
+	<string>columnMediatorTransparency</string>
+	<key>documentOfFlyweight</key>
+	<string>typicalBulletInset</string>
+	<key>labelChainValidation</key>
+	<string>factoryAsTier</string>
+	<key>painterSinceBridge</key>
+	<string>referenceActionFeedback</string>
+	<key>scaffoldExceptFacade</key>
+	<string>stateCommandDirection</string>
+	<key>textStateOpacity</key>
+	<string>mobileSizedboxAlignment</string>
+	<key>vectorThroughActivity</key>
+	<string>navigatorExceptMethod</string>
+</dict>
+</plist>

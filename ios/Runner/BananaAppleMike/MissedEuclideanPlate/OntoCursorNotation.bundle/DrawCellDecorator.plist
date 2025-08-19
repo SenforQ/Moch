@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAboutMethod</key>
+	<string>responseAtStage</string>
+	<key>composableSpriteAcceleration</key>
+	<string>inactiveAlphaScale</string>
+	<key>concreteTitleAppearance</key>
+	<string>controllerInsideParam</string>
+	<key>concreteTransformerTint</key>
+	<string>finalGetxPressure</string>
+	<key>delegateInsideLayer</key>
+	<string>alertEnvironmentInterval</string>
+	<key>interfaceFromLayer</key>
+	<string>transitionDecoratorPadding</string>
+	<key>lossByStrategy</key>
+	<string>concurrentSizedboxFlags</string>
+	<key>methodCompositeHue</key>
+	<string>cartesianTopicAlignment</string>
+	<key>smallFutureDelay</key>
+	<string>mutableSegueInteraction</string>
+	<key>synchronousDimensionMargin</key>
+	<string>threadLayerAlignment</string>
+</dict>
+</plist>

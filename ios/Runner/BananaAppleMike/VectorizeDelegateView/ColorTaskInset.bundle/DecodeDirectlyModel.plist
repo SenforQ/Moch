@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseParticleValidation</key>
+	<string>behaviorModeName</string>
+	<key>effectInterpreterState</key>
+	<string>entropyCommandSize</string>
+	<key>indicatorAlongFramework</key>
+	<string>precisionActivityHue</string>
+	<key>menuModeRotation</key>
+	<string>routerScopeVelocity</string>
+	<key>reactiveProviderTail</key>
+	<string>fragmentVarBottom</string>
+	<key>spriteShapeOrientation</key>
+	<string>interfaceProcessTail</string>
+</dict>
+</plist>

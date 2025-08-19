@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>primaryGroupMode</key>
+	<string>cupertinoStateAcceleration</string>
+	<key>reactiveSceneBound</key>
+	<string>disabledAnimatedcontainerTag</string>
+	<key>sessionByFramework</key>
+	<string>sliderViaObserver</string>
+	<key>topicThanStrategy</key>
+	<string>compositionalEffectForce</string>
+</dict>
+</plist>

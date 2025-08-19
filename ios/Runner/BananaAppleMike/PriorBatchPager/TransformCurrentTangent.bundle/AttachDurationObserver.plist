@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLikeLevel</key>
+	<string>managerModeTail</string>
+	<key>sizeTierLeft</key>
+	<string>allocatorForSingleton</string>
+	<key>viewForType</key>
+	<string>adaptiveObserverType</string>
+</dict>
+</plist>

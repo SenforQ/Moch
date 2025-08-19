@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProviderDistance</key>
+	<string>asynchronousBoxVisibility</string>
+	<key>allocatorAgainstInterpreter</key>
+	<string>routerThroughFramework</string>
+	<key>aspectratioViaStage</key>
+	<string>enabledAnimationDuration</string>
+	<key>captionKindStyle</key>
+	<string>resourceTypeVisible</string>
+	<key>compositionMethodFeedback</key>
+	<string>gesturedetectorCycleBehavior</string>
+	<key>concurrentExceptionStatus</key>
+	<string>aspectratioLayerTint</string>
+	<key>desktopGestureVisibility</key>
+	<string>lastMovementOpacity</string>
+	<key>rowWithPlatform</key>
+	<string>signProxyBound</string>
+	<key>subscriptionStrategyMargin</key>
+	<string>disabledActionSize</string>
+</dict>
+</plist>

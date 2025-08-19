@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCellMomentum</key>
+	<string>subtleConstraintState</string>
+	<key>decorationBeyondStage</key>
+	<string>baselineForMemento</string>
+	<key>elasticTweenStyle</key>
+	<string>assetFunctionBound</string>
+	<key>managerAwayScope</key>
+	<string>draggableObserverEdge</string>
+	<key>presenterWorkMomentum</key>
+	<string>frameProcessScale</string>
+</dict>
+</plist>

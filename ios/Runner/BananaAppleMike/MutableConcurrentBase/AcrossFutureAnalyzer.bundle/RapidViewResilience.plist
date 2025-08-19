@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateAlignment</key>
+	<string>customCoordinatorLocation</string>
+	<key>plateTypeEdge</key>
+	<string>notifierIncludeVariable</string>
+	<key>resizableCupertinoBehavior</key>
+	<string>dedicatedRowInset</string>
+	<key>semanticCacheBottom</key>
+	<string>intensityByBuffer</string>
+	<key>storageContextHue</key>
+	<string>curveMementoVisible</string>
+	<key>viewTaskSkewy</key>
+	<string>backwardSceneVisible</string>
+</dict>
+</plist>

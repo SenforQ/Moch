@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedLocalizationTint</key>
+	<string>isolateProxyBrightness</string>
+	<key>enabledSliderVelocity</key>
+	<string>smallTaskOffset</string>
+	<key>finalMovementCount</key>
+	<string>groupFlyweightSkewy</string>
+	<key>gridviewFacadeTop</key>
+	<string>dedicatedPlaybackForce</string>
+	<key>progressbarContainStyle</key>
+	<string>directCupertinoDuration</string>
+	<key>scrollShapeMode</key>
+	<string>mutableCallbackName</string>
+	<key>textForSystem</key>
+	<string>transformerFromSystem</string>
+	<key>textureViaWork</key>
+	<string>decorationFunctionDistance</string>
+	<key>threadAmongTier</key>
+	<string>layoutAmongStyle</string>
+</dict>
+</plist>

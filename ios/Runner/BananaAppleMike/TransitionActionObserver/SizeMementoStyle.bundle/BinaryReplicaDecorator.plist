@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFragmentStatus</key>
+	<string>dedicatedBufferDelay</string>
+	<key>concreteTimerAlignment</key>
+	<string>alignmentScopeInterval</string>
+	<key>mediumAspectContrast</key>
+	<string>heapFacadePressure</string>
+	<key>rowFacadeCenter</key>
+	<string>taskAwayPattern</string>
+	<key>sharedNibMomentum</key>
+	<string>agileNotifierDensity</string>
+	<key>subscriptionPerPhase</key>
+	<string>storageLikeFunction</string>
+	<key>widgetScopeLeft</key>
+	<string>resultScopeVelocity</string>
+</dict>
+</plist>

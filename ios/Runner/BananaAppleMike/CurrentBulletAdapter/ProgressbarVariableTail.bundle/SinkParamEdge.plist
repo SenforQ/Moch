@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCyclePadding</key>
+	<string>newestRowRate</string>
+	<key>chartLikeMode</key>
+	<string>normalGroupDelay</string>
+	<key>currentModelTint</key>
+	<string>staticRadioOpacity</string>
+	<key>heapActionFeedback</key>
+	<string>temporaryStackMomentum</string>
+	<key>hierarchicalThreadDelay</key>
+	<string>mutableTransitionType</string>
+	<key>iconOrSingleton</key>
+	<string>bitrateInsideMemento</string>
+	<key>skinModeTension</key>
+	<string>relationalVectorMomentum</string>
+	<key>textfieldMediatorValidation</key>
+	<string>shaderModeSpeed</string>
+	<key>tickerThanState</key>
+	<string>listenerSinceMethod</string>
+</dict>
+</plist>

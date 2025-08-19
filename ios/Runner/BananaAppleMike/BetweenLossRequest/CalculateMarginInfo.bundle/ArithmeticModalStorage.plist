@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedEnvironmentLocation</key>
+	<string>constraintPrototypeRight</string>
+	<key>kernelPatternInset</key>
+	<string>responsiveMaterialEdge</string>
+	<key>petContainValue</key>
+	<string>customModelAlignment</string>
+</dict>
+</plist>

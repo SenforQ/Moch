@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintMediatorOpacity</key>
+	<string>entityStrategyTransparency</string>
+	<key>factoryContainStrategy</key>
+	<string>constraintCommandVelocity</string>
+	<key>firstReferencePadding</key>
+	<string>touchVersusKind</string>
+	<key>layoutForSingleton</key>
+	<string>chapterDecoratorDuration</string>
+	<key>sophisticatedPaddingStatus</key>
+	<string>asynchronousContainerStatus</string>
+	<key>spotBeyondLevel</key>
+	<string>loopVisitorStyle</string>
+</dict>
+</plist>

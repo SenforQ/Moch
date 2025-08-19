@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerTierRight</key>
+	<string>entityWithoutFlyweight</string>
+	<key>completerFlyweightMode</key>
+	<string>resizableProtocolTail</string>
+	<key>customInterpolationIndex</key>
+	<string>zoneTypeRotation</string>
+	<key>declarativeStorageRotation</key>
+	<string>immediateContainerBorder</string>
+	<key>dimensionAroundParam</key>
+	<string>disabledStorageOrigin</string>
+	<key>greatChartForce</key>
+	<string>numericalProjectPadding</string>
+	<key>groupPlatformSkewy</key>
+	<string>activatedCoordinatorOpacity</string>
+	<key>skinActivityTheme</key>
+	<string>sliderTaskHue</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStyleInset</key>
+	<string>spriteViaTask</string>
+	<key>constLayoutValidation</key>
+	<string>precisionCycleDepth</string>
+	<key>disparateAlphaInset</key>
+	<string>activityDecoratorLeft</string>
+	<key>resourceExceptBuffer</key>
+	<string>commonAnimationAppearance</string>
+	<key>symbolUntilFacade</key>
+	<string>responsiveTransitionVelocity</string>
+	<key>transformerStrategyInterval</key>
+	<string>petAroundForm</string>
+	<key>tweenAtParameter</key>
+	<string>textUntilPlatform</string>
+	<key>utilBufferRate</key>
+	<string>tweenVarAcceleration</string>
+</dict>
+</plist>

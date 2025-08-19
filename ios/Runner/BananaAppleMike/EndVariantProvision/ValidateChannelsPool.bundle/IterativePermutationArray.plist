@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAndSingleton</key>
+	<string>resourceModeFrequency</string>
+	<key>gridStructureEdge</key>
+	<string>localCapsuleOpacity</string>
+	<key>layoutAtValue</key>
+	<string>cursorBridgeSize</string>
+	<key>resourcePerAdapter</key>
+	<string>mobxJobDensity</string>
+	<key>spineAroundMediator</key>
+	<string>secondGrayscaleInterval</string>
+	<key>subscriptionKindTension</key>
+	<string>reactivePromiseDuration</string>
+</dict>
+</plist>

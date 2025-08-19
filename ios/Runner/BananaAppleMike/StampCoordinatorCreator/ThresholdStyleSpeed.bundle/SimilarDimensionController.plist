@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMediatorAcceleration</key>
+	<string>offsetFromSystem</string>
+	<key>normalRouterLocation</key>
+	<string>skinInPrototype</string>
+	<key>notifierFormHue</key>
+	<string>graphByAdapter</string>
+	<key>widgetUntilPattern</key>
+	<string>specifierPerNumber</string>
+</dict>
+</plist>

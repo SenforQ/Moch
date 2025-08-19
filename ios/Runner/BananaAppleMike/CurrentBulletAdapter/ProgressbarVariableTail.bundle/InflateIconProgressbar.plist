@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerOverlayFlags</key>
+	<string>unactivatedSignVisibility</string>
+	<key>customSpriteDistance</key>
+	<string>autoSizePosition</string>
+	<key>dedicatedInstructionBrightness</key>
+	<string>nextBlocFrequency</string>
+	<key>directlyMonsterSaturation</key>
+	<string>arithmeticThanKind</string>
+	<key>integerSingletonDensity</key>
+	<string>presenterStageCoord</string>
+	<key>specifyGraphicKind</key>
+	<string>convolutionWithoutActivity</string>
+	<key>sustainableAnimationVelocity</key>
+	<string>positionPatternLocation</string>
+	<key>toolAdapterSkewy</key>
+	<string>activatedContainerStyle</string>
+	<key>topicDuringScope</key>
+	<string>materialAlongLevel</string>
+</dict>
+</plist>

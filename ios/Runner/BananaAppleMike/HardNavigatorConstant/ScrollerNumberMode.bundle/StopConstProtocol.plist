@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPerMethod</key>
+	<string>bulletNearTemple</string>
+	<key>columnIncludeFacade</key>
+	<string>actionInStyle</string>
+	<key>compositionalPriorityCoord</key>
+	<string>priorCompositionSkewx</string>
+	<key>projectScopeFlags</key>
+	<string>cupertinoPerTask</string>
+	<key>reducerLikeLevel</key>
+	<string>finalRouteTail</string>
+</dict>
+</plist>

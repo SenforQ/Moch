@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletNearPattern</key>
+	<string>disabledScreenOrientation</string>
+	<key>compositionalTaskDelay</key>
+	<string>masterVarCoord</string>
+	<key>errorAroundMode</key>
+	<string>displayableSineOffset</string>
+	<key>indicatorTaskDelay</key>
+	<string>queueContainJob</string>
+	<key>inheritedSingletonCoord</key>
+	<string>gridBeyondComposite</string>
+	<key>largeSingletonMomentum</key>
+	<string>semanticTableState</string>
+	<key>managerThroughJob</key>
+	<string>blocTierFormat</string>
+	<key>responsiveProgressbarTag</key>
+	<string>modalFrameworkPosition</string>
+	<key>scrollableControllerBehavior</key>
+	<string>allocatorDecoratorStyle</string>
+	<key>symmetricAlertTail</key>
+	<string>difficultDocumentOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAxisVisibility</key>
+	<string>commonServiceSkewy</string>
+	<key>configurationFromPattern</key>
+	<string>compositionOutsideSystem</string>
+	<key>inactiveContainerTag</key>
+	<string>channelDespiteFunction</string>
+	<key>mobxExceptScope</key>
+	<string>animationAmongProxy</string>
+	<key>modalForFlyweight</key>
+	<string>gateObserverOffset</string>
+	<key>persistentBoxDensity</key>
+	<string>coordinatorDecoratorCenter</string>
+	<key>textAwayObserver</key>
+	<string>elasticStoreAppearance</string>
+	<key>webActivityStatus</key>
+	<string>riverpodSingletonAppearance</string>
+</dict>
+</plist>

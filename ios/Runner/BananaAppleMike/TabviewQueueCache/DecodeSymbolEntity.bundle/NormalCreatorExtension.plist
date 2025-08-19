@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTaskFormat</key>
+	<string>reusableCacheFlags</string>
+	<key>constraintModeDirection</key>
+	<string>usageFromNumber</string>
+	<key>listviewProcessBehavior</key>
+	<string>transitionEnvironmentType</string>
+	<key>significantTabbarKind</key>
+	<string>referenceChainFeedback</string>
+	<key>synchronousMenuDepth</key>
+	<string>mobileExceptionPressure</string>
+</dict>
+</plist>

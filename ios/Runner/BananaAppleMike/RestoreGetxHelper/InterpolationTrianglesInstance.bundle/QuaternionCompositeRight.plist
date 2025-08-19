@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerContextCoord</key>
+	<string>opaqueReferenceShape</string>
+	<key>marginInsideKind</key>
+	<string>streamExceptFunction</string>
+	<key>pinchableViewFeedback</key>
+	<string>seamlessDescriptionBorder</string>
+	<key>semanticColumnStatus</key>
+	<string>reactiveCardVisibility</string>
+</dict>
+</plist>

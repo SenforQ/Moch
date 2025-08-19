@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelCompositeScale</key>
+	<string>spineJobIndex</string>
+	<key>compositionMementoSkewx</key>
+	<string>sequentialUsageOrigin</string>
+	<key>entityPerLevel</key>
+	<string>completerDuringCycle</string>
+	<key>precisionPerFunction</key>
+	<string>inactiveInjectionIndex</string>
+	<key>seamlessMusicPosition</key>
+	<string>touchCycleSize</string>
+	<key>standaloneUtilMode</key>
+	<string>alignmentStructureTop</string>
+</dict>
+</plist>

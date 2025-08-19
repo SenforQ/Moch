@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExceptionAlignment</key>
+	<string>observerThanInterpreter</string>
+	<key>discardedNotifierPressure</key>
+	<string>displayableHeapOffset</string>
+	<key>modalStateValidation</key>
+	<string>displayableMultiplicationTop</string>
+	<key>projectionAndPlatform</key>
+	<string>builderModeSpeed</string>
+	<key>streamContainDecorator</key>
+	<string>pointUntilTask</string>
+</dict>
+</plist>

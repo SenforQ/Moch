@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertUntilDecorator</key>
+	<string>alignmentOfVariable</string>
+	<key>canvasPerPrototype</key>
+	<string>sensorWithoutVar</string>
+	<key>capacitiesAboutAction</key>
+	<string>cartesianInteractorPosition</string>
+	<key>controllerPatternRotation</key>
+	<string>factoryProxyVelocity</string>
+	<key>eventContainPhase</key>
+	<string>hashLayerDelay</string>
+	<key>ignoredRouteVisibility</key>
+	<string>subsequentProgressbarInterval</string>
+	<key>resolverAroundPattern</key>
+	<string>permissiveQueryCenter</string>
+	<key>rowLikePhase</key>
+	<string>gridviewMediatorTail</string>
+</dict>
+</plist>

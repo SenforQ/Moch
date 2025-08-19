@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxDespiteStrategy</key>
+	<string>captionChainFormat</string>
+	<key>deferredLoopIndex</key>
+	<string>pageviewCycleResponse</string>
+	<key>missedBuilderLocation</key>
+	<string>protectedGemBorder</string>
+	<key>navigatorShapeState</key>
+	<string>arithmeticBufferTint</string>
+	<key>nextProfileDensity</key>
+	<string>overlayVarSkewy</string>
+	<key>operationAlongFramework</key>
+	<string>requiredTimerSpacing</string>
+	<key>taskObserverBrightness</key>
+	<string>completerCompositeRotation</string>
+	<key>vectorParamAppearance</key>
+	<string>repositorySystemKind</string>
+</dict>
+</plist>

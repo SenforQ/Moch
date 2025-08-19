@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondStyle</key>
+	<string>providerCycleInset</string>
+	<key>builderValueDelay</key>
+	<string>responseScopeFrequency</string>
+	<key>constraintAroundScope</key>
+	<string>controllerExceptBuffer</string>
+	<key>effectViaStrategy</key>
+	<string>navigatorAsMediator</string>
+	<key>parallelAsyncStyle</key>
+	<string>riverpodInsideBridge</string>
+	<key>spriteOutsideProcess</key>
+	<string>textFromProxy</string>
+	<key>transformerContainLevel</key>
+	<string>sliderLikeVariable</string>
+</dict>
+</plist>

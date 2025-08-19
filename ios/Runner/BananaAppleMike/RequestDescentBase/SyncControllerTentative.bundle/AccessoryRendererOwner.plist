@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionModeDistance</key>
+	<string>boxshadowCycleSize</string>
+	<key>hierarchicalMapAppearance</key>
+	<string>controllerPrototypeTop</string>
+	<key>permanentCursorRight</key>
+	<string>sinkFlyweightSaturation</string>
+	<key>usageVariableSpacing</key>
+	<string>segmentFrameworkRotation</string>
+</dict>
+</plist>

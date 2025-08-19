@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionWorkBottom</key>
+	<string>layoutFromFunction</string>
+	<key>hardSpriteEdge</key>
+	<string>baseThroughStage</string>
+	<key>hierarchicalEventName</key>
+	<string>nextPaddingKind</string>
+	<key>isolateThanScope</key>
+	<string>animationParameterValidation</string>
+	<key>rapidHandlerFeedback</key>
+	<string>previewTierKind</string>
+	<key>retainedOptionPadding</key>
+	<string>zoneAlongPattern</string>
+</dict>
+</plist>

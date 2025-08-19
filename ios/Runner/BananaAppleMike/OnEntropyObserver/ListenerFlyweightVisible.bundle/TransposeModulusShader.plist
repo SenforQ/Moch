@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandShapeHue</key>
+	<string>usedDescriptorVisible</string>
+	<key>cupertinoObserverBottom</key>
+	<string>hierarchicalNotifierAcceleration</string>
+	<key>cycleAtBuffer</key>
+	<string>navigatorPlatformRotation</string>
+	<key>descriptionThroughProxy</key>
+	<string>criticalSizedboxFrequency</string>
+	<key>effectLayerDepth</key>
+	<string>draggableChartShade</string>
+	<key>mutableDrawerBottom</key>
+	<string>imageStyleOffset</string>
+	<key>referenceContainFlyweight</key>
+	<string>parallelLayerKind</string>
+	<key>retainedOverlayTint</key>
+	<string>arithmeticOptionPressure</string>
+	<key>shaderAtSystem</key>
+	<string>requestFromType</string>
+</dict>
+</plist>

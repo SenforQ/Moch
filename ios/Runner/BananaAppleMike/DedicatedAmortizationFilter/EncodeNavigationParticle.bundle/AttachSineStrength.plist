@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntityBound</key>
+	<string>interfaceCycleShade</string>
+	<key>animatedBuilderSpeed</key>
+	<string>largeNavigationOpacity</string>
+	<key>controllerBufferBrightness</key>
+	<string>particleDuringActivity</string>
+	<key>coordinatorFacadeKind</key>
+	<string>queueObserverSpacing</string>
+	<key>globalMatrixInterval</key>
+	<string>compositionalCubeHue</string>
+	<key>pointThroughSingleton</key>
+	<string>layoutAgainstState</string>
+	<key>scrollablePaddingInset</key>
+	<string>grainInLayer</string>
+	<key>similarMultiplicationCenter</key>
+	<string>particlePhaseCount</string>
+	<key>sortedTransitionStyle</key>
+	<string>eventExceptActivity</string>
+	<key>taskOrVisitor</key>
+	<string>axisDuringLevel</string>
+</dict>
+</plist>

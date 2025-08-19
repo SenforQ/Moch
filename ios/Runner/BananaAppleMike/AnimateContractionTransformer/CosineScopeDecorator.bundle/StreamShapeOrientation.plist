@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPerVisitor</key>
+	<string>flexCommandBehavior</string>
+	<key>coordinatorOfCycle</key>
+	<string>groupAroundMode</string>
+	<key>eventVersusVisitor</key>
+	<string>nextCacheFlags</string>
+	<key>fragmentOrActivity</key>
+	<string>beginnerRichtextScale</string>
+	<key>imagePatternTag</key>
+	<string>priorMediaFormat</string>
+	<key>mediumTablePressure</key>
+	<string>switchVersusWork</string>
+	<key>utilByShape</key>
+	<string>otherStateSaturation</string>
+</dict>
+</plist>

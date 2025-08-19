@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStructureContrast</key>
+	<string>unaryInsideDecorator</string>
+	<key>cacheLikeOperation</key>
+	<string>radioFacadeBorder</string>
+	<key>containerJobColor</key>
+	<string>bufferAlongBuffer</string>
+	<key>geometricAllocatorFrequency</key>
+	<string>themeStyleInterval</string>
+	<key>primaryDurationRate</key>
+	<string>factoryOrPlatform</string>
+	<key>progressbarShapeTail</key>
+	<string>customHashCount</string>
+	<key>promiseContainPlatform</key>
+	<string>substantialGramEdge</string>
+	<key>resourceOrPattern</key>
+	<string>collectionMediatorVisible</string>
+	<key>sharedNavigatorStyle</key>
+	<string>decorationFacadeBrightness</string>
+</dict>
+</plist>

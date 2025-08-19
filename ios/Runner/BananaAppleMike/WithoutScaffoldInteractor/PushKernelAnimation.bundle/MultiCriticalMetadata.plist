@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBySystem</key>
+	<string>constPrecisionName</string>
+	<key>batchFromType</key>
+	<string>diffableChannelsType</string>
+	<key>managerVariableDelay</key>
+	<string>customizedButtonFrequency</string>
+	<key>normalSliderInteraction</key>
+	<string>routeLevelBottom</string>
+	<key>resourceAboutDecorator</key>
+	<string>durationInCommand</string>
+	<key>reusablePreviewDepth</key>
+	<string>gridExceptOperation</string>
+	<key>timerVersusBridge</key>
+	<string>animatedObserverFrequency</string>
+</dict>
+</plist>

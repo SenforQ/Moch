@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCompositeContrast</key>
+	<string>advancedClipperOpacity</string>
+	<key>currentMediaFeedback</key>
+	<string>actionPhaseFormat</string>
+	<key>eventVisitorDensity</key>
+	<string>controllerAboutType</string>
+	<key>explicitSpriteFormat</key>
+	<string>dedicatedGrainSize</string>
+	<key>mobxChainFeedback</key>
+	<string>nodeParamRate</string>
+	<key>pivotalScaffoldFlags</key>
+	<string>mediaStyleAppearance</string>
+	<key>relationalSwitchForce</key>
+	<string>activatedStatelessInset</string>
+	<key>symmetricSubscriptionSpacing</key>
+	<string>riverpodAgainstContext</string>
+	<key>viewStageTransparency</key>
+	<string>callbackValueCount</string>
+</dict>
+</plist>

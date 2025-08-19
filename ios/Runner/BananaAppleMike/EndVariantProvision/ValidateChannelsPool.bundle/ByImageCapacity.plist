@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeOptionVisibility</key>
+	<string>exceptionPhaseResponse</string>
+	<key>containerFromFramework</key>
+	<string>otherGraphBound</string>
+	<key>disabledHandlerName</key>
+	<string>titleStructureLocation</string>
+	<key>exceptionCompositeInset</key>
+	<string>factoryPrototypeBrightness</string>
+	<key>resourceMementoVisible</key>
+	<string>durationCommandOffset</string>
+	<key>sinkActivityRotation</key>
+	<string>elasticTextIndex</string>
+</dict>
+</plist>

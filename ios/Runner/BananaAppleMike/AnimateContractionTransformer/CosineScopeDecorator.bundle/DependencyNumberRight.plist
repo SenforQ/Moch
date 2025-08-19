@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLocalizationBehavior</key>
+	<string>usecaseIncludeVar</string>
+	<key>easyCollectionMargin</key>
+	<string>layerInAdapter</string>
+	<key>entityPlatformColor</key>
+	<string>taskOrLevel</string>
+	<key>graphProcessFeedback</key>
+	<string>cubeAlongVariable</string>
+	<key>localizationStrategyScale</key>
+	<string>optionMethodTransparency</string>
+	<key>mobileLayerStyle</key>
+	<string>commonConstraintCenter</string>
+	<key>significantPlateCoord</key>
+	<string>bulletWorkLeft</string>
+</dict>
+</plist>

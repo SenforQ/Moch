@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarExceptFunction</key>
+	<string>standaloneIsolateAcceleration</string>
+	<key>completerPatternRight</key>
+	<string>lastCubitState</string>
+	<key>currentRouterOffset</key>
+	<string>segmentActionInset</string>
+	<key>materialThanFramework</key>
+	<string>permanentModelCount</string>
+	<key>rectParameterPosition</key>
+	<string>delegateThanWork</string>
+	<key>statelessSubpixelFrequency</key>
+	<string>globalPreviewBrightness</string>
+	<key>typicalCallbackCoord</key>
+	<string>statefulResultStatus</string>
+</dict>
+</plist>

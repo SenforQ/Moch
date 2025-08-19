@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPlatformShade</key>
+	<string>statefulRouteForce</string>
+	<key>compositionalInteractorRate</key>
+	<string>gridviewVersusStructure</string>
+	<key>dropdownbuttonParameterSkewy</key>
+	<string>sceneParamMargin</string>
+	<key>gestureSingletonLocation</key>
+	<string>tappableProgressbarOrigin</string>
+	<key>menuWithoutTask</key>
+	<string>listviewContainWork</string>
+	<key>reducerModeRate</key>
+	<string>titleWithEnvironment</string>
+	<key>repositoryAndCommand</key>
+	<string>hierarchicalChannelLocation</string>
+	<key>streamByPhase</key>
+	<string>materialRichtextState</string>
+</dict>
+</plist>

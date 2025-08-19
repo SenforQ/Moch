@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForProcess</key>
+	<string>pinchableUsecaseVisible</string>
+	<key>cursorFormRate</key>
+	<string>advancedButtonOrientation</string>
+	<key>effectIncludeEnvironment</key>
+	<string>radiusCompositeRotation</string>
+	<key>fusedStreamTransparency</key>
+	<string>reusableColumnTransparency</string>
+	<key>responsiveEntityValidation</key>
+	<string>animatedSingletonSize</string>
+	<key>secondAsyncMomentum</key>
+	<string>cartesianCubeTint</string>
+	<key>threadAroundBuffer</key>
+	<string>resultOperationVisibility</string>
+	<key>unsortedButtonBrightness</key>
+	<string>temporaryIsolateMargin</string>
+</dict>
+</plist>

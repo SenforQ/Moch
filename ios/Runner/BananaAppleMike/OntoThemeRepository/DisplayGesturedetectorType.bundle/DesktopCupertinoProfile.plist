@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFrameworkIndex</key>
+	<string>secondMethodEdge</string>
+	<key>disabledFrameSize</key>
+	<string>previewCommandScale</string>
+	<key>invisibleControllerSkewx</key>
+	<string>providerAsFacade</string>
+	<key>kernelVisitorForce</key>
+	<string>keyQueryOpacity</string>
+	<key>reducerAndStructure</key>
+	<string>groupProcessOpacity</string>
+	<key>tappableTouchRight</key>
+	<string>displayableImageFeedback</string>
+	<key>tensorStatelessTheme</key>
+	<string>signatureStateLeft</string>
+</dict>
+</plist>

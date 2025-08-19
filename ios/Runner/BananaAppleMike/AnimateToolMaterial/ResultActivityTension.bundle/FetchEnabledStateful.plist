@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMovementOpacity</key>
+	<string>resourceBeyondMode</string>
+	<key>backwardCompleterFlags</key>
+	<string>appbarWithoutMode</string>
+	<key>navigatorAgainstCycle</key>
+	<string>smartEffectName</string>
+	<key>overlayThanMethod</key>
+	<string>appbarOperationPosition</string>
+</dict>
+</plist>

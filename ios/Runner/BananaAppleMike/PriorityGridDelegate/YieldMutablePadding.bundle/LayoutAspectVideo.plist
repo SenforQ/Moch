@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCommandDistance</key>
+	<string>utilOperationInset</string>
+	<key>descriptorVersusTask</key>
+	<string>groupValueVisibility</string>
+	<key>navigatorWithPattern</key>
+	<string>offsetEnvironmentDelay</string>
+	<key>operationMethodBound</key>
+	<string>disabledConstraintInset</string>
+	<key>sliderInFlyweight</key>
+	<string>streamFromAdapter</string>
+	<key>transitionUntilValue</key>
+	<string>curveShapePosition</string>
+</dict>
+</plist>

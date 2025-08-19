@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSwiftTail</key>
+	<string>previewAgainstShape</string>
+	<key>discardedSwiftBottom</key>
+	<string>smartSegmentVelocity</string>
+	<key>featureJobPadding</key>
+	<string>timerAtStage</string>
+	<key>heapAwayStage</key>
+	<string>widgetFrameworkInterval</string>
+	<key>interfaceScopeSpacing</key>
+	<string>inkwellViaAdapter</string>
+	<key>logTaskState</key>
+	<string>rowUntilMode</string>
+	<key>momentumContainAction</key>
+	<string>resourceThanSingleton</string>
+	<key>primaryQueueType</key>
+	<string>chartCycleFeedback</string>
+	<key>providerDuringPlatform</key>
+	<string>oldTextureCenter</string>
+</dict>
+</plist>

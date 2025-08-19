@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGrainInteraction</key>
+	<string>remainderObserverHue</string>
+	<key>hashInStyle</key>
+	<string>textAndOperation</string>
+	<key>offsetByFlyweight</key>
+	<string>callbackAmongSingleton</string>
+	<key>reducerCommandKind</key>
+	<string>containerThanAdapter</string>
+	<key>resourceInsideShape</key>
+	<string>cubitVisitorAppearance</string>
+	<key>vectorDuringTask</key>
+	<string>bufferContainPattern</string>
+</dict>
+</plist>

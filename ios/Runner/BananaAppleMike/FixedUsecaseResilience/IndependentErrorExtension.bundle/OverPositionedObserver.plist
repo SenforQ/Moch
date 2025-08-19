@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseByPlatform</key>
+	<string>textureUntilParameter</string>
+	<key>brushCommandShape</key>
+	<string>isolateAsAction</string>
+	<key>chartDecoratorVelocity</key>
+	<string>backwardCubitSpacing</string>
+	<key>drawerLevelAppearance</key>
+	<string>serviceAgainstPlatform</string>
+	<key>gridByLevel</key>
+	<string>behaviorLikeFlyweight</string>
+	<key>groupNumberCount</key>
+	<string>interfaceObserverCenter</string>
+	<key>materialBufferAlignment</key>
+	<string>sceneDespitePlatform</string>
+	<key>precisionViaTask</key>
+	<string>uniqueProviderBrightness</string>
+	<key>primaryTextureTransparency</key>
+	<string>mainIconSpacing</string>
+	<key>smartDropdownbuttonVisible</key>
+	<string>errorTempleHead</string>
+</dict>
+</plist>

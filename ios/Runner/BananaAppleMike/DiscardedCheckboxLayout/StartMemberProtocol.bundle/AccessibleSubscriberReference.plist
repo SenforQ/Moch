@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAtMediator</key>
+	<string>promiseAtFlyweight</string>
+	<key>constVariantShape</key>
+	<string>greatConstraintValidation</string>
+	<key>flexFlyweightResponse</key>
+	<string>explicitHashFlags</string>
+	<key>gesturedetectorAmongDecorator</key>
+	<string>singletonLayerSpacing</string>
+	<key>projectThroughProcess</key>
+	<string>loopPrototypeOrientation</string>
+	<key>scaleByShape</key>
+	<string>grayscaleFromNumber</string>
+	<key>stateDecoratorFlags</key>
+	<string>transitionFrameworkHue</string>
+	<key>threadDespiteStrategy</key>
+	<string>finalStatelessResponse</string>
+	<key>transitionOrShape</key>
+	<string>localSinkBrightness</string>
+	<key>uniformSinkDuration</key>
+	<string>cacheInsideSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPhaseLeft</key>
+	<string>textOrFlyweight</string>
+	<key>gridExceptProcess</key>
+	<string>lossInsideShape</string>
+	<key>inactiveBaselineBehavior</key>
+	<string>scenePerStage</string>
+	<key>kernelAsStyle</key>
+	<string>reactiveListenerBottom</string>
+	<key>menuLevelValidation</key>
+	<string>denseFragmentTag</string>
+	<key>resizableTransitionSaturation</key>
+	<string>routeTempleHead</string>
+	<key>semanticTextureOrigin</key>
+	<string>secondAsyncSkewy</string>
+	<key>smartInjectionRate</key>
+	<string>consultativeHandlerOrientation</string>
+</dict>
+</plist>

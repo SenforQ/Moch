@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardEffectType</key>
+	<string>globalChannelsSkewy</string>
+	<key>inactiveEqualizationSkewy</key>
+	<string>resultOutsideProcess</string>
+	<key>mediaStagePosition</key>
+	<string>texturePhaseEdge</string>
+	<key>providerInsideVar</key>
+	<string>respectiveDelegateLocation</string>
+	<key>requestByShape</key>
+	<string>blocJobAlignment</string>
+</dict>
+</plist>

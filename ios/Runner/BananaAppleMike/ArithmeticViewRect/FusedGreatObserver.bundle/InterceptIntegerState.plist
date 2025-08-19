@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIncludeFramework</key>
+	<string>ignoredResourceTint</string>
+	<key>builderFormIndex</key>
+	<string>immediateMissionVelocity</string>
+	<key>finalHashCoord</key>
+	<string>rapidTimerRotation</string>
+	<key>immutablePopupFeedback</key>
+	<string>currentDurationAlignment</string>
+	<key>interactorSinceObserver</key>
+	<string>storyboardLikeForm</string>
+	<key>modelFlyweightSpeed</key>
+	<string>specifyGraphBound</string>
+	<key>repositoryContextOpacity</key>
+	<string>euclideanImageHead</string>
+	<key>routerKindBehavior</key>
+	<string>resizablePositionKind</string>
+	<key>tickerProcessPosition</key>
+	<string>taskMethodAppearance</string>
+</dict>
+</plist>

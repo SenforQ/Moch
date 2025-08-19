@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePreviewEdge</key>
+	<string>positionedMethodDistance</string>
+	<key>dedicatedInterfaceInteraction</key>
+	<string>buttonBufferPressure</string>
+	<key>disparateCaptionPadding</key>
+	<string>intermediateStatelessVisible</string>
+	<key>grayscaleMethodPadding</key>
+	<string>listviewFlyweightCenter</string>
+	<key>gridviewExceptPhase</key>
+	<string>radiusParameterState</string>
+	<key>indicatorStateInset</key>
+	<string>geometricGridTension</string>
+	<key>iterativeProjectSkewy</key>
+	<string>sophisticatedWorkflowSkewy</string>
+	<key>referencePhaseAppearance</key>
+	<string>riverpodCyclePadding</string>
+	<key>unsortedUnarySize</key>
+	<string>cellActionForce</string>
+</dict>
+</plist>

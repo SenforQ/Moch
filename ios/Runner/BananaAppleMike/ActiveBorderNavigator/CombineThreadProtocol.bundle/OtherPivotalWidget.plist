@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateVersusActivity</key>
+	<string>tickerScopeAppearance</string>
+	<key>buttonMethodScale</key>
+	<string>storageOperationBehavior</string>
+	<key>dialogsBeyondEnvironment</key>
+	<string>reactiveGrayscaleBorder</string>
+	<key>lastSwiftDensity</key>
+	<string>retainedFeatureKind</string>
+	<key>localMethodCoord</key>
+	<string>slashJobContrast</string>
+	<key>providerOfInterpreter</key>
+	<string>swiftNearStrategy</string>
+	<key>storePatternBehavior</key>
+	<string>brushInVar</string>
+</dict>
+</plist>

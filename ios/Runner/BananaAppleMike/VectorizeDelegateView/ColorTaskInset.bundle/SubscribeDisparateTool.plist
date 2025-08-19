@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationDuringShape</key>
+	<string>persistentNavigatorInteraction</string>
+	<key>pageviewBeyondStrategy</key>
+	<string>actionInLayer</string>
+	<key>persistentSineContrast</key>
+	<string>delegateFunctionKind</string>
+	<key>scrollableTopicPosition</key>
+	<string>activatedRouterColor</string>
+	<key>sessionAtPhase</key>
+	<string>firstTransformerVisibility</string>
+</dict>
+</plist>

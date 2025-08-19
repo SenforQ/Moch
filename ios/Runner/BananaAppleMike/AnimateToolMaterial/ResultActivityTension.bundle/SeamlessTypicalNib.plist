@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedOverlayEdge</key>
+	<string>multiSingletonHead</string>
+	<key>completerStructureOrientation</key>
+	<string>arithmeticGrainBound</string>
+	<key>enabledLogKind</key>
+	<string>reactiveNodeSpacing</string>
+	<key>positionFunctionSize</key>
+	<string>iconViaJob</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalLocalizationSpacing</key>
+	<string>reactiveCoordinatorBound</string>
+	<key>seamlessMediaVisibility</key>
+	<string>layoutPatternMargin</string>
+	<key>smartBulletRotation</key>
+	<string>requestAgainstState</string>
+	<key>tensorReductionStyle</key>
+	<string>eagerSliderOrientation</string>
+	<key>unsortedMenuSpeed</key>
+	<string>actionFacadeBound</string>
+	<key>utilStateSkewx</key>
+	<string>builderVersusInterpreter</string>
+</dict>
+</plist>

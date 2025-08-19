@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAtFunction</key>
+	<string>matrixAtStrategy</string>
+	<key>beginnerAlignmentForce</key>
+	<string>mediumStateVisible</string>
+	<key>lossByFlyweight</key>
+	<string>standaloneWidgetMode</string>
+	<key>sortedSpineCount</key>
+	<string>managerIncludeMemento</string>
+	<key>tensorColumnShade</key>
+	<string>usecaseMementoFeedback</string>
+</dict>
+</plist>

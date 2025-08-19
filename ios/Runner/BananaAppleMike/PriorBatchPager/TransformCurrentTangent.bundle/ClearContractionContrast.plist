@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedMissionTransparency</key>
+	<string>reusableStackRate</string>
+	<key>exceptionSystemLeft</key>
+	<string>sliderParameterSpacing</string>
+	<key>menuBridgeForce</key>
+	<string>taskPlatformCenter</string>
+	<key>normalGrainBrightness</key>
+	<string>queueObserverOpacity</string>
+	<key>streamPlatformRotation</key>
+	<string>musicActivityDensity</string>
+</dict>
+</plist>

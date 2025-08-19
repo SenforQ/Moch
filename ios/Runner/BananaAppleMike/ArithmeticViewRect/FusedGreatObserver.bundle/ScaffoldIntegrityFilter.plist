@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityMethodBehavior</key>
+	<string>capacitiesThroughBuffer</string>
+	<key>associatedChannelsScale</key>
+	<string>lazyLabelDensity</string>
+	<key>interactorAmongLevel</key>
+	<string>resourceTaskValidation</string>
+	<key>layoutBufferStatus</key>
+	<string>checklistTierFeedback</string>
+	<key>multiCommandAlignment</key>
+	<string>shaderShapeTension</string>
+	<key>serviceAmongFlyweight</key>
+	<string>sequentialCardDepth</string>
+	<key>spritePrototypeVelocity</key>
+	<string>layoutTempleOffset</string>
+</dict>
+</plist>

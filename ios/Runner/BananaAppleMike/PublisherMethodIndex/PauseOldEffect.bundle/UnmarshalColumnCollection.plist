@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithoutMemento</key>
+	<string>singletonActionValidation</string>
+	<key>lostRowState</key>
+	<string>priorScaffoldVisible</string>
+	<key>robustCanvasFeedback</key>
+	<string>repositoryAndVar</string>
+	<key>tappableProjectionDirection</key>
+	<string>delegateInsideStyle</string>
+	<key>tweenInVar</key>
+	<string>builderDuringOperation</string>
+</dict>
+</plist>

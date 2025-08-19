@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesContainStrategy</key>
+	<string>segmentWorkSize</string>
+	<key>factoryEnvironmentStyle</key>
+	<string>scrollableExtensionBrightness</string>
+	<key>giftAndBridge</key>
+	<string>localWidgetMomentum</string>
+	<key>repositoryVarShade</key>
+	<string>persistentCatalystShape</string>
+	<key>retainedBorderInterval</key>
+	<string>methodIncludeInterpreter</string>
+	<key>storeExceptFramework</key>
+	<string>resizableCupertinoPosition</string>
+	<key>unaryBesideState</key>
+	<string>stackFromMemento</string>
+</dict>
+</plist>

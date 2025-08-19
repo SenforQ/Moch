@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialGestureOpacity</key>
+	<string>localizationNearComposite</string>
+	<key>custompaintCompositeShape</key>
+	<string>asynchronousResponseVisibility</string>
+	<key>gramForState</key>
+	<string>interpolationProxySpeed</string>
+	<key>heroStateMargin</key>
+	<string>priorOffsetSpeed</string>
+	<key>progressbarAwayStyle</key>
+	<string>shaderChainLeft</string>
+</dict>
+</plist>

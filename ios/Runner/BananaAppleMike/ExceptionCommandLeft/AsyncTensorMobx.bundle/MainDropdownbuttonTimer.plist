@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellNumberBrightness</key>
+	<string>directlyFeatureSize</string>
+	<key>displayableBrushTransparency</key>
+	<string>spineInsideDecorator</string>
+	<key>missionProcessValidation</key>
+	<string>newestQueryFrequency</string>
+	<key>numericalMobxShape</key>
+	<string>euclideanHistogramValidation</string>
+	<key>sinkViaShape</key>
+	<string>storyboardExceptProxy</string>
+</dict>
+</plist>

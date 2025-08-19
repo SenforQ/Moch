@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationProxyIndex</key>
+	<string>invisibleBaseTop</string>
+	<key>durationActionInset</key>
+	<string>routeDuringCommand</string>
+	<key>listenerAlongCommand</key>
+	<string>behaviorLayerShape</string>
+	<key>nextResolverTransparency</key>
+	<string>observerFrameworkBrightness</string>
+	<key>responseAlongComposite</key>
+	<string>sliderSystemBound</string>
+	<key>stampDuringPattern</key>
+	<string>utilCompositeFeedback</string>
+</dict>
+</plist>

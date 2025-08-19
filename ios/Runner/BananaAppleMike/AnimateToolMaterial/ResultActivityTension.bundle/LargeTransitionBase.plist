@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNavigatorValidation</key>
+	<string>projectionBeyondMemento</string>
+	<key>directAwaitAppearance</key>
+	<string>relationalCurveSaturation</string>
+	<key>ignoredFutureMargin</key>
+	<string>usecaseBufferTag</string>
+	<key>interactorTempleSkewy</key>
+	<string>enabledUsecaseHead</string>
+	<key>localizationWithCycle</key>
+	<string>statefulAtSingleton</string>
+	<key>loopIncludeSingleton</key>
+	<string>localizationSystemPadding</string>
+	<key>requestLevelInteraction</key>
+	<string>chartForProcess</string>
+</dict>
+</plist>

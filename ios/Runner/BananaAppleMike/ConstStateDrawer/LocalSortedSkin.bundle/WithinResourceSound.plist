@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProviderFeedback</key>
+	<string>completerBufferInset</string>
+	<key>composableTextPosition</key>
+	<string>basicQuerySkewy</string>
+	<key>isolateCommandDensity</key>
+	<string>rowThanStrategy</string>
+	<key>queueStrategyInterval</key>
+	<string>customGestureInterval</string>
+	<key>responseAlongWork</key>
+	<string>resolverDuringStrategy</string>
+	<key>riverpodPlatformBound</key>
+	<string>segmentOrChain</string>
+	<key>sensorPhaseFrequency</key>
+	<string>grayscaleAndDecorator</string>
+	<key>sortedRectIndex</key>
+	<string>sustainableCharacterPressure</string>
+	<key>storeAlongLevel</key>
+	<string>streamAmongVisitor</string>
+</dict>
+</plist>

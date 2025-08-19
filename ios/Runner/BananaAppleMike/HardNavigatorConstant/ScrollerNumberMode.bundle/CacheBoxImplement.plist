@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultExtensionTop</key>
+	<string>deferredModulusOpacity</string>
+	<key>interactorBufferOrigin</key>
+	<string>reductionChainFeedback</string>
+	<key>interfaceActivitySpeed</key>
+	<string>lossWithMemento</string>
+	<key>projectionContextStyle</key>
+	<string>callbackByEnvironment</string>
+	<key>vectorStructureRate</key>
+	<string>cacheAsBuffer</string>
+</dict>
+</plist>

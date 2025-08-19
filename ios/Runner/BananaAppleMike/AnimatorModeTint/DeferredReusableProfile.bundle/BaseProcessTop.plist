@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectThroughBridge</key>
+	<string>paddingObserverVelocity</string>
+	<key>denseLayerTheme</key>
+	<string>rapidQueueBorder</string>
+	<key>desktopInkwellShape</key>
+	<string>containerLayerDistance</string>
+	<key>operationContainPhase</key>
+	<string>tableCycleTransparency</string>
+	<key>reactiveResourcePressure</key>
+	<string>challengeCommandType</string>
+</dict>
+</plist>

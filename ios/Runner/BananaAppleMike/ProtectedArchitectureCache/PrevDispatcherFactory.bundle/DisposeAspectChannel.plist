@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsIncludeFunction</key>
+	<string>anchorBufferPressure</string>
+	<key>decorationDuringSingleton</key>
+	<string>queueProxyPadding</string>
+	<key>interfaceLayerOpacity</key>
+	<string>bufferTaskResponse</string>
+	<key>localCurveDistance</key>
+	<string>permissiveSlashType</string>
+	<key>originalMenuInterval</key>
+	<string>iterativeTaskCenter</string>
+	<key>positionPerMethod</key>
+	<string>alignmentAwayObserver</string>
+	<key>profileOutsideParam</key>
+	<string>materialActionOrigin</string>
+	<key>statelessCubitFrequency</key>
+	<string>statefulVarTint</string>
+	<key>ternarySystemAlignment</key>
+	<string>permissiveBitrateRate</string>
+	<key>uniqueTransitionScale</key>
+	<string>gemPrototypeOrientation</string>
+</dict>
+</plist>

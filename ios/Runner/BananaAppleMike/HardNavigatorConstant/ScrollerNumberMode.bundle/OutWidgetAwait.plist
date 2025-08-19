@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAgainstKind</key>
+	<string>storeFromFramework</string>
+	<key>constInterfaceFlags</key>
+	<string>consumerTempleFormat</string>
+	<key>decorationFunctionSpacing</key>
+	<string>sizeTempleBound</string>
+	<key>invisibleGestureValidation</key>
+	<string>extensionProcessSpeed</string>
+	<key>isolateByChain</key>
+	<string>resizableErrorRate</string>
+	<key>mediumAspectPressure</key>
+	<string>containerBesideSingleton</string>
+	<key>menuWithFacade</key>
+	<string>currentQueueHead</string>
+	<key>numericalMethodRotation</key>
+	<string>dependencyAndEnvironment</string>
+	<key>transitionWithVisitor</key>
+	<string>listenerFormCenter</string>
+</dict>
+</plist>

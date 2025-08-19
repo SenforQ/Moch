@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAdapterVisible</key>
+	<string>typicalPlaybackTransparency</string>
+	<key>clipperTempleContrast</key>
+	<string>sizedboxBesideActivity</string>
+	<key>configurationLayerOpacity</key>
+	<string>buttonAroundPlatform</string>
+	<key>elasticParticleDistance</key>
+	<string>opaqueBoxPressure</string>
+	<key>localizationEnvironmentPosition</key>
+	<string>modelPrototypeFrequency</string>
+	<key>smallFutureDistance</key>
+	<string>staticMediaqueryHue</string>
+	<key>synchronousActivityCount</key>
+	<string>statelessBlocHue</string>
+	<key>textureViaSystem</key>
+	<string>accordionTopicAppearance</string>
+	<key>workflowEnvironmentCenter</key>
+	<string>inheritedTimerOrientation</string>
+</dict>
+</plist>

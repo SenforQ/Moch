@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityContainSystem</key>
+	<string>effectObserverMargin</string>
+	<key>fusedRouterAlignment</key>
+	<string>topicByMode</string>
+	<key>nativeProviderBound</key>
+	<string>sensorPatternFeedback</string>
+	<key>observerInTask</key>
+	<string>diffableStreamInterval</string>
+</dict>
+</plist>

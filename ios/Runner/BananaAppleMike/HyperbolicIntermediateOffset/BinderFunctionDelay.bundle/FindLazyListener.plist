@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStylePadding</key>
+	<string>currentDurationEdge</string>
+	<key>directlyInteractorDuration</key>
+	<string>timerParameterSize</string>
+	<key>heapStructureStyle</key>
+	<string>gesturedetectorByScope</string>
+	<key>layoutStyleInset</key>
+	<string>particleModeTheme</string>
+	<key>monsterOutsideContext</key>
+	<string>usedInteractorOrigin</string>
+	<key>movementOutsideKind</key>
+	<string>basicPrecisionSkewx</string>
+	<key>originalGraphOpacity</key>
+	<string>seamlessOffsetDelay</string>
+	<key>routerAmongStage</key>
+	<string>mapAtComposite</string>
+</dict>
+</plist>

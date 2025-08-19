@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayoutStatus</key>
+	<string>queryVarScale</string>
+	<key>blocIncludePattern</key>
+	<string>logAtInterpreter</string>
+	<key>customButtonCount</key>
+	<string>interpolationParameterFrequency</string>
+	<key>extensionCompositePosition</key>
+	<string>asyncInMemento</string>
+	<key>grayscaleViaFramework</key>
+	<string>singleContainerCoord</string>
+	<key>localOperationRight</key>
+	<string>queueAlongSingleton</string>
+	<key>primaryReferenceTension</key>
+	<string>alignmentFrameworkScale</string>
+	<key>routeStrategyForce</key>
+	<string>storagePerParam</string>
+	<key>titleProxyTop</key>
+	<string>parallelBrushTag</string>
+</dict>
+</plist>

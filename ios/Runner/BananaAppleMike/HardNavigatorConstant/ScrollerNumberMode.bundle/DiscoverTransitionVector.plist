@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMediatorFeedback</key>
+	<string>futureAtParam</string>
+	<key>awaitOrCycle</key>
+	<string>streamAtStyle</string>
+	<key>enabledChecklistDepth</key>
+	<string>offsetChainState</string>
+	<key>missedCurveSkewx</key>
+	<string>queueBridgeState</string>
+	<key>resilientCubitEdge</key>
+	<string>progressbarPhaseBehavior</string>
+	<key>responseIncludeScope</key>
+	<string>baselineActionCoord</string>
+	<key>sceneCommandPosition</key>
+	<string>tabbarDecoratorBottom</string>
+	<key>vectorInterpreterDepth</key>
+	<string>sineFrameworkPadding</string>
+</dict>
+</plist>

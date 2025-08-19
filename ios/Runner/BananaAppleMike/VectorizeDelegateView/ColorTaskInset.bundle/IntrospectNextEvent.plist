@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerKindDelay</key>
+	<string>stateValueAcceleration</string>
+	<key>immutableResultValidation</key>
+	<string>routerAdapterInteraction</string>
+	<key>loopViaForm</key>
+	<string>singleViewCoord</string>
+	<key>otherTableSkewx</key>
+	<string>appbarIncludeCommand</string>
+	<key>subsequentDelegateSkewy</key>
+	<string>interfaceActionOpacity</string>
+</dict>
+</plist>

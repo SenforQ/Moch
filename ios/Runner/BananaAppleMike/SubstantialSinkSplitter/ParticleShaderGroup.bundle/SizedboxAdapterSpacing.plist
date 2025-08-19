@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocScopeTransparency</key>
+	<string>adaptiveResolverVelocity</string>
+	<key>elasticOffsetStatus</key>
+	<string>threadContextTransparency</string>
+	<key>explicitCaptionInteraction</key>
+	<string>staticDelegateAppearance</string>
+	<key>keyImageKind</key>
+	<string>stateChainMargin</string>
+	<key>responsiveMethodAcceleration</key>
+	<string>timerVersusKind</string>
+	<key>stepActivityTail</key>
+	<string>titleStrategyShade</string>
+	<key>ternaryVersusForm</key>
+	<string>dynamicPositionSpacing</string>
+</dict>
+</plist>

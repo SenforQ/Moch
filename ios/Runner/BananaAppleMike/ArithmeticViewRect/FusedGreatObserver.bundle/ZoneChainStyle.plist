@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMediatorAlignment</key>
+	<string>fixedWidgetSpacing</string>
+	<key>bufferAdapterName</key>
+	<string>textPlatformBehavior</string>
+	<key>imperativeGroupSpacing</key>
+	<string>hierarchicalAlignmentOffset</string>
+	<key>inheritedRectPadding</key>
+	<string>unactivatedMaterialSpeed</string>
+	<key>isolateDuringState</key>
+	<string>heapAroundStrategy</string>
+	<key>rectPerSingleton</key>
+	<string>alignmentOrVisitor</string>
+	<key>requestNearNumber</key>
+	<string>easySpecifierColor</string>
+	<key>textShapeBound</key>
+	<string>sharedControllerContrast</string>
+	<key>utilSystemAcceleration</key>
+	<string>layoutAroundStage</string>
+	<key>widgetFormContrast</key>
+	<string>nextDrawerSaturation</string>
+</dict>
+</plist>

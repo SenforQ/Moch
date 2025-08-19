@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoObserverVelocity</key>
+	<string>fixedCurveRotation</string>
+	<key>dependencyExceptStrategy</key>
+	<string>eventAtAdapter</string>
+	<key>diversifiedMobxInset</key>
+	<string>tweenOfLevel</string>
+	<key>equalizationBufferDirection</key>
+	<string>cubitAroundPlatform</string>
+	<key>gridTempleFeedback</key>
+	<string>semanticWidgetVisible</string>
+	<key>particleIncludeBridge</key>
+	<string>groupForCommand</string>
+	<key>routeBufferCoord</key>
+	<string>particleKindEdge</string>
+	<key>spotAmongNumber</key>
+	<string>instructionAndCommand</string>
+</dict>
+</plist>

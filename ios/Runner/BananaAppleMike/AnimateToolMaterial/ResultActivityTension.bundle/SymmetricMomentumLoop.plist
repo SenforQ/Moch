@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalActionFlags</key>
+	<string>builderJobDepth</string>
+	<key>crudeStatePadding</key>
+	<string>ephemeralTickerBottom</string>
+	<key>hashExceptKind</key>
+	<string>interactiveCoordinatorFormat</string>
+	<key>plateNearPrototype</key>
+	<string>dialogsDecoratorShade</string>
+	<key>priorScaffoldDirection</key>
+	<string>lazyCapsuleDirection</string>
+	<key>radiusThroughLayer</key>
+	<string>animatedcontainerTaskSkewx</string>
+	<key>routerNearVar</key>
+	<string>viewWithVar</string>
+</dict>
+</plist>

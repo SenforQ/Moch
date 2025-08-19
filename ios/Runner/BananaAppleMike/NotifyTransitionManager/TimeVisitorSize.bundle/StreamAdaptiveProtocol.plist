@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeTangentFrequency</key>
+	<string>normOrContext</string>
+	<key>coordinatorVisitorStyle</key>
+	<string>timerActionValidation</string>
+	<key>futureInterpreterColor</key>
+	<string>denseResponseInset</string>
+	<key>shaderOrCommand</key>
+	<string>timerFacadeDelay</string>
+</dict>
+</plist>

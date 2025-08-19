@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAndVisitor</key>
+	<string>easyMusicType</string>
+	<key>assetStrategyKind</key>
+	<string>musicExceptObserver</string>
+	<key>cartesianRowAppearance</key>
+	<string>usedTernaryBottom</string>
+	<key>completionCompositePosition</key>
+	<string>alignmentNumberSpacing</string>
+	<key>graphAsSingleton</key>
+	<string>materialWorkBehavior</string>
+	<key>newestSpriteSize</key>
+	<string>sinkScopeSkewx</string>
+	<key>opaqueConvolutionTint</key>
+	<string>viewDuringParameter</string>
+	<key>zoneContainVisitor</key>
+	<string>musicAlongMode</string>
+</dict>
+</plist>

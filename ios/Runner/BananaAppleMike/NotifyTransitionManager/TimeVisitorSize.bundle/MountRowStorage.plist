@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOperationFlags</key>
+	<string>containerNearContext</string>
+	<key>canvasAlongContext</key>
+	<string>axisOutsideWork</string>
+	<key>iconExceptFacade</key>
+	<string>spriteInterpreterSpacing</string>
+	<key>labelShapePressure</key>
+	<string>smartNodeBound</string>
+	<key>radiusVarFeedback</key>
+	<string>immutableProjectionTop</string>
+	<key>roleShapeMomentum</key>
+	<string>coordinatorScopeAlignment</string>
+	<key>sceneAmongValue</key>
+	<string>delegateAdapterPressure</string>
+	<key>serviceInJob</key>
+	<string>navigationOutsideOperation</string>
+	<key>staticOptimizerBehavior</key>
+	<string>themeWithWork</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsCommandValidation</key>
+	<string>animatedcontainerDuringBuffer</string>
+	<key>configurationExceptChain</key>
+	<string>accordionAnimationFrequency</string>
+	<key>draggableManagerInterval</key>
+	<string>alertAgainstNumber</string>
+	<key>mobileControllerRate</key>
+	<string>agileTextDensity</string>
+	<key>relationalModulusInset</key>
+	<string>variantWithDecorator</string>
+	<key>remainderAgainstType</key>
+	<string>logStageStyle</string>
+	<key>resizableAnimationAlignment</key>
+	<string>synchronousStreamDuration</string>
+	<key>respectiveCoordinatorRight</key>
+	<string>cachePatternCoord</string>
+	<key>visibleSegmentFrequency</key>
+	<string>eventBesideAdapter</string>
+</dict>
+</plist>

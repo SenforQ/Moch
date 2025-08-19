@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAdapterPressure</key>
+	<string>viewByType</string>
+	<key>layoutLevelCount</key>
+	<string>borderWithOperation</string>
+	<key>materialOrCommand</key>
+	<string>graphicTaskRight</string>
+	<key>protectedFrameAlignment</key>
+	<string>taskDecoratorSpeed</string>
+	<key>sizeLayerFeedback</key>
+	<string>elasticSensorAppearance</string>
+	<key>taskTempleFlags</key>
+	<string>injectionAdapterTension</string>
+	<key>transitionMethodName</key>
+	<string>stackCycleHead</string>
+</dict>
+</plist>

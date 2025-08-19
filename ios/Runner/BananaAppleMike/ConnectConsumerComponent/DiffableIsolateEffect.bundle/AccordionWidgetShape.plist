@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDuringContext</key>
+	<string>adaptiveFragmentName</string>
+	<key>dimensionCycleRate</key>
+	<string>beginnerZoneBound</string>
+	<key>featureIncludeInterpreter</key>
+	<string>callbackBeyondState</string>
+	<key>layoutAlongForm</key>
+	<string>tickerStrategyBrightness</string>
+	<key>otherChartOrientation</key>
+	<string>unactivatedChartDuration</string>
+	<key>scenePerState</key>
+	<string>precisionPlatformFrequency</string>
+	<key>streamAndCycle</key>
+	<string>descriptionStructureColor</string>
+	<key>tableBridgeAppearance</key>
+	<string>heroCycleOrientation</string>
+	<key>titleInParam</key>
+	<string>richtextForForm</string>
+	<key>vectorFromFacade</key>
+	<string>statelessFactoryValidation</string>
+</dict>
+</plist>

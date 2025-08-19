@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasLevelSpeed</key>
+	<string>imageViaContext</string>
+	<key>immediateMenuFlags</key>
+	<string>inactiveCycleStatus</string>
+	<key>menuModeKind</key>
+	<string>displayableStorageHue</string>
+	<key>relationalDependencyVisibility</key>
+	<string>crudeServiceFormat</string>
+	<key>routerEnvironmentBound</key>
+	<string>sinkCompositeVisible</string>
+	<key>temporarySizeAppearance</key>
+	<string>requestInterpreterSpacing</string>
+	<key>themeTaskRate</key>
+	<string>accessoryThroughTask</string>
+</dict>
+</plist>

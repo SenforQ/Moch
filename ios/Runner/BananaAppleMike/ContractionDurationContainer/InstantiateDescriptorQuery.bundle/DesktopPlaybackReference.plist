@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveOutsideScope</key>
+	<string>actionObserverDensity</string>
+	<key>shaderAsBuffer</key>
+	<string>unsortedEntityDepth</string>
+	<key>taskFacadeStyle</key>
+	<string>asyncBoxDirection</string>
+</dict>
+</plist>

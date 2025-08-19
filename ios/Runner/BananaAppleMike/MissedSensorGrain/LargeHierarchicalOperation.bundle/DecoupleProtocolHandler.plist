@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelWithoutSingleton</key>
+	<string>positionParamBrightness</string>
+	<key>listenerAsVisitor</key>
+	<string>textureFlyweightCenter</string>
+	<key>listenerAtCommand</key>
+	<string>resultActionPadding</string>
+	<key>lossAtObserver</key>
+	<string>eagerOptionSaturation</string>
+	<key>stackInVariable</key>
+	<string>visibleSingletonBound</string>
+</dict>
+</plist>

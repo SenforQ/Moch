@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAgainstMethod</key>
+	<string>mainUsecaseDelay</string>
+	<key>cardStyleHue</key>
+	<string>associatedLoopHead</string>
+	<key>cubitVarStyle</key>
+	<string>methodAndStyle</string>
+	<key>directStepInterval</key>
+	<string>unsortedClipperFrequency</string>
+	<key>hierarchicalResourceTransparency</key>
+	<string>intuitiveMasterInteraction</string>
+	<key>mobxExceptSystem</key>
+	<string>customOptimizerSkewx</string>
+	<key>opaqueParticleType</key>
+	<string>denseDocumentBound</string>
+	<key>tweenStylePosition</key>
+	<string>usecaseCommandResponse</string>
+</dict>
+</plist>

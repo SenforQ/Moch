@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftAsType</key>
+	<string>configurationVariableCoord</string>
+	<key>optionOfShape</key>
+	<string>tensorCommandSkewx</string>
+	<key>secondControllerDirection</key>
+	<string>sensorFunctionBehavior</string>
+	<key>sliderDespiteCycle</key>
+	<string>multiTextStatus</string>
+	<key>unsortedResolverScale</key>
+	<string>factoryChainScale</string>
+</dict>
+</plist>

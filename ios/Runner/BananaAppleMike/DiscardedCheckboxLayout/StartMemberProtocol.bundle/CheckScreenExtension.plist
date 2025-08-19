@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSliderOrigin</key>
+	<string>layoutNearParameter</string>
+	<key>coordinatorBufferAppearance</key>
+	<string>callbackChainShade</string>
+	<key>fusedObserverIndex</key>
+	<string>oldAxisPadding</string>
+	<key>liteFutureShade</key>
+	<string>memberVariableSize</string>
+	<key>storageAlongInterpreter</key>
+	<string>coordinatorLayerTag</string>
+</dict>
+</plist>

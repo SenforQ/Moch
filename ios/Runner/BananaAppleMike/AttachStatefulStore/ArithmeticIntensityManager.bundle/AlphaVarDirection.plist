@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBridgeOrientation</key>
+	<string>capsuleNearPlatform</string>
+	<key>allocatorMementoShape</key>
+	<string>checkboxThroughValue</string>
+	<key>declarativeFactoryPressure</key>
+	<string>usedBuilderRight</string>
+	<key>independentBinaryPosition</key>
+	<string>customBoxRight</string>
+	<key>materialDescriptorSize</key>
+	<string>logWithStyle</string>
+	<key>nodeWithDecorator</key>
+	<string>behaviorOfObserver</string>
+	<key>prevSemanticsCenter</key>
+	<string>instructionEnvironmentCount</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchWithoutShape</key>
+	<string>symbolChainType</string>
+	<key>cubitByVariable</key>
+	<string>oldRemainderBorder</string>
+	<key>currentRepositoryMargin</key>
+	<string>priorGemStyle</string>
+	<key>gateObserverSkewx</key>
+	<string>contractionScopeSkewx</string>
+</dict>
+</plist>

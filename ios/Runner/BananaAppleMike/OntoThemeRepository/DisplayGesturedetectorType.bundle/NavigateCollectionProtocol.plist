@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateDuringWork</key>
+	<string>originalConvolutionDuration</string>
+	<key>mainSubpixelEdge</key>
+	<string>taskLayerAlignment</string>
+	<key>multiRepositoryForce</key>
+	<string>tickerActivityCoord</string>
+	<key>nativeGraphicLocation</key>
+	<string>eagerAsyncCoord</string>
+	<key>particleOperationResponse</key>
+	<string>convolutionValueVelocity</string>
+	<key>resilientRouteInset</key>
+	<string>subscriptionByFramework</string>
+	<key>retainedReducerCoord</key>
+	<string>concreteActionName</string>
+	<key>sliderLikeWork</key>
+	<string>inactiveFactoryDelay</string>
+	<key>subscriptionProcessValidation</key>
+	<string>widgetOperationTint</string>
+</dict>
+</plist>

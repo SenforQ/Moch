@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAmongMethod</key>
+	<string>interactorForForm</string>
+	<key>constraintAtFacade</key>
+	<string>binaryFromFlyweight</string>
+	<key>heroObserverCenter</key>
+	<string>equipmentNearChain</string>
+	<key>transitionBesideTier</key>
+	<string>allocatorInState</string>
+</dict>
+</plist>

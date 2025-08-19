@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentScopeState</key>
+	<string>sampleShapeBound</string>
+	<key>animationTypeStatus</key>
+	<string>localQueueTheme</string>
+	<key>requiredTransformerOffset</key>
+	<string>sliderScopeTail</string>
+	<key>tweenKindHead</key>
+	<string>stepBeyondPattern</string>
+</dict>
+</plist>

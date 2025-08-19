@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateTaskVisibility</key>
+	<string>prevServiceDirection</string>
+	<key>lazyMomentumFeedback</key>
+	<string>independentTabviewMode</string>
+	<key>stepContextType</key>
+	<string>unactivatedProjectionBound</string>
+	<key>unsortedBlocHue</key>
+	<string>visibleSingletonType</string>
+</dict>
+</plist>

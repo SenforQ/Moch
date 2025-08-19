@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengePatternTag</key>
+	<string>controllerMediatorFrequency</string>
+	<key>coordinatorModeOffset</key>
+	<string>decorationAdapterForce</string>
+	<key>logFromMediator</key>
+	<string>interpolationAgainstPrototype</string>
+	<key>mediaFlyweightOrigin</key>
+	<string>awaitPlatformDelay</string>
+	<key>monsterAgainstTemple</key>
+	<string>dynamicSignatureAlignment</string>
+	<key>parallelMapHue</key>
+	<string>primaryPreviewSize</string>
+	<key>permissiveProviderShape</key>
+	<string>localThreadResponse</string>
+	<key>promiseScopeFrequency</key>
+	<string>delegatePlatformOpacity</string>
+	<key>sineCommandSpeed</key>
+	<string>resizableTweenOrigin</string>
+	<key>usedViewOrientation</key>
+	<string>promiseIncludeContext</string>
+</dict>
+</plist>

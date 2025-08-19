@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorEnvironmentTail</key>
+	<string>logarithmFacadePosition</string>
+	<key>directlyGrayscalePadding</key>
+	<string>enabledTweenInterval</string>
+	<key>materialProgressbarAppearance</key>
+	<string>standaloneListenerScale</string>
+	<key>painterForContext</key>
+	<string>canvasNumberMomentum</string>
+	<key>prevSliderOrigin</key>
+	<string>dedicatedPositionPosition</string>
+</dict>
+</plist>

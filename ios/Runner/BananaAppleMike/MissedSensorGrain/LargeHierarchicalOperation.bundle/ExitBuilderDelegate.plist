@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyStyleSaturation</key>
+	<string>scrollChainEdge</string>
+	<key>flexibleAccessoryVisible</key>
+	<string>coordinatorCycleScale</string>
+	<key>missionFromProxy</key>
+	<string>lostInjectionBorder</string>
+	<key>tabbarDecoratorBound</key>
+	<string>boxNumberInterval</string>
+	<key>viewPerSingleton</key>
+	<string>convolutionAroundValue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticReductionPosition</key>
+	<string>singlePointSkewx</string>
+	<key>autoIsolateBrightness</key>
+	<string>resilientSignDirection</string>
+	<key>discardedFrameSpeed</key>
+	<string>instructionVariableSpeed</string>
+	<key>eagerStoryboardAcceleration</key>
+	<string>accessibleTransformerPadding</string>
+	<key>nativeExtensionBehavior</key>
+	<string>protectedAnchorLocation</string>
+	<key>overlayFromStructure</key>
+	<string>otherBuilderInterval</string>
+	<key>permissiveGestureBorder</key>
+	<string>fusedBufferDistance</string>
+	<key>reducerAmongMemento</key>
+	<string>listviewWithShape</string>
+	<key>vectorStrategyTheme</key>
+	<string>eventBeyondBuffer</string>
+</dict>
+</plist>

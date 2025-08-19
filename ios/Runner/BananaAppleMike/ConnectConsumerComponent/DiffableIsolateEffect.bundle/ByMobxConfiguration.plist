@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missionAwayScope</key>
+	<string>eventIncludePattern</string>
+	<key>pageviewInVar</key>
+	<string>routeOutsideTier</string>
+	<key>priorControllerType</key>
+	<string>materialStageDuration</string>
+	<key>smallCycleRight</key>
+	<string>sinkFromContext</string>
+</dict>
+</plist>

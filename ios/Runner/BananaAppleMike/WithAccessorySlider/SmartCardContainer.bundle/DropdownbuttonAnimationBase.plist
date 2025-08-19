@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSensorType</key>
+	<string>cubitStateResponse</string>
+	<key>handlerFlyweightBottom</key>
+	<string>eventWithShape</string>
+	<key>intensityCommandInteraction</key>
+	<string>radioStageType</string>
+	<key>transitionFacadeCoord</key>
+	<string>routeOperationSize</string>
+	<key>unaryPlatformBehavior</key>
+	<string>tabviewOutsideTier</string>
+	<key>widgetEnvironmentName</key>
+	<string>marginLikeVisitor</string>
+</dict>
+</plist>

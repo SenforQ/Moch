@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAllocatorTransparency</key>
+	<string>unactivatedMomentumSkewx</string>
+	<key>cardStyleSize</key>
+	<string>loopContainAction</string>
+	<key>constraintActivityBehavior</key>
+	<string>remainderOutsideStyle</string>
+	<key>errorValueForce</key>
+	<string>navigatorFromValue</string>
+	<key>largeViewScale</key>
+	<string>skinAgainstBridge</string>
+	<key>previewCompositeVisible</key>
+	<string>euclideanProviderKind</string>
+	<key>slashVariableFrequency</key>
+	<string>delegateStyleCoord</string>
+	<key>stepAmongInterpreter</key>
+	<string>asyncIncludeKind</string>
+	<key>textIncludeVar</key>
+	<string>mutableBrushOrientation</string>
+</dict>
+</plist>

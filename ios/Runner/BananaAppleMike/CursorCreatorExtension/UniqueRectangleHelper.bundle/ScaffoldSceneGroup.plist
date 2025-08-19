@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAwayBuffer</key>
+	<string>statelessExceptSingleton</string>
+	<key>constraintActionEdge</key>
+	<string>dependencyInterpreterTop</string>
+	<key>interactiveSymbolLocation</key>
+	<string>futureViaKind</string>
+	<key>numericalPetOrientation</key>
+	<string>inactiveCommandStyle</string>
+	<key>observerModeLeft</key>
+	<string>robustResolverIndex</string>
+	<key>resilientStreamType</key>
+	<string>numericalRoleDepth</string>
+	<key>similarLabelTint</key>
+	<string>stateOfNumber</string>
+</dict>
+</plist>

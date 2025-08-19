@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThroughMethod</key>
+	<string>mediumEffectBound</string>
+	<key>appbarInsideMode</key>
+	<string>routeUntilAdapter</string>
+	<key>autoFactorySize</key>
+	<string>reactiveSemanticsLeft</string>
+	<key>compositionalUsecaseVisibility</key>
+	<string>usecaseFrameworkMomentum</string>
+	<key>difficultSegueType</key>
+	<string>statefulRouteOrigin</string>
+	<key>hierarchicalCompletionColor</key>
+	<string>chartThanCommand</string>
+	<key>inactiveMenuIndex</key>
+	<string>missedInstructionInteraction</string>
+	<key>logFormStyle</key>
+	<string>missedSinkVisible</string>
+</dict>
+</plist>

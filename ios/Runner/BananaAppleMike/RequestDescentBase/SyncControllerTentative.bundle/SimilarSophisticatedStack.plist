@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCompletionBrightness</key>
+	<string>isolateForKind</string>
+	<key>isolateByFacade</key>
+	<string>toolAtType</string>
+	<key>requestAboutSingleton</key>
+	<string>commonTechniqueLeft</string>
+	<key>requestAgainstActivity</key>
+	<string>tappableDelegateOrigin</string>
+</dict>
+</plist>

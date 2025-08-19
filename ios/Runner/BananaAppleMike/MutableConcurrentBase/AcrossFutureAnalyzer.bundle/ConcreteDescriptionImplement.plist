@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCallbackFeedback</key>
+	<string>storageInterpreterStatus</string>
+	<key>builderMediatorStyle</key>
+	<string>directlyLayerPressure</string>
+	<key>coordinatorAsComposite</key>
+	<string>builderLevelTag</string>
+	<key>criticalOffsetDistance</key>
+	<string>chartMediatorDelay</string>
+	<key>elasticPresenterOffset</key>
+	<string>hyperbolicSlashSkewy</string>
+	<key>geometricCubitVisible</key>
+	<string>previewPrototypeTheme</string>
+	<key>localizationStyleBehavior</key>
+	<string>granularTimerSkewx</string>
+	<key>materialAdapterDelay</key>
+	<string>semanticLocalizationResponse</string>
+	<key>monsterBeyondBridge</key>
+	<string>iterativeInteractorDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoScreenMargin</key>
+	<string>unactivatedPaddingVisible</string>
+	<key>delegateStageDelay</key>
+	<string>radiusVarDensity</string>
+	<key>intuitiveCaptionDirection</key>
+	<string>constraintCommandAcceleration</string>
+	<key>stateActivityVisibility</key>
+	<string>commandOfPrototype</string>
+	<key>tickerStageScale</key>
+	<string>notificationModeMomentum</string>
+</dict>
+</plist>

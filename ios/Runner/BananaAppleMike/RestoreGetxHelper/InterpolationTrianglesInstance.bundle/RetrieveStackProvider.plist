@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseValidation</key>
+	<string>multiAssetOrigin</string>
+	<key>decorationAgainstChain</key>
+	<string>serviceOutsideComposite</string>
+	<key>hyperbolicRowValidation</key>
+	<string>radioAtVar</string>
+	<key>radiusOfPlatform</key>
+	<string>accessibleTableDistance</string>
+	<key>smartKernelForce</key>
+	<string>musicBridgeOrientation</string>
+	<key>smartMethodTint</key>
+	<string>futureBesideStructure</string>
+	<key>storageFlyweightAlignment</key>
+	<string>asyncGraphIndex</string>
+	<key>tabbarValueAlignment</key>
+	<string>semanticSinkColor</string>
+</dict>
+</plist>

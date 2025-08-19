@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAwayLevel</key>
+	<string>advancedIsolateMode</string>
+	<key>constTechniqueSpacing</key>
+	<string>nativeCardEdge</string>
+	<key>gemAmongNumber</key>
+	<string>layoutMethodCoord</string>
+	<key>multiplicationSingletonFeedback</key>
+	<string>effectFunctionSpeed</string>
+	<key>positionWithKind</key>
+	<string>threadPerFlyweight</string>
+	<key>tangentTypeScale</key>
+	<string>taskAndParam</string>
+	<key>transitionOperationHue</key>
+	<string>immediateLoopBehavior</string>
+</dict>
+</plist>

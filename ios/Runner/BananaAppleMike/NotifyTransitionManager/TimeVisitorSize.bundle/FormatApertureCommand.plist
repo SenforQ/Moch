@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRowShape</key>
+	<string>dimensionStructureDensity</string>
+	<key>animationUntilTask</key>
+	<string>batchAmongCycle</string>
+	<key>constStoryboardType</key>
+	<string>sensorEnvironmentBrightness</string>
+	<key>consultativeGesturedetectorColor</key>
+	<string>streamContextLocation</string>
+	<key>decorationDuringWork</key>
+	<string>serviceStagePosition</string>
+	<key>drawerPhaseShape</key>
+	<string>permanentSessionBorder</string>
+	<key>durationOrPattern</key>
+	<string>switchAsComposite</string>
+	<key>streamValueTag</key>
+	<string>sortedSpriteCenter</string>
+</dict>
+</plist>

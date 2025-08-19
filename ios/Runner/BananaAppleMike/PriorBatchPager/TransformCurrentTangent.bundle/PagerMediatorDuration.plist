@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeDecoratorDuration</key>
+	<string>axisVersusCycle</string>
+	<key>equalizationAtScope</key>
+	<string>navigatorAmongTask</string>
+	<key>groupDecoratorSkewy</key>
+	<string>statelessGridviewFlags</string>
+	<key>musicStyleTag</key>
+	<string>channelViaVariable</string>
+	<key>rectPatternRate</key>
+	<string>scaleOrProxy</string>
+</dict>
+</plist>

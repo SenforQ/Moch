@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionAwayFlyweight</key>
+	<string>standalonePresenterSkewx</string>
+	<key>iconPrototypeFormat</key>
+	<string>materialByAction</string>
+	<key>indicatorFromCycle</key>
+	<string>keyViewBehavior</string>
+	<key>interactivePositionCoord</key>
+	<string>buttonBeyondPrototype</string>
+	<key>navigatorActionShade</key>
+	<string>storageBridgeMode</string>
+	<key>responseAsStyle</key>
+	<string>customizedFutureSpacing</string>
+	<key>singletonDespiteLayer</key>
+	<string>invisibleCupertinoPadding</string>
+	<key>timerVarPadding</key>
+	<string>graphCommandOrigin</string>
+	<key>utilOutsidePhase</key>
+	<string>autoBaseTint</string>
+</dict>
+</plist>

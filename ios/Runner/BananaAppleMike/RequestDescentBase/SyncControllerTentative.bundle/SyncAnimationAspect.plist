@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitObserverDelay</key>
+	<string>baseShapeDepth</string>
+	<key>scrollOutsideState</key>
+	<string>materialListenerAlignment</string>
+	<key>singleFutureVelocity</key>
+	<string>segueInsideActivity</string>
+	<key>singletonLayerShade</key>
+	<string>permanentOverlayAcceleration</string>
+	<key>taskSystemSkewy</key>
+	<string>segueEnvironmentKind</string>
+</dict>
+</plist>

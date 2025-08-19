@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitInsideStrategy</key>
+	<string>responseAlongComposite</string>
+	<key>graphActivityRate</key>
+	<string>visibleEventDuration</string>
+	<key>greatMusicSpacing</key>
+	<string>similarEventVisibility</string>
+	<key>inactiveCustompaintCenter</key>
+	<string>loopCommandType</string>
+	<key>keyTweenDensity</key>
+	<string>primaryShaderPressure</string>
+	<key>labelVariableFeedback</key>
+	<string>responseLayerScale</string>
+	<key>transformerUntilLevel</key>
+	<string>explicitHeapOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurePerShape</key>
+	<string>sessionInterpreterIndex</string>
+	<key>injectionForAdapter</key>
+	<string>sortedResponseScale</string>
+	<key>relationalSinkFormat</key>
+	<string>opaqueLabelInteraction</string>
+	<key>sessionNearMethod</key>
+	<string>activeAlphaCenter</string>
+	<key>tabbarPerBridge</key>
+	<string>subscriptionViaMemento</string>
+</dict>
+</plist>

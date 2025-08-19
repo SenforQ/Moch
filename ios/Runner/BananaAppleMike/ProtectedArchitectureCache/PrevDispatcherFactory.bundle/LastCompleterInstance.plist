@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianChannelOrientation</key>
+	<string>specifyServiceBehavior</string>
+	<key>eventMediatorInset</key>
+	<string>reducerStageVisible</string>
+	<key>flexObserverLeft</key>
+	<string>progressbarTierTheme</string>
+	<key>hardTimerOffset</key>
+	<string>equalizationSystemPadding</string>
+</dict>
+</plist>

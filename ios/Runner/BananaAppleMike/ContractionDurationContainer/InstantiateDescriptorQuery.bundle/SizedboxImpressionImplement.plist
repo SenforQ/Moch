@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSpineResponse</key>
+	<string>indicatorWithMediator</string>
+	<key>checklistTaskBorder</key>
+	<string>entropyShapeShade</string>
+	<key>denseLabelScale</key>
+	<string>modalCompositeInteraction</string>
+	<key>hyperbolicIntensityFormat</key>
+	<string>queryByVar</string>
+	<key>pageviewChainOrigin</key>
+	<string>futureWithoutType</string>
+	<key>scrollableCompleterSaturation</key>
+	<string>exceptionPatternPadding</string>
+	<key>semanticTickerAppearance</key>
+	<string>alertLevelFeedback</string>
+	<key>serviceExceptNumber</key>
+	<string>sustainableCollectionValidation</string>
+	<key>transitionFunctionShade</key>
+	<string>momentumCompositeContrast</string>
+	<key>unaryStyleState</key>
+	<string>histogramJobLocation</string>
+</dict>
+</plist>

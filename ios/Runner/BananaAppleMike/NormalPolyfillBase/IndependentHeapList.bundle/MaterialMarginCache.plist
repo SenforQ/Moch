@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSegmentValidation</key>
+	<string>pivotalCaptionBottom</string>
+	<key>managerActionDistance</key>
+	<string>unsortedWidgetSpacing</string>
+	<key>notificationAndPhase</key>
+	<string>similarInjectionVisibility</string>
+	<key>stateTaskVisible</key>
+	<string>sequentialChannelAppearance</string>
+	<key>textureOutsidePhase</key>
+	<string>pinchableBulletName</string>
+</dict>
+</plist>

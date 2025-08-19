@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperForInterpreter</key>
+	<string>statefulCollectionForce</string>
+	<key>criticalAllocatorEdge</key>
+	<string>composableAnimationPosition</string>
+	<key>frameTempleTint</key>
+	<string>dependencyKindTint</string>
+	<key>groupCompositeDepth</key>
+	<string>specifierExceptVariable</string>
+	<key>publicRadiusTint</key>
+	<string>spritePerPhase</string>
+</dict>
+</plist>

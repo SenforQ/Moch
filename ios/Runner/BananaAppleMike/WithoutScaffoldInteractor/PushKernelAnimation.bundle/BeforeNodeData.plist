@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramOutsideMode</key>
+	<string>radiusThroughChain</string>
+	<key>inkwellPerState</key>
+	<string>cosineProcessType</string>
+	<key>intermediateDecorationShade</key>
+	<string>intermediateCallbackShape</string>
+	<key>routeContainParam</key>
+	<string>playbackDuringPhase</string>
+	<key>smartCellForce</key>
+	<string>reactiveRadioHue</string>
+	<key>textureCycleName</key>
+	<string>navigatorLevelLocation</string>
+</dict>
+</plist>

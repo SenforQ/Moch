@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertEnvironmentFormat</key>
+	<string>singleGramSkewy</string>
+	<key>hardDurationVisible</key>
+	<string>statelessTickerCount</string>
+	<key>ignoredSliderSaturation</key>
+	<string>beginnerGrainSaturation</string>
+	<key>lazyStoreFlags</key>
+	<string>serviceViaTask</string>
+	<key>methodFromStrategy</key>
+	<string>giftStrategyTail</string>
+	<key>publicCupertinoForce</key>
+	<string>curveCommandTransparency</string>
+	<key>requiredPriorityInset</key>
+	<string>currentSymbolTag</string>
+	<key>significantActionFormat</key>
+	<string>customizedMethodRotation</string>
+	<key>sinkFacadeKind</key>
+	<string>desktopFutureCenter</string>
+</dict>
+</plist>

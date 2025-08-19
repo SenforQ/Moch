@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerLikeObserver</key>
+	<string>positionByValue</string>
+	<key>fixedParticleDensity</key>
+	<string>completerDespiteSystem</string>
+	<key>themeContainPrototype</key>
+	<string>queueBesideDecorator</string>
+	<key>usageOfTier</key>
+	<string>firstLogarithmRotation</string>
+</dict>
+</plist>

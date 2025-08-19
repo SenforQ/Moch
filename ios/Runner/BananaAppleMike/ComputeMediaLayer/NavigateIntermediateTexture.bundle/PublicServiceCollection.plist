@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationPerWork</key>
+	<string>animationOutsideStage</string>
+	<key>greatBehaviorIndex</key>
+	<string>timerCommandBorder</string>
+	<key>interactorBesideBuffer</key>
+	<string>cellStrategyDuration</string>
+	<key>scrollAlongPhase</key>
+	<string>observerParameterLocation</string>
+	<key>sophisticatedFactoryAcceleration</key>
+	<string>scrollableTextfieldInset</string>
+</dict>
+</plist>

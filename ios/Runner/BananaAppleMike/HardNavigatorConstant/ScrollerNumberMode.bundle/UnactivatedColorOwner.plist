@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundJob</key>
+	<string>commonConstraintInterval</string>
+	<key>cacheCommandMode</key>
+	<string>euclideanCubitRight</string>
+	<key>chartFacadeAlignment</key>
+	<string>scrollablePainterBottom</string>
+	<key>handlerCompositeVisible</key>
+	<string>logarithmInInterpreter</string>
+	<key>lostEquipmentCenter</key>
+	<string>beginnerStorageSkewy</string>
+	<key>sharedEffectBehavior</key>
+	<string>controllerVersusProcess</string>
+	<key>smallSceneDirection</key>
+	<string>localizationBridgeMomentum</string>
+	<key>unactivatedAssetVelocity</key>
+	<string>ternaryOutsideBridge</string>
+</dict>
+</plist>

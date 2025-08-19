@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeTimerRight</key>
+	<string>gatePerJob</string>
+	<key>modelCycleBorder</key>
+	<string>usecaseFrameworkEdge</string>
+	<key>modelMethodMode</key>
+	<string>overlayCommandInteraction</string>
+	<key>segmentByCycle</key>
+	<string>interfaceSingletonCenter</string>
+	<key>sessionDecoratorCenter</key>
+	<string>builderBufferTop</string>
+	<key>stateModeTag</key>
+	<string>activeMatrixFeedback</string>
+</dict>
+</plist>

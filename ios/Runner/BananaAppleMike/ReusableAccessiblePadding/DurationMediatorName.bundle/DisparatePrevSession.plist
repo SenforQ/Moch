@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNavigationBound</key>
+	<string>zoneBesideStage</string>
+	<key>movementInsideSingleton</key>
+	<string>screenPerDecorator</string>
+	<key>progressbarFunctionDistance</key>
+	<string>independentAspectratioBorder</string>
+	<key>protocolAroundActivity</key>
+	<string>unaryExceptCycle</string>
+	<key>requestDuringJob</key>
+	<string>declarativeCosineFeedback</string>
+	<key>symbolNumberResponse</key>
+	<string>threadMethodBottom</string>
+</dict>
+</plist>

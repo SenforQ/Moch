@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioEnvironmentFormat</key>
+	<string>gridWithoutPlatform</string>
+	<key>capsuleExceptBuffer</key>
+	<string>compositionByCommand</string>
+	<key>channelsVisitorStyle</key>
+	<string>mediaVersusProxy</string>
+	<key>crudeVariantHue</key>
+	<string>localOverlayAppearance</string>
+	<key>hierarchicalHistogramVisible</key>
+	<string>textfieldWithStrategy</string>
+	<key>immutableCheckboxFormat</key>
+	<string>lastRepositoryLocation</string>
+	<key>interactorPrototypeSkewy</key>
+	<string>storePrototypeBrightness</string>
+	<key>listviewViaAction</key>
+	<string>fusedDialogsValidation</string>
+	<key>statelessCollectionShape</key>
+	<string>actionSingletonCount</string>
+	<key>usecaseProxyBorder</key>
+	<string>modelPatternSkewy</string>
+</dict>
+</plist>

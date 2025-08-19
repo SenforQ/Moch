@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicChartMomentum</key>
+	<string>animatedManagerStatus</string>
+	<key>ignoredChartState</key>
+	<string>entropyVersusNumber</string>
+	<key>largeViewMomentum</key>
+	<string>commandFromCycle</string>
+	<key>projectionDecoratorCoord</key>
+	<string>parallelColumnSkewy</string>
+	<key>viewAwayStrategy</key>
+	<string>monsterScopeSaturation</string>
+</dict>
+</plist>

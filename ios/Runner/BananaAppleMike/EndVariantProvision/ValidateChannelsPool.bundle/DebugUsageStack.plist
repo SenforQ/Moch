@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSegmentTheme</key>
+	<string>projectActionStatus</string>
+	<key>cubitDespiteSystem</key>
+	<string>customizedDecorationFormat</string>
+	<key>customizedViewOpacity</key>
+	<string>crucialCurveSpeed</string>
+	<key>descriptorWithParameter</key>
+	<string>constraintOrMethod</string>
+	<key>exceptionDespiteComposite</key>
+	<string>navigatorAdapterInset</string>
+	<key>positionedScopeInteraction</key>
+	<string>gateViaFacade</string>
+	<key>reactiveListenerMode</key>
+	<string>eventCommandBound</string>
+	<key>routeAroundPhase</key>
+	<string>customizedActionDuration</string>
+	<key>storyboardViaCommand</key>
+	<string>customizedRoleValidation</string>
+	<key>textMediatorTension</key>
+	<string>containerKindVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedErrorAppearance</key>
+	<string>scrollFromInterpreter</string>
+	<key>mediaqueryActivityTransparency</key>
+	<string>newestLossFlags</string>
+	<key>queryThroughContext</key>
+	<string>singleGraphTint</string>
+	<key>streamPerMode</key>
+	<string>interactiveMasterBehavior</string>
+</dict>
+</plist>

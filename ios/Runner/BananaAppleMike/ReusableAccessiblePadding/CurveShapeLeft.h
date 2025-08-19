@@ -1,0 +1,17 @@
+#import "WithoutPreviewConfidentiality.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface CurveShapeLeft : NSObject
+
+
+- (void) downCosineScroller;
+
+- (void) renderContainerBesideBloc;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

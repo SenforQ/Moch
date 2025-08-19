@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMethodFlags</key>
+	<string>imperativeSubpixelSkewy</string>
+	<key>decorationBesideTask</key>
+	<string>containerValueOpacity</string>
+	<key>dialogsInsidePlatform</key>
+	<string>routeThroughCommand</string>
+	<key>discardedSinkOrigin</key>
+	<string>delicatePointContrast</string>
+	<key>extensionVersusState</key>
+	<string>enabledRowBorder</string>
+	<key>listenerContextStyle</key>
+	<string>musicAgainstMode</string>
+	<key>rowAwayState</key>
+	<string>basicTransformerCoord</string>
+	<key>typicalLayoutRate</key>
+	<string>captionBufferRate</string>
+	<key>utilStyleAcceleration</key>
+	<string>curveChainEdge</string>
+</dict>
+</plist>

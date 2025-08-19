@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPhaseDepth</key>
+	<string>reductionOfState</string>
+	<key>canvasScopeFlags</key>
+	<string>customizedEntropyFormat</string>
+	<key>iconStageVisibility</key>
+	<string>scaleBeyondInterpreter</string>
+	<key>multiplicationByInterpreter</key>
+	<string>petMediatorAcceleration</string>
+	<key>spotChainDepth</key>
+	<string>presenterFromStyle</string>
+</dict>
+</plist>

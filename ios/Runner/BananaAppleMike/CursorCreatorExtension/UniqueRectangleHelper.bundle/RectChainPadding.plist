@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferViaStructure</key>
+	<string>spriteStyleSkewy</string>
+	<key>mobxScopeTag</key>
+	<string>signLevelCoord</string>
+	<key>rowWithoutType</key>
+	<string>nativeConvolutionResponse</string>
+	<key>themeAndBuffer</key>
+	<string>allocatorStyleMode</string>
+</dict>
+</plist>

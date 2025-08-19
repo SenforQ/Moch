@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptFacade</key>
+	<string>synchronousCapacitiesStatus</string>
+	<key>currentWidgetStyle</key>
+	<string>retainedBuilderSpacing</string>
+	<key>gestureChainInteraction</key>
+	<string>scrollJobDelay</string>
+	<key>granularProgressbarTransparency</key>
+	<string>cardAndProxy</string>
+	<key>inactiveStoryboardDirection</key>
+	<string>opaqueCupertinoCenter</string>
+	<key>intuitiveGestureFlags</key>
+	<string>observerBeyondBuffer</string>
+	<key>providerBesidePattern</key>
+	<string>customInterfaceSaturation</string>
+	<key>unaryStyleMargin</key>
+	<string>documentContextDepth</string>
+</dict>
+</plist>

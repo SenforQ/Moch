@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentFacadeBehavior</key>
+	<string>grainLikeFlyweight</string>
+	<key>permissiveOffsetPosition</key>
+	<string>commandBridgeValidation</string>
+	<key>textfieldViaAdapter</key>
+	<string>containerContainSingleton</string>
+	<key>workflowAlongKind</key>
+	<string>keyCubeForce</string>
+</dict>
+</plist>

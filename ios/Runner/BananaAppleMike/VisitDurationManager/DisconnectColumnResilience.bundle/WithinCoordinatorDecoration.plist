@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTechniqueStyle</key>
+	<string>rowWorkVelocity</string>
+	<key>ephemeralCoordinatorTint</key>
+	<string>alignmentInsideChain</string>
+	<key>futureMethodInset</key>
+	<string>currentMethodOffset</string>
+	<key>imageAdapterInset</key>
+	<string>semanticsActionHue</string>
+	<key>logContextState</key>
+	<string>normalMethodSize</string>
+	<key>lostTransformerTag</key>
+	<string>mediumReductionPadding</string>
+	<key>materialLabelStyle</key>
+	<string>prismaticNodeContrast</string>
+	<key>metadataAroundMediator</key>
+	<string>painterDecoratorForce</string>
+	<key>progressbarAdapterCoord</key>
+	<string>notificationThroughFacade</string>
+	<key>skinLevelShape</key>
+	<string>momentumEnvironmentShade</string>
+</dict>
+</plist>

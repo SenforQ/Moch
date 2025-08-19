@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleUntilInterpreter</key>
+	<string>injectionDespiteFacade</string>
+	<key>collectionAgainstComposite</key>
+	<string>spriteEnvironmentDensity</string>
+	<key>cycleFlyweightDepth</key>
+	<string>handlerBesideParameter</string>
+	<key>normalMasterSpacing</key>
+	<string>localizationProxyTension</string>
+	<key>popupFunctionFormat</key>
+	<string>cardAsCommand</string>
+	<key>routerLayerSpacing</key>
+	<string>workflowInKind</string>
+	<key>storyboardMediatorColor</key>
+	<string>keyConvolutionOpacity</string>
+	<key>taskSingletonSpeed</key>
+	<string>rowContextHead</string>
+	<key>variantWithoutSingleton</key>
+	<string>routeInStyle</string>
+</dict>
+</plist>

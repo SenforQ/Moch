@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSingletonBound</key>
+	<string>featureFlyweightDistance</string>
+	<key>dependencyDespiteComposite</key>
+	<string>storyboardAsVar</string>
+	<key>iconViaParam</key>
+	<string>imperativeGraphForce</string>
+	<key>lossLikeStage</key>
+	<string>buttonAboutVisitor</string>
+	<key>painterNearStyle</key>
+	<string>symmetricBlocStatus</string>
+	<key>prevReducerBrightness</key>
+	<string>sequentialCanvasSkewy</string>
+	<key>spotAboutState</key>
+	<string>tableInVisitor</string>
+	<key>switchPhaseHead</key>
+	<string>webGetxSize</string>
+</dict>
+</plist>

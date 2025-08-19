@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutTask</key>
+	<string>methodAwayLayer</string>
+	<key>gestureBesideAction</key>
+	<string>sinkActionHue</string>
+	<key>localizationNearCycle</key>
+	<string>sceneEnvironmentLocation</string>
+	<key>loopNumberDensity</key>
+	<string>constraintTempleSkewy</string>
+	<key>multiplicationValueStatus</key>
+	<string>profileDecoratorPressure</string>
+	<key>normSinceState</key>
+	<string>smallProgressbarInterval</string>
+	<key>reducerAlongFunction</key>
+	<string>remainderTaskVisible</string>
+</dict>
+</plist>

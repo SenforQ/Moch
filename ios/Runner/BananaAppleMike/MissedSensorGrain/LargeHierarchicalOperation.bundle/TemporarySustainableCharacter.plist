@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFromParam</key>
+	<string>blocOperationOpacity</string>
+	<key>controllerFunctionInteraction</key>
+	<string>backwardDelegatePadding</string>
+	<key>descriptorContextDepth</key>
+	<string>tappableEntityMargin</string>
+	<key>desktopExponentDelay</key>
+	<string>decorationAgainstObserver</string>
+	<key>inkwellViaScope</key>
+	<string>cursorMethodMode</string>
+	<key>missedCustompaintSpacing</key>
+	<string>curveSingletonBound</string>
+	<key>opaqueRepositorySkewy</key>
+	<string>commonMenuBound</string>
+	<key>respectiveChecklistOffset</key>
+	<string>marginStyleLocation</string>
+	<key>tensorProtocolStatus</key>
+	<string>smartEffectInset</string>
+</dict>
+</plist>

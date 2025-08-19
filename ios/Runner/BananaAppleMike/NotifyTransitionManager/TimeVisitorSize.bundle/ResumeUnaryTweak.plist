@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEntityAlignment</key>
+	<string>mobileResourceIndex</string>
+	<key>menuFunctionRotation</key>
+	<string>descriptionByFunction</string>
+	<key>musicSingletonCenter</key>
+	<string>futureStyleFormat</string>
+	<key>requiredMaterialDensity</key>
+	<string>coordinatorInVariable</string>
+	<key>scaffoldAroundStrategy</key>
+	<string>globalArithmeticTheme</string>
+	<key>topicAndInterpreter</key>
+	<string>intensityTaskPadding</string>
+	<key>viewFacadeHead</key>
+	<string>finalTimerAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBufferTail</key>
+	<string>effectMediatorCenter</string>
+	<key>decorationBesideBridge</key>
+	<string>spriteTempleTint</string>
+	<key>subtleLayerShade</key>
+	<string>titleFromDecorator</string>
+	<key>taskViaFlyweight</key>
+	<string>notifierBesideStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTaskSaturation</key>
+	<string>disparateFrameType</string>
+	<key>cubitUntilStrategy</key>
+	<string>ignoredStorageMargin</string>
+	<key>denseAnimationFormat</key>
+	<string>taskDespiteActivity</string>
+	<key>imageStyleShade</key>
+	<string>mapDuringActivity</string>
+	<key>radiusBesideProxy</key>
+	<string>curveAdapterState</string>
+	<key>viewSystemTint</key>
+	<string>mobileFacadeSpeed</string>
+</dict>
+</plist>

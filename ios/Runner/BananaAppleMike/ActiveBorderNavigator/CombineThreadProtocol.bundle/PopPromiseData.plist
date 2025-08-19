@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTypeStyle</key>
+	<string>offsetStyleValidation</string>
+	<key>channelsParameterOrientation</key>
+	<string>handlerPlatformHead</string>
+	<key>enabledMarginSkewy</key>
+	<string>interactiveServiceCount</string>
+	<key>giftVersusEnvironment</key>
+	<string>cubitDecoratorCount</string>
+	<key>injectionAndBuffer</key>
+	<string>petPerParam</string>
+	<key>masterCommandTag</key>
+	<string>mediaqueryFromFramework</string>
+	<key>positionAlongTask</key>
+	<string>completerAmongOperation</string>
+	<key>positionBridgeHue</key>
+	<string>tensorAlignmentShade</string>
+	<key>stateWithComposite</key>
+	<string>utilLayerAppearance</string>
+</dict>
+</plist>

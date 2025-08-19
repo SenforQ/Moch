@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertUntilValue</key>
+	<string>singletonLevelSize</string>
+	<key>beginnerScrollBottom</key>
+	<string>spriteJobIndex</string>
+	<key>flexLayerDelay</key>
+	<string>queueShapeVelocity</string>
+	<key>newestMatrixMode</key>
+	<string>easyEffectOrientation</string>
+	<key>pivotalMobileBehavior</key>
+	<string>sliderVarOffset</string>
+	<key>vectorValueColor</key>
+	<string>grayscaleAmongPlatform</string>
+</dict>
+</plist>

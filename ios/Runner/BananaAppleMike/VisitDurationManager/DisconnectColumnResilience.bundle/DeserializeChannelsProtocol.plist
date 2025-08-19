@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStylePadding</key>
+	<string>ignoredViewSkewx</string>
+	<key>compositionInsideCommand</key>
+	<string>buttonMethodMargin</string>
+	<key>contractionCycleValidation</key>
+	<string>skirtAndType</string>
+	<key>contractionVersusNumber</key>
+	<string>disabledBlocFeedback</string>
+	<key>firstResolverOffset</key>
+	<string>signatureIncludeAction</string>
+	<key>futureDuringProxy</key>
+	<string>compositionDespiteSingleton</string>
+	<key>mediumIndicatorIndex</key>
+	<string>awaitLikeState</string>
+	<key>seamlessPresenterHead</key>
+	<string>normValueTop</string>
+	<key>zoneAwayContext</key>
+	<string>masterModeSkewx</string>
+</dict>
+</plist>

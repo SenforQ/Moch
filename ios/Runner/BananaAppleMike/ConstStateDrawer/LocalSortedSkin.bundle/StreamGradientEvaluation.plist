@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPainterCoord</key>
+	<string>cursorAgainstLayer</string>
+	<key>functionalUsecaseMode</key>
+	<string>marginThanStyle</string>
+	<key>interactorIncludeWork</key>
+	<string>gestureViaType</string>
+	<key>parallelGroupCount</key>
+	<string>subsequentPriorityBound</string>
+</dict>
+</plist>

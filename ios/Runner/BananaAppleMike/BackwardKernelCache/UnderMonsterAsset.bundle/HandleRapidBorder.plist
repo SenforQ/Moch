@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorChainType</key>
+	<string>geometricObserverVisibility</string>
+	<key>customLoopLocation</key>
+	<string>storeChainVisible</string>
+	<key>drawerBesideVar</key>
+	<string>batchAndCommand</string>
+	<key>iconMethodSize</key>
+	<string>axisStyleAppearance</string>
+	<key>subtleSliderFlags</key>
+	<string>channelAroundComposite</string>
+	<key>topicAmongTask</key>
+	<string>loopStateBottom</string>
+</dict>
+</plist>

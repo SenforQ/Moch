@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMissionTension</key>
+	<string>dependencyActionCount</string>
+	<key>constraintBufferSpacing</key>
+	<string>scaleStateBottom</string>
+	<key>cycleNumberVisibility</key>
+	<string>alphaDespiteCycle</string>
+	<key>dependencyFromTier</key>
+	<string>loopAgainstVariable</string>
+	<key>missedTickerTag</key>
+	<string>monsterAsObserver</string>
+	<key>nodeVarDistance</key>
+	<string>decorationKindValidation</string>
+	<key>notificationLikeStrategy</key>
+	<string>secondDurationVisible</string>
+	<key>workflowLayerSaturation</key>
+	<string>inheritedModulusCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionDuringWork</key>
+	<string>workflowCycleOrigin</string>
+	<key>contractionInCommand</key>
+	<string>semanticsActivityDensity</string>
+	<key>displayablePositionScale</key>
+	<string>accessibleZoneStyle</string>
+	<key>greatCurveTint</key>
+	<string>asyncPatternVelocity</string>
+	<key>specifierScopeStyle</key>
+	<string>parallelDescriptorBrightness</string>
+	<key>tableLevelTag</key>
+	<string>resourceContainPattern</string>
+	<key>visibleKernelKind</key>
+	<string>featureProcessType</string>
+</dict>
+</plist>

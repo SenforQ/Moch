@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAtPhase</key>
+	<string>tabviewWithoutParameter</string>
+	<key>collectionWorkStyle</key>
+	<string>localizationLikeMemento</string>
+	<key>composableMethodBottom</key>
+	<string>temporaryBoxSkewx</string>
+	<key>customTaskFrequency</key>
+	<string>normWorkVelocity</string>
+	<key>decorationLikeTier</key>
+	<string>mapNearPrototype</string>
+	<key>factoryPrototypeRight</key>
+	<string>symmetricButtonSpacing</string>
+	<key>presenterDuringScope</key>
+	<string>rectExceptInterpreter</string>
+	<key>riverpodStyleTransparency</key>
+	<string>textureThroughParameter</string>
+</dict>
+</plist>

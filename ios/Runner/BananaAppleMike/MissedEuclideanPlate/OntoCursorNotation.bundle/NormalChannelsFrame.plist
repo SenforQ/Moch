@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeResponseColor</key>
+	<string>listviewTypeStatus</string>
+	<key>hyperbolicDependencyDirection</key>
+	<string>prevSubscriptionDuration</string>
+	<key>layoutValueOffset</key>
+	<string>scrollableProfileTop</string>
+	<key>lazyTimerEdge</key>
+	<string>denseHandlerPosition</string>
+	<key>movementNumberInteraction</key>
+	<string>effectLevelMargin</string>
+	<key>scrollBesideCycle</key>
+	<string>builderBeyondComposite</string>
+	<key>sinkPlatformShape</key>
+	<string>priorAnimatedcontainerTail</string>
+</dict>
+</plist>

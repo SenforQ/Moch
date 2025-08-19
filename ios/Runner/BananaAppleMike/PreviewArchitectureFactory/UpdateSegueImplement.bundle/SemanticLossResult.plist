@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstStrategy</key>
+	<string>consumerSystemOrientation</string>
+	<key>ephemeralGraphAppearance</key>
+	<string>pointViaShape</string>
+	<key>queryWithoutPattern</key>
+	<string>sensorAndOperation</string>
+	<key>sharedProviderDuration</key>
+	<string>graphTaskVisibility</string>
+</dict>
+</plist>

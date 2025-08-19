@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisThroughStage</key>
+	<string>mediaDecoratorMode</string>
+	<key>delicateRowSpeed</key>
+	<string>progressbarAroundTask</string>
+	<key>explicitSineAcceleration</key>
+	<string>synchronousNavigationDistance</string>
+	<key>fixedRowVisibility</key>
+	<string>layoutPatternSaturation</string>
+	<key>remainderEnvironmentCoord</key>
+	<string>storageParamColor</string>
+	<key>zoneExceptTemple</key>
+	<string>bulletInsideStyle</string>
+</dict>
+</plist>

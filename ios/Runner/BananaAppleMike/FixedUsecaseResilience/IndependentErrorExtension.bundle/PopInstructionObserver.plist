@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTempleStatus</key>
+	<string>callbackInEnvironment</string>
+	<key>baselineByVariable</key>
+	<string>queryMementoVelocity</string>
+	<key>constMobilePadding</key>
+	<string>swiftFlyweightIndex</string>
+	<key>containerKindInset</key>
+	<string>particleAndLayer</string>
+	<key>factoryByStrategy</key>
+	<string>aspectStateOrigin</string>
+	<key>futurePrototypeDepth</key>
+	<string>localizationMediatorName</string>
+	<key>projectionFromAction</key>
+	<string>comprehensiveRequestDepth</string>
+	<key>sortedLabelContrast</key>
+	<string>routePhaseFeedback</string>
+	<key>uniformMediaInterval</key>
+	<string>significantBulletInset</string>
+</dict>
+</plist>

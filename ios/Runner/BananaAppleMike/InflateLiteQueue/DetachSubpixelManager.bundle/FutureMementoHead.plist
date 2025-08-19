@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPlatformPressure</key>
+	<string>configurationTempleFormat</string>
+	<key>decorationThroughState</key>
+	<string>spotTempleDirection</string>
+	<key>fragmentThroughFlyweight</key>
+	<string>listviewFacadeSize</string>
+	<key>presenterAtTask</key>
+	<string>segueStyleLocation</string>
+	<key>providerVariableOrientation</key>
+	<string>rapidPopupSkewy</string>
+	<key>sessionDecoratorOpacity</key>
+	<string>compositionOutsideState</string>
+	<key>symmetricProviderIndex</key>
+	<string>mainDurationSaturation</string>
+	<key>taskInsideOperation</key>
+	<string>stepMediatorInset</string>
+</dict>
+</plist>

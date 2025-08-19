@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionContainMode</key>
+	<string>tensorQueueSize</string>
+	<key>largeCoordinatorContrast</key>
+	<string>zoneFormInset</string>
+	<key>notificationStyleTransparency</key>
+	<string>groupWithoutBridge</string>
+	<key>previewAsSingleton</key>
+	<string>opaqueIntensityName</string>
+	<key>reusableActivityTag</key>
+	<string>newestLayoutTop</string>
+	<key>uniqueTopicPosition</key>
+	<string>similarCatalystOffset</string>
+	<key>visibleRectDistance</key>
+	<string>reusableCaptionFlags</string>
+</dict>
+</plist>

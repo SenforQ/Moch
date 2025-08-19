@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentAndSystem</key>
+	<string>vectorMethodInteraction</string>
+	<key>geometricProviderSpeed</key>
+	<string>animationThroughChain</string>
+	<key>imageChainTheme</key>
+	<string>customStatelessCoord</string>
+	<key>parallelMovementBound</key>
+	<string>viewFormOrigin</string>
+	<key>rowTaskDirection</key>
+	<string>singletonObserverTag</string>
+	<key>webGrayscaleTint</key>
+	<string>checklistWithoutInterpreter</string>
+	<key>workflowVarOffset</key>
+	<string>checkboxDespiteStrategy</string>
+</dict>
+</plist>

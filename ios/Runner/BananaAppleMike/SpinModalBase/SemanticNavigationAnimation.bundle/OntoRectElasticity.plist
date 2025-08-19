@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeQueueInteraction</key>
+	<string>callbackStrategyLocation</string>
+	<key>deferredHashFlags</key>
+	<string>blocBesideContext</string>
+	<key>matrixFrameworkDirection</key>
+	<string>observerProcessBottom</string>
+	<key>newestCompositionTail</key>
+	<string>protectedReducerInterval</string>
+	<key>retainedAssetSpeed</key>
+	<string>utilMementoFrequency</string>
+	<key>routeNumberDepth</key>
+	<string>controllerContextHue</string>
+	<key>skirtContextAppearance</key>
+	<string>animatedCacheType</string>
+	<key>streamVariableBehavior</key>
+	<string>cubitJobContrast</string>
+	<key>subsequentPainterSize</key>
+	<string>mobxCommandVisible</string>
+</dict>
+</plist>

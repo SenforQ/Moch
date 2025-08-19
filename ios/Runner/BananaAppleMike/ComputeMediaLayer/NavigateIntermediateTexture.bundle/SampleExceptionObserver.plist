@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBeyondShape</key>
+	<string>momentumChainDuration</string>
+	<key>euclideanEntropySaturation</key>
+	<string>presenterCommandSkewx</string>
+	<key>semanticCubitOrientation</key>
+	<string>prismaticCurveFrequency</string>
+	<key>usageSingletonSkewx</key>
+	<string>deferredStoreSize</string>
+</dict>
+</plist>

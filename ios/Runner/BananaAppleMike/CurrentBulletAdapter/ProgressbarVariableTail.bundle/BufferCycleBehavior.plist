@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorDuringTask</key>
+	<string>animationWithoutType</string>
+	<key>firstAnimationVisible</key>
+	<string>transitionAgainstTemple</string>
+	<key>fixedEventOpacity</key>
+	<string>graphicActionSpeed</string>
+	<key>metadataOutsideMode</key>
+	<string>robustChecklistSpeed</string>
+	<key>offsetJobBound</key>
+	<string>allocatorVisitorPressure</string>
+	<key>subtleThemeTransparency</key>
+	<string>kernelPlatformHue</string>
+</dict>
+</plist>

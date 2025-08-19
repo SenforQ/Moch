@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTextKind</key>
+	<string>interfaceViaActivity</string>
+	<key>checklistDuringNumber</key>
+	<string>parallelQueueDepth</string>
+	<key>concurrentSizeMargin</key>
+	<string>usageMediatorFlags</string>
+	<key>customizedCycleRight</key>
+	<string>discardedActivityStyle</string>
+	<key>dynamicWorkflowDensity</key>
+	<string>previewChainMomentum</string>
+	<key>layoutLayerHue</key>
+	<string>routeOrTemple</string>
+	<key>localizationDuringType</key>
+	<string>integerMethodTheme</string>
+	<key>metadataAndScope</key>
+	<string>invisibleTopicTension</string>
+	<key>statelessThanStructure</key>
+	<string>explicitCaptionRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridMediatorDistance</key>
+	<string>dedicatedFeatureFormat</string>
+	<key>independentProjectionDistance</key>
+	<string>declarativeSizeBrightness</string>
+	<key>layoutMethodSize</key>
+	<string>lazyReducerValidation</string>
+	<key>offsetVisitorOpacity</key>
+	<string>checkboxValueHue</string>
+	<key>transitionExceptMediator</key>
+	<string>containerDecoratorResponse</string>
+</dict>
+</plist>

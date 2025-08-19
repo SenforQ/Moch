@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectScopeSaturation</key>
+	<string>chartPhaseSaturation</string>
+	<key>largeListviewSpeed</key>
+	<string>concurrentPositionedDistance</string>
+	<key>largeScrollHue</key>
+	<string>accordionButtonMomentum</string>
+	<key>queueProxyName</key>
+	<string>normActivityLocation</string>
+	<key>resourceFunctionBound</key>
+	<string>alignmentProxyVisible</string>
+	<key>seamlessCaptionTag</key>
+	<string>protectedAxisPosition</string>
+	<key>significantRowOpacity</key>
+	<string>relationalStepAppearance</string>
+	<key>statefulInstructionPosition</key>
+	<string>tweenAboutCycle</string>
+	<key>subpixelVersusCommand</key>
+	<string>effectAboutInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSliderDirection</key>
+	<string>threadVersusAction</string>
+	<key>configurationOutsideVar</key>
+	<string>configurationOfPattern</string>
+	<key>extensionForFlyweight</key>
+	<string>consultativeAppbarOrientation</string>
+	<key>mutableLoopInterval</key>
+	<string>secondTouchSaturation</string>
+	<key>parallelGridFeedback</key>
+	<string>methodParameterFlags</string>
+	<key>sophisticatedOperationCount</key>
+	<string>ternaryKindStyle</string>
+	<key>textSystemName</key>
+	<string>activePositionFlags</string>
+</dict>
+</plist>

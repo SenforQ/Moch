@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletViaPhase</key>
+	<string>nodeOrMode</string>
+	<key>completerForCommand</key>
+	<string>accessoryAroundBuffer</string>
+	<key>dimensionKindState</key>
+	<string>canvasSingletonDirection</string>
+	<key>effectPerNumber</key>
+	<string>immediateDescriptionKind</string>
+	<key>eventPrototypeDuration</key>
+	<string>responsiveReferenceCount</string>
+	<key>independentTextCoord</key>
+	<string>curveWithEnvironment</string>
+</dict>
+</plist>

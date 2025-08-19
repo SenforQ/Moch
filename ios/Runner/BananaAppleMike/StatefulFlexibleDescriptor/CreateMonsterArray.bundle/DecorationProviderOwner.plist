@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertProcessTransparency</key>
+	<string>usecaseInMethod</string>
+	<key>appbarTaskFlags</key>
+	<string>cacheInterpreterFeedback</string>
+	<key>elasticGroupDelay</key>
+	<string>modulusDespiteFlyweight</string>
+	<key>permissiveCheckboxRate</key>
+	<string>remainderThanTask</string>
+	<key>taskTierName</key>
+	<string>errorMementoIndex</string>
+</dict>
+</plist>

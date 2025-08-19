@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateLayoutDirection</key>
+	<string>gridActivityShade</string>
+	<key>euclideanDurationEdge</key>
+	<string>invisibleResponseIndex</string>
+	<key>eventPatternOrientation</key>
+	<string>appbarForActivity</string>
+	<key>resilientDecorationKind</key>
+	<string>subsequentCheckboxPressure</string>
+	<key>synchronousExponentTheme</key>
+	<string>buttonStructureScale</string>
+	<key>usageInJob</key>
+	<string>toolProxyBorder</string>
+</dict>
+</plist>

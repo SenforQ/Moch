@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAroundMediator</key>
+	<string>rectVarDuration</string>
+	<key>factoryPrototypeShape</key>
+	<string>bufferActionScale</string>
+	<key>mapVariableDensity</key>
+	<string>checkboxNumberStatus</string>
+	<key>movementLikeBridge</key>
+	<string>requiredRadiusPadding</string>
+	<key>profileOperationDensity</key>
+	<string>lostRouteInterval</string>
+	<key>queryInsideTier</key>
+	<string>presenterInPattern</string>
+	<key>slashCycleInset</key>
+	<string>promiseDuringParam</string>
+	<key>viewWorkTint</key>
+	<string>secondChannelDuration</string>
+	<key>visibleButtonPressure</key>
+	<string>topicBesideScope</string>
+</dict>
+</plist>

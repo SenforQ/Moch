@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFeatureFormat</key>
+	<string>axisParameterShape</string>
+	<key>animationIncludeOperation</key>
+	<string>navigationStrategyFeedback</string>
+	<key>batchAdapterOpacity</key>
+	<string>constraintFormLeft</string>
+	<key>dialogsActivityIndex</key>
+	<string>tickerStructureStatus</string>
+	<key>globalTaskDelay</key>
+	<string>mediaStyleDuration</string>
+	<key>protocolActivityInterval</key>
+	<string>remainderWithoutParam</string>
+	<key>queryViaBridge</key>
+	<string>entityActivitySaturation</string>
+	<key>routerCommandOpacity</key>
+	<string>multiGramPadding</string>
+	<key>sustainableGemDirection</key>
+	<string>robustSingletonDuration</string>
+	<key>variantContainStrategy</key>
+	<string>deferredCanvasTail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarExceptShape</key>
+	<string>builderPlatformOrientation</string>
+	<key>axisBesideLayer</key>
+	<string>skinVariablePosition</string>
+	<key>errorViaForm</key>
+	<string>desktopVectorShade</string>
+	<key>mediaBeyondComposite</key>
+	<string>queueBridgeDistance</string>
+	<key>monsterProxyDepth</key>
+	<string>semanticProjectionOrigin</string>
+	<key>respectiveAwaitLeft</key>
+	<string>liteLoopFlags</string>
+	<key>tickerAboutJob</key>
+	<string>independentRemainderRate</string>
+</dict>
+</plist>

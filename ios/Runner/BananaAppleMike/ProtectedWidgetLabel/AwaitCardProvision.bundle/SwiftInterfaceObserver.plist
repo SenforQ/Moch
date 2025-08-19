@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxBesidePattern</key>
+	<string>visibleInteractorContrast</string>
+	<key>inactiveDependencyVisible</key>
+	<string>queryAroundVariable</string>
+	<key>intermediateGraphicOrigin</key>
+	<string>lastSpineVisible</string>
+	<key>invisibleExtensionColor</key>
+	<string>containerInType</string>
+	<key>paddingAmongFacade</key>
+	<string>requiredBinaryOffset</string>
+	<key>specifierAlongSystem</key>
+	<string>fusedCommandOrientation</string>
+</dict>
+</plist>

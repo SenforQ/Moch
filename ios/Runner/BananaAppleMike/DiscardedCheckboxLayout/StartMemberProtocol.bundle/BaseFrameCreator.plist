@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorLevelTop</key>
+	<string>scaleStrategyCoord</string>
+	<key>dynamicSliderDelay</key>
+	<string>cartesianStoragePressure</string>
+	<key>eventAtStage</key>
+	<string>smartScreenAppearance</string>
+	<key>gesturedetectorLevelForce</key>
+	<string>viewWithMemento</string>
+	<key>interactiveRequestSpacing</key>
+	<string>nodeBeyondLevel</string>
+	<key>normalCaptionBottom</key>
+	<string>hashMethodTop</string>
+	<key>observerOutsideMemento</key>
+	<string>cacheContainScope</string>
+	<key>positionAgainstAction</key>
+	<string>featureInsideEnvironment</string>
+	<key>scrollMediatorValidation</key>
+	<string>currentConvolutionContrast</string>
+</dict>
+</plist>

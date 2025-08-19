@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionContainFramework</key>
+	<string>delegateAsMemento</string>
+	<key>diffableVectorDistance</key>
+	<string>gramForValue</string>
+	<key>ephemeralChartVisibility</key>
+	<string>sessionParameterBehavior</string>
+	<key>immediateInteractorRotation</key>
+	<string>priorTitleTheme</string>
+	<key>independentSkinVisibility</key>
+	<string>particleScopeDistance</string>
+	<key>memberSingletonPressure</key>
+	<string>textfieldAgainstShape</string>
+	<key>singleProjectionMargin</key>
+	<string>alphaStageSaturation</string>
+</dict>
+</plist>

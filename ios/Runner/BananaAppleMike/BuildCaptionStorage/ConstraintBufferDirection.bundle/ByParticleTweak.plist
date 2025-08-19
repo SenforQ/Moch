@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBufferLeft</key>
+	<string>rowSinceComposite</string>
+	<key>cacheVersusChain</key>
+	<string>immutableOperationBorder</string>
+	<key>injectionViaSingleton</key>
+	<string>progressbarModeSaturation</string>
+	<key>methodFrameworkOffset</key>
+	<string>exceptionBesideLayer</string>
+	<key>multiplicationAgainstContext</key>
+	<string>futureVersusProxy</string>
+	<key>publicTickerForce</key>
+	<string>segmentDespiteStage</string>
+	<key>resourceShapeAcceleration</key>
+	<string>mainStateDuration</string>
+	<key>respectiveRadiusLocation</key>
+	<string>apertureAndTier</string>
+	<key>usecaseOutsideChain</key>
+	<string>cubitByKind</string>
+</dict>
+</plist>

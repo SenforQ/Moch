@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVersusVar</key>
+	<string>bitrateIncludeLevel</string>
+	<key>movementStrategyResponse</key>
+	<string>oldZoneBound</string>
+	<key>positionedLevelCoord</key>
+	<string>webTitleResponse</string>
+	<key>zoneFrameworkAlignment</key>
+	<string>resultVersusOperation</string>
+</dict>
+</plist>

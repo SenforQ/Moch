@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFacadeRight</key>
+	<string>concurrentChannelTail</string>
+	<key>collectionChainAcceleration</key>
+	<string>explicitCoordinatorAcceleration</string>
+	<key>immediateInkwellRotation</key>
+	<string>futureOutsideObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFrameworkInteraction</key>
+	<string>particleForFlyweight</string>
+	<key>cachePatternScale</key>
+	<string>advancedSignDelay</string>
+	<key>fragmentVarTop</key>
+	<string>intermediateListenerInteraction</string>
+	<key>layerVarFlags</key>
+	<string>overlayUntilStructure</string>
+	<key>richtextAtMemento</key>
+	<string>inactiveScrollEdge</string>
+	<key>textureAsSystem</key>
+	<string>spriteInsideComposite</string>
+	<key>titleCommandVelocity</key>
+	<string>configurationCompositeSize</string>
+</dict>
+</plist>

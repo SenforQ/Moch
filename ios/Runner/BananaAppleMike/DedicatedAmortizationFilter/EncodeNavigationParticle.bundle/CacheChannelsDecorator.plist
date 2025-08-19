@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGesturedetectorFlags</key>
+	<string>comprehensiveServicePosition</string>
+	<key>directlyCoordinatorSkewy</key>
+	<string>fusedNotificationInteraction</string>
+	<key>featureVisitorSpeed</key>
+	<string>layoutPrototypeState</string>
+	<key>resizableBrushAlignment</key>
+	<string>keyLoopBehavior</string>
+	<key>storeNumberBehavior</key>
+	<string>tabbarAboutShape</string>
+	<key>tangentStateAppearance</key>
+	<string>resultIncludeForm</string>
+</dict>
+</plist>

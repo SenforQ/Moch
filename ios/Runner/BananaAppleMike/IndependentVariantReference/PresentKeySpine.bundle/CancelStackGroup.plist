@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderValueType</key>
+	<string>standaloneChannelRate</string>
+	<key>finalPlaybackMode</key>
+	<string>delegateContainPhase</string>
+	<key>heroAmongAdapter</key>
+	<string>sharedPresenterTransparency</string>
+	<key>synchronousDependencyTransparency</key>
+	<string>cartesianSlashName</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetUntilType</key>
+	<string>primaryCubitStyle</string>
+	<key>hardTabbarTheme</key>
+	<string>navigationActionColor</string>
+	<key>missionAboutBuffer</key>
+	<string>constraintCommandMargin</string>
+	<key>presenterViaProxy</key>
+	<string>spineThroughCycle</string>
+	<key>singletonWithoutPattern</key>
+	<string>projectionAgainstTier</string>
+	<key>sortedBehaviorRight</key>
+	<string>ignoredExpandedLocation</string>
+	<key>transformerAboutStrategy</key>
+	<string>routeOutsideParameter</string>
+	<key>transformerUntilLevel</key>
+	<string>curveWithMethod</string>
+	<key>unsortedQueueDuration</key>
+	<string>subsequentCompletionTension</string>
+</dict>
+</plist>

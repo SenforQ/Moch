@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLayoutSize</key>
+	<string>transformerFormTint</string>
+	<key>completerVersusStructure</key>
+	<string>errorActionAppearance</string>
+	<key>directlyIsolateInterval</key>
+	<string>scrollableResolverPadding</string>
+	<key>displayableFutureTint</key>
+	<string>originalAlignmentAppearance</string>
+	<key>nodeWithoutVariable</key>
+	<string>deferredSignVisible</string>
+	<key>tableMethodSaturation</key>
+	<string>behaviorAndFunction</string>
+</dict>
+</plist>

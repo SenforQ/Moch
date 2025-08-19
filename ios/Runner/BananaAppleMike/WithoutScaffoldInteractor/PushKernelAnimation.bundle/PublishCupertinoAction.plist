@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCompositeShape</key>
+	<string>hierarchicalSpineRate</string>
+	<key>diffableDurationValidation</key>
+	<string>gridviewJobMargin</string>
+	<key>eventBesideCommand</key>
+	<string>progressbarExceptDecorator</string>
+	<key>semanticEntropyMargin</key>
+	<string>eagerResponseOrigin</string>
+	<key>sessionAmongLevel</key>
+	<string>discardedControllerRate</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesDuringAction</key>
+	<string>dropdownbuttonOutsideValue</string>
+	<key>cycleLevelOrigin</key>
+	<string>nativeOverlayOpacity</string>
+	<key>exponentShapePressure</key>
+	<string>sampleAtScope</string>
+	<key>requestStyleRotation</key>
+	<string>cartesianAsyncFeedback</string>
+	<key>secondDescriptionHead</key>
+	<string>explicitDescriptorVisibility</string>
+	<key>textureViaVariable</key>
+	<string>resolverExceptEnvironment</string>
+</dict>
+</plist>

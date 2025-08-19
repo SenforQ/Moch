@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialAlertResponse</key>
+	<string>dependencyAdapterLocation</string>
+	<key>intermediateTaskCount</key>
+	<string>completerModeAcceleration</string>
+	<key>mobileGraphOrientation</key>
+	<string>largeCaptionRotation</string>
+	<key>semanticReducerSpacing</key>
+	<string>modulusOperationAppearance</string>
+</dict>
+</plist>

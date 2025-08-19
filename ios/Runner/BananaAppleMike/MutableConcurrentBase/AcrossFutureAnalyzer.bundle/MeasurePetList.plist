@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionPerOperation</key>
+	<string>scrollAmongComposite</string>
+	<key>entropyVarInteraction</key>
+	<string>workflowTypeBottom</string>
+	<key>kernelPatternCoord</key>
+	<string>gridThroughVariable</string>
+	<key>managerOutsideChain</key>
+	<string>coordinatorWithoutAction</string>
+	<key>mediocreStoreInset</key>
+	<string>configurationTaskSize</string>
+	<key>routerNearVariable</key>
+	<string>draggableIndicatorBrightness</string>
+	<key>sensorValueRotation</key>
+	<string>beginnerTernaryBottom</string>
+	<key>singletonObserverAppearance</key>
+	<string>zoneSingletonEdge</string>
+	<key>widgetAboutDecorator</key>
+	<string>viewNearParam</string>
+	<key>widgetSinceLevel</key>
+	<string>flexUntilPrototype</string>
+</dict>
+</plist>

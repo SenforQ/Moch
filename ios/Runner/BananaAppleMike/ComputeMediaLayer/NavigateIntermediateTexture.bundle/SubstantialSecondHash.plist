@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCycleCount</key>
+	<string>animationObserverBorder</string>
+	<key>appbarAboutFacade</key>
+	<string>awaitContainComposite</string>
+	<key>chartAwayLevel</key>
+	<string>ternaryFlyweightKind</string>
+	<key>draggableRectFrequency</key>
+	<string>builderViaChain</string>
+	<key>granularSpecifierAppearance</key>
+	<string>boxshadowInterpreterDirection</string>
+	<key>promiseFromSystem</key>
+	<string>reusableMissionBottom</string>
+	<key>repositoryStageShade</key>
+	<string>optimizerThanOperation</string>
+	<key>sliderAndState</key>
+	<string>largeDecorationTag</string>
+	<key>uniformPreviewCoord</key>
+	<string>scrollObserverSize</string>
+</dict>
+</plist>

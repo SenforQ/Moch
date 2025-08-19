@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorFunctionShade</key>
+	<string>toolThanFramework</string>
+	<key>normUntilPattern</key>
+	<string>notificationInsideVariable</string>
+	<key>presenterExceptMode</key>
+	<string>indicatorFromStage</string>
+	<key>resolverAndVisitor</key>
+	<string>queryFormTop</string>
+	<key>stepPatternSkewx</key>
+	<string>normalExponentShade</string>
+	<key>unsortedDocumentDelay</key>
+	<string>statelessPhaseVelocity</string>
+</dict>
+</plist>

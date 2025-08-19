@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPhaseAppearance</key>
+	<string>loopWithoutDecorator</string>
+	<key>factoryWithoutAction</key>
+	<string>mainObserverLocation</string>
+	<key>semanticOffsetInteraction</key>
+	<string>containerOfVariable</string>
+	<key>textAmongParameter</key>
+	<string>instructionPerFlyweight</string>
+</dict>
+</plist>

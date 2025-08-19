@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMobileDensity</key>
+	<string>behaviorVersusWork</string>
+	<key>cubitProcessOrientation</key>
+	<string>nativeKernelBehavior</string>
+	<key>denseLayerShade</key>
+	<string>oldLabelSaturation</string>
+	<key>labelInterpreterTension</key>
+	<string>usageSinceComposite</string>
+	<key>lazySegueMargin</key>
+	<string>finalLayerForce</string>
+	<key>listenerEnvironmentType</key>
+	<string>mainDescriptorTheme</string>
+	<key>metadataWithoutFramework</key>
+	<string>cacheDespiteFacade</string>
+	<key>pageviewStrategyResponse</key>
+	<string>originalPromiseType</string>
+	<key>routeAndJob</key>
+	<string>compositionalLayerInterval</string>
+	<key>textureAndComposite</key>
+	<string>effectShapeShade</string>
+</dict>
+</plist>

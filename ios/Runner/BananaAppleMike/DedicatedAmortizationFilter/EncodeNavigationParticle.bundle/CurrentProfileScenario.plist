@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAroundSystem</key>
+	<string>visibleCapacitiesContrast</string>
+	<key>effectProcessRight</key>
+	<string>custompaintWithoutStructure</string>
+	<key>mapOfComposite</key>
+	<string>allocatorAndContext</string>
+</dict>
+</plist>

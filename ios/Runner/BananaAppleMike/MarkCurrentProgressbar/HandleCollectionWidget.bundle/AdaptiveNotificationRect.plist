@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeConsumerStyle</key>
+	<string>featureFunctionValidation</string>
+	<key>intermediatePageviewInterval</key>
+	<string>customMasterStatus</string>
+	<key>mobileTouchFormat</key>
+	<string>staticZoneOrientation</string>
+	<key>referenceVisitorMode</key>
+	<string>symmetricNavigatorAppearance</string>
+	<key>repositoryLayerValidation</key>
+	<string>nextReducerTension</string>
+	<key>scrollableQueueLeft</key>
+	<string>ignoredResponseSpacing</string>
+	<key>subscriptionEnvironmentOrientation</key>
+	<string>autoInterpolationSkewx</string>
+</dict>
+</plist>

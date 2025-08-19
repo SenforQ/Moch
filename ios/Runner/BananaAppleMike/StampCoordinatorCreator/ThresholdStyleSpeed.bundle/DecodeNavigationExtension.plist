@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOutsideProcess</key>
+	<string>globalStateEdge</string>
+	<key>baseInterpreterSaturation</key>
+	<string>loopModeCenter</string>
+	<key>behaviorFrameworkEdge</key>
+	<string>entitySystemMode</string>
+	<key>checkboxOrVariable</key>
+	<string>momentumAtBuffer</string>
+	<key>controllerWithoutMediator</key>
+	<string>previewPatternMode</string>
+	<key>isolatePrototypeSpacing</key>
+	<string>presenterTaskBottom</string>
+	<key>keyBuilderFormat</key>
+	<string>remainderInCycle</string>
+	<key>otherResolverFlags</key>
+	<string>denseMediaqueryDuration</string>
+	<key>requestAroundStructure</key>
+	<string>axisFromScope</string>
+</dict>
+</plist>

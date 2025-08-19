@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigatorVisibility</key>
+	<string>skirtBridgeColor</string>
+	<key>providerActivityFeedback</key>
+	<string>widgetAtPrototype</string>
+	<key>usecaseStateEdge</key>
+	<string>unsortedCoordinatorDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAnimationVisible</key>
+	<string>layoutPhaseCenter</string>
+	<key>iconStyleDuration</key>
+	<string>opaqueGraphicForce</string>
+	<key>mainResourceFeedback</key>
+	<string>sceneAndEnvironment</string>
+	<key>positionOutsideWork</key>
+	<string>resizableNavigatorLocation</string>
+	<key>smartAlignmentTransparency</key>
+	<string>animatedcontainerForScope</string>
+	<key>techniqueObserverFormat</key>
+	<string>hardSpineSize</string>
+</dict>
+</plist>

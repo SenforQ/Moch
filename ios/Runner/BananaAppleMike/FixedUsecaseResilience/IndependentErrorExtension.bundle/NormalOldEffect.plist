@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventActionInset</key>
+	<string>factoryFormOpacity</string>
+	<key>iconLevelRight</key>
+	<string>convolutionFormBorder</string>
+	<key>integerAgainstLayer</key>
+	<string>loopOfLevel</string>
+	<key>popupForVariable</key>
+	<string>accordionProgressbarAppearance</string>
+	<key>previewVariableInteraction</key>
+	<string>repositoryAboutType</string>
+	<key>queryStageFormat</key>
+	<string>blocUntilFacade</string>
+</dict>
+</plist>

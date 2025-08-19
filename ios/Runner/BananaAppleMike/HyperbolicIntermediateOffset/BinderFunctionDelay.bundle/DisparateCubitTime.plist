@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureInsideKind</key>
+	<string>iconChainDistance</string>
+	<key>gestureParameterKind</key>
+	<string>asyncUntilParameter</string>
+	<key>intensityStateFlags</key>
+	<string>brushDuringVar</string>
+	<key>popupFormDensity</key>
+	<string>textfieldChainIndex</string>
+	<key>profilePerValue</key>
+	<string>utilExceptOperation</string>
+	<key>protectedCursorPadding</key>
+	<string>statefulPerProcess</string>
+	<key>queryNumberFlags</key>
+	<string>lossCompositeShade</string>
+	<key>robustMemberInset</key>
+	<string>ignoredBuilderHue</string>
+	<key>sceneObserverOrientation</key>
+	<string>positionAndObserver</string>
+	<key>serviceFromStage</key>
+	<string>typicalTechniqueCoord</string>
+</dict>
+</plist>

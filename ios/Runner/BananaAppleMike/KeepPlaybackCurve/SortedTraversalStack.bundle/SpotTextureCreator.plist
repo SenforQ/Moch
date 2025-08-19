@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxExceptMediator</key>
+	<string>batchInsideMediator</string>
+	<key>commandScopeVisibility</key>
+	<string>textureAsFlyweight</string>
+	<key>integerStructureColor</key>
+	<string>lastGridTag</string>
+	<key>keyCubitTop</key>
+	<string>largeCompletionHead</string>
+	<key>layoutBeyondObserver</key>
+	<string>callbackPhaseMomentum</string>
+	<key>requestInterpreterCoord</key>
+	<string>visibleEqualizationRate</string>
+	<key>reusableSineFeedback</key>
+	<string>bufferWithoutCycle</string>
+	<key>ternaryOutsideJob</key>
+	<string>builderIncludeActivity</string>
+	<key>textStrategyTop</key>
+	<string>layoutPrototypeFeedback</string>
+</dict>
+</plist>

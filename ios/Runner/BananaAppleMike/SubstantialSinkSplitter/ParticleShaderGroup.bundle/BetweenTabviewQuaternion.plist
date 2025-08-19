@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineParamPadding</key>
+	<string>reusableCupertinoShape</string>
+	<key>descriptorWorkHue</key>
+	<string>descriptorCommandRight</string>
+	<key>sophisticatedStackState</key>
+	<string>invisibleTickerHue</string>
+	<key>stateAmongShape</key>
+	<string>secondPointTransparency</string>
+	<key>textfieldOperationDensity</key>
+	<string>cubitStrategyVisible</string>
+</dict>
+</plist>

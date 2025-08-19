@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTierFlags</key>
+	<string>permissiveMetadataVisibility</string>
+	<key>accordionExceptionLeft</key>
+	<string>declarativeTransformerShade</string>
+	<key>anchorModeCenter</key>
+	<string>keyRadioState</string>
+	<key>chartAsAction</key>
+	<string>originalListenerTag</string>
+	<key>collectionShapeTail</key>
+	<string>lastHashTop</string>
+	<key>decorationOfCommand</key>
+	<string>flexibleGraphOffset</string>
+	<key>notifierPerOperation</key>
+	<string>extensionLevelState</string>
+	<key>rowExceptCycle</key>
+	<string>cupertinoZoneDepth</string>
+</dict>
+</plist>

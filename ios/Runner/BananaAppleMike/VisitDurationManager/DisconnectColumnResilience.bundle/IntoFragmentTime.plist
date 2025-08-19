@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideScope</key>
+	<string>gridStrategyVisibility</string>
+	<key>drawerPrototypeMode</key>
+	<string>prevStackHue</string>
+	<key>entityActionTransparency</key>
+	<string>currentActionFormat</string>
+	<key>greatAppbarVelocity</key>
+	<string>cubeInDecorator</string>
+	<key>monsterFunctionFormat</key>
+	<string>baseCycleColor</string>
+	<key>normalAlertSpeed</key>
+	<string>protectedSignatureMomentum</string>
+	<key>reducerAgainstJob</key>
+	<string>usedBlocOffset</string>
+	<key>statefulCharacterSkewx</key>
+	<string>geometricCallbackInterval</string>
+	<key>transitionDuringType</key>
+	<string>nextAppbarDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeViewValidation</key>
+	<string>bufferSingletonBound</string>
+	<key>currentChannelsSaturation</key>
+	<string>persistentChannelInterval</string>
+	<key>directlyFeatureTag</key>
+	<string>futureModeDepth</string>
+	<key>reactiveRoleShade</key>
+	<string>captionNearTask</string>
+	<key>resolverDespiteState</key>
+	<string>draggableFrameHead</string>
+	<key>statefulViewOpacity</key>
+	<string>storeAsSingleton</string>
+	<key>taskTierTail</key>
+	<string>logContainLevel</string>
+</dict>
+</plist>

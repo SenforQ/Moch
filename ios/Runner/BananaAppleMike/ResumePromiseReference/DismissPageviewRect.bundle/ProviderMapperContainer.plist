@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAwaySystem</key>
+	<string>animationMethodDistance</string>
+	<key>effectKindBorder</key>
+	<string>intuitiveSinePosition</string>
+	<key>grainDuringComposite</key>
+	<string>sophisticatedRouterCenter</string>
+	<key>requiredFlexInset</key>
+	<string>paddingPatternBound</string>
+	<key>stateScopeLeft</key>
+	<string>screenFromStrategy</string>
+	<key>unaryActivityLeft</key>
+	<string>futureActivitySaturation</string>
+</dict>
+</plist>

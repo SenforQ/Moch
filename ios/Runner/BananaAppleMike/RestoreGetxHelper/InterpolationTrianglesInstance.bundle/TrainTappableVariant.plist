@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProjectBehavior</key>
+	<string>providerInParam</string>
+	<key>cartesianResolverTail</key>
+	<string>injectionAtForm</string>
+	<key>coordinatorStageBehavior</key>
+	<string>stampValueVisible</string>
+	<key>inactiveRiverpodSkewy</key>
+	<string>invisibleMediaAppearance</string>
+	<key>integerForMemento</key>
+	<string>themeBufferPadding</string>
+	<key>modalForScope</key>
+	<string>reusableMusicOpacity</string>
+	<key>sequentialNibValidation</key>
+	<string>globalCubitAcceleration</string>
+</dict>
+</plist>

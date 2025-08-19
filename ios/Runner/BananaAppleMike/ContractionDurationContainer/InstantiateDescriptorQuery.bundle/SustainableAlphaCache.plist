@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedClipperDirection</key>
+	<string>pivotalActionTop</string>
+	<key>diffablePrecisionColor</key>
+	<string>observerAsStyle</string>
+	<key>indicatorPlatformSpacing</key>
+	<string>histogramIncludeNumber</string>
+	<key>projectVersusState</key>
+	<string>widgetWithVariable</string>
+	<key>sineViaFramework</key>
+	<string>remainderCompositeName</string>
+	<key>stackCycleState</key>
+	<string>labelOfCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifierContainCycle</key>
+	<string>retainedPresenterMode</string>
+	<key>permanentThemeSpacing</key>
+	<string>delicateNodeDistance</string>
+	<key>previewCommandVisible</key>
+	<string>requestFromPrototype</string>
+	<key>retainedSemanticsFeedback</key>
+	<string>accordionNotificationOrigin</string>
+	<key>singleSessionBorder</key>
+	<string>bufferAroundChain</string>
+	<key>sinkLayerTint</key>
+	<string>priorityFlyweightCoord</string>
+	<key>smallStreamLeft</key>
+	<string>catalystOrComposite</string>
+</dict>
+</plist>

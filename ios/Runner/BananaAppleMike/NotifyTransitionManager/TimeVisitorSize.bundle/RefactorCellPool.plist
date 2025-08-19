@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsThroughValue</key>
+	<string>relationalGrayscaleContrast</string>
+	<key>difficultHistogramSpeed</key>
+	<string>globalPlaybackBottom</string>
+	<key>mobxVariableSkewx</key>
+	<string>checklistStructureShade</string>
+	<key>multiAppbarCount</key>
+	<string>keyNavigatorSpacing</string>
+	<key>repositoryModeInset</key>
+	<string>smallMonsterDensity</string>
+	<key>screenPerShape</key>
+	<string>viewAtState</string>
+</dict>
+</plist>

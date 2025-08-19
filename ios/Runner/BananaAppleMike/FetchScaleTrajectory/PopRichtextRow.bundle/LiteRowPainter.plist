@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRadiusValidation</key>
+	<string>largeCurveInterval</string>
+	<key>exceptionFormDuration</key>
+	<string>coordinatorOutsideTask</string>
+	<key>oldRowShape</key>
+	<string>referenceWithMemento</string>
+	<key>progressbarActivityAlignment</key>
+	<string>protectedSampleTransparency</string>
+	<key>tabviewAroundPrototype</key>
+	<string>seamlessFragmentBehavior</string>
+</dict>
+</plist>

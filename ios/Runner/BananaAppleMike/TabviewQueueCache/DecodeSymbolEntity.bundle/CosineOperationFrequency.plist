@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBuilderInteraction</key>
+	<string>brushAndFacade</string>
+	<key>factoryFacadeAcceleration</key>
+	<string>sampleIncludePrototype</string>
+	<key>operationMementoOrientation</key>
+	<string>tweenLevelValidation</string>
+	<key>otherCurveCount</key>
+	<string>temporarySingletonTop</string>
+	<key>otherTransformerTransparency</key>
+	<string>disabledEqualizationBorder</string>
+	<key>pinchableRepositoryShade</key>
+	<string>taskContextFrequency</string>
+	<key>rectContainShape</key>
+	<string>granularPriorityBound</string>
+</dict>
+</plist>

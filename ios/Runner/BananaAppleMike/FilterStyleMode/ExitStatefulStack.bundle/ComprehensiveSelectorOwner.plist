@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeFutureKind</key>
+	<string>loopForDecorator</string>
+	<key>ephemeralBinaryInteraction</key>
+	<string>signatureThroughParameter</string>
+	<key>persistentTransformerMode</key>
+	<string>widgetViaContext</string>
+	<key>radioWithoutValue</key>
+	<string>sensorVersusTask</string>
+	<key>sinkBridgeName</key>
+	<string>ternaryAboutStructure</string>
+	<key>techniqueStrategyRate</key>
+	<string>typicalInterfaceType</string>
+</dict>
+</plist>

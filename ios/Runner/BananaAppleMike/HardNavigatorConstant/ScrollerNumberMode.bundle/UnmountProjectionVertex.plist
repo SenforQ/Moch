@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSinkPosition</key>
+	<string>marginFormOffset</string>
+	<key>containerStrategyLeft</key>
+	<string>indicatorBesideSystem</string>
+	<key>eagerRowEdge</key>
+	<string>uniformEntityMargin</string>
+	<key>imperativeLabelTag</key>
+	<string>gemPerLevel</string>
+	<key>persistentRowTag</key>
+	<string>logarithmCommandTail</string>
+	<key>petThanWork</key>
+	<string>stateAsFacade</string>
+	<key>pointContainDecorator</key>
+	<string>normalInteractorTop</string>
+</dict>
+</plist>

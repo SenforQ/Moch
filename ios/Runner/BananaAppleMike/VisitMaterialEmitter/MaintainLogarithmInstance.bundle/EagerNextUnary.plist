@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstMethod</key>
+	<string>graphAndMethod</string>
+	<key>dependencyCommandAppearance</key>
+	<string>smartSpriteOffset</string>
+	<key>hashVersusActivity</key>
+	<string>labelCompositeFrequency</string>
+	<key>lazyPlaybackScale</key>
+	<string>ternaryShapeOrigin</string>
+	<key>modelSinceState</key>
+	<string>stackFacadeDelay</string>
+	<key>sliderProxyContrast</key>
+	<string>pointKindShape</string>
+	<key>smartDurationCenter</key>
+	<string>aspectContainScope</string>
+	<key>specifierLevelState</key>
+	<string>mediaqueryLayerSkewx</string>
+	<key>statelessCompleterDensity</key>
+	<string>deferredAlignmentLocation</string>
+	<key>textDecoratorLocation</key>
+	<string>routeDecoratorValidation</string>
+</dict>
+</plist>

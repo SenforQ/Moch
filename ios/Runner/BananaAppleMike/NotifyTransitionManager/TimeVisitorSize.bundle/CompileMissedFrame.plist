@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartValueMode</key>
+	<string>retainedActionAcceleration</string>
+	<key>consultativeLayoutValidation</key>
+	<string>flexPhaseShade</string>
+	<key>delegateWithoutObserver</key>
+	<string>containerJobMode</string>
+	<key>imperativeModalHead</key>
+	<string>timerInterpreterDepth</string>
+	<key>materialDrawerDelay</key>
+	<string>mainActivityOpacity</string>
+	<key>multiChannelValidation</key>
+	<string>criticalScrollMode</string>
+	<key>widgetThroughValue</key>
+	<string>isolateFromProcess</string>
+</dict>
+</plist>

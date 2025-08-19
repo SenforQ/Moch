@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFromTask</key>
+	<string>serviceAsParameter</string>
+	<key>constraintByInterpreter</key>
+	<string>inheritedCubitResponse</string>
+	<key>durationBesideLevel</key>
+	<string>logBesideJob</string>
+	<key>hardFuturePressure</key>
+	<string>transitionObserverState</string>
+	<key>painterKindVisibility</key>
+	<string>relationalIconDuration</string>
+	<key>providerDecoratorHue</key>
+	<string>directResolverRotation</string>
+	<key>rapidCellType</key>
+	<string>segueAgainstParameter</string>
+	<key>riverpodAmongActivity</key>
+	<string>durationValueBrightness</string>
+	<key>standaloneInkwellSpacing</key>
+	<string>singleBuilderFlags</string>
+</dict>
+</plist>

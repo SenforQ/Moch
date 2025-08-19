@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStreamTag</key>
+	<string>bitratePlatformState</string>
+	<key>callbackVersusParameter</key>
+	<string>channelInProxy</string>
+	<key>channelInsideComposite</key>
+	<string>protocolPlatformStatus</string>
+	<key>completerProxyTint</key>
+	<string>keyInteractorTheme</string>
+	<key>ignoredAlphaRate</key>
+	<string>mapVarAppearance</string>
+	<key>presenterVariableForce</key>
+	<string>futureOfPlatform</string>
+	<key>robustTitleSkewx</key>
+	<string>custompaintStrategyPadding</string>
+	<key>smartStatefulHue</key>
+	<string>serviceSinceWork</string>
+	<key>streamOrForm</key>
+	<string>observerMediatorAlignment</string>
+	<key>temporaryAxisKind</key>
+	<string>responsiveExtensionFlags</string>
+</dict>
+</plist>

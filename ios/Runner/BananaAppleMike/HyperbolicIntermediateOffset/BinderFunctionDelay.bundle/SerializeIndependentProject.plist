@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAwayProxy</key>
+	<string>greatProviderDirection</string>
+	<key>customizedTabbarShade</key>
+	<string>extensionModeRight</string>
+	<key>enabledActionKind</key>
+	<string>scaleSingletonFeedback</string>
+	<key>hardTransitionBound</key>
+	<string>accessibleMatrixPadding</string>
+	<key>sceneTypeRate</key>
+	<string>elasticCheckboxOrigin</string>
+	<key>similarTaskCount</key>
+	<string>fixedSliderAppearance</string>
+	<key>sizeModeDirection</key>
+	<string>activityBesideMediator</string>
+</dict>
+</plist>

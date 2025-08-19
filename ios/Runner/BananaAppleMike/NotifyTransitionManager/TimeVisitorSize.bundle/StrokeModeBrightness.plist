@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBesideDecorator</key>
+	<string>tweenInsideLevel</string>
+	<key>asyncCompositeOrientation</key>
+	<string>particleLikeCycle</string>
+	<key>imageWithoutScope</key>
+	<string>concurrentInteractorKind</string>
+	<key>methodAtType</key>
+	<string>singletonOrParam</string>
+	<key>musicVersusStrategy</key>
+	<string>specifyRepositoryTransparency</string>
+	<key>optimizerVersusTier</key>
+	<string>subpixelVisitorSkewy</string>
+	<key>paddingAmongProcess</key>
+	<string>scaleObserverIndex</string>
+	<key>parallelObserverResponse</key>
+	<string>globalHandlerShade</string>
+	<key>subscriptionAtWork</key>
+	<string>effectInFlyweight</string>
+</dict>
+</plist>

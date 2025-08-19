@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseIncludeFunction</key>
+	<string>accessibleContainerOffset</string>
+	<key>customizedMediaqueryStyle</key>
+	<string>activatedAnchorState</string>
+	<key>immutablePositionedPosition</key>
+	<string>resourceScopeValidation</string>
+	<key>interpolationSingletonFrequency</key>
+	<string>shaderContextLeft</string>
+	<key>permanentTickerPosition</key>
+	<string>statelessVisitorInset</string>
+	<key>previewAndPattern</key>
+	<string>capsuleActivityContrast</string>
+	<key>reactiveGrayscaleBehavior</key>
+	<string>cubitShapeVisibility</string>
+	<key>reusableDecorationSkewy</key>
+	<string>commonFactoryBorder</string>
+	<key>sizeProcessVisible</key>
+	<string>resilientScaffoldPadding</string>
+	<key>tickerAboutNumber</key>
+	<string>agileReducerAcceleration</string>
+</dict>
+</plist>

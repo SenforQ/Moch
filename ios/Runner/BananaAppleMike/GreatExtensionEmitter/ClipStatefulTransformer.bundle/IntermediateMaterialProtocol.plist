@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectCompositeTheme</key>
+	<string>fusedFutureHead</string>
+	<key>factoryDuringActivity</key>
+	<string>spineWithDecorator</string>
+	<key>firstPaddingBottom</key>
+	<string>taskJobTop</string>
+	<key>missedMasterFlags</key>
+	<string>typicalChannelBorder</string>
+	<key>subtleMapHead</key>
+	<string>streamPerTask</string>
+</dict>
+</plist>

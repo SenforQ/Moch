@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellStyleContrast</key>
+	<string>remainderAtContext</string>
+	<key>handlerBeyondMemento</key>
+	<string>reusableLocalizationName</string>
+	<key>normContextVisible</key>
+	<string>workflowValueOrigin</string>
+	<key>streamLikeFramework</key>
+	<string>enabledLogTag</string>
+	<key>titleVariableDirection</key>
+	<string>multiBlocCount</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPhaseTag</key>
+	<string>missionOrMethod</string>
+	<key>resultThroughStructure</key>
+	<string>resourceVisitorLeft</string>
+	<key>textVarIndex</key>
+	<string>workflowStructureIndex</string>
+	<key>topicDespiteProcess</key>
+	<string>boxPerVar</string>
+</dict>
+</plist>

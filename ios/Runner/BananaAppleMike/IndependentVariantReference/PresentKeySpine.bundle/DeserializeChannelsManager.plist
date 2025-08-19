@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStateTheme</key>
+	<string>concurrentNibMargin</string>
+	<key>cacheChainFrequency</key>
+	<string>decorationBesideCycle</string>
+	<key>effectIncludeShape</key>
+	<string>blocForSystem</string>
+	<key>interfaceModeTail</key>
+	<string>convolutionWithComposite</string>
+	<key>intermediatePositionAppearance</key>
+	<string>apertureTypeBound</string>
+	<key>spineWithoutStyle</key>
+	<string>observerPhaseHue</string>
+	<key>viewPrototypeSize</key>
+	<string>zoneVisitorDepth</string>
+</dict>
+</plist>

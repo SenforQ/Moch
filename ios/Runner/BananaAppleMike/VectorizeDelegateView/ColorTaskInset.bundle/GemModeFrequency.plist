@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAssetForce</key>
+	<string>mutableGrainScale</string>
+	<key>adaptiveCanvasDensity</key>
+	<string>tabbarNearDecorator</string>
+	<key>blocSinceEnvironment</key>
+	<string>nativeCoordinatorTransparency</string>
+	<key>channelShapeTheme</key>
+	<string>commandAsComposite</string>
+	<key>graphProxyPressure</key>
+	<string>intensityBridgeFlags</string>
+	<key>hashLikeMethod</key>
+	<string>activityDecoratorForce</string>
+	<key>rowStageRotation</key>
+	<string>diversifiedShaderInterval</string>
+	<key>shaderPrototypeFrequency</key>
+	<string>commandStyleRight</string>
+	<key>widgetAroundNumber</key>
+	<string>fragmentIncludeSingleton</string>
+</dict>
+</plist>

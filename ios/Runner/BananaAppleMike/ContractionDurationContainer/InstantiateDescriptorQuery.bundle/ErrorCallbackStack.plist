@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResolverInterval</key>
+	<string>entityFormStyle</string>
+	<key>currentCacheName</key>
+	<string>cursorBufferValidation</string>
+	<key>dropdownbuttonOfOperation</key>
+	<string>decorationOperationFeedback</string>
+	<key>hashAsKind</key>
+	<string>widgetExceptForm</string>
+	<key>textOperationShape</key>
+	<string>arithmeticPlatformInset</string>
+</dict>
+</plist>

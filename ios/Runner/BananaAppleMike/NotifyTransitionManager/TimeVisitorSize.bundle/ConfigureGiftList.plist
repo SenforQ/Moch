@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSubpixelMode</key>
+	<string>screenOfContext</string>
+	<key>euclideanSensorDelay</key>
+	<string>labelCycleTint</string>
+	<key>optionVariableContrast</key>
+	<string>graphicFromCommand</string>
+	<key>tensorFrameInteraction</key>
+	<string>statelessCallbackSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeStructureFlags</key>
+	<string>specifyPaddingRate</string>
+	<key>denseTextFeedback</key>
+	<string>unaryScopeBehavior</string>
+	<key>futureScopeSkewy</key>
+	<string>storyboardFromCycle</string>
+	<key>threadChainHue</key>
+	<string>richtextByVariable</string>
+	<key>topicDuringScope</key>
+	<string>directlySegueFormat</string>
+</dict>
+</plist>

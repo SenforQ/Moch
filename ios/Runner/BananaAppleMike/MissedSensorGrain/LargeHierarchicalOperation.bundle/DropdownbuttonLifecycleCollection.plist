@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianOffsetBehavior</key>
+	<string>switchParameterCount</string>
+	<key>currentPainterBottom</key>
+	<string>queueForStructure</string>
+	<key>eventMediatorDirection</key>
+	<string>topicCommandResponse</string>
+	<key>managerInsideJob</key>
+	<string>particleAwayMediator</string>
+	<key>primaryCompleterOrientation</key>
+	<string>responsePerActivity</string>
+	<key>reactiveSliderDuration</key>
+	<string>newestLossMode</string>
+</dict>
+</plist>

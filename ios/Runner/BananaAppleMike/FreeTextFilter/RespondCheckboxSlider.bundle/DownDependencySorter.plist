@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaMethodDepth</key>
+	<string>blocFunctionContrast</string>
+	<key>consumerBeyondInterpreter</key>
+	<string>enabledWidgetDirection</string>
+	<key>flexibleFragmentAppearance</key>
+	<string>containerPerProxy</string>
+	<key>requiredChartDistance</key>
+	<string>fixedUsecaseMode</string>
+</dict>
+</plist>

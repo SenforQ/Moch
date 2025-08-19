@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedFactoryCount</key>
+	<string>boxValueIndex</string>
+	<key>iterativeConstraintAcceleration</key>
+	<string>reusableDescriptorMode</string>
+	<key>masterDuringTier</key>
+	<string>lossAmongActivity</string>
+	<key>segmentKindInset</key>
+	<string>flexibleDurationSaturation</string>
+	<key>smallTaskInteraction</key>
+	<string>timerAmongStrategy</string>
+</dict>
+</plist>

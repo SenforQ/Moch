@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystSystemSize</key>
+	<string>pointAsScope</string>
+	<key>consumerWorkOffset</key>
+	<string>spotSystemDensity</string>
+	<key>currentPresenterStatus</key>
+	<string>pivotalBaseMargin</string>
+	<key>groupThroughType</key>
+	<string>appbarPatternContrast</string>
+	<key>interactiveManagerEdge</key>
+	<string>logarithmViaMethod</string>
+	<key>lossAsWork</key>
+	<string>singleAsyncBehavior</string>
+	<key>routeOfSingleton</key>
+	<string>pinchableTaskFeedback</string>
+	<key>scaleStateBound</key>
+	<string>intuitiveSizeKind</string>
+	<key>stepDespiteActivity</key>
+	<string>cacheOperationVisible</string>
+	<key>transitionOfOperation</key>
+	<string>widgetOfStyle</string>
+</dict>
+</plist>

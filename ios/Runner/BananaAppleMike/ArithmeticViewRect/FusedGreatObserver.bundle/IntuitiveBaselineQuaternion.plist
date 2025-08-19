@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGestureBehavior</key>
+	<string>usecaseUntilMode</string>
+	<key>agileResultHead</key>
+	<string>menuCompositeOrientation</string>
+	<key>cacheAtMode</key>
+	<string>injectionForCommand</string>
+	<key>enabledThreadMode</key>
+	<string>loopThroughEnvironment</string>
+	<key>largeDropdownbuttonHead</key>
+	<string>tangentAdapterCount</string>
+	<key>layoutEnvironmentShade</key>
+	<string>alignmentContainPrototype</string>
+</dict>
+</plist>

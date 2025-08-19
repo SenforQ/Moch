@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDialogsOrigin</key>
+	<string>subscriptionPrototypeContrast</string>
+	<key>declarativeSliderOrigin</key>
+	<string>offsetFormInterval</string>
+	<key>diffableStatefulBehavior</key>
+	<string>scaleCycleState</string>
+	<key>instructionFacadeDepth</key>
+	<string>intensityVariableSkewy</string>
+	<key>tangentCommandDepth</key>
+	<string>curveCommandColor</string>
+</dict>
+</plist>

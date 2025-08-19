@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerExceptContext</key>
+	<string>symbolContextBrightness</string>
+	<key>interactiveEntityName</key>
+	<string>movementParamSkewx</string>
+	<key>permanentZoneContrast</key>
+	<string>specifyPaddingDuration</string>
+	<key>requiredEntitySize</key>
+	<string>persistentPrecisionDelay</string>
+	<key>taskAndVisitor</key>
+	<string>retainedProviderResponse</string>
+</dict>
+</plist>

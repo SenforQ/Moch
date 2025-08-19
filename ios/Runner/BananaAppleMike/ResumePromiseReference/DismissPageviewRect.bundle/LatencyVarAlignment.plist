@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAgainstJob</key>
+	<string>protectedLayoutMode</string>
+	<key>callbackThroughPlatform</key>
+	<string>taskSingletonValidation</string>
+	<key>containerFacadeIndex</key>
+	<string>mapWithoutParameter</string>
+	<key>controllerAmongProcess</key>
+	<string>ignoredSemanticsColor</string>
+	<key>kernelThanSystem</key>
+	<string>signaturePlatformCount</string>
+	<key>textfieldDespitePhase</key>
+	<string>delegateCommandBottom</string>
+</dict>
+</plist>

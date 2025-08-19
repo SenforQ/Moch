@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTabviewTransparency</key>
+	<string>interfaceFunctionAcceleration</string>
+	<key>basicContainerAppearance</key>
+	<string>aspectratioFormHead</string>
+	<key>completerLevelRight</key>
+	<string>effectFlyweightRotation</string>
+	<key>criticalContainerEdge</key>
+	<string>projectStructureRotation</string>
+	<key>easyCardSpacing</key>
+	<string>dedicatedDurationShape</string>
+	<key>largeInterfaceHead</key>
+	<string>masterStatePosition</string>
+	<key>scrollableStreamSkewy</key>
+	<string>immediateModelMomentum</string>
+	<key>sinkSystemDirection</key>
+	<string>sineFrameworkBehavior</string>
+	<key>visibleSessionStatus</key>
+	<string>visibleCubitRate</string>
+</dict>
+</plist>

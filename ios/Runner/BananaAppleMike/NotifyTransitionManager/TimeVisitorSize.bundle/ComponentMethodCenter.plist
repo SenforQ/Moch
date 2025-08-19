@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAdapterVisible</key>
+	<string>extensionByFacade</string>
+	<key>collectionAroundMode</key>
+	<string>desktopBorderStyle</string>
+	<key>controllerWorkVisibility</key>
+	<string>entityStateRate</string>
+	<key>exponentInsideCycle</key>
+	<string>precisionJobDelay</string>
+	<key>materialExceptFramework</key>
+	<string>gesturePerKind</string>
+	<key>semanticsShapeVisible</key>
+	<string>timerPrototypeOrigin</string>
+	<key>serviceStructureValidation</key>
+	<string>sustainableHandlerSaturation</string>
+	<key>subpixelLevelSaturation</key>
+	<string>gradientAlongTemple</string>
+	<key>subtleProjectHead</key>
+	<string>beginnerBulletFrequency</string>
+</dict>
+</plist>

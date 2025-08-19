@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRowShade</key>
+	<string>roleActivityStatus</string>
+	<key>localChapterLeft</key>
+	<string>intensityParameterSkewx</string>
+	<key>mobileCheckboxInterval</key>
+	<string>positionSinceValue</string>
+	<key>particleMediatorHead</key>
+	<string>uniqueRouteAppearance</string>
+	<key>storeThroughDecorator</key>
+	<string>primaryIntensityDensity</string>
+</dict>
+</plist>

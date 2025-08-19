@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProjectBehavior</key>
+	<string>widgetFormResponse</string>
+	<key>decorationPlatformContrast</key>
+	<string>buttonIncludeVar</string>
+	<key>descriptorPerShape</key>
+	<string>agileLoopInterval</string>
+	<key>drawerOrStage</key>
+	<string>completionTaskSkewy</string>
+	<key>graphicBesideSystem</key>
+	<string>serviceWithComposite</string>
+	<key>paddingAgainstFunction</key>
+	<string>resizableSignEdge</string>
+	<key>prismaticIntegerValidation</key>
+	<string>parallelChartColor</string>
+	<key>semanticRouteHue</key>
+	<string>tangentPatternSpeed</string>
+	<key>visibleSceneColor</key>
+	<string>equipmentStrategyScale</string>
+</dict>
+</plist>

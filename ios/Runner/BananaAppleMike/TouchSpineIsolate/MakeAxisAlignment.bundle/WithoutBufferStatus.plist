@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarJobFormat</key>
+	<string>similarRowPosition</string>
+	<key>delicateSampleState</key>
+	<string>inactiveDrawerRotation</string>
+	<key>elasticPositionBehavior</key>
+	<string>rapidRowCoord</string>
+	<key>rapidLoopShape</key>
+	<string>cartesianConsumerEdge</string>
+	<key>sequentialControllerLeft</key>
+	<string>exceptionNumberLeft</string>
+	<key>switchContextShade</key>
+	<string>batchInsideKind</string>
+</dict>
+</plist>

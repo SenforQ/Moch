@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseKindPressure</key>
+	<string>momentumVariableEdge</string>
+	<key>baseSystemDelay</key>
+	<string>streamValueSaturation</string>
+	<key>dimensionWithoutParameter</key>
+	<string>histogramMediatorOrigin</string>
+	<key>layoutInComposite</key>
+	<string>tangentCycleBehavior</string>
+	<key>loopAlongTemple</key>
+	<string>resizableGraphType</string>
+	<key>mutableSizeType</key>
+	<string>alertSingletonPressure</string>
+	<key>resultUntilComposite</key>
+	<string>constDescriptionAppearance</string>
+	<key>storeEnvironmentFormat</key>
+	<string>exceptionOutsideKind</string>
+	<key>usageCycleName</key>
+	<string>statefulContainerCount</string>
+</dict>
+</plist>

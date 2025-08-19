@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithoutPlatform</key>
+	<string>constraintStructureBehavior</string>
+	<key>cubitStageTag</key>
+	<string>agileSceneAcceleration</string>
+	<key>optionWithoutFramework</key>
+	<string>kernelPhaseCount</string>
+	<key>pivotalPresenterCenter</key>
+	<string>permanentMomentumBehavior</string>
+	<key>profileInsideMediator</key>
+	<string>rowPerForm</string>
+	<key>radioBesideDecorator</key>
+	<string>resultFacadeTransparency</string>
+</dict>
+</plist>

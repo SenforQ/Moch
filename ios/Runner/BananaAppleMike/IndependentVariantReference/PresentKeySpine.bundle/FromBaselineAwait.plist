@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBesideVariable</key>
+	<string>usageWithoutOperation</string>
+	<key>callbackAsObserver</key>
+	<string>curvePerCommand</string>
+	<key>imageVarRight</key>
+	<string>nativeSingletonOffset</string>
+	<key>techniqueParameterFormat</key>
+	<string>geometricIntegerTheme</string>
+	<key>workflowJobAlignment</key>
+	<string>contractionObserverAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideSystem</key>
+	<string>batchContextInterval</string>
+	<key>flexWithoutCycle</key>
+	<string>providerFrameworkSpacing</string>
+	<key>intensityWithFramework</key>
+	<string>custompaintSingletonInterval</string>
+	<key>storageViaComposite</key>
+	<string>zoneCompositeValidation</string>
+</dict>
+</plist>

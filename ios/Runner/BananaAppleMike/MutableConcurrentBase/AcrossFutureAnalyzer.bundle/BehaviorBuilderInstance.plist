@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorChainKind</key>
+	<string>decorationOperationBehavior</string>
+	<key>gridviewThroughStyle</key>
+	<string>boxshadowOfOperation</string>
+	<key>interfaceActivitySpeed</key>
+	<string>progressbarInStructure</string>
+	<key>labelSystemOpacity</key>
+	<string>responsiveProviderForce</string>
+	<key>mobileCapsuleStatus</key>
+	<string>providerAboutState</string>
+	<key>resilientChapterPressure</key>
+	<string>opaqueAllocatorSize</string>
+	<key>robustStateVelocity</key>
+	<string>asyncAndTier</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOfJob</key>
+	<string>materialOrFlyweight</string>
+	<key>gesturedetectorNumberDepth</key>
+	<string>titleStyleVisibility</string>
+	<key>handlerChainDepth</key>
+	<string>visibleResultPadding</string>
+	<key>permissiveNavigationType</key>
+	<string>euclideanMobxAppearance</string>
+	<key>widgetPlatformForce</key>
+	<string>nibInFlyweight</string>
+</dict>
+</plist>

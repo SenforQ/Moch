@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardNavigatorValidation</key>
+	<string>assetAndEnvironment</string>
+	<key>handlerParameterVisible</key>
+	<string>pointAdapterOffset</string>
+	<key>interactorShapeOrigin</key>
+	<string>textFunctionHead</string>
+	<key>persistentCapsuleBehavior</key>
+	<string>behaviorInsideParameter</string>
+	<key>pinchableCubeOrientation</key>
+	<string>serviceModeMargin</string>
+	<key>transformerActionMode</key>
+	<string>dimensionMediatorOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCompositeScale</key>
+	<string>ignoredShaderOrientation</string>
+	<key>channelsUntilJob</key>
+	<string>graphVersusProcess</string>
+	<key>convolutionTypeAcceleration</key>
+	<string>relationalInstructionCount</string>
+	<key>equalizationOperationBorder</key>
+	<string>containerForCycle</string>
+	<key>mobxStrategyValidation</key>
+	<string>equalizationCycleOrigin</string>
+	<key>queryAgainstVisitor</key>
+	<string>tabviewOperationFlags</string>
+	<key>scrollIncludeVisitor</key>
+	<string>actionAgainstLevel</string>
+</dict>
+</plist>

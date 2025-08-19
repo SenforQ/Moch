@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionValueFormat</key>
+	<string>layerBesideObserver</string>
+	<key>animationByFlyweight</key>
+	<string>cupertinoIncludeComposite</string>
+	<key>apertureAsVisitor</key>
+	<string>localizationStrategyMode</string>
+	<key>canvasProxyLocation</key>
+	<string>constraintForSingleton</string>
+	<key>chartBeyondStructure</key>
+	<string>elasticCertificateDuration</string>
+	<key>deferredTickerAcceleration</key>
+	<string>opaqueShaderIndex</string>
+	<key>futureTypeOrigin</key>
+	<string>canvasAgainstComposite</string>
+	<key>retainedSpineFeedback</key>
+	<string>enabledSkinTop</string>
+	<key>titleInsideParameter</key>
+	<string>frameTaskShape</string>
+</dict>
+</plist>

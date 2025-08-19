@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLogVelocity</key>
+	<string>stateDuringComposite</string>
+	<key>configurationAsStage</key>
+	<string>utilAlongPhase</string>
+	<key>enabledBuilderOrigin</key>
+	<string>localizationAlongParameter</string>
+	<key>eventVarDepth</key>
+	<string>animatedLayoutDirection</string>
+	<key>grainAdapterOrientation</key>
+	<string>tickerNearPhase</string>
+	<key>graphicMementoStatus</key>
+	<string>immediateCompletionDelay</string>
+	<key>particleSystemInteraction</key>
+	<string>lossInterpreterFormat</string>
+	<key>permanentCapsuleMomentum</key>
+	<string>desktopBaselineTension</string>
+</dict>
+</plist>

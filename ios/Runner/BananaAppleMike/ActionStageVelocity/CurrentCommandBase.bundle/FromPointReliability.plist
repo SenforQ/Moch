@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBridgeMomentum</key>
+	<string>visibleThreadBorder</string>
+	<key>completerContainBuffer</key>
+	<string>modelCycleIndex</string>
+	<key>cursorObserverType</key>
+	<string>tabbarScopeDensity</string>
+	<key>normalMomentumPadding</key>
+	<string>spriteValueForce</string>
+	<key>persistentNibDelay</key>
+	<string>heroSystemSpeed</string>
+	<key>progressbarParameterSpacing</key>
+	<string>unaryValueShape</string>
+	<key>screenStrategyTheme</key>
+	<string>synchronousSwitchBorder</string>
+	<key>sharedPriorityVelocity</key>
+	<string>tweenExceptFlyweight</string>
+	<key>ternaryThroughSingleton</key>
+	<string>skirtParamPadding</string>
+	<key>transitionAndContext</key>
+	<string>skinSinceMethod</string>
+</dict>
+</plist>

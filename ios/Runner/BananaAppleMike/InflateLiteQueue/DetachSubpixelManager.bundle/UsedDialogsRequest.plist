@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectContainPlatform</key>
+	<string>multiplicationOfBuffer</string>
+	<key>kernelAgainstPlatform</key>
+	<string>gramBeyondFramework</string>
+	<key>keyMovementType</key>
+	<string>localGrayscaleInteraction</string>
+	<key>mediocreParticleColor</key>
+	<string>singletonCompositeHue</string>
+</dict>
+</plist>

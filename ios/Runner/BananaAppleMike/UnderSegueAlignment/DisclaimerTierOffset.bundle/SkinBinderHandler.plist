@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOrLevel</key>
+	<string>nodePerWork</string>
+	<key>interactorVisitorFrequency</key>
+	<string>interactiveProgressbarBrightness</string>
+	<key>largeGetxRotation</key>
+	<string>cubitProxySaturation</string>
+	<key>subscriptionForOperation</key>
+	<string>exceptionLikeFramework</string>
+	<key>typicalTweenVelocity</key>
+	<string>crudeCubitPressure</string>
+</dict>
+</plist>

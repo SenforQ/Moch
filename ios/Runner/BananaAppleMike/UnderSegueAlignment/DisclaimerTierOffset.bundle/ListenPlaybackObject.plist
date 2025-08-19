@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStyleTail</key>
+	<string>stateLikeContext</string>
+	<key>groupPerBuffer</key>
+	<string>diversifiedAnchorVelocity</string>
+	<key>hashActionOpacity</key>
+	<string>titleAwayStrategy</string>
+	<key>opaquePreviewInterval</key>
+	<string>descriptorOutsideAdapter</string>
+	<key>protectedCubitDepth</key>
+	<string>scaffoldStrategyOffset</string>
+</dict>
+</plist>

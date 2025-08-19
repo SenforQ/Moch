@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionParticleDirection</key>
+	<string>modulusModeDirection</string>
+	<key>actionTypeAppearance</key>
+	<string>particleLevelSkewy</string>
+	<key>delegateScopeHead</key>
+	<string>utilActionOffset</string>
+	<key>logarithmTypeAcceleration</key>
+	<string>catalystTypeDelay</string>
+	<key>overlayVarMomentum</key>
+	<string>lastDecorationOrigin</string>
+	<key>routeBridgeSpacing</key>
+	<string>actionFormSpeed</string>
+	<key>smallBlocTransparency</key>
+	<string>responsiveLoopDuration</string>
+	<key>spriteDespiteTask</key>
+	<string>numericalAnimationDirection</string>
+</dict>
+</plist>

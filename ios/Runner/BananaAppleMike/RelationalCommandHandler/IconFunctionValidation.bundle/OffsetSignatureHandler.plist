@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStructureFormat</key>
+	<string>asynchronousLayoutPosition</string>
+	<key>challengeCycleAppearance</key>
+	<string>iconWithoutStrategy</string>
+	<key>multiNormPadding</key>
+	<string>cardStateStyle</string>
+	<key>pinchableCharacterOrigin</key>
+	<string>usedOverlaySaturation</string>
+	<key>resultBesideDecorator</key>
+	<string>menuAndContext</string>
+	<key>sceneFrameworkTheme</key>
+	<string>newestSampleFeedback</string>
+	<key>widgetObserverStatus</key>
+	<string>prevPositionedLeft</string>
+</dict>
+</plist>

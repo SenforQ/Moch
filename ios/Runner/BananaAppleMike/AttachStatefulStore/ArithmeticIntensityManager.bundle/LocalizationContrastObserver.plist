@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationChainDistance</key>
+	<string>canvasOrLayer</string>
+	<key>flexibleResourceSpeed</key>
+	<string>extensionNumberBehavior</string>
+	<key>groupObserverHue</key>
+	<string>resourcePerParameter</string>
+	<key>nativeCertificateOpacity</key>
+	<string>gesturedetectorUntilPlatform</string>
+	<key>previewFrameworkOpacity</key>
+	<string>asynchronousCupertinoBound</string>
+</dict>
+</plist>

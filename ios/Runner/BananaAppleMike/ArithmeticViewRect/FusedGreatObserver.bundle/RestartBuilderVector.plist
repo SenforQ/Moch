@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioWithoutObserver</key>
+	<string>normStateDensity</string>
+	<key>challengeFromPlatform</key>
+	<string>cardWorkBorder</string>
+	<key>configurationBridgeShade</key>
+	<string>customSwitchRight</string>
+	<key>fusedCollectionMargin</key>
+	<string>rowAboutBuffer</string>
+	<key>movementAndParameter</key>
+	<string>alignmentWorkFeedback</string>
+	<key>priorResultContrast</key>
+	<string>nextRadioIndex</string>
+	<key>synchronousHandlerMargin</key>
+	<string>tweenCycleOrientation</string>
+</dict>
+</plist>

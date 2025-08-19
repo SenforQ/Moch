@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellInterpreterTransparency</key>
+	<string>immutableProjectHead</string>
+	<key>instructionForLayer</key>
+	<string>delegateAwaySingleton</string>
+	<key>listenerCompositeDirection</key>
+	<string>requiredStackIndex</string>
+	<key>localReducerName</key>
+	<string>popupAwayLayer</string>
+	<key>oldChartMargin</key>
+	<string>requiredRequestValidation</string>
+	<key>paddingThanVisitor</key>
+	<string>singleIsolateDepth</string>
+	<key>popupExceptInterpreter</key>
+	<string>containerFrameworkForce</string>
+	<key>robustCardDensity</key>
+	<string>providerSystemColor</string>
+	<key>specifierCycleDelay</key>
+	<string>bufferPhaseFormat</string>
+</dict>
+</plist>

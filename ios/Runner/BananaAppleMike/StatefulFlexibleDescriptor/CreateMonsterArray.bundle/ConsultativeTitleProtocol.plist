@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionLevelVisible</key>
+	<string>deferredChartBehavior</string>
+	<key>featureProcessMode</key>
+	<string>globalFlexDelay</string>
+	<key>geometricAppbarTag</key>
+	<string>pointLikeVariable</string>
+	<key>layerLevelBrightness</key>
+	<string>criticalReferenceColor</string>
+	<key>oldInjectionEdge</key>
+	<string>immediateSampleSkewy</string>
+</dict>
+</plist>

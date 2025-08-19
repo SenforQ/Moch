@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTaskCenter</key>
+	<string>rowLikeProxy</string>
+	<key>backwardLogOrientation</key>
+	<string>listviewPrototypeAppearance</string>
+	<key>elasticPaddingFeedback</key>
+	<string>presenterValueLocation</string>
+	<key>fragmentForForm</key>
+	<string>responsiveIntegerResponse</string>
+	<key>interpolationVarBorder</key>
+	<string>cursorStageContrast</string>
+	<key>navigatorInLevel</key>
+	<string>exceptionInLayer</string>
+	<key>synchronousNodeInset</key>
+	<string>sharedScaffoldBottom</string>
+	<key>webBlocEdge</key>
+	<string>eagerRoleStatus</string>
+</dict>
+</plist>

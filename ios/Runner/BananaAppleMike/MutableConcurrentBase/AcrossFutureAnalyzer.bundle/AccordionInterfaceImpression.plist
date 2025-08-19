@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorKindFormat</key>
+	<string>euclideanProjectionHue</string>
+	<key>cartesianSineDirection</key>
+	<string>cubeVariableMode</string>
+	<key>challengeDespiteVar</key>
+	<string>mediaqueryDuringStyle</string>
+	<key>euclideanScaffoldType</key>
+	<string>lazyTextPadding</string>
+</dict>
+</plist>

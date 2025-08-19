@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCompositeBrightness</key>
+	<string>directSegueBound</string>
+	<key>anchorViaOperation</key>
+	<string>labelBufferBrightness</string>
+	<key>parallelProviderHue</key>
+	<string>gridOrOperation</string>
+	<key>popupAlongLevel</key>
+	<string>denseLayoutBorder</string>
+</dict>
+</plist>

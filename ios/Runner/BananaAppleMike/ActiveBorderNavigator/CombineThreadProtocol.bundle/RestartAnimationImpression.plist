@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarUntilStructure</key>
+	<string>channelsEnvironmentScale</string>
+	<key>behaviorPerKind</key>
+	<string>checklistWithoutProxy</string>
+	<key>cartesianBehaviorStatus</key>
+	<string>dependencyCompositeKind</string>
+	<key>inactiveTaskOpacity</key>
+	<string>positionOrProxy</string>
+	<key>intensityStrategyName</key>
+	<string>serviceViaEnvironment</string>
+	<key>methodInsideSystem</key>
+	<string>providerStyleFlags</string>
+	<key>observerBesideLevel</key>
+	<string>textFromMethod</string>
+	<key>sessionAroundWork</key>
+	<string>intermediateIntensityBorder</string>
+	<key>stampAwayMemento</key>
+	<string>clipperScopeVelocity</string>
+</dict>
+</plist>

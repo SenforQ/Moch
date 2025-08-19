@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPreviewStyle</key>
+	<string>bulletCommandKind</string>
+	<key>checkboxContainLevel</key>
+	<string>inheritedIntegerSize</string>
+	<key>decorationIncludeComposite</key>
+	<string>resultChainHue</string>
+	<key>instructionParameterResponse</key>
+	<string>inheritedSingletonDirection</string>
+	<key>interactiveMediaqueryState</key>
+	<string>spineStageHead</string>
+	<key>sineFlyweightSpeed</key>
+	<string>delegateWithoutFramework</string>
+	<key>statefulAlongInterpreter</key>
+	<string>gesturedetectorFrameworkTransparency</string>
+</dict>
+</plist>

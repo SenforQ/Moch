@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAmongPattern</key>
+	<string>effectCommandTop</string>
+	<key>compositionalEffectPressure</key>
+	<string>containerFromSingleton</string>
+	<key>iterativeCommandScale</key>
+	<string>effectEnvironmentBehavior</string>
+	<key>lazyWidgetRate</key>
+	<string>spotCompositeOrigin</string>
+	<key>marginOutsideStrategy</key>
+	<string>tickerVisitorOrientation</string>
+	<key>presenterBufferIndex</key>
+	<string>pinchableActionHead</string>
+	<key>primaryAssetCoord</key>
+	<string>sharedTabviewDistance</string>
+	<key>serviceObserverCoord</key>
+	<string>cellStructureSaturation</string>
+	<key>titlePrototypeSaturation</key>
+	<string>consultativeMediaState</string>
+</dict>
+</plist>

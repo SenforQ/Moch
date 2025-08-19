@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackModeShade</key>
+	<string>responsiveTextTheme</string>
+	<key>canvasInsideStyle</key>
+	<string>rapidCustompaintScale</string>
+	<key>cupertinoWithStage</key>
+	<string>cubeOutsideBridge</string>
+	<key>disabledFlexLeft</key>
+	<string>featureActivityHue</string>
+	<key>euclideanGraphTransparency</key>
+	<string>cupertinoParameterPressure</string>
+	<key>mediocreSkinMode</key>
+	<string>queryJobKind</string>
+</dict>
+</plist>

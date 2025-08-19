@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDuringDecorator</key>
+	<string>retainedRadiusTransparency</string>
+	<key>descriptionWithoutProxy</key>
+	<string>constMarginDirection</string>
+	<key>errorOutsideLevel</key>
+	<string>behaviorParamSize</string>
+	<key>euclideanVariantFrequency</key>
+	<string>crudeInteractorRate</string>
+	<key>expandedStrategyFeedback</key>
+	<string>exceptionUntilPlatform</string>
+	<key>specifyPresenterLeft</key>
+	<string>temporaryPriorityStatus</string>
+	<key>streamCycleRate</key>
+	<string>providerAboutKind</string>
+	<key>widgetCompositeForce</key>
+	<string>radioShapeValidation</string>
+</dict>
+</plist>

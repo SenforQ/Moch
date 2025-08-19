@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitSystemFormat</key>
+	<string>secondLayerResponse</string>
+	<key>durationValueMargin</key>
+	<string>boxParameterSkewy</string>
+	<key>labelIncludePrototype</key>
+	<string>grayscaleUntilFunction</string>
+</dict>
+</plist>

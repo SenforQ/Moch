@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStageFormat</key>
+	<string>basicIntensityScale</string>
+	<key>explicitNibResponse</key>
+	<string>descriptionOrVariable</string>
+	<key>groupAsContext</key>
+	<string>sliderNearMode</string>
+	<key>retainedIsolateInterval</key>
+	<string>composableLayerSkewx</string>
+</dict>
+</plist>

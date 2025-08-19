@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSizeFeedback</key>
+	<string>containerLevelResponse</string>
+	<key>criticalModelPressure</key>
+	<string>awaitTypeBrightness</string>
+	<key>mobileMarginPressure</key>
+	<string>concreteAnimationFeedback</string>
+	<key>observerJobDuration</key>
+	<string>custompaintFromPhase</string>
+	<key>operationMethodDirection</key>
+	<string>persistentIntensityColor</string>
+	<key>spriteNearValue</key>
+	<string>stateTaskBottom</string>
+	<key>themeViaPrototype</key>
+	<string>progressbarSingletonStyle</string>
+	<key>utilAwayContext</key>
+	<string>backwardPainterDistance</string>
+</dict>
+</plist>

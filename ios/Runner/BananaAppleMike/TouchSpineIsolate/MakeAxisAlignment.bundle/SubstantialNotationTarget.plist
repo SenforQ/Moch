@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalServiceRotation</key>
+	<string>requiredSpineBehavior</string>
+	<key>dropdownbuttonInterpreterSkewx</key>
+	<string>optimizerVersusProcess</string>
+	<key>groupStateTag</key>
+	<string>parallelTextureDelay</string>
+	<key>hierarchicalBinaryLocation</key>
+	<string>completerMediatorStyle</string>
+	<key>interpolationActivityAppearance</key>
+	<string>scrollByMode</string>
+	<key>resilientRouteLeft</key>
+	<string>cupertinoResourceOffset</string>
+	<key>usecaseDuringSystem</key>
+	<string>flexObserverBound</string>
+</dict>
+</plist>

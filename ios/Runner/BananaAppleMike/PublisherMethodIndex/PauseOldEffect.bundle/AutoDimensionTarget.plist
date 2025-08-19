@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartDespiteEnvironment</key>
+	<string>otherMethodPosition</string>
+	<key>extensionAtValue</key>
+	<string>localizationBesideValue</string>
+	<key>materialRouterAlignment</key>
+	<string>progressbarSingletonTransparency</string>
+	<key>statelessCupertinoColor</key>
+	<string>painterNumberMode</string>
+	<key>timerMethodFrequency</key>
+	<string>listenerContextBehavior</string>
+</dict>
+</plist>

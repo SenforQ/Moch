@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAtLayer</key>
+	<string>ignoredZoneAlignment</string>
+	<key>contractionLikeStyle</key>
+	<string>reactiveQueueOffset</string>
+	<key>displayableFlexTheme</key>
+	<string>advancedSegmentAlignment</string>
+	<key>firstAsyncSpeed</key>
+	<string>seamlessAsyncFlags</string>
+	<key>isolateNumberMode</key>
+	<string>optionIncludeBridge</string>
+	<key>repositoryContainValue</key>
+	<string>mediaqueryWithoutParam</string>
+	<key>sinkAboutChain</key>
+	<string>anchorSystemName</string>
+	<key>storageEnvironmentBrightness</key>
+	<string>compositionContainObserver</string>
+</dict>
+</plist>

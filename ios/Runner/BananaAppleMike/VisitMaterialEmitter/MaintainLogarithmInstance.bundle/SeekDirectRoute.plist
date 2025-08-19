@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAtLayer</key>
+	<string>commonTaskLeft</string>
+	<key>difficultBaseLocation</key>
+	<string>sceneNumberTag</string>
+	<key>directDescriptorCoord</key>
+	<string>entropyUntilAction</string>
+	<key>dynamicInjectionEdge</key>
+	<string>projectionActionResponse</string>
+	<key>hardGraphDensity</key>
+	<string>featureBeyondValue</string>
+	<key>mediaActivityCenter</key>
+	<string>indicatorByActivity</string>
+	<key>mobileContextInteraction</key>
+	<string>beginnerTopicTint</string>
+	<key>momentumLikeCommand</key>
+	<string>timerOperationResponse</string>
+</dict>
+</plist>

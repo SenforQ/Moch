@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushIncludeTask</key>
+	<string>disparateSwiftSpeed</string>
+	<key>columnBesideStage</key>
+	<string>cubitInsideEnvironment</string>
+	<key>effectContextShade</key>
+	<string>cardExceptVariable</string>
+	<key>imperativeViewPosition</key>
+	<string>listenerIncludePhase</string>
+	<key>layerActivityBehavior</key>
+	<string>storageModeResponse</string>
+	<key>marginAwayComposite</key>
+	<string>boxEnvironmentPadding</string>
+	<key>mediaqueryScopeEdge</key>
+	<string>scaleOutsideSingleton</string>
+	<key>riverpodStateMomentum</key>
+	<string>cacheThanEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicButtonRate</key>
+	<string>gridviewViaContext</string>
+	<key>imperativeCoordinatorBehavior</key>
+	<string>globalSliderTint</string>
+	<key>lastLoopSkewy</key>
+	<string>lostSegmentFeedback</string>
+	<key>plateUntilSystem</key>
+	<string>capsuleNearActivity</string>
+	<key>primarySpecifierMargin</key>
+	<string>animatedcontainerOfParameter</string>
+	<key>secondAsyncPadding</key>
+	<string>widgetProcessTop</string>
+	<key>sequentialNotifierMode</key>
+	<string>custompaintFormInterval</string>
+	<key>switchOperationPressure</key>
+	<string>cursorScopeMargin</string>
+</dict>
+</plist>

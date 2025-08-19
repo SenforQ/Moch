@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStageStyle</key>
+	<string>storeWithoutPattern</string>
+	<key>constStatefulSkewy</key>
+	<string>activeIndicatorShape</string>
+	<key>lostPrecisionDistance</key>
+	<string>riverpodObserverVisible</string>
+	<key>routeModeRotation</key>
+	<string>sharedMobileCoord</string>
+	<key>sceneTierName</key>
+	<string>priorTransitionAppearance</string>
+	<key>signatureContainMode</key>
+	<string>constSensorTail</string>
+	<key>sophisticatedControllerFormat</key>
+	<string>optimizerThanComposite</string>
+</dict>
+</plist>

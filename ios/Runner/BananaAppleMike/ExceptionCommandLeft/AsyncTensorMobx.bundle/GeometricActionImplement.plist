@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableHeapValidation</key>
+	<string>newestPointTop</string>
+	<key>disparateStreamValidation</key>
+	<string>loopAsInterpreter</string>
+	<key>effectSinceFramework</key>
+	<string>cartesianOverlayFormat</string>
+	<key>layerInterpreterInterval</key>
+	<string>factoryOutsideTemple</string>
+	<key>multiplicationAroundParameter</key>
+	<string>allocatorCommandPadding</string>
+	<key>semanticLayoutScale</key>
+	<string>mediumResolverOffset</string>
+	<key>tensorLoopOrigin</key>
+	<string>completionInterpreterOffset</string>
+	<key>transformerCommandDepth</key>
+	<string>cupertinoAlertTension</string>
+</dict>
+</plist>

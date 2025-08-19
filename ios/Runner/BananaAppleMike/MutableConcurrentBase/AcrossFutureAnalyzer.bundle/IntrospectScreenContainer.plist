@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStyleMode</key>
+	<string>providerWithoutFlyweight</string>
+	<key>baselineFromState</key>
+	<string>dynamicObserverTint</string>
+	<key>effectFromBuffer</key>
+	<string>factoryWithType</string>
+	<key>singletonSinceFunction</key>
+	<string>normalSignatureSkewx</string>
+	<key>subscriptionAtVisitor</key>
+	<string>imagePlatformStatus</string>
+	<key>switchNearForm</key>
+	<string>activeSensorFormat</string>
+	<key>threadAdapterTint</key>
+	<string>utilOrNumber</string>
+</dict>
+</plist>

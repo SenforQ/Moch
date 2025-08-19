@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePageviewOrientation</key>
+	<string>rectFormCenter</string>
+	<key>buttonPatternPadding</key>
+	<string>tensorTaskInterval</string>
+	<key>commandDecoratorInteraction</key>
+	<string>dialogsPerWork</string>
+	<key>constraintAboutMode</key>
+	<string>cartesianSegueRight</string>
+	<key>missedFragmentBehavior</key>
+	<string>robustProviderBrightness</string>
+	<key>nodeStateLocation</key>
+	<string>rapidBuilderSpacing</string>
+	<key>typicalCycleInteraction</key>
+	<string>immutableInstructionInteraction</string>
+</dict>
+</plist>

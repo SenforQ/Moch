@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundAction</key>
+	<string>queueLikeJob</string>
+	<key>groupChainDistance</key>
+	<string>dialogsActivitySaturation</string>
+	<key>inactiveResponseDistance</key>
+	<string>progressbarCommandName</string>
+	<key>mainDescriptorFlags</key>
+	<string>otherSlashTint</string>
+	<key>menuBeyondCommand</key>
+	<string>buttonDecoratorOffset</string>
+	<key>observerThroughProxy</key>
+	<string>musicNumberDensity</string>
+	<key>parallelFutureDirection</key>
+	<string>explicitInterfaceDelay</string>
+	<key>popupCommandState</key>
+	<string>checklistInterpreterLocation</string>
+	<key>riverpodModeCount</key>
+	<string>assetThroughPhase</string>
+	<key>statefulAnimatedcontainerPadding</key>
+	<string>cubitAsShape</string>
+</dict>
+</plist>

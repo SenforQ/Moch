@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFacadeTransparency</key>
+	<string>tabbarFunctionStatus</string>
+	<key>anchorContainTask</key>
+	<string>dropdownbuttonInsidePrototype</string>
+	<key>batchLikeFacade</key>
+	<string>backwardTitleOrientation</string>
+	<key>effectFlyweightVelocity</key>
+	<string>menuScopeName</string>
+	<key>imperativeSwiftAcceleration</key>
+	<string>usedAccessoryEdge</string>
+	<key>requestStateMargin</key>
+	<string>cellEnvironmentStatus</string>
+</dict>
+</plist>

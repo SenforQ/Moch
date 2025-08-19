@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstComposite</key>
+	<string>tangentEnvironmentState</string>
+	<key>compositionCompositeSkewy</key>
+	<string>parallelTweenLeft</string>
+	<key>cubitMethodStatus</key>
+	<string>taskShapeMode</string>
+	<key>cycleStyleTension</key>
+	<string>containerAwayScope</string>
+	<key>deferredCompletionDelay</key>
+	<string>inactiveNodeTag</string>
+	<key>rectBeyondVar</key>
+	<string>resourceShapeShade</string>
+	<key>requestOutsideChain</key>
+	<string>callbackSingletonTag</string>
+	<key>scaffoldInterpreterAlignment</key>
+	<string>vectorParamOrientation</string>
+	<key>sizeAmongVariable</key>
+	<string>buttonNearParameter</string>
+</dict>
+</plist>

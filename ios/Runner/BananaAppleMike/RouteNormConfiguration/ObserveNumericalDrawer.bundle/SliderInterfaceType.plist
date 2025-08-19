@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentScopeDuration</key>
+	<string>smallNotificationSkewy</string>
+	<key>cardValueType</key>
+	<string>globalCheckboxInset</string>
+	<key>concurrentRouterRotation</key>
+	<string>crudeLoopStatus</string>
+	<key>customSpriteSkewy</key>
+	<string>gridviewInShape</string>
+	<key>descriptionDecoratorBrightness</key>
+	<string>asyncCubitCount</string>
+	<key>errorStyleHead</key>
+	<string>crudeQueueDirection</string>
+	<key>metadataWithComposite</key>
+	<string>storeBufferShade</string>
+	<key>multiplicationStructureResponse</key>
+	<string>serviceProcessDirection</string>
+	<key>routerCommandFlags</key>
+	<string>spineContextHead</string>
+	<key>stackAroundScope</key>
+	<string>notificationAmongComposite</string>
+</dict>
+</plist>

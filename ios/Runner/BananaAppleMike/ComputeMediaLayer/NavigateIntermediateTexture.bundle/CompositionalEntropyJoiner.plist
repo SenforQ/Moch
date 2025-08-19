@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSwiftLeft</key>
+	<string>collectionLevelInset</string>
+	<key>animationParameterSaturation</key>
+	<string>rowWorkOrigin</string>
+	<key>grainAndStage</key>
+	<string>containerAmongWork</string>
+	<key>mediocreGroupOrigin</key>
+	<string>frameDecoratorOpacity</string>
+	<key>pivotalCycleSkewx</key>
+	<string>scrollableWidgetFeedback</string>
+	<key>similarShaderOpacity</key>
+	<string>invisibleRouterTint</string>
+	<key>streamOutsideComposite</key>
+	<string>nodeFromValue</string>
+</dict>
+</plist>

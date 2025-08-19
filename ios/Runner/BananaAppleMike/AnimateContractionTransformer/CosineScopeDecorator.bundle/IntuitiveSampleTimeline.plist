@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTypeStyle</key>
+	<string>behaviorAwayStyle</string>
+	<key>explicitMapCoord</key>
+	<string>dedicatedDecorationSkewy</string>
+	<key>functionalIntegerBorder</key>
+	<string>coordinatorAdapterInteraction</string>
+	<key>immediateLayerLocation</key>
+	<string>managerOperationPadding</string>
+	<key>statelessMetadataKind</key>
+	<string>radiusBesideBuffer</string>
+	<key>staticDescriptionDensity</key>
+	<string>staticOverlayResponse</string>
+	<key>timerFormName</key>
+	<string>adaptiveOptimizerInteraction</string>
+	<key>utilSystemBottom</key>
+	<string>tappableChallengePadding</string>
+	<key>webFeatureVelocity</key>
+	<string>cubitMementoOrigin</string>
+</dict>
+</plist>

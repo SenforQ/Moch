@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionActionFlags</key>
+	<string>taskLikeSingleton</string>
+	<key>catalystBeyondEnvironment</key>
+	<string>injectionAgainstEnvironment</string>
+	<key>criticalBorderState</key>
+	<string>optimizerNearCycle</string>
+	<key>cubitLikePhase</key>
+	<string>signPlatformSaturation</string>
+	<key>logFlyweightAlignment</key>
+	<string>semanticInstructionLeft</string>
+	<key>mediaAlongFacade</key>
+	<string>titleThroughComposite</string>
+	<key>prevLocalizationMode</key>
+	<string>callbackOutsideLayer</string>
+	<key>sliderAndMethod</key>
+	<string>mediumAnimationRotation</string>
+	<key>taskForProcess</key>
+	<string>radiusExceptKind</string>
+	<key>textureAtBuffer</key>
+	<string>rowPatternMode</string>
+</dict>
+</plist>

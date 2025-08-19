@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableArithmeticShade</key>
+	<string>shaderContextDensity</string>
+	<key>keyScaffoldInteraction</key>
+	<string>stackFacadeTransparency</string>
+	<key>providerInVisitor</key>
+	<string>gramSystemVisibility</string>
+	<key>subscriptionPerMode</key>
+	<string>statefulTimerMomentum</string>
+</dict>
+</plist>

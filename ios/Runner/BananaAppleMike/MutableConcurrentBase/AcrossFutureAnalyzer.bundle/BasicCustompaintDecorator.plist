@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTierDensity</key>
+	<string>eventKindFeedback</string>
+	<key>curveNearCommand</key>
+	<string>contractionFromValue</string>
+	<key>delegateOperationStyle</key>
+	<string>coordinatorFrameworkTint</string>
+	<key>gestureContainOperation</key>
+	<string>textCommandState</string>
+	<key>managerMementoAlignment</key>
+	<string>routerBridgeEdge</string>
+	<key>reducerKindName</key>
+	<string>storeFunctionAppearance</string>
+	<key>respectiveBulletBottom</key>
+	<string>desktopIsolateTheme</string>
+	<key>reusablePetPosition</key>
+	<string>presenterAndMemento</string>
+	<key>scrollableFrameLocation</key>
+	<string>backwardButtonPosition</string>
+	<key>sensorDuringPhase</key>
+	<string>optionPlatformTint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRectTheme</key>
+	<string>transitionAwayMediator</string>
+	<key>customizedSceneDepth</key>
+	<string>painterUntilObserver</string>
+	<key>factoryFlyweightFlags</key>
+	<string>accessibleMarginAlignment</string>
+	<key>isolateBesideOperation</key>
+	<string>stateBridgeColor</string>
+	<key>keyObserverStyle</key>
+	<string>viewSingletonInteraction</string>
+	<key>respectiveOverlayLocation</key>
+	<string>accordionResultBrightness</string>
+</dict>
+</plist>

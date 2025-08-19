@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAgainstPrototype</key>
+	<string>visibleKernelKind</string>
+	<key>injectionInSingleton</key>
+	<string>flexTierTheme</string>
+	<key>listviewSingletonSpeed</key>
+	<string>offsetAsFunction</string>
+	<key>taskProcessSaturation</key>
+	<string>tappableEventCoord</string>
+	<key>typicalMovementDensity</key>
+	<string>spotTierForce</string>
+	<key>unactivatedHandlerFeedback</key>
+	<string>fixedRowBehavior</string>
+</dict>
+</plist>

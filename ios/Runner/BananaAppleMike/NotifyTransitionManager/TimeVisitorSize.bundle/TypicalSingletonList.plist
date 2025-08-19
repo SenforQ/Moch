@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWithSystem</key>
+	<string>denseHandlerBehavior</string>
+	<key>buttonTypeBrightness</key>
+	<string>effectContextTransparency</string>
+	<key>curveByCommand</key>
+	<string>functionalReductionFeedback</string>
+	<key>heapIncludeActivity</key>
+	<string>gramCommandDuration</string>
+	<key>listenerAndChain</key>
+	<string>difficultSegueSize</string>
+	<key>projectionPerPrototype</key>
+	<string>reducerBesidePattern</string>
+	<key>standaloneQueryHue</key>
+	<string>monsterForDecorator</string>
+	<key>temporaryRepositoryForce</key>
+	<string>reducerBeyondPattern</string>
+</dict>
+</plist>

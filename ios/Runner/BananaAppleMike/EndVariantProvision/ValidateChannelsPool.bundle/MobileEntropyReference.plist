@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMementoAlignment</key>
+	<string>mainPrecisionInterval</string>
+	<key>blocDespiteComposite</key>
+	<string>clipperJobSpacing</string>
+	<key>coordinatorPhaseVisible</key>
+	<string>pointAndParam</string>
+	<key>screenAsFramework</key>
+	<string>visibleRouterPadding</string>
+	<key>statefulServiceLeft</key>
+	<string>rowNumberStyle</string>
+	<key>symbolBesideChain</key>
+	<string>blocAboutMemento</string>
+	<key>viewIncludePhase</key>
+	<string>crudeCallbackOpacity</string>
+</dict>
+</plist>

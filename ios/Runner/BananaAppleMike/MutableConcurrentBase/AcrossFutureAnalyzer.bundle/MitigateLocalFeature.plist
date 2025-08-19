@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystForContext</key>
+	<string>desktopPositionedBrightness</string>
+	<key>firstPlateAppearance</key>
+	<string>menuViaAction</string>
+	<key>particleIncludePrototype</key>
+	<string>labelWithSingleton</string>
+	<key>particleSinceState</key>
+	<string>queuePerMediator</string>
+	<key>typicalCustompaintShape</key>
+	<string>tableBridgeType</string>
+	<key>usageFromAdapter</key>
+	<string>durationThroughComposite</string>
+</dict>
+</plist>

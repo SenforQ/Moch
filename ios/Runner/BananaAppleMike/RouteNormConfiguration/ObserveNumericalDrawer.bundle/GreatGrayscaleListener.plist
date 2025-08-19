@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandThanFlyweight</key>
+	<string>channelInVariable</string>
+	<key>constLayoutIndex</key>
+	<string>constraintStageVisible</string>
+	<key>curveTaskBehavior</key>
+	<string>basicPositionDelay</string>
+	<key>diffableTopicDistance</key>
+	<string>containerKindRate</string>
+	<key>documentIncludeStyle</key>
+	<string>mobileTickerScale</string>
+	<key>featureIncludeParameter</key>
+	<string>gridTypeSpeed</string>
+	<key>particleCompositeInset</key>
+	<string>nativeResultBorder</string>
+	<key>resilientEntityDensity</key>
+	<string>taskVarBehavior</string>
+	<key>usedAlignmentTheme</key>
+	<string>matrixStructureBound</string>
+</dict>
+</plist>

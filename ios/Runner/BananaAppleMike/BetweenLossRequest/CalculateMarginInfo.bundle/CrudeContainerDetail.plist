@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentExtensionTop</key>
+	<string>priorSignatureVelocity</string>
+	<key>cupertinoRoleBrightness</key>
+	<string>equalizationShapeVisible</string>
+	<key>interactiveFeatureAppearance</key>
+	<string>layoutActionLocation</string>
+	<key>repositoryDecoratorMargin</key>
+	<string>routerIncludeFramework</string>
+</dict>
+</plist>

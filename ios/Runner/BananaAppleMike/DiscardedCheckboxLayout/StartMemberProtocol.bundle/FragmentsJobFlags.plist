@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferNearVisitor</key>
+	<string>globalOptimizerFlags</string>
+	<key>bulletChainAppearance</key>
+	<string>missionAgainstLayer</string>
+	<key>documentVariableInteraction</key>
+	<string>visibleFragmentStyle</string>
+	<key>inheritedMemberSpacing</key>
+	<string>sharedStoreBorder</string>
+	<key>queuePerSingleton</key>
+	<string>coordinatorVersusVariable</string>
+	<key>rowWithKind</key>
+	<string>denseStepSaturation</string>
+	<key>statefulHandlerInterval</key>
+	<string>asynchronousDependencyBottom</string>
+	<key>symbolFlyweightInteraction</key>
+	<string>presenterScopeRotation</string>
+	<key>tabviewTempleBorder</key>
+	<string>interactiveTextDirection</string>
+	<key>unactivatedLocalizationStyle</key>
+	<string>swiftStageOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAlongParameter</key>
+	<string>durationAroundOperation</string>
+	<key>eventForForm</key>
+	<string>bufferPerVariable</string>
+	<key>gridAtStructure</key>
+	<string>offsetOrContext</string>
+	<key>methodMediatorFormat</key>
+	<string>cacheBufferSaturation</string>
+	<key>navigationEnvironmentStatus</key>
+	<string>animatedTaskState</string>
+	<key>parallelQueryBrightness</key>
+	<string>columnAtSingleton</string>
+	<key>reusableBoxEdge</key>
+	<string>nodeExceptMediator</string>
+	<key>serviceProcessOffset</key>
+	<string>zoneSystemOffset</string>
+	<key>subscriptionAroundStrategy</key>
+	<string>builderPerAdapter</string>
+	<key>tensorQueryVisibility</key>
+	<string>factoryChainSpacing</string>
+</dict>
+</plist>

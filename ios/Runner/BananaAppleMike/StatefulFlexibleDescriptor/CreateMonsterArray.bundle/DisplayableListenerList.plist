@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStageRotation</key>
+	<string>progressbarPatternName</string>
+	<key>commonScaffoldCenter</key>
+	<string>previewForLevel</string>
+	<key>constLogOpacity</key>
+	<string>dependencySinceInterpreter</string>
+	<key>hardManagerDensity</key>
+	<string>currentLabelDirection</string>
+	<key>imperativeAlphaOpacity</key>
+	<string>drawerAsFramework</string>
+	<key>inkwellStrategyVelocity</key>
+	<string>pinchableTitleTension</string>
+	<key>localizationAndTask</key>
+	<string>currentRequestMode</string>
+	<key>sessionBridgeBottom</key>
+	<string>mediumFrameTail</string>
+	<key>topicCycleOrientation</key>
+	<string>durationBeyondProxy</string>
+	<key>widgetShapeInteraction</key>
+	<string>statefulFutureCoord</string>
+</dict>
+</plist>

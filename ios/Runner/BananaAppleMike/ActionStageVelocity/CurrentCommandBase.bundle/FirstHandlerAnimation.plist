@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBridgeSize</key>
+	<string>completerAsContext</string>
+	<key>curveTaskMode</key>
+	<string>offsetSinceBuffer</string>
+	<key>displayableChartFlags</key>
+	<string>segueMementoCenter</string>
+	<key>iconTempleMode</key>
+	<string>streamWorkState</string>
+	<key>observerPerProxy</key>
+	<string>secondSymbolAlignment</string>
+	<key>profileScopeTop</key>
+	<string>mobileKindLocation</string>
+	<key>reactivePositionOrientation</key>
+	<string>materialExceptLevel</string>
+	<key>taskTierAcceleration</key>
+	<string>contractionPrototypeInset</string>
+</dict>
+</plist>

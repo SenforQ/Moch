@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOrMediator</key>
+	<string>nodeInMediator</string>
+	<key>anchorContainVisitor</key>
+	<string>graphicPlatformBound</string>
+	<key>blocWorkName</key>
+	<string>tickerAwayAdapter</string>
+	<key>constraintFromScope</key>
+	<string>taskForFramework</string>
+	<key>gesturedetectorAtJob</key>
+	<string>behaviorFlyweightTransparency</string>
+	<key>invisibleMenuBound</key>
+	<string>featureStateScale</string>
+	<key>modulusOutsideAdapter</key>
+	<string>dedicatedContainerVisibility</string>
+	<key>nibStateState</key>
+	<string>cellSinceSingleton</string>
+	<key>routerUntilMediator</key>
+	<string>compositionalNodePosition</string>
+</dict>
+</plist>

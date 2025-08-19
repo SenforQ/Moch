@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerOrPhase</key>
+	<string>parallelCommandSkewx</string>
+	<key>graphSinceAction</key>
+	<string>vectorInterpreterValidation</string>
+	<key>hyperbolicAsyncBehavior</key>
+	<string>alphaPerParam</string>
+	<key>ignoredMetadataMode</key>
+	<string>arithmeticContainCommand</string>
+	<key>opaqueCertificateLeft</key>
+	<string>opaqueRouteName</string>
+	<key>reactiveColumnMargin</key>
+	<string>titleScopeHue</string>
+	<key>roleMediatorShade</key>
+	<string>arithmeticUtilHead</string>
+	<key>secondPetForce</key>
+	<string>textureEnvironmentDistance</string>
+	<key>statelessEffectOffset</key>
+	<string>inactiveGradientDirection</string>
+	<key>viewFlyweightVisibility</key>
+	<string>sizeExceptStyle</string>
+</dict>
+</plist>

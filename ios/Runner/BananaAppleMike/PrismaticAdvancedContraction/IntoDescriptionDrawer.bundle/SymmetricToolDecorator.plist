@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatePriorityMode</key>
+	<string>elasticTitleName</string>
+	<key>granularHeapSaturation</key>
+	<string>allocatorMediatorTail</string>
+	<key>ignoredServiceInset</key>
+	<string>managerTypeAcceleration</string>
+	<key>layerDecoratorRotation</key>
+	<string>immutableProjectionSkewy</string>
+	<key>lostChannelRate</key>
+	<string>priorChannelsTag</string>
+</dict>
+</plist>

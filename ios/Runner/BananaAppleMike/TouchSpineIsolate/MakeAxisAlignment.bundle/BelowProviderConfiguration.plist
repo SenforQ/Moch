@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDecoratorKind</key>
+	<string>publicChannelContrast</string>
+	<key>dropdownbuttonOperationKind</key>
+	<string>discardedLocalizationForce</string>
+	<key>flexibleCoordinatorValidation</key>
+	<string>activatedInstructionMode</string>
+	<key>swiftSinceTier</key>
+	<string>rowByPrototype</string>
+	<key>unaryLayerHue</key>
+	<string>immutableWidgetHead</string>
+	<key>widgetMediatorResponse</key>
+	<string>certificateAroundOperation</string>
+</dict>
+</plist>

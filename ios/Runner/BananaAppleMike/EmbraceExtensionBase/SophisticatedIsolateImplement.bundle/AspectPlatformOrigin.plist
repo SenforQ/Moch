@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletOfType</key>
+	<string>equipmentBesideParam</string>
+	<key>customAllocatorPressure</key>
+	<string>unsortedResourceTheme</string>
+	<key>intermediateSignOrigin</key>
+	<string>constraintTempleBehavior</string>
+	<key>popupVariableSkewx</key>
+	<string>liteMenuDepth</string>
+	<key>semanticFragmentBound</key>
+	<string>logDuringMethod</string>
+	<key>transitionEnvironmentBound</key>
+	<string>publicNavigatorRotation</string>
+	<key>typicalRiverpodPosition</key>
+	<string>labelCommandTop</string>
+</dict>
+</plist>

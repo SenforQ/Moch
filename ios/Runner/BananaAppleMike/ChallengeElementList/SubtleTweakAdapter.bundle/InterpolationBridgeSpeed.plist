@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePhaseFeedback</key>
+	<string>appbarDespiteObserver</string>
+	<key>dependencyAdapterFormat</key>
+	<string>callbackLevelTail</string>
+	<key>fixedTimerMargin</key>
+	<string>routeDuringAction</string>
+	<key>fusedAnimationValidation</key>
+	<string>similarSegueAppearance</string>
+	<key>navigationBesideTier</key>
+	<string>eagerScreenShape</string>
+	<key>navigatorVersusBridge</key>
+	<string>dedicatedModalKind</string>
+	<key>playbackAndType</key>
+	<string>reductionForTask</string>
+</dict>
+</plist>

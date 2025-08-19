@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianProviderHue</key>
+	<string>interactorPerScope</string>
+	<key>draggableLayoutTop</key>
+	<string>statefulDuringContext</string>
+	<key>errorKindStyle</key>
+	<string>equalizationAgainstDecorator</string>
+	<key>persistentProgressbarSpeed</key>
+	<string>gridviewTierAcceleration</string>
+	<key>priorMusicSkewx</key>
+	<string>factoryAlongJob</string>
+	<key>providerVariableOrigin</key>
+	<string>descriptorStructureCenter</string>
+	<key>queryVarRate</key>
+	<string>arithmeticLikeValue</string>
+	<key>radiusOperationKind</key>
+	<string>activatedHashOffset</string>
+	<key>roleScopeSize</key>
+	<string>arithmeticGraphResponse</string>
+	<key>statelessFormKind</key>
+	<string>independentProgressbarSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCapacitiesKind</key>
+	<string>diversifiedActionOrigin</string>
+	<key>builderActivityVisibility</key>
+	<string>specifierCycleVisibility</string>
+	<key>coordinatorAmongScope</key>
+	<string>richtextInsideCommand</string>
+	<key>interactorMethodSpeed</key>
+	<string>resourceParameterSkewx</string>
+	<key>pageviewTaskValidation</key>
+	<string>containerInsidePhase</string>
+	<key>reactiveSpotMomentum</key>
+	<string>characterDespiteNumber</string>
+	<key>segueInsideForm</key>
+	<string>semanticProfileVisible</string>
+	<key>tappableBehaviorOpacity</key>
+	<string>callbackLayerSize</string>
+</dict>
+</plist>

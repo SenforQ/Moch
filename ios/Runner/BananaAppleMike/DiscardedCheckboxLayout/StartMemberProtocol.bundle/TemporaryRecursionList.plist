@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentBridgeFlags</key>
+	<string>offsetThroughVariable</string>
+	<key>indicatorAsKind</key>
+	<string>textureAroundValue</string>
+	<key>operationByAction</key>
+	<string>usedEffectDepth</string>
+	<key>presenterBufferFlags</key>
+	<string>easyCompleterSaturation</string>
+	<key>timerStrategyContrast</key>
+	<string>nodeWorkBehavior</string>
+	<key>topicAboutLayer</key>
+	<string>challengeWithActivity</string>
+</dict>
+</plist>

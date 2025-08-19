@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerForDecorator</key>
+	<string>coordinatorOperationBorder</string>
+	<key>custompaintAmongActivity</key>
+	<string>completionInsideActivity</string>
+	<key>dedicatedSignatureLeft</key>
+	<string>groupScopeScale</string>
+	<key>logAtObserver</key>
+	<string>dynamicBlocSkewx</string>
+	<key>tabbarVarAlignment</key>
+	<string>modelActivityOffset</string>
+</dict>
+</plist>

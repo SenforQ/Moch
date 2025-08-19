@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerNotifierSaturation</key>
+	<string>asyncIncludeProcess</string>
+	<key>commonRowFlags</key>
+	<string>aspectThroughPlatform</string>
+	<key>extensionOutsideDecorator</key>
+	<string>constraintVariableKind</string>
+	<key>futureScopeSaturation</key>
+	<string>asyncSinceMemento</string>
+	<key>lossActivityDuration</key>
+	<string>dependencyContextTheme</string>
+	<key>rowFromKind</key>
+	<string>dependencyOfPrototype</string>
+	<key>spriteVarValidation</key>
+	<string>chapterEnvironmentBorder</string>
+	<key>tickerNumberSkewy</key>
+	<string>standaloneTextfieldRotation</string>
+	<key>usecaseFunctionLeft</key>
+	<string>otherNavigationOpacity</string>
+</dict>
+</plist>

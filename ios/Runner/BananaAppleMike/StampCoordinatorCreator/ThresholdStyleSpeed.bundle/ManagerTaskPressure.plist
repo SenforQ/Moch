@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAtSingleton</key>
+	<string>interactorPerCommand</string>
+	<key>desktopFragmentTop</key>
+	<string>reactiveSignTop</string>
+	<key>enabledProgressbarSaturation</key>
+	<string>futureContextBehavior</string>
+	<key>flexTempleOffset</key>
+	<string>graphThroughStructure</string>
+	<key>hardSkirtOpacity</key>
+	<string>gradientNearStyle</string>
+	<key>taskFromObserver</key>
+	<string>subscriptionModeBrightness</string>
+	<key>uniqueBuilderVisible</key>
+	<string>normalStateBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAlertInset</key>
+	<string>blocFromPlatform</string>
+	<key>activityBufferFormat</key>
+	<string>nodeExceptScope</string>
+	<key>columnShapeValidation</key>
+	<string>deferredCursorTop</string>
+	<key>featureExceptParameter</key>
+	<string>unsortedCallbackFeedback</string>
+	<key>mobxBeyondPrototype</key>
+	<string>invisibleDocumentTop</string>
+	<key>reducerSinceLayer</key>
+	<string>rectWorkDirection</string>
+	<key>transformerTaskLocation</key>
+	<string>ignoredLabelTail</string>
+</dict>
+</plist>

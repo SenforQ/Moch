@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableGrayscaleRotation</key>
+	<string>constScrollSkewy</string>
+	<key>labelAdapterValidation</key>
+	<string>sinkExceptAction</string>
+	<key>rowBridgeLeft</key>
+	<string>iconForCycle</string>
+	<key>scrollableInteractorPosition</key>
+	<string>durationFormVisibility</string>
+	<key>textureTaskInset</key>
+	<string>enabledRouteMomentum</string>
+</dict>
+</plist>

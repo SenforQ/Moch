@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAppbarType</key>
+	<string>popupUntilLayer</string>
+	<key>basicDecorationFlags</key>
+	<string>radioInAdapter</string>
+	<key>easyDrawerShape</key>
+	<string>diffableContainerFlags</string>
+	<key>ephemeralCursorRate</key>
+	<string>unactivatedHashBottom</string>
+	<key>sinkNearLayer</key>
+	<string>mutableAccessoryBrightness</string>
+	<key>sizedboxAmongNumber</key>
+	<string>routeInKind</string>
+	<key>subpixelCommandDirection</key>
+	<string>smallFactoryTransparency</string>
+	<key>touchWorkTension</key>
+	<string>mobileDecoratorOffset</string>
+</dict>
+</plist>

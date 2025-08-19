@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVersusObserver</key>
+	<string>cubeLevelVelocity</string>
+	<key>cardThanKind</key>
+	<string>smallProgressbarFrequency</string>
+	<key>deferredMissionFeedback</key>
+	<string>crudeMemberTint</string>
+	<key>equipmentDespitePattern</key>
+	<string>constMenuIndex</string>
+	<key>gesturedetectorVisitorFlags</key>
+	<string>modelStructureTheme</string>
+	<key>layoutBeyondVariable</key>
+	<string>mainExpandedAppearance</string>
+	<key>precisionForLayer</key>
+	<string>dropdownbuttonAmongParameter</string>
+	<key>resultNearWork</key>
+	<string>queryAroundPattern</string>
+</dict>
+</plist>

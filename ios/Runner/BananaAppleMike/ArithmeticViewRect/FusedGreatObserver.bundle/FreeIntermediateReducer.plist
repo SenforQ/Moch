@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorWithoutPhase</key>
+	<string>extensionLevelOrientation</string>
+	<key>groupVisitorShape</key>
+	<string>menuDuringAction</string>
+	<key>intuitiveProjectionCoord</key>
+	<string>containerForValue</string>
+	<key>petStructureBehavior</key>
+	<string>rowIncludeParam</string>
+	<key>prismaticLabelVisibility</key>
+	<string>variantByComposite</string>
+	<key>workflowShapeRotation</key>
+	<string>mainGateSaturation</string>
+</dict>
+</plist>

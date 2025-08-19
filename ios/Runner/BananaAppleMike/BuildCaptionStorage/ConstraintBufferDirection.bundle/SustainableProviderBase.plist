@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAlongChain</key>
+	<string>expandedNumberShade</string>
+	<key>buttonAgainstStrategy</key>
+	<string>overlayBesideLayer</string>
+	<key>gestureValueType</key>
+	<string>checklistParamSize</string>
+	<key>handlerBufferSaturation</key>
+	<string>intensityParameterPressure</string>
+	<key>imageOrSystem</key>
+	<string>routeVersusPhase</string>
+	<key>mobileFutureBrightness</key>
+	<string>containerLayerSize</string>
+	<key>scaffoldIncludePhase</key>
+	<string>allocatorVisitorFormat</string>
+	<key>sharedGrainAlignment</key>
+	<string>particleDecoratorCenter</string>
+	<key>transformerAroundSystem</key>
+	<string>precisionVarResponse</string>
+</dict>
+</plist>

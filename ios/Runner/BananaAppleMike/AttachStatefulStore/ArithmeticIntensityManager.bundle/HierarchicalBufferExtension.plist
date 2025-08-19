@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureModeFeedback</key>
+	<string>uniformAspectFormat</string>
+	<key>denseRouteOrientation</key>
+	<string>hardDependencyBottom</string>
+	<key>dialogsExceptBridge</key>
+	<string>customizedSensorDirection</string>
+	<key>localizationFrameworkEdge</key>
+	<string>segueStageTension</string>
+	<key>managerPlatformContrast</key>
+	<string>priorityTierContrast</string>
+	<key>metadataContainState</key>
+	<string>permissiveMultiplicationRight</string>
+	<key>symbolNearSingleton</key>
+	<string>singletonPhaseOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDropdownbuttonLocation</key>
+	<string>interactorFrameworkSkewy</string>
+	<key>progressbarProxyInteraction</key>
+	<string>spriteValueStyle</string>
+	<key>queryShapeOrientation</key>
+	<string>repositoryVarLocation</string>
+	<key>semanticTickerStatus</key>
+	<string>uniformMarginInterval</string>
+	<key>transitionLevelState</key>
+	<string>sceneModePosition</string>
+</dict>
+</plist>

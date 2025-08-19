@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsModeState</key>
+	<string>timerOutsideActivity</string>
+	<key>cursorOrActivity</key>
+	<string>spriteWithInterpreter</string>
+	<key>granularDocumentSize</key>
+	<string>permanentProjectionResponse</string>
+	<key>precisionBesideContext</key>
+	<string>overlayAtStage</string>
+	<key>progressbarIncludeSingleton</key>
+	<string>sinkFrameworkAppearance</string>
+	<key>signatureWithAction</key>
+	<string>binaryValueHue</string>
+</dict>
+</plist>

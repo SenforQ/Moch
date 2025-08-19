@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSingletonResponse</key>
+	<string>responseBeyondVar</string>
+	<key>asyncByTask</key>
+	<string>containerFlyweightMode</string>
+	<key>cupertinoMethodFeedback</key>
+	<string>inheritedBinaryFeedback</string>
+	<key>dimensionChainDensity</key>
+	<string>curvePrototypeIndex</string>
+	<key>gridByComposite</key>
+	<string>giftWorkMode</string>
+	<key>routeAwayTier</key>
+	<string>providerProxyShade</string>
+	<key>spotForProcess</key>
+	<string>futureStyleBound</string>
+</dict>
+</plist>

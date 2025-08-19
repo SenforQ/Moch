@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleChainLocation</key>
+	<string>baseTaskForce</string>
+	<key>interpolationAtBridge</key>
+	<string>asyncPrototypeOpacity</string>
+	<key>queueWithoutOperation</key>
+	<string>desktopModelFeedback</string>
+	<key>reusableDelegateTransparency</key>
+	<string>keyArithmeticAlignment</string>
+</dict>
+</plist>

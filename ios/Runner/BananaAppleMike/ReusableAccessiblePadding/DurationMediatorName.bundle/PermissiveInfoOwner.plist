@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureAsMemento</key>
+	<string>ternaryFromShape</string>
+	<key>matrixActionKind</key>
+	<string>alignmentBeyondForm</string>
+	<key>navigatorWithoutMode</key>
+	<string>opaqueTransitionResponse</string>
+	<key>remainderBufferDuration</key>
+	<string>storageTierStyle</string>
+	<key>storyboardProcessKind</key>
+	<string>metadataOutsideMode</string>
+</dict>
+</plist>

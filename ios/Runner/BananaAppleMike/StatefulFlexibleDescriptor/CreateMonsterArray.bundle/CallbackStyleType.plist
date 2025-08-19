@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSliderAcceleration</key>
+	<string>progressbarPrototypeBehavior</string>
+	<key>challengeModeStyle</key>
+	<string>largeStorageStyle</string>
+	<key>constraintAdapterTail</key>
+	<string>rowUntilDecorator</string>
+	<key>desktopDescriptionCenter</key>
+	<string>statelessInterfaceCenter</string>
+	<key>mapCommandTheme</key>
+	<string>streamViaShape</string>
+	<key>providerBridgeSkewy</key>
+	<string>sizeLevelVisible</string>
+	<key>radiusNearStage</key>
+	<string>listviewContainOperation</string>
+	<key>repositoryThanPattern</key>
+	<string>swiftByProcess</string>
+	<key>routerDuringComposite</key>
+	<string>decorationContainFlyweight</string>
+	<key>skirtAsStrategy</key>
+	<string>parallelVariantInset</string>
+</dict>
+</plist>

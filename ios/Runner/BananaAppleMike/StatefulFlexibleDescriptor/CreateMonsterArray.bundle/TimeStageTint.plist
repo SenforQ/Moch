@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringBridge</key>
+	<string>listenerIncludeBuffer</string>
+	<key>disparateInteractorPadding</key>
+	<string>navigatorVisitorVisible</string>
+	<key>notificationObserverOrientation</key>
+	<string>progressbarBufferTop</string>
+	<key>specifyRowTint</key>
+	<string>groupActionVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAndStyle</key>
+	<string>screenInsideMethod</string>
+	<key>explicitBatchSpacing</key>
+	<string>animatedReducerPosition</string>
+	<key>graphDespiteInterpreter</key>
+	<string>scaleWithoutWork</string>
+	<key>subtleButtonScale</key>
+	<string>plateContextMode</string>
+	<key>tableVariableCenter</key>
+	<string>capsuleSingletonPosition</string>
+</dict>
+</plist>

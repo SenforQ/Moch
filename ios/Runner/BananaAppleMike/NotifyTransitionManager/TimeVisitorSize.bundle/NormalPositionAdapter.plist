@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintPatternOpacity</key>
+	<string>metadataWithoutAdapter</string>
+	<key>frameCommandSaturation</key>
+	<string>asyncProxyTransparency</string>
+	<key>pinchableMatrixContrast</key>
+	<string>mutableStoreTension</string>
+	<key>staticProtocolFrequency</key>
+	<string>adaptiveSpriteMargin</string>
+	<key>staticViewDistance</key>
+	<string>permissiveConstraintScale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionAgainstAction</key>
+	<string>zoneJobPadding</string>
+	<key>gridviewVersusState</key>
+	<string>cupertinoAsTask</string>
+	<key>singletonProcessAppearance</key>
+	<string>iconStructureMargin</string>
+	<key>staticHashRotation</key>
+	<string>remainderPerBuffer</string>
+	<key>sustainableMaterialSpeed</key>
+	<string>functionalReducerSize</string>
+	<key>usecaseExceptInterpreter</key>
+	<string>projectionAsAdapter</string>
+</dict>
+</plist>

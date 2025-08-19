@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeScreenResponse</key>
+	<string>exceptionUntilSingleton</string>
+	<key>borderThroughPattern</key>
+	<string>curveBridgeDelay</string>
+	<key>buttonBufferOffset</key>
+	<string>brushActivityTint</string>
+	<key>certificateAndCommand</key>
+	<string>reusableBoxshadowIndex</string>
+	<key>interfaceVersusCycle</key>
+	<string>constHandlerSkewx</string>
+	<key>statefulCubeOffset</key>
+	<string>injectionKindSpacing</string>
+	<key>statelessPatternSpacing</key>
+	<string>consumerVersusComposite</string>
+	<key>vectorTypeResponse</key>
+	<string>cartesianBinaryTag</string>
+</dict>
+</plist>

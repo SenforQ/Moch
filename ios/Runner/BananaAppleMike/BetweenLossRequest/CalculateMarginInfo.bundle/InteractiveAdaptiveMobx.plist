@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFlyweightFrequency</key>
+	<string>priorityCommandBehavior</string>
+	<key>behaviorOrMode</key>
+	<string>durationExceptActivity</string>
+	<key>cupertinoAsStructure</key>
+	<string>inkwellTierTransparency</string>
+	<key>eventVersusValue</key>
+	<string>notifierSincePrototype</string>
+	<key>granularCycleRate</key>
+	<string>scrollIncludeFlyweight</string>
+</dict>
+</plist>

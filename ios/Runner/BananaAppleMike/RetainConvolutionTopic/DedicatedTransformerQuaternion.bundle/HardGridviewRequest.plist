@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromTask</key>
+	<string>sizeUntilCommand</string>
+	<key>baseExceptInterpreter</key>
+	<string>factoryContainMediator</string>
+	<key>controllerPerCommand</key>
+	<string>streamAlongLayer</string>
+	<key>declarativePageviewCount</key>
+	<string>euclideanAwaitFrequency</string>
+	<key>dependencyProxyAlignment</key>
+	<string>methodInsideScope</string>
+	<key>directResultShade</key>
+	<string>providerFormDepth</string>
+</dict>
+</plist>

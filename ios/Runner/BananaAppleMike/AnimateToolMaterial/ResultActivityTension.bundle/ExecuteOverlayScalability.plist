@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDurationTag</key>
+	<string>mainStateBorder</string>
+	<key>customizedSegmentTension</key>
+	<string>sortedReductionVelocity</string>
+	<key>fixedUsecaseBrightness</key>
+	<string>signatureLikeOperation</string>
+	<key>localCellContrast</key>
+	<string>metadataInDecorator</string>
+	<key>subscriptionObserverBrightness</key>
+	<string>newestCellVelocity</string>
+	<key>switchAndLevel</key>
+	<string>asyncCubitAppearance</string>
+</dict>
+</plist>

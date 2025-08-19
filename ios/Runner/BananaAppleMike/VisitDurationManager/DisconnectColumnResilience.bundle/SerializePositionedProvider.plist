@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSpriteStyle</key>
+	<string>buttonFormResponse</string>
+	<key>batchScopeTint</key>
+	<string>dialogsVarSkewx</string>
+	<key>configurationDuringVar</key>
+	<string>interactiveProjectionStyle</string>
+	<key>eventContainObserver</key>
+	<string>bitrateValueDirection</string>
+	<key>progressbarJobBrightness</key>
+	<string>accessoryActionFeedback</string>
+	<key>scrollableMapDuration</key>
+	<string>unarySinceFunction</string>
+	<key>textureExceptBuffer</key>
+	<string>lostControllerLeft</string>
+	<key>transformerStrategyBorder</key>
+	<string>pageviewAboutParam</string>
+</dict>
+</plist>

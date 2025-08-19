@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialCheckboxAcceleration</key>
+	<string>flexWithoutBridge</string>
+	<key>cyclePatternAlignment</key>
+	<string>interpolationAdapterInteraction</string>
+	<key>delegateBufferFormat</key>
+	<string>listviewParameterPosition</string>
+	<key>discardedClipperOrientation</key>
+	<string>nodeViaShape</string>
+	<key>mapKindInset</key>
+	<string>nodePlatformInterval</string>
+</dict>
+</plist>

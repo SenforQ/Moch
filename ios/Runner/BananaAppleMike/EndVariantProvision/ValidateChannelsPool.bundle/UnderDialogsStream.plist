@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedQueryAppearance</key>
+	<string>taskPhaseBottom</string>
+	<key>ephemeralEqualizationFormat</key>
+	<string>sliderFacadeDuration</string>
+	<key>handlerFlyweightFlags</key>
+	<string>textfieldAtVar</string>
+	<key>normAgainstParameter</key>
+	<string>mutableCardVisibility</string>
+	<key>paddingInChain</key>
+	<string>callbackBridgeSpacing</string>
+	<key>pinchableTweenIndex</key>
+	<string>hierarchicalGrayscaleTransparency</string>
+	<key>radioStyleTheme</key>
+	<string>histogramBridgeBorder</string>
+	<key>resourceTierRight</key>
+	<string>numericalTweenPressure</string>
+</dict>
+</plist>

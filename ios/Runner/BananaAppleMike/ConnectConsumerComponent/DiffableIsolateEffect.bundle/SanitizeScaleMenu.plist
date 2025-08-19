@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableMovementMode</key>
+	<string>significantDialogsDirection</string>
+	<key>durationAdapterDensity</key>
+	<string>permissiveEntityState</string>
+	<key>hyperbolicMovementRotation</key>
+	<string>methodDecoratorSpeed</string>
+	<key>interfaceStageRotation</key>
+	<string>radioOrFacade</string>
+	<key>particleProxyTop</key>
+	<string>gateFromVar</string>
+	<key>referenceDuringBuffer</key>
+	<string>mapAmongWork</string>
+	<key>stateDespiteOperation</key>
+	<string>decorationAboutComposite</string>
+	<key>viewExceptObserver</key>
+	<string>allocatorDespitePhase</string>
+</dict>
+</plist>

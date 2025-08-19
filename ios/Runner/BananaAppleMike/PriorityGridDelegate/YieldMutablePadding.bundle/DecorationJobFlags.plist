@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewOperationBehavior</key>
+	<string>sineValueBorder</string>
+	<key>indicatorTypeForce</key>
+	<string>featureSinceAdapter</string>
+	<key>nextHeroSkewx</key>
+	<string>threadMementoValidation</string>
+</dict>
+</plist>

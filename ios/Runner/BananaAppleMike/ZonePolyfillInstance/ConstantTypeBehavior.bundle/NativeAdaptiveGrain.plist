@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeInstructionShape</key>
+	<string>scrollableCosineAcceleration</string>
+	<key>factoryFacadeShape</key>
+	<string>masterActionTop</string>
+	<key>globalNavigatorTag</key>
+	<string>titleBesideStyle</string>
+	<key>opaqueGridDelay</key>
+	<string>mainGrainCenter</string>
+	<key>priorNavigatorSpacing</key>
+	<string>hashOrType</string>
+	<key>touchCycleSkewx</key>
+	<string>switchBufferRight</string>
+	<key>zoneLayerInteraction</key>
+	<string>scrollVersusStage</string>
+</dict>
+</plist>

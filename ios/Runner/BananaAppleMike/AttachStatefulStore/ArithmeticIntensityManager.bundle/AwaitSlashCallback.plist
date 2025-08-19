@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resultVarBehavior</key>
+	<string>tappableInjectionLeft</string>
+	<key>statefulLayoutTransparency</key>
+	<string>integerWithoutFlyweight</string>
+	<key>stepParamFeedback</key>
+	<string>storageOutsideProcess</string>
+	<key>tangentAgainstSystem</key>
+	<string>compositionAgainstStrategy</string>
+</dict>
+</plist>

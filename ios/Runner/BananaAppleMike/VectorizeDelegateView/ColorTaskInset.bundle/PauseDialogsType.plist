@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultScaffoldForce</key>
+	<string>chapterOrSystem</string>
+	<key>gridKindFeedback</key>
+	<string>inkwellProcessKind</string>
+	<key>pivotalAnchorDirection</key>
+	<string>layerAndActivity</string>
+	<key>scrollTaskDepth</key>
+	<string>numericalActionTension</string>
+	<key>scrollableResultVelocity</key>
+	<string>listviewSinceProxy</string>
+</dict>
+</plist>

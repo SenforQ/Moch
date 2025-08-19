@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerCompositeBehavior</key>
+	<string>asynchronousTweenSize</string>
+	<key>interactiveLogarithmHue</key>
+	<string>discardedBaseOffset</string>
+	<key>layoutInsideInterpreter</key>
+	<string>integerPrototypeScale</string>
+	<key>navigationVersusFramework</key>
+	<string>nibShapeVelocity</string>
+	<key>queryAgainstComposite</key>
+	<string>exceptionAmongLayer</string>
+	<key>relationalGraphicAlignment</key>
+	<string>euclideanBufferDirection</string>
+	<key>resourceVariableOpacity</key>
+	<string>nextMarginKind</string>
+	<key>symmetricVectorPadding</key>
+	<string>scaffoldMementoTension</string>
+	<key>taskInEnvironment</key>
+	<string>ignoredIntegerSaturation</string>
+</dict>
+</plist>

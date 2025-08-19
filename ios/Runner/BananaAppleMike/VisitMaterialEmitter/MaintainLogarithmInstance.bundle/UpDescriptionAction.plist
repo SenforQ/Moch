@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableButtonTransparency</key>
+	<string>layoutDespiteFramework</string>
+	<key>decorationAgainstPlatform</key>
+	<string>inheritedAnimationDensity</string>
+	<key>imageBridgeSize</key>
+	<string>multiSymbolVisibility</string>
+	<key>marginVariableTag</key>
+	<string>builderStateInset</string>
+	<key>nodeLikeFlyweight</key>
+	<string>invisibleNibDensity</string>
+	<key>queryLevelFlags</key>
+	<string>anchorBesideParam</string>
+	<key>workflowAroundMethod</key>
+	<string>progressbarMementoOrientation</string>
+</dict>
+</plist>

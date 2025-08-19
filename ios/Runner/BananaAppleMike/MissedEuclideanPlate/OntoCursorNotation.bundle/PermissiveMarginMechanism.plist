@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferContainEnvironment</key>
+	<string>containerLayerSpacing</string>
+	<key>concurrentGraphBound</key>
+	<string>bitrateAtNumber</string>
+	<key>decorationAwayCycle</key>
+	<string>firstRowRight</string>
+	<key>eagerRadioBorder</key>
+	<string>ignoredAspectInteraction</string>
+	<key>frameFacadeDuration</key>
+	<string>grainVersusState</string>
+	<key>frameForDecorator</key>
+	<string>subtleAspectEdge</string>
+	<key>getxAwayTask</key>
+	<string>cupertinoImageSkewy</string>
+	<key>grainViaMode</key>
+	<string>subpixelPhaseSaturation</string>
+	<key>managerKindMode</key>
+	<string>resolverAboutFlyweight</string>
+</dict>
+</plist>

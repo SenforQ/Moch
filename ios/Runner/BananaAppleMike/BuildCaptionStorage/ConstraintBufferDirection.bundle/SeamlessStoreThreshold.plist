@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionOutsideType</key>
+	<string>ternaryBeyondInterpreter</string>
+	<key>containerDuringPattern</key>
+	<string>activityBridgeAlignment</string>
+	<key>dependencyTaskVisibility</key>
+	<string>mediocreQueuePadding</string>
+	<key>temporarySwitchAlignment</key>
+	<string>synchronousGrainSkewx</string>
+</dict>
+</plist>

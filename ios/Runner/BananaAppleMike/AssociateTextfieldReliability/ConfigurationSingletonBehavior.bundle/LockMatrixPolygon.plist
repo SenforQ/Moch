@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleParameterInset</key>
+	<string>chartOutsideWork</string>
+	<key>columnAlongStyle</key>
+	<string>customSceneFlags</string>
+	<key>cubitNearPattern</key>
+	<string>sizedboxVarSkewx</string>
+	<key>largePresenterHue</key>
+	<string>dynamicLocalizationHue</string>
+	<key>localResponseScale</key>
+	<string>timerExceptMediator</string>
+	<key>requestVersusJob</key>
+	<string>sharedDimensionMode</string>
+	<key>sliderJobFlags</key>
+	<string>challengeNearBridge</string>
+	<key>titleVarForce</key>
+	<string>stackLikeJob</string>
+</dict>
+</plist>

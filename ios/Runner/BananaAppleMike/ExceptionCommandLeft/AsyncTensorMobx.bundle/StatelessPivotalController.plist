@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentResolverInterval</key>
+	<string>visibleBuilderSkewx</string>
+	<key>difficultTitleFormat</key>
+	<string>controllerKindStatus</string>
+	<key>mobxInBridge</key>
+	<string>checkboxBufferMargin</string>
+	<key>previewContextSpacing</key>
+	<string>timerBridgeInterval</string>
+	<key>spineTypeContrast</key>
+	<string>expandedWorkRotation</string>
+</dict>
+</plist>

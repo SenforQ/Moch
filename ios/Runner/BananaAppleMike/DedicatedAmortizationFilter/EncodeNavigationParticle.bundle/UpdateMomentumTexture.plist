@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFormTag</key>
+	<string>touchVariableSaturation</string>
+	<key>elasticReducerInteraction</key>
+	<string>workflowBridgeValidation</string>
+	<key>lastFutureOrientation</key>
+	<string>unsortedSinkTransparency</string>
+	<key>opaqueNodeFormat</key>
+	<string>channelsAndVariable</string>
+	<key>positionThanSystem</key>
+	<string>resultTierLeft</string>
+	<key>repositoryCompositeTransparency</key>
+	<string>dependencyPrototypeResponse</string>
+	<key>resultContextState</key>
+	<string>independentControllerBound</string>
+	<key>secondInterpolationInterval</key>
+	<string>cubitParamLocation</string>
+</dict>
+</plist>

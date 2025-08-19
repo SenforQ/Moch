@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBufferFormat</key>
+	<string>observerActivityPadding</string>
+	<key>denseAnimationRate</key>
+	<string>uniqueAnimationOrigin</string>
+	<key>opaqueSubscriptionShade</key>
+	<string>sizedboxDespiteChain</string>
+	<key>permissiveGraphName</key>
+	<string>tweenFromEnvironment</string>
+	<key>sharedMethodMomentum</key>
+	<string>graphDecoratorShape</string>
+</dict>
+</plist>

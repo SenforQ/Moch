@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAndProxy</key>
+	<string>tabviewNearMediator</string>
+	<key>cupertinoWithStyle</key>
+	<string>compositionFromVar</string>
+	<key>flexibleControllerLocation</key>
+	<string>backwardSubscriptionTint</string>
+	<key>globalDecorationPosition</key>
+	<string>durationVersusPlatform</string>
+	<key>layoutVersusAdapter</key>
+	<string>kernelOfValue</string>
+	<key>listenerBeyondOperation</key>
+	<string>hashStyleCount</string>
+	<key>pinchableStorageSaturation</key>
+	<string>flexiblePrecisionMode</string>
+	<key>scaffoldTypeBehavior</key>
+	<string>asyncTickerBottom</string>
+</dict>
+</plist>

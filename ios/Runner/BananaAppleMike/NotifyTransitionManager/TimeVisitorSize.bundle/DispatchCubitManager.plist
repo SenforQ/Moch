@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVisitorShape</key>
+	<string>textureAgainstMethod</string>
+	<key>compositionInMemento</key>
+	<string>repositoryFromWork</string>
+	<key>mobxLayerTag</key>
+	<string>crudeCubitShape</string>
+	<key>numericalChartAlignment</key>
+	<string>mobileSineTransparency</string>
+</dict>
+</plist>

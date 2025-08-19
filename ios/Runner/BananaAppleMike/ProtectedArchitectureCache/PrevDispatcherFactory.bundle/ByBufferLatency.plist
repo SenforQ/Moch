@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateChapterOrientation</key>
+	<string>mutableAlignmentOrientation</string>
+	<key>grainPrototypeOpacity</key>
+	<string>usageVersusValue</string>
+	<key>screenStateBound</key>
+	<string>semanticTableCoord</string>
+	<key>tweenAlongParameter</key>
+	<string>activeNotificationDelay</string>
+	<key>variantAboutFunction</key>
+	<string>frameUntilAdapter</string>
+</dict>
+</plist>

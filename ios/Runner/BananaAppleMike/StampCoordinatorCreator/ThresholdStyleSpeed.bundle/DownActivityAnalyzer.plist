@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedRouterHue</key>
+	<string>singleSlashCount</string>
+	<key>indicatorByParam</key>
+	<string>pivotalButtonIndex</string>
+	<key>modelThroughActivity</key>
+	<string>swiftCycleMargin</string>
+	<key>radiusInLevel</key>
+	<string>backwardNibPadding</string>
+	<key>rowAdapterDuration</key>
+	<string>activeResponseInset</string>
+	<key>usedPageviewSkewy</key>
+	<string>pinchableChannelDensity</string>
+</dict>
+</plist>

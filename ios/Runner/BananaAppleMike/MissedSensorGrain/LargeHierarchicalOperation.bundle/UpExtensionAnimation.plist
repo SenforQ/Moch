@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCubeIndex</key>
+	<string>operationPerTier</string>
+	<key>bitrateByVariable</key>
+	<string>asyncTimerCount</string>
+	<key>bitrateInInterpreter</key>
+	<string>deferredFrameResponse</string>
+	<key>interpolationThroughState</key>
+	<string>opaqueMapInteraction</string>
+	<key>precisionVisitorDelay</key>
+	<string>curveTierRight</string>
+	<key>retainedAccessoryLeft</key>
+	<string>eventContextPadding</string>
+</dict>
+</plist>

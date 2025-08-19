@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScopeTheme</key>
+	<string>disparateQueueName</string>
+	<key>handlerBridgeSize</key>
+	<string>transformerInsideFramework</string>
+	<key>labelOutsideVisitor</key>
+	<string>mobileWithoutStyle</string>
+	<key>storeInComposite</key>
+	<string>temporaryObserverTag</string>
+	<key>transformerParameterHead</key>
+	<string>prevUsageIndex</string>
+	<key>tweenKindTail</key>
+	<string>dedicatedProjectResponse</string>
+</dict>
+</plist>

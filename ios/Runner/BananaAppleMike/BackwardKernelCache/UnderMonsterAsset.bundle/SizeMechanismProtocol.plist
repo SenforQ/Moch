@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObserverSpacing</key>
+	<string>dimensionAsObserver</string>
+	<key>eventBesideStrategy</key>
+	<string>requestAsState</string>
+	<key>gateBeyondAdapter</key>
+	<string>modelTierCenter</string>
+	<key>resolverObserverBrightness</key>
+	<string>nodeAlongLayer</string>
+	<key>variantIncludeFacade</key>
+	<string>labelIncludeProcess</string>
+</dict>
+</plist>

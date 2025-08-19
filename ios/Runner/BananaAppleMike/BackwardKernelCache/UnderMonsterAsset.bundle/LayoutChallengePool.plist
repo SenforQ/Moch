@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventOutsideTask</key>
+	<string>customizedHeapPressure</string>
+	<key>nodeTypeTag</key>
+	<string>tweenNearType</string>
+	<key>resilientSensorDelay</key>
+	<string>immutableTaskSpeed</string>
+	<key>secondWorkflowVisibility</key>
+	<string>temporaryPriorityOffset</string>
+	<key>slashDuringKind</key>
+	<string>timerLikeWork</string>
+</dict>
+</plist>

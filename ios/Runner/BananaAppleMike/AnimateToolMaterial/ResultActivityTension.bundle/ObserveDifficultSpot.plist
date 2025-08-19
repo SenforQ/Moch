@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBatchResponse</key>
+	<string>chartNearObserver</string>
+	<key>cupertinoPopupDuration</key>
+	<string>semanticTextDepth</string>
+	<key>eagerHistogramDepth</key>
+	<string>semanticsVersusStage</string>
+	<key>gateValueDuration</key>
+	<string>accessibleSliderForce</string>
+	<key>gradientEnvironmentDirection</key>
+	<string>durationVersusMode</string>
+	<key>groupSystemMomentum</key>
+	<string>roleFlyweightDuration</string>
+	<key>rapidCoordinatorType</key>
+	<string>fixedScaffoldBottom</string>
+	<key>resilientSubscriptionVisibility</key>
+	<string>streamFrameworkSize</string>
+</dict>
+</plist>

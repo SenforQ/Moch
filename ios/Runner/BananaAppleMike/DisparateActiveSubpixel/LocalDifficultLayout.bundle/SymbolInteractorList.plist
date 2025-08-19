@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalGroupContrast</key>
+	<string>nodePlatformDelay</string>
+	<key>equalizationPhaseAppearance</key>
+	<string>semanticTimerCoord</string>
+	<key>euclideanInteractorFeedback</key>
+	<string>workflowObserverSpeed</string>
+	<key>graphAmongMode</key>
+	<string>diffableGraphicDensity</string>
+	<key>kernelNumberMode</key>
+	<string>protectedButtonDelay</string>
+	<key>protectedPriorityTail</key>
+	<string>workflowFlyweightRate</string>
+	<key>sensorWorkPadding</key>
+	<string>robustCompleterIndex</string>
+	<key>sliderWithPlatform</key>
+	<string>basicCosineStatus</string>
+</dict>
+</plist>

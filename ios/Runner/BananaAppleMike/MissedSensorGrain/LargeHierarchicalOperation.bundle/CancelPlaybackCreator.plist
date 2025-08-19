@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedActionPressure</key>
+	<string>singleBlocShape</string>
+	<key>giftAwayStrategy</key>
+	<string>chartAgainstValue</string>
+	<key>intuitiveEventTint</key>
+	<string>checklistByAction</string>
+	<key>layerCompositeSpacing</key>
+	<string>chapterAgainstTask</string>
+	<key>modulusMethodFlags</key>
+	<string>plateContainFunction</string>
+	<key>statefulSingletonKind</key>
+	<string>activeTitleDistance</string>
+</dict>
+</plist>

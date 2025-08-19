@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeButtonVelocity</key>
+	<string>workflowStateShade</string>
+	<key>multiLayoutType</key>
+	<string>alphaBesideMediator</string>
+	<key>similarUsecaseAlignment</key>
+	<string>resolverBufferFlags</string>
+</dict>
+</plist>

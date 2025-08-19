@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableEntropyStyle</key>
+	<string>anchorAtKind</string>
+	<key>gridFlyweightScale</key>
+	<string>groupTypeTint</string>
+	<key>petMediatorResponse</key>
+	<string>mediumTimerVisibility</string>
+	<key>viewOutsideBridge</key>
+	<string>seamlessAlignmentBorder</string>
+</dict>
+</plist>

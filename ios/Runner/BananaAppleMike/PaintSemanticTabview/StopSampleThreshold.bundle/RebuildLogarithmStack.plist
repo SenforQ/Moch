@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEffectSaturation</key>
+	<string>chartVisitorTransparency</string>
+	<key>allocatorFrameworkDepth</key>
+	<string>hierarchicalTextureSpeed</string>
+	<key>notifierFromAdapter</key>
+	<string>interpolationBufferMomentum</string>
+	<key>persistentParticleDelay</key>
+	<string>routeContainMediator</string>
+	<key>topicFacadeInterval</key>
+	<string>lostPrecisionDuration</string>
+</dict>
+</plist>

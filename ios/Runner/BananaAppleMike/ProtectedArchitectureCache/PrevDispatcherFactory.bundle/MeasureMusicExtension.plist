@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedClipperHue</key>
+	<string>themeAtFramework</string>
+	<key>assetStateResponse</key>
+	<string>sequentialSingletonBehavior</string>
+	<key>cosineVersusStage</key>
+	<string>giftFrameworkTheme</string>
+	<key>effectFromBridge</key>
+	<string>requiredBaseCoord</string>
+	<key>gridTierShape</key>
+	<string>interactiveButtonOpacity</string>
+	<key>mainSizeMode</key>
+	<string>alignmentAsProxy</string>
+	<key>missedManagerOpacity</key>
+	<string>permissiveCommandMode</string>
+	<key>timerStageDelay</key>
+	<string>textureBeyondMode</string>
+</dict>
+</plist>

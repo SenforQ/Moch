@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureIncludeCycle</key>
+	<string>reusableLabelFeedback</string>
+	<key>certificateThroughCycle</key>
+	<string>eagerModalName</string>
+	<key>lastLocalizationSpeed</key>
+	<string>accessibleQueueKind</string>
+	<key>listenerDuringTier</key>
+	<string>concurrentStorageMode</string>
+	<key>mobileSubpixelTransparency</key>
+	<string>completerStageHead</string>
+	<key>offsetPatternInset</key>
+	<string>listviewAdapterForce</string>
+	<key>reactivePlaybackPosition</key>
+	<string>directMenuColor</string>
+	<key>segueFormResponse</key>
+	<string>momentumKindFlags</string>
+	<key>unsortedResultIndex</key>
+	<string>permanentDependencyBound</string>
+</dict>
+</plist>

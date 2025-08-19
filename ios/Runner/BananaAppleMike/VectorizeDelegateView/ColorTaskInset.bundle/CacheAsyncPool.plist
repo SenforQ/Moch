@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChannelOrientation</key>
+	<string>transitionOrChain</string>
+	<key>buttonThroughType</key>
+	<string>gramVariablePosition</string>
+	<key>eventCompositeRotation</key>
+	<string>exceptionParameterForce</string>
+	<key>lastGesturedetectorTheme</key>
+	<string>completerByTask</string>
+	<key>timerContainStage</key>
+	<string>referenceContainBridge</string>
+</dict>
+</plist>

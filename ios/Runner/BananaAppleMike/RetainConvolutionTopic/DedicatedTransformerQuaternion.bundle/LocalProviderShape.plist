@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedControllerPressure</key>
+	<string>permanentChartOrientation</string>
+	<key>aspectBridgeScale</key>
+	<string>completerScopeContrast</string>
+	<key>boxshadowVisitorSkewy</key>
+	<string>arithmeticStackDepth</string>
+	<key>builderShapeRotation</key>
+	<string>concurrentAnimationPadding</string>
+	<key>cursorAboutVar</key>
+	<string>tensorProfileColor</string>
+	<key>groupAdapterBrightness</key>
+	<string>columnWithoutValue</string>
+	<key>largeNotifierLocation</key>
+	<string>histogramVariableSize</string>
+	<key>mediumControllerAppearance</key>
+	<string>sceneParamSaturation</string>
+	<key>referenceVarContrast</key>
+	<string>lazyDecorationTag</string>
+</dict>
+</plist>

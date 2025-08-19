@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleButtonInteraction</key>
+	<string>channelDespiteInterpreter</string>
+	<key>durationStyleDirection</key>
+	<string>scaffoldVariableSpeed</string>
+	<key>modalActivityVisibility</key>
+	<string>segmentByJob</string>
+	<key>normalActionAcceleration</key>
+	<string>intensityMethodOffset</string>
+	<key>observerBufferPadding</key>
+	<string>permissiveTickerFormat</string>
+	<key>particleJobOpacity</key>
+	<string>previewAndTask</string>
+</dict>
+</plist>

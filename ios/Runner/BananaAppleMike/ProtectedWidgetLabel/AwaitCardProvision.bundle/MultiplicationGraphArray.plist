@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerOrCommand</key>
+	<string>usecasePhaseAppearance</string>
+	<key>mediaqueryAmongFlyweight</key>
+	<string>scrollBufferContrast</string>
+	<key>monsterChainScale</key>
+	<string>capsuleDespiteState</string>
+	<key>navigatorBridgeInset</key>
+	<string>logarithmChainAcceleration</string>
+	<key>oldProviderOffset</key>
+	<string>navigationDespiteKind</string>
+	<key>significantResultMargin</key>
+	<string>containerOutsideVisitor</string>
+</dict>
+</plist>

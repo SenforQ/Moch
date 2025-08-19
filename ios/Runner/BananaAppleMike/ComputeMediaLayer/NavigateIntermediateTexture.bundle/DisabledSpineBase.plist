@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBatchShade</key>
+	<string>materialDescriptionCenter</string>
+	<key>completionWorkOrigin</key>
+	<string>actionParamInset</string>
+	<key>ignoredGramRotation</key>
+	<string>visibleModalTheme</string>
+	<key>playbackStyleOpacity</key>
+	<string>decorationActivityShade</string>
+	<key>statelessSpriteState</key>
+	<string>baseOperationPressure</string>
+</dict>
+</plist>

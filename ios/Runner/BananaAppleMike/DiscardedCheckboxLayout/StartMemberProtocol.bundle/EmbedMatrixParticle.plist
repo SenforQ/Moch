@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxExceptBridge</key>
+	<string>customCustompaintSize</string>
+	<key>iconFlyweightAppearance</key>
+	<string>cubitMediatorStyle</string>
+	<key>injectionForFacade</key>
+	<string>assetAroundStyle</string>
+	<key>interfaceDuringSingleton</key>
+	<string>marginVersusTier</string>
+	<key>layerCycleValidation</key>
+	<string>relationalControllerBorder</string>
+	<key>sessionVersusState</key>
+	<string>reducerBeyondVariable</string>
+	<key>textAboutCommand</key>
+	<string>paddingVisitorCoord</string>
+	<key>usedGrayscaleOpacity</key>
+	<string>actionDecoratorPadding</string>
+	<key>vectorAmongEnvironment</key>
+	<string>persistentCoordinatorStyle</string>
+	<key>viewFlyweightMode</key>
+	<string>dynamicRepositoryStyle</string>
+</dict>
+</plist>

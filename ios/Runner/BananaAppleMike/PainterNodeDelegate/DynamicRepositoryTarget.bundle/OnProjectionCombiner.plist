@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxTaskSaturation</key>
+	<string>drawerBufferKind</string>
+	<key>grainVarIndex</key>
+	<string>originalInterfaceOrientation</string>
+	<key>graphSystemBrightness</key>
+	<string>finalStateTheme</string>
+	<key>otherInterfaceResponse</key>
+	<string>serviceVersusFacade</string>
+	<key>resolverActionValidation</key>
+	<string>invisibleChapterFeedback</string>
+	<key>serviceProcessDelay</key>
+	<string>tickerStageShape</string>
+	<key>singleCompositionFlags</key>
+	<string>streamProcessValidation</string>
+</dict>
+</plist>

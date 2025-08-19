@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationKindFeedback</key>
+	<string>permissivePresenterBehavior</string>
+	<key>captionParamRate</key>
+	<string>greatSwitchDistance</string>
+	<key>delegateDecoratorVisible</key>
+	<string>storeThroughForm</string>
+	<key>textureAmongLevel</key>
+	<string>allocatorStyleTag</string>
+</dict>
+</plist>

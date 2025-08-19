@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxForNumber</key>
+	<string>granularMissionBorder</string>
+	<key>crucialViewEdge</key>
+	<string>smartStreamRotation</string>
+	<key>heapCycleCoord</key>
+	<string>effectAsKind</string>
+	<key>mediumPresenterCenter</key>
+	<string>documentPerBridge</string>
+	<key>paddingBufferShade</key>
+	<string>utilWithoutComposite</string>
+	<key>popupByStage</key>
+	<string>viewLikeMediator</string>
+	<key>swiftWithBridge</key>
+	<string>kernelContextDepth</string>
+	<key>toolEnvironmentDensity</key>
+	<string>widgetAsVariable</string>
+</dict>
+</plist>

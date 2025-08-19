@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSegueRight</key>
+	<string>playbackJobDistance</string>
+	<key>basePrototypeBehavior</key>
+	<string>coordinatorAwayValue</string>
+	<key>capsuleAboutTask</key>
+	<string>responsiveOffsetBehavior</string>
+	<key>containerDecoratorSpacing</key>
+	<string>secondDecorationMargin</string>
+	<key>euclideanGroupCenter</key>
+	<string>modalIncludeParam</string>
+	<key>inheritedCapsuleStyle</key>
+	<string>lazyMethodBorder</string>
+	<key>optimizerMethodVisibility</key>
+	<string>materialStoreVelocity</string>
+	<key>statefulParticleDirection</key>
+	<string>equipmentFlyweightRight</string>
+	<key>statelessThroughProcess</key>
+	<string>resilientGetxLocation</string>
+</dict>
+</plist>

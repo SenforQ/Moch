@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryAtTask</key>
+	<string>menuFacadeTag</string>
+	<key>movementPerBridge</key>
+	<string>singletonOrFunction</string>
+	<key>nativeExtensionBorder</key>
+	<string>interactiveMenuCoord</string>
+	<key>radiusDespiteBridge</key>
+	<string>sensorUntilDecorator</string>
+	<key>richtextAsParam</key>
+	<string>cubitIncludeStrategy</string>
+	<key>smallStepSkewx</key>
+	<string>builderAboutContext</string>
+	<key>subtleAxisAlignment</key>
+	<string>queueOutsideLayer</string>
+</dict>
+</plist>

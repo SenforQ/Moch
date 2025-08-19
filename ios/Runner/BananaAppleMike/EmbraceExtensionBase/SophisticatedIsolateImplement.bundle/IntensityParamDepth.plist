@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPatternOrigin</key>
+	<string>observerIncludePhase</string>
+	<key>labelIncludeStrategy</key>
+	<string>entityStyleLeft</string>
+	<key>pinchableSpriteTransparency</key>
+	<string>instructionAlongContext</string>
+	<key>responseFacadeAcceleration</key>
+	<string>rectStyleTop</string>
+	<key>taskParamContrast</key>
+	<string>repositoryExceptMediator</string>
+	<key>texturePerVariable</key>
+	<string>gridviewThroughParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActivityTheme</key>
+	<string>intermediateButtonColor</string>
+	<key>delicateCaptionPosition</key>
+	<string>containerAroundBridge</string>
+	<key>fragmentAsShape</key>
+	<string>widgetPrototypeCoord</string>
+	<key>functionalCurveType</key>
+	<string>responsiveLabelCoord</string>
+	<key>modelSystemBehavior</key>
+	<string>characterPhaseName</string>
+	<key>resilientStorageLeft</key>
+	<string>fixedUsecaseEdge</string>
+	<key>staticAllocatorSpacing</key>
+	<string>sliderScopeVisible</string>
+	<key>usageParameterInset</key>
+	<string>statefulAlertInterval</string>
+</dict>
+</plist>

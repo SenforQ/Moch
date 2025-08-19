@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResourceOffset</key>
+	<string>graphicPerWork</string>
+	<key>baseShapeTransparency</key>
+	<string>concreteMobxBound</string>
+	<key>effectThroughMode</key>
+	<string>disabledButtonResponse</string>
+	<key>explicitStatefulPressure</key>
+	<string>flexDuringMediator</string>
+	<key>responseParamMargin</key>
+	<string>cursorScopePosition</string>
+	<key>topicBesideState</key>
+	<string>metadataFromValue</string>
+	<key>usecaseForState</key>
+	<string>flexiblePetRate</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGrainOpacity</key>
+	<string>permanentHashIndex</string>
+	<key>effectTierRight</key>
+	<string>profileStateVisibility</string>
+	<key>factoryNumberFrequency</key>
+	<string>interactiveUtilHue</string>
+	<key>particleCycleAcceleration</key>
+	<string>animationAndEnvironment</string>
+	<key>providerBridgeTint</key>
+	<string>textFormDensity</string>
+	<key>standaloneSpineFormat</key>
+	<string>controllerVersusPrototype</string>
+</dict>
+</plist>

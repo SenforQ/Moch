@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionForState</key>
+	<string>globalBoxBorder</string>
+	<key>concurrentMapSkewy</key>
+	<string>clipperContainVisitor</string>
+	<key>promiseModeTint</key>
+	<string>taskOperationHue</string>
+	<key>spineStrategyTransparency</key>
+	<string>asyncCommandFeedback</string>
+	<key>spriteContainDecorator</key>
+	<string>typicalHandlerTag</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandModeSpacing</key>
+	<string>gridBeyondMode</string>
+	<key>composableLoopHue</key>
+	<string>requestFormFrequency</string>
+	<key>cupertinoContractionPadding</key>
+	<string>seamlessStreamType</string>
+	<key>isolateBridgeScale</key>
+	<string>transitionVisitorType</string>
+	<key>nodeStructureBound</key>
+	<string>explicitCursorHue</string>
+	<key>sinkDecoratorTail</key>
+	<string>modalTaskScale</string>
+	<key>streamChainMode</key>
+	<string>nodePerComposite</string>
+</dict>
+</plist>

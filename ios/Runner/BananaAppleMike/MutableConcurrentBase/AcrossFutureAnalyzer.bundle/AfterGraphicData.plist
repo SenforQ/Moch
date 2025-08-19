@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalPlaybackOrientation</key>
+	<string>persistentPresenterHue</string>
+	<key>ignoredAnimatedcontainerFeedback</key>
+	<string>prismaticGroupDelay</string>
+	<key>pageviewMediatorCount</key>
+	<string>ignoredSlashInteraction</string>
+	<key>promisePlatformAcceleration</key>
+	<string>usageActionVelocity</string>
+	<key>relationalEffectColor</key>
+	<string>multiplicationShapePressure</string>
+	<key>sizedboxParamSize</key>
+	<string>symmetricSubscriptionSkewy</string>
+</dict>
+</plist>

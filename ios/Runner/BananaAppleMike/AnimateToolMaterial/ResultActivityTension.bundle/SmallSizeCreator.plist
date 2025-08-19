@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionUntilCycle</key>
+	<string>allocatorOperationStyle</string>
+	<key>cupertinoDependencyRate</key>
+	<string>sinkAgainstSystem</string>
+	<key>extensionByCycle</key>
+	<string>lostBatchInterval</string>
+	<key>immutableChannelsRotation</key>
+	<string>composableTweenDensity</string>
+	<key>profileOperationSpacing</key>
+	<string>vectorLikeType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParamName</key>
+	<string>alertAndLayer</string>
+	<key>commandOrNumber</key>
+	<string>geometricMenuShade</string>
+	<key>missionPrototypeSpacing</key>
+	<string>sharedSkinPosition</string>
+	<key>tangentSystemMode</key>
+	<string>viewBufferAcceleration</string>
+	<key>textureThroughProxy</key>
+	<string>granularSwitchPosition</string>
+</dict>
+</plist>

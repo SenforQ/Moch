@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAwayStyle</key>
+	<string>similarCubitDensity</string>
+	<key>configurationFunctionAlignment</key>
+	<string>textureAndLevel</string>
+	<key>effectVersusMediator</key>
+	<string>lostAlertPosition</string>
+	<key>integerDespiteVar</key>
+	<string>binaryFlyweightBrightness</string>
+	<key>nextGrayscaleDensity</key>
+	<string>sceneOfState</string>
+	<key>semanticExponentOpacity</key>
+	<string>ternaryPrototypeTransparency</string>
+	<key>significantListenerSaturation</key>
+	<string>menuModeSize</string>
+	<key>spriteVersusMode</key>
+	<string>documentPatternVelocity</string>
+</dict>
+</plist>

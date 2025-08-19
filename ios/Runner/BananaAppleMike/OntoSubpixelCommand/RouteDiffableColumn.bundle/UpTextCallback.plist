@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxKindVisibility</key>
+	<string>stepWithoutWork</string>
+	<key>scaffoldActivityInteraction</key>
+	<string>usedCurveKind</string>
+	<key>sliderAsSingleton</key>
+	<string>scrollAroundInterpreter</string>
+	<key>symmetricTopicStyle</key>
+	<string>timerAndStage</string>
+	<key>themeAdapterTag</key>
+	<string>tableVersusOperation</string>
+</dict>
+</plist>

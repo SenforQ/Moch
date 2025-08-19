@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProviderVisibility</key>
+	<string>dialogsWithParam</string>
+	<key>behaviorCommandState</key>
+	<string>beginnerPresenterCenter</string>
+	<key>routeInsideTier</key>
+	<string>materialListenerRotation</string>
+	<key>semanticsProxyBehavior</key>
+	<string>directlyTimerOffset</string>
+</dict>
+</plist>

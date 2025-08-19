@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTierCenter</key>
+	<string>metadataLikeMediator</string>
+	<key>lazyInterpolationValidation</key>
+	<string>oldStreamState</string>
+	<key>offsetVisitorSkewy</key>
+	<string>backwardCommandAcceleration</string>
+</dict>
+</plist>

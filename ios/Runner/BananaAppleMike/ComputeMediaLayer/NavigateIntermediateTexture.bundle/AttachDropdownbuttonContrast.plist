@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMediatorSpeed</key>
+	<string>animationMementoSkewx</string>
+	<key>constRouteInteraction</key>
+	<string>asynchronousLogTransparency</string>
+	<key>descriptionInWork</key>
+	<string>prevCubitVelocity</string>
+	<key>hashInProcess</key>
+	<string>previewPerCycle</string>
+	<key>intuitiveTransformerMargin</key>
+	<string>alphaAsNumber</string>
+	<key>lastStreamResponse</key>
+	<string>queryExceptFacade</string>
+	<key>sensorBesideMemento</key>
+	<string>providerCompositeTag</string>
+</dict>
+</plist>

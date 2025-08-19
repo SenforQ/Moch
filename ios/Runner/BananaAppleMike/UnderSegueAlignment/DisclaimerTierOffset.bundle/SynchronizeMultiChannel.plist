@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCoordinatorFlags</key>
+	<string>persistentSkirtBrightness</string>
+	<key>allocatorBufferOffset</key>
+	<string>beginnerMetadataSpeed</string>
+	<key>granularExpandedSkewx</key>
+	<string>graphTierVelocity</string>
+	<key>interactorDecoratorSkewy</key>
+	<string>themeJobContrast</string>
+	<key>largeCompleterSaturation</key>
+	<string>mediaqueryBridgeBound</string>
+	<key>notificationStageInterval</key>
+	<string>descriptionVisitorFeedback</string>
+	<key>previewNearFacade</key>
+	<string>interactorVersusComposite</string>
+	<key>reductionAdapterBehavior</key>
+	<string>accordionGridviewDensity</string>
+	<key>skirtDespiteProxy</key>
+	<string>granularConstraintTension</string>
+	<key>widgetBufferCount</key>
+	<string>layerExceptState</string>
+</dict>
+</plist>

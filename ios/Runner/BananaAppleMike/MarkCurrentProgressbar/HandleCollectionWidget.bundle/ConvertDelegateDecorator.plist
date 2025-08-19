@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionFrameworkDirection</key>
+	<string>observerOrBridge</string>
+	<key>gesturedetectorByVisitor</key>
+	<string>unaryOfChain</string>
+	<key>rectDecoratorEdge</key>
+	<string>sharedStoreVelocity</string>
+	<key>resourceSystemAppearance</key>
+	<string>crudeIsolateLocation</string>
+	<key>rowExceptStrategy</key>
+	<string>awaitStageInterval</string>
+</dict>
+</plist>

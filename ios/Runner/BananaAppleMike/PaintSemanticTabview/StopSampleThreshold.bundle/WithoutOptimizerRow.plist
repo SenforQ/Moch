@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackObserverTail</key>
+	<string>scrollableRequestOrientation</string>
+	<key>containerProxyRate</key>
+	<string>topicValueDelay</string>
+	<key>delegateForNumber</key>
+	<string>opaqueSliderResponse</string>
+	<key>ignoredBatchVisible</key>
+	<string>navigatorFrameworkVisibility</string>
+	<key>imageTypeCount</key>
+	<string>lastObserverRotation</string>
+	<key>reducerCycleStyle</key>
+	<string>techniqueThroughFacade</string>
+</dict>
+</plist>

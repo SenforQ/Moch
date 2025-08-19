@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTaskTheme</key>
+	<string>gemFromLayer</string>
+	<key>layoutScopeContrast</key>
+	<string>basicTopicForce</string>
+	<key>semanticRectMargin</key>
+	<string>mobileStageRight</string>
+	<key>viewFlyweightTop</key>
+	<string>reducerWithPattern</string>
+</dict>
+</plist>

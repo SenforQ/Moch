@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constPopupLeft</key>
+	<string>spotContainStage</string>
+	<key>hyperbolicSliderSaturation</key>
+	<string>inheritedSingletonColor</string>
+	<key>interactivePointValidation</key>
+	<string>cursorAsState</string>
+	<key>isolateMementoSpacing</key>
+	<string>alignmentAlongMediator</string>
+	<key>iterativeAxisTheme</key>
+	<string>chapterForPrototype</string>
+	<key>mobileSystemShape</key>
+	<string>specifierContainForm</string>
+	<key>sensorThanPlatform</key>
+	<string>cupertinoChainColor</string>
+	<key>statefulWidgetOffset</key>
+	<string>prismaticRectStatus</string>
+</dict>
+</plist>

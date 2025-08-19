@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMaterialOrientation</key>
+	<string>autoResultRate</string>
+	<key>gestureUntilFacade</key>
+	<string>liteBufferEdge</string>
+	<key>petPrototypePadding</key>
+	<string>statefulChannelInset</string>
+	<key>singletonChainDirection</key>
+	<string>progressbarParameterInset</string>
+	<key>swiftWithParameter</key>
+	<string>optionDuringVariable</string>
+	<key>threadContextSpacing</key>
+	<string>discardedSwiftOrientation</string>
+	<key>viewParameterMomentum</key>
+	<string>checkboxAmongStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonUntilShape</key>
+	<string>interfaceKindDuration</string>
+	<key>delegateAdapterHue</key>
+	<string>crudeTransitionOrigin</string>
+	<key>delegateFlyweightAlignment</key>
+	<string>spotBufferVisible</string>
+	<key>entropyFormAppearance</key>
+	<string>taskBufferSpeed</string>
+	<key>gridviewBeyondFramework</key>
+	<string>materialActionDuration</string>
+	<key>persistentPositionTop</key>
+	<string>customStoreFrequency</string>
+	<key>promiseLikeFunction</key>
+	<string>semanticServiceBound</string>
+	<key>sinkAwayFramework</key>
+	<string>tickerViaForm</string>
+	<key>tabbarBufferType</key>
+	<string>usageAndType</string>
+</dict>
+</plist>

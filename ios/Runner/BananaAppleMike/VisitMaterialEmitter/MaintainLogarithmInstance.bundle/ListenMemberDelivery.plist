@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseSystemDuration</key>
+	<string>alertInTier</string>
+	<key>configurationEnvironmentFeedback</key>
+	<string>tappableErrorEdge</string>
+	<key>draggableButtonShade</key>
+	<string>reusableSkinMargin</string>
+	<key>futureNumberPressure</key>
+	<string>factoryVisitorColor</string>
+	<key>metadataStateAppearance</key>
+	<string>smallPrecisionVisibility</string>
+	<key>mutableGraphDepth</key>
+	<string>customizedTaskSkewy</string>
+</dict>
+</plist>

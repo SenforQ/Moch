@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBehaviorBottom</key>
+	<string>routeOperationTint</string>
+	<key>completerVarTransparency</key>
+	<string>gestureValueDuration</string>
+	<key>disabledEffectInset</key>
+	<string>normalRowBound</string>
+	<key>immediateAnimatedcontainerFlags</key>
+	<string>liteCellSkewx</string>
+	<key>largeLayerFlags</key>
+	<string>beginnerThreadTail</string>
+	<key>nativeApertureDelay</key>
+	<string>activeLabelDelay</string>
+	<key>textThanPlatform</key>
+	<string>titleWithFlyweight</string>
+	<key>themeSingletonPosition</key>
+	<string>layerLayerHue</string>
+	<key>visiblePositionedVelocity</key>
+	<string>drawerActivityInset</string>
+</dict>
+</plist>

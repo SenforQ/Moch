@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWithoutSystem</key>
+	<string>interactorViaScope</string>
+	<key>blocExceptPattern</key>
+	<string>mediaStrategyTag</string>
+	<key>lossContextSpeed</key>
+	<string>semanticChapterResponse</string>
+	<key>slashAroundActivity</key>
+	<string>navigatorParamMode</string>
+	<key>sliderBridgeFlags</key>
+	<string>hierarchicalCoordinatorHue</string>
+	<key>stackContainValue</key>
+	<string>textureCycleFrequency</string>
+	<key>stateVisitorStatus</key>
+	<string>chartFunctionLocation</string>
+	<key>visibleRepositoryFlags</key>
+	<string>taskOutsideMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandFacadeIndex</key>
+	<string>channelsWorkStyle</string>
+	<key>lazyPrecisionSpacing</key>
+	<string>scaffoldAlongStructure</string>
+	<key>observerActionType</key>
+	<string>multiMetadataTop</string>
+	<key>pinchableSliderContrast</key>
+	<string>uniquePositionedDirection</string>
+	<key>semanticAssetDensity</key>
+	<string>completerLayerIndex</string>
+	<key>statelessAboutSingleton</key>
+	<string>clipperFlyweightAlignment</string>
+	<key>subscriptionOutsideJob</key>
+	<string>tabbarChainRotation</string>
+	<key>ternaryStateTint</key>
+	<string>reactiveMobileOrigin</string>
+</dict>
+</plist>

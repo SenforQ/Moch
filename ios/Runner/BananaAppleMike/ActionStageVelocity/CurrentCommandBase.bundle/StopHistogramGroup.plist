@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderSystemPressure</key>
+	<string>layoutStylePressure</string>
+	<key>lazyMediaOpacity</key>
+	<string>lazyGridviewInteraction</string>
+	<key>robustNodeMode</key>
+	<string>bufferStyleTheme</string>
+	<key>shaderValueValidation</key>
+	<string>activeTabbarCenter</string>
+	<key>singletonActivityHue</key>
+	<string>semanticsForParam</string>
+	<key>subtlePositionedShade</key>
+	<string>mapBridgeKind</string>
+	<key>taskValueStyle</key>
+	<string>storeInterpreterAlignment</string>
+	<key>timerDespiteWork</key>
+	<string>challengePhaseInteraction</string>
+</dict>
+</plist>

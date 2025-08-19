@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushStrategyCoord</key>
+	<string>themeCycleBehavior</string>
+	<key>currentInstructionInteraction</key>
+	<string>requestAsSingleton</string>
+	<key>frameCycleTransparency</key>
+	<string>nodeParamSpeed</string>
+	<key>layoutAboutPhase</key>
+	<string>disabledRepositoryType</string>
+	<key>rowPerStage</key>
+	<string>extensionBeyondBuffer</string>
+	<key>sineAlongPattern</key>
+	<string>curveBesideParameter</string>
+</dict>
+</plist>

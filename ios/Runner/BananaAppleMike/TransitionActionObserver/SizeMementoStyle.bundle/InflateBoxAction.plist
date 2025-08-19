@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateInsideTier</key>
+	<string>heapAboutStage</string>
+	<key>descriptorOfFramework</key>
+	<string>storyboardFacadeInterval</string>
+	<key>mediumLayoutInset</key>
+	<string>drawerVariableEdge</string>
+	<key>offsetStateFeedback</key>
+	<string>rectMethodResponse</string>
+	<key>statePerKind</key>
+	<string>typicalMapVelocity</string>
+	<key>tickerContextOffset</key>
+	<string>alignmentObserverAcceleration</string>
+	<key>transitionValueCenter</key>
+	<string>ternaryKindKind</string>
+</dict>
+</plist>

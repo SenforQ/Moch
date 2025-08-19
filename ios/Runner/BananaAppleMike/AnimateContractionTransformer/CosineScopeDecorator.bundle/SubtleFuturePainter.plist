@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAtJob</key>
+	<string>statefulChartTheme</string>
+	<key>dimensionTierDirection</key>
+	<string>alphaDecoratorDirection</string>
+	<key>interpolationFunctionBrightness</key>
+	<string>notificationAtBridge</string>
+	<key>pinchableHeapMode</key>
+	<string>timerInterpreterPosition</string>
+	<key>progressbarDuringParam</key>
+	<string>binaryJobName</string>
+	<key>semanticsPhaseValidation</key>
+	<string>documentWorkSize</string>
+</dict>
+</plist>

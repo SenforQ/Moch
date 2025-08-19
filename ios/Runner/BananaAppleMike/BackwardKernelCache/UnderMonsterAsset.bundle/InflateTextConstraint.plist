@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorMethodIndex</key>
+	<string>reactiveManagerBrightness</string>
+	<key>anchorOfType</key>
+	<string>screenFromComposite</string>
+	<key>eagerInterfaceVisible</key>
+	<string>catalystLevelBound</string>
+	<key>fragmentLevelForce</key>
+	<string>parallelAnimationAlignment</string>
+	<key>listenerOutsideValue</key>
+	<string>gridInMode</string>
+	<key>menuDuringMethod</key>
+	<string>textMethodStyle</string>
+	<key>segueContextAcceleration</key>
+	<string>observerSingletonState</string>
+	<key>semanticActivityVelocity</key>
+	<string>animatedcontainerFacadeDensity</string>
+</dict>
+</plist>

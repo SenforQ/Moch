@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAdapterScale</key>
+	<string>masterActivityCenter</string>
+	<key>liteChartFrequency</key>
+	<string>lazyStepDelay</string>
+	<key>singletonThroughObserver</key>
+	<string>denseEntityShade</string>
+	<key>toolValueFlags</key>
+	<string>autoCoordinatorOrientation</string>
+</dict>
+</plist>

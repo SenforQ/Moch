@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerStageOffset</key>
+	<string>constNavigatorDensity</string>
+	<key>hashFrameworkName</key>
+	<string>primaryCubitMargin</string>
+	<key>managerNumberBehavior</key>
+	<string>coordinatorAsAction</string>
+	<key>painterFromProxy</key>
+	<string>movementProxyInteraction</string>
+	<key>requestAlongChain</key>
+	<string>animationParamFormat</string>
+	<key>taskBeyondState</key>
+	<string>queueBesideFunction</string>
+	<key>transformerModeFrequency</key>
+	<string>popupLayerLeft</string>
+</dict>
+</plist>

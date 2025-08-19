@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDelegateHead</key>
+	<string>resultByAction</string>
+	<key>baselineOperationSaturation</key>
+	<string>semanticCharacterDistance</string>
+	<key>buttonMediatorInset</key>
+	<string>widgetActivityBehavior</string>
+	<key>hardPainterAcceleration</key>
+	<string>protocolMementoFeedback</string>
+	<key>histogramAgainstInterpreter</key>
+	<string>borderKindMargin</string>
+	<key>instructionLikeStyle</key>
+	<string>navigatorFromLayer</string>
+	<key>providerThanActivity</key>
+	<string>criticalInkwellStyle</string>
+	<key>responseVarTint</key>
+	<string>advancedRouteForce</string>
+</dict>
+</plist>

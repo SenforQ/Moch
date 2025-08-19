@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCommandScale</key>
+	<string>notifierTempleBrightness</string>
+	<key>blocAwayVariable</key>
+	<string>rolePrototypeFeedback</string>
+	<key>localWidgetSkewy</key>
+	<string>menuStateRotation</string>
+	<key>lossWithCycle</key>
+	<string>unactivatedMethodDepth</string>
+	<key>significantDescriptionCount</key>
+	<string>publicAccessoryRight</string>
+	<key>skirtModeCount</key>
+	<string>modelLevelStyle</string>
+	<key>usecaseLikeStyle</key>
+	<string>signatureValueFlags</string>
+</dict>
+</plist>

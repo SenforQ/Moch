@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableProjectBehavior</key>
+	<string>modalVariableSaturation</string>
+	<key>concurrentCurveState</key>
+	<string>activeLoopOffset</string>
+	<key>eventInStructure</key>
+	<string>errorStagePadding</string>
+	<key>stackProxySize</key>
+	<string>advancedSingletonBehavior</string>
+	<key>symbolAlongDecorator</key>
+	<string>signatureInterpreterSpeed</string>
+	<key>tweenShapeDepth</key>
+	<string>variantObserverTransparency</string>
+	<key>widgetInNumber</key>
+	<string>managerAlongScope</string>
+</dict>
+</plist>

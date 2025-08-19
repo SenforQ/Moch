@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBlocName</key>
+	<string>cursorBeyondScope</string>
+	<key>declarativePreviewOpacity</key>
+	<string>lostCoordinatorContrast</string>
+	<key>heroVarCenter</key>
+	<string>invisibleCompleterPadding</string>
+	<key>seamlessFactoryFeedback</key>
+	<string>particleJobRotation</string>
+	<key>streamTypeIndex</key>
+	<string>signatureExceptCommand</string>
+</dict>
+</plist>

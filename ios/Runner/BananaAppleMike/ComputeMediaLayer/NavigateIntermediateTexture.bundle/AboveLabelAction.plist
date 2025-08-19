@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateWithoutActivity</key>
+	<string>callbackIncludeShape</string>
+	<key>difficultActionDirection</key>
+	<string>standaloneDimensionOffset</string>
+	<key>exponentAgainstShape</key>
+	<string>animationVarOrigin</string>
+	<key>movementWithFlyweight</key>
+	<string>mobileGridOffset</string>
+	<key>positionedIncludeType</key>
+	<string>substantialVectorValidation</string>
+	<key>queueAsCommand</key>
+	<string>getxViaInterpreter</string>
+</dict>
+</plist>

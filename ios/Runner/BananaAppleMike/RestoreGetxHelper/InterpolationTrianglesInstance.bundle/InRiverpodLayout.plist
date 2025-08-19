@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowFormTheme</key>
+	<string>symmetricResponseShade</string>
+	<key>eagerDialogsSpeed</key>
+	<string>tabbarNumberBottom</string>
+	<key>equalizationCycleInteraction</key>
+	<string>requestAsScope</string>
+	<key>zoneTypeType</key>
+	<string>draggableSkirtEdge</string>
+</dict>
+</plist>

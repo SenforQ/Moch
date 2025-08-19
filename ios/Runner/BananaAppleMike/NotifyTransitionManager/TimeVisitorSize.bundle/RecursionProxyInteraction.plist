@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyStorageVelocity</key>
+	<string>bitratePerScope</string>
+	<key>menuVarKind</key>
+	<string>staticEventContrast</string>
+	<key>popupShapeRight</key>
+	<string>curveBridgeStatus</string>
+	<key>responseJobResponse</key>
+	<string>statefulDelegateValidation</string>
+	<key>sizeAtNumber</key>
+	<string>visibleNavigationResponse</string>
+	<key>titleAwayDecorator</key>
+	<string>unarySystemBound</string>
+	<key>unactivatedAnimatedcontainerEdge</key>
+	<string>hardDescriptionBorder</string>
+	<key>usedLoopFrequency</key>
+	<string>delegateViaStrategy</string>
+</dict>
+</plist>

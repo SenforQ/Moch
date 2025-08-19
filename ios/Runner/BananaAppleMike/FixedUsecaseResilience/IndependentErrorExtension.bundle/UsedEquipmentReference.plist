@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerExceptAction</key>
+	<string>animatedLocalizationBrightness</string>
+	<key>flexiblePointContrast</key>
+	<string>lossAwayProxy</string>
+	<key>interactiveCallbackTint</key>
+	<string>delegateMediatorSkewx</string>
+	<key>providerPlatformStatus</key>
+	<string>activatedOptionValidation</string>
+	<key>routerStageFeedback</key>
+	<string>roleFlyweightOffset</string>
+</dict>
+</plist>

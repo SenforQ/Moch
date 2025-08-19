@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardViewFeedback</key>
+	<string>mobileCharacterMargin</string>
+	<key>fusedProfileBrightness</key>
+	<string>intuitiveGridFlags</string>
+	<key>gridviewTypeSaturation</key>
+	<string>boxMementoName</string>
+	<key>resizableGrainContrast</key>
+	<string>symbolVarDuration</string>
+	<key>seamlessContainerValidation</key>
+	<string>dynamicFrameTheme</string>
+	<key>symmetricModelSkewx</key>
+	<string>hyperbolicCallbackTail</string>
+	<key>tangentInterpreterSkewy</key>
+	<string>inheritedScrollDirection</string>
+</dict>
+</plist>

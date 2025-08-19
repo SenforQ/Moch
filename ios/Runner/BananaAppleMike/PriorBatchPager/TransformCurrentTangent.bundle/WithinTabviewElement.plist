@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchLayerInteraction</key>
+	<string>uniqueResolverAcceleration</string>
+	<key>convolutionActivityEdge</key>
+	<string>subpixelThanProcess</string>
+	<key>globalLocalizationOpacity</key>
+	<string>eagerKernelTransparency</string>
+	<key>graphForStructure</key>
+	<string>eventWithCycle</string>
+	<key>injectionWithoutStrategy</key>
+	<string>curveModeHue</string>
+	<key>intensityModeResponse</key>
+	<string>discardedGroupStatus</string>
+	<key>materialSizeDistance</key>
+	<string>reductionNumberSkewy</string>
+	<key>titleActivityScale</key>
+	<string>methodBesideParam</string>
+</dict>
+</plist>

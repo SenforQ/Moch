@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAroundProcess</key>
+	<string>missionPhaseSaturation</string>
+	<key>cycleParameterFrequency</key>
+	<string>radiusAgainstCommand</string>
+	<key>explicitContractionAcceleration</key>
+	<string>explicitFeatureFlags</string>
+	<key>featureBridgeSize</key>
+	<string>gridKindSpacing</string>
+	<key>isolateStageVisibility</key>
+	<string>usedSliderType</string>
+	<key>nibForAdapter</key>
+	<string>interactiveCanvasInterval</string>
+	<key>projectionThroughDecorator</key>
+	<string>interfaceExceptComposite</string>
+	<key>sortedManagerDirection</key>
+	<string>statefulCompositeSpacing</string>
+	<key>techniqueForObserver</key>
+	<string>tabviewIncludeComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianModelFlags</key>
+	<string>activityFunctionForce</string>
+	<key>featureBridgeAcceleration</key>
+	<string>coordinatorByLevel</string>
+	<key>interfaceProcessVelocity</key>
+	<string>desktopMatrixDirection</string>
+	<key>momentumStructureBehavior</key>
+	<string>intuitiveCapacitiesDensity</string>
+	<key>serviceAgainstPattern</key>
+	<string>routeAgainstParameter</string>
+	<key>staticSinkInset</key>
+	<string>remainderBufferForce</string>
+	<key>vectorInsideDecorator</key>
+	<string>sizeAmongVar</string>
+</dict>
+</plist>

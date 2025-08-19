@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVarPadding</key>
+	<string>customMediaqueryType</string>
+	<key>playbackInDecorator</key>
+	<string>crudeUsageTop</string>
+	<key>tangentExceptLevel</key>
+	<string>positionedPerFlyweight</string>
+</dict>
+</plist>

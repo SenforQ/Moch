@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsTypeFlags</key>
+	<string>visibleSampleInset</string>
+	<key>desktopResponseCount</key>
+	<string>widgetWithVar</string>
+	<key>navigatorOperationSkewy</key>
+	<string>consultativeRoleFeedback</string>
+	<key>parallelFrameRate</key>
+	<string>titleWithoutLayer</string>
+	<key>positionedOrJob</key>
+	<string>themeAroundTask</string>
+	<key>unactivatedSlashVelocity</key>
+	<string>exceptionAboutMemento</string>
+</dict>
+</plist>

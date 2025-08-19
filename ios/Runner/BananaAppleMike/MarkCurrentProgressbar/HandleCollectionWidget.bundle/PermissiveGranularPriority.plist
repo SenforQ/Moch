@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTierInteraction</key>
+	<string>currentOverlayName</string>
+	<key>channelChainFormat</key>
+	<string>lossPrototypeDirection</string>
+	<key>constraintDuringSingleton</key>
+	<string>effectOrBuffer</string>
+	<key>displayableCheckboxFlags</key>
+	<string>otherStreamVelocity</string>
+	<key>flexibleLayoutBehavior</key>
+	<string>integerLevelTop</string>
+	<key>independentLayoutCoord</key>
+	<string>streamVarTail</string>
+	<key>painterIncludeActivity</key>
+	<string>singleGridviewValidation</string>
+</dict>
+</plist>

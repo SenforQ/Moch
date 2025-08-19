@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedInPattern</key>
+	<string>signatureValueFeedback</string>
+	<key>isolateAboutParameter</key>
+	<string>timerAlongMediator</string>
+	<key>storyboardOfActivity</key>
+	<string>completionAboutNumber</string>
+</dict>
+</plist>

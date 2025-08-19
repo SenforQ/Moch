@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorContainChain</key>
+	<string>tickerStageBehavior</string>
+	<key>builderChainSkewy</key>
+	<string>interfaceBesideVar</string>
+	<key>commonNibContrast</key>
+	<string>timerCommandFeedback</string>
+	<key>containerFrameworkShade</key>
+	<string>largeCellLocation</string>
+	<key>delegateActivityBound</key>
+	<string>topicStructureForce</string>
+	<key>durationMethodOrigin</key>
+	<string>convolutionObserverBrightness</string>
+	<key>instructionModePosition</key>
+	<string>requiredObserverInteraction</string>
+	<key>pinchableSkirtFlags</key>
+	<string>mediaFunctionBorder</string>
+</dict>
+</plist>

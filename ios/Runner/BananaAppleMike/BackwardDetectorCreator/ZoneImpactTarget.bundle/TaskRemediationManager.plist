@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAndStyle</key>
+	<string>blocDuringPlatform</string>
+	<key>beginnerAlignmentBehavior</key>
+	<string>bulletVersusEnvironment</string>
+	<key>channelSingletonDistance</key>
+	<string>agileInterfaceSkewx</string>
+	<key>cubitContextLeft</key>
+	<string>skinInterpreterHead</string>
+	<key>granularMonsterAlignment</key>
+	<string>permissiveSymbolCoord</string>
+	<key>modalCycleTop</key>
+	<string>synchronousUsageDistance</string>
+	<key>publicUnaryInteraction</key>
+	<string>activeBoxBehavior</string>
+	<key>radiusOfMode</key>
+	<string>intuitiveSliderMomentum</string>
+	<key>sharedQueryCoord</key>
+	<string>crudeStampRate</string>
+</dict>
+</plist>

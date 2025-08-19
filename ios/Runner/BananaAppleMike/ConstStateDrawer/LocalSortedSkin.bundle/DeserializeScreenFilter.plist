@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransitionLocation</key>
+	<string>displayableTransitionName</string>
+	<key>adaptiveMetadataSkewy</key>
+	<string>requestAmongState</string>
+	<key>boxshadowOfState</key>
+	<string>responseLayerSize</string>
+	<key>delicateFrameValidation</key>
+	<string>webCubitSkewy</string>
+	<key>materialCycleContrast</key>
+	<string>progressbarThanContext</string>
+	<key>projectionPrototypeDepth</key>
+	<string>utilActionShape</string>
+	<key>providerIncludeMediator</key>
+	<string>draggableGemOpacity</string>
+	<key>temporaryInstructionDuration</key>
+	<string>euclideanSymbolSize</string>
+	<key>tweenAboutFunction</key>
+	<string>signFormLocation</string>
+</dict>
+</plist>

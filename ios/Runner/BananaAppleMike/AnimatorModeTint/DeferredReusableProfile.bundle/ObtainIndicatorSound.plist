@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAsyncOffset</key>
+	<string>blocContainCommand</string>
+	<key>compositionalUnaryFeedback</key>
+	<string>reducerByForm</string>
+	<key>descriptorOperationInterval</key>
+	<string>signatureAlongFlyweight</string>
+	<key>durationVersusSystem</key>
+	<string>switchMediatorType</string>
+	<key>liteExceptionStatus</key>
+	<string>disparateFutureBrightness</string>
+	<key>mobileOffsetInterval</key>
+	<string>chartTypeBottom</string>
+	<key>optionOfChain</key>
+	<string>granularLayoutIndex</string>
+	<key>presenterVersusKind</key>
+	<string>singletonInFacade</string>
+</dict>
+</plist>

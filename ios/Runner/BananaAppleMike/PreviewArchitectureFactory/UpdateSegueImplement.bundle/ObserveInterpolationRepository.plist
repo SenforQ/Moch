@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseVarRate</key>
+	<string>smartSpriteFrequency</string>
+	<key>boxPatternFrequency</key>
+	<string>mobilePhaseOrigin</string>
+	<key>cartesianResponseBound</key>
+	<string>resourceBufferAcceleration</string>
+	<key>controllerThanMode</key>
+	<string>concreteChapterTint</string>
+	<key>graphicSingletonDirection</key>
+	<string>borderNearBuffer</string>
+	<key>handlerBesideOperation</key>
+	<string>tabviewEnvironmentRotation</string>
+	<key>segueWorkValidation</key>
+	<string>specifierValueSpacing</string>
+	<key>streamOrType</key>
+	<string>autoNotifierKind</string>
+	<key>subpixelStateDistance</key>
+	<string>multiTickerSkewy</string>
+	<key>taskPerPattern</key>
+	<string>configurationExceptLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseSystemInteraction</key>
+	<string>layerDespitePattern</string>
+	<key>bitrateParamDistance</key>
+	<string>constraintByComposite</string>
+	<key>buttonProxyHead</key>
+	<string>significantLabelOpacity</string>
+	<key>interactorChainOpacity</key>
+	<string>nativeDescriptionColor</string>
+	<key>primaryGramVelocity</key>
+	<string>materialMapDensity</string>
+	<key>publicAllocatorTop</key>
+	<string>previewInsideAdapter</string>
+	<key>sizePlatformIndex</key>
+	<string>entityMediatorCenter</string>
+	<key>storageWithValue</key>
+	<string>routeAsCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStyleOrientation</key>
+	<string>tangentScopeTension</string>
+	<key>convolutionDuringShape</key>
+	<string>navigationVisitorInset</string>
+	<key>errorDespiteContext</key>
+	<string>cupertinoKindBehavior</string>
+	<key>gridAsInterpreter</key>
+	<string>columnInsideStyle</string>
+	<key>symbolPerValue</key>
+	<string>plateObserverTheme</string>
+	<key>webReductionStatus</key>
+	<string>animationAndVar</string>
+</dict>
+</plist>

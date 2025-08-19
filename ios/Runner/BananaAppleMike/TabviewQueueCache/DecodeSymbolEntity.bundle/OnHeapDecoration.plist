@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerModeOrigin</key>
+	<string>fragmentActivityOrigin</string>
+	<key>declarativeAsyncShade</key>
+	<string>radioViaStage</string>
+	<key>modulusSinceSystem</key>
+	<string>profileProxyShade</string>
+	<key>normAtAdapter</key>
+	<string>heapParameterDepth</string>
+	<key>positionAroundFacade</key>
+	<string>cursorContextRight</string>
+	<key>prevRadiusSize</key>
+	<string>compositionalEntropyBrightness</string>
+	<key>widgetFlyweightBehavior</key>
+	<string>musicScopeOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVisitorTheme</key>
+	<string>sampleVersusContext</string>
+	<key>checklistViaTier</key>
+	<string>streamNearValue</string>
+	<key>decorationAndLevel</key>
+	<string>histogramKindSpacing</string>
+	<key>displayableBulletCoord</key>
+	<string>specifyExpandedStyle</string>
+	<key>hierarchicalPositionDuration</key>
+	<string>scrollInsideFramework</string>
+	<key>materialDecoratorLocation</key>
+	<string>roleBeyondChain</string>
+	<key>notifierFromMediator</key>
+	<string>viewForForm</string>
+	<key>particleAmongFramework</key>
+	<string>resultTaskTint</string>
+	<key>serviceContextMargin</key>
+	<string>greatOptionPadding</string>
+	<key>unactivatedAwaitContrast</key>
+	<string>providerCommandContrast</string>
+</dict>
+</plist>

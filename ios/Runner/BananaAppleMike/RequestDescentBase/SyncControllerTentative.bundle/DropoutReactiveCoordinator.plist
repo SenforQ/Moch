@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonScopeDuration</key>
+	<string>responsiveGroupStatus</string>
+	<key>cellProcessDirection</key>
+	<string>clipperWithoutShape</string>
+	<key>featureInPrototype</key>
+	<string>tweenStageStatus</string>
+	<key>graphNearPattern</key>
+	<string>binaryOutsideStrategy</string>
+	<key>streamVisitorSpeed</key>
+	<string>positionForCommand</string>
+</dict>
+</plist>

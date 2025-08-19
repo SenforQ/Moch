@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilLayer</key>
+	<string>singletonStructureCount</string>
+	<key>concurrentFragmentHead</key>
+	<string>usecaseTaskSaturation</string>
+	<key>displayableAxisShade</key>
+	<string>masterLayerBottom</string>
+	<key>granularRowFrequency</key>
+	<string>tappableSineShape</string>
+	<key>immediateObserverMode</key>
+	<string>storeMementoSize</string>
+	<key>lostTopicPressure</key>
+	<string>musicAroundContext</string>
+	<key>momentumAlongChain</key>
+	<string>normalBaseTransparency</string>
+	<key>providerMethodFrequency</key>
+	<string>difficultSliderMode</string>
+</dict>
+</plist>

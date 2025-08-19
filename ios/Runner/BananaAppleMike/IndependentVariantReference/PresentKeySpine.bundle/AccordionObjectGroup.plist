@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPatternAcceleration</key>
+	<string>behaviorProcessVisibility</string>
+	<key>easyIntensityFormat</key>
+	<string>spriteVariableSpeed</string>
+	<key>immutableMethodInteraction</key>
+	<string>equipmentViaValue</string>
+	<key>iterativeObserverStatus</key>
+	<string>layerIncludeLayer</string>
+	<key>modulusSinceMethod</key>
+	<string>newestBufferPressure</string>
+	<key>respectiveSliderIndex</key>
+	<string>newestCurveSpacing</string>
+	<key>robustDecorationBound</key>
+	<string>mainLogBorder</string>
+	<key>singletonNumberPosition</key>
+	<string>clipperPlatformVelocity</string>
+</dict>
+</plist>

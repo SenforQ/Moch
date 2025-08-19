@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStateEdge</key>
+	<string>drawerOutsideStructure</string>
+	<key>commandFrameworkTop</key>
+	<string>lastConstraintShade</string>
+	<key>controllerOfPlatform</key>
+	<string>timerContainStructure</string>
+	<key>multiViewCenter</key>
+	<string>backwardBaseCenter</string>
+	<key>responseSystemVisibility</key>
+	<string>repositoryInterpreterOrigin</string>
+	<key>touchWithMediator</key>
+	<string>presenterContextCenter</string>
+	<key>tweenSinceSingleton</key>
+	<string>giftAboutProcess</string>
+</dict>
+</plist>

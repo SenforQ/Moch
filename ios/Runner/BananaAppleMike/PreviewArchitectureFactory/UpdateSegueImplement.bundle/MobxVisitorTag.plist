@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBufferTheme</key>
+	<string>usecaseAtFacade</string>
+	<key>capacitiesWithCycle</key>
+	<string>fusedLayoutDirection</string>
+	<key>nextAlignmentLeft</key>
+	<string>dialogsOperationStyle</string>
+	<key>scenePerMemento</key>
+	<string>temporaryAspectVisible</string>
+	<key>sceneScopeInteraction</key>
+	<string>cubeVisitorOffset</string>
+	<key>sharedIntensityColor</key>
+	<string>easyNormLeft</string>
+	<key>transformerPlatformState</key>
+	<string>easyTextureTheme</string>
+</dict>
+</plist>

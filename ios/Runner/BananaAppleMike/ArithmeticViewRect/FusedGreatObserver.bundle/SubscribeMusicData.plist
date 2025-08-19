@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeFunctionDirection</key>
+	<string>crudeListenerLeft</string>
+	<key>cycleTypeRate</key>
+	<string>commandVersusStrategy</string>
+	<key>keyThemeLocation</key>
+	<string>frameAsAdapter</string>
+	<key>previewByShape</key>
+	<string>blocMementoLocation</string>
+	<key>sessionBeyondLevel</key>
+	<string>bulletLikeProxy</string>
+	<key>standaloneCurveTheme</key>
+	<string>stateStageBrightness</string>
+	<key>unsortedCycleOpacity</key>
+	<string>customTaskVisible</string>
+</dict>
+</plist>

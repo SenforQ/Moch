@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarValueSize</key>
+	<string>normActionVisibility</string>
+	<key>extensionAboutProxy</key>
+	<string>logTypeTransparency</string>
+	<key>metadataAlongComposite</key>
+	<string>permanentVariantTail</string>
+	<key>newestPreviewDistance</key>
+	<string>tweenMethodInset</string>
+	<key>nodeMethodColor</key>
+	<string>nodeExceptInterpreter</string>
+	<key>stackFromMode</key>
+	<string>isolateViaPrototype</string>
+</dict>
+</plist>

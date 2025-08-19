@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAmongComposite</key>
+	<string>lazyMasterName</string>
+	<key>eagerTitleRotation</key>
+	<string>enabledControllerLeft</string>
+	<key>factorySystemPressure</key>
+	<string>richtextShapeDistance</string>
+	<key>intuitiveTransitionFrequency</key>
+	<string>effectActionAppearance</string>
+	<key>invisibleMasterAlignment</key>
+	<string>activatedControllerAlignment</string>
+	<key>layoutTierMargin</key>
+	<string>dropdownbuttonContextAlignment</string>
+	<key>matrixAwayStyle</key>
+	<string>smartInterpolationAlignment</string>
+	<key>navigatorDuringComposite</key>
+	<string>customizedPromiseShape</string>
+	<key>routeParamDirection</key>
+	<string>signatureStyleMomentum</string>
+</dict>
+</plist>

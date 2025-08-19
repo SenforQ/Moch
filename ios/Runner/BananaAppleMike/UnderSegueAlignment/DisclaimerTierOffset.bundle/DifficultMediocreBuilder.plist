@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAroundScope</key>
+	<string>queueStrategyState</string>
+	<key>histogramDuringPrototype</key>
+	<string>scrollableDropdownbuttonColor</string>
+	<key>operationPlatformPosition</key>
+	<string>otherPageviewShade</string>
+	<key>paddingThanOperation</key>
+	<string>uniformHistogramColor</string>
+	<key>playbackValueShade</key>
+	<string>navigatorInterpreterSaturation</string>
+	<key>routerAlongActivity</key>
+	<string>symmetricBlocAppearance</string>
+	<key>singletonProxyColor</key>
+	<string>radiusSingletonDepth</string>
+	<key>tappableCompleterAlignment</key>
+	<string>agileSpineType</string>
+</dict>
+</plist>

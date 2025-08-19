@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeContext</key>
+	<string>desktopCallbackTension</string>
+	<key>descriptionContainMediator</key>
+	<string>layoutAsParameter</string>
+	<key>parallelStreamTransparency</key>
+	<string>listenerParamPadding</string>
+	<key>serviceByForm</key>
+	<string>errorSystemOrientation</string>
+	<key>threadAtSystem</key>
+	<string>channelsDuringMemento</string>
+	<key>threadOutsideSingleton</key>
+	<string>synchronousContainerSize</string>
+	<key>toolShapeInteraction</key>
+	<string>arithmeticLikeFlyweight</string>
+</dict>
+</plist>

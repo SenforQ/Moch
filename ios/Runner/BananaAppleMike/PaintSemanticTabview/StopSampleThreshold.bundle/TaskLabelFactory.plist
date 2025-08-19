@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBesideLayer</key>
+	<string>textfieldAgainstInterpreter</string>
+	<key>dialogsTierOrientation</key>
+	<string>disabledTransitionVelocity</string>
+	<key>responseKindOrigin</key>
+	<string>alignmentVisitorOpacity</string>
+	<key>skinAgainstFramework</key>
+	<string>commandStageFlags</string>
+	<key>stackByObserver</key>
+	<string>singletonActionTint</string>
+	<key>widgetFrameworkShape</key>
+	<string>asyncInkwellAppearance</string>
+	<key>zoneUntilNumber</key>
+	<string>actionAtTier</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeResponseDepth</key>
+	<string>interfacePrototypeBound</string>
+	<key>brushPlatformFrequency</key>
+	<string>mainSinkMargin</string>
+	<key>immutableSensorValidation</key>
+	<string>consumerPrototypeValidation</string>
+	<key>referenceUntilState</key>
+	<string>viewAwayBridge</string>
+	<key>singletonFromPhase</key>
+	<string>notifierProxyOrientation</string>
+	<key>touchWorkRotation</key>
+	<string>scrollInDecorator</string>
+</dict>
+</plist>

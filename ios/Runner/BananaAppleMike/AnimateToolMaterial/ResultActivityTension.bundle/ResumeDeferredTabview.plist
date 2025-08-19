@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicButtonSpeed</key>
+	<string>requiredRequestCount</string>
+	<key>interfacePatternBound</key>
+	<string>similarEffectVisibility</string>
+	<key>materialQueueDuration</key>
+	<string>equalizationPhaseDirection</string>
+	<key>radiusVersusProxy</key>
+	<string>sizeCommandStyle</string>
+	<key>sensorTempleDuration</key>
+	<string>resultWorkMomentum</string>
+	<key>similarEntityColor</key>
+	<string>resilientFeatureScale</string>
+</dict>
+</plist>

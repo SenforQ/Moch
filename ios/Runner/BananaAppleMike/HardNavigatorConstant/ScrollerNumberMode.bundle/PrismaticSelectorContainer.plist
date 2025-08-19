@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutCommand</key>
+	<string>animationViaLevel</string>
+	<key>basicStoreAppearance</key>
+	<string>commonPainterInteraction</string>
+	<key>buttonPrototypeBrightness</key>
+	<string>presenterNearNumber</string>
+	<key>sliderAdapterInteraction</key>
+	<string>criticalDecorationHue</string>
+	<key>sliderFrameworkKind</key>
+	<string>modelKindMargin</string>
+</dict>
+</plist>

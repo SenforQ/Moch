@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateSubpixelFlags</key>
+	<string>providerSystemResponse</string>
+	<key>invisibleHeapBorder</key>
+	<string>routeFromPlatform</string>
+	<key>signStructureDuration</key>
+	<string>statelessAboutLevel</string>
+	<key>storeFlyweightScale</key>
+	<string>nextDescriptionDepth</string>
+	<key>themeNearStrategy</key>
+	<string>routeChainTint</string>
+</dict>
+</plist>

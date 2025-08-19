@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionEnvironmentFormat</key>
+	<string>animationTypeCount</string>
+	<key>mainResultDensity</key>
+	<string>desktopModalScale</string>
+	<key>marginUntilMethod</key>
+	<string>deferredAlertCount</string>
+	<key>mobileAdapterType</key>
+	<string>roleAmongPhase</string>
+	<key>notifierAdapterOffset</key>
+	<string>sliderCycleCenter</string>
+	<key>painterAsValue</key>
+	<string>missionAgainstLayer</string>
+	<key>profileWithoutTask</key>
+	<string>characterModeKind</string>
+	<key>responseWithFunction</key>
+	<string>cacheFacadeForce</string>
+</dict>
+</plist>

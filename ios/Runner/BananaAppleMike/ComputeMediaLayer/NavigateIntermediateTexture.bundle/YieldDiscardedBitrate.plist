@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackIncludeScope</key>
+	<string>segueOfScope</string>
+	<key>customizedNodeTransparency</key>
+	<string>mediaMediatorPadding</string>
+	<key>extensionMediatorBound</key>
+	<string>progressbarBesideShape</string>
+	<key>ignoredDimensionStyle</key>
+	<string>nodeContextSkewy</string>
+	<key>sinkParameterVisibility</key>
+	<string>singleQueueVelocity</string>
+	<key>textProcessMargin</key>
+	<string>constTextureBehavior</string>
+	<key>viewContainForm</key>
+	<string>mobileProcessFormat</string>
+	<key>viewParamEdge</key>
+	<string>screenPatternName</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationInterpreterBehavior</key>
+	<string>zoneVersusStructure</string>
+	<key>documentAgainstKind</key>
+	<string>scrollableChapterSaturation</string>
+	<key>requiredParticleOrigin</key>
+	<string>temporaryCompleterRotation</string>
+	<key>smartStorageAppearance</key>
+	<string>globalTangentRight</string>
+	<key>stateAwayStyle</key>
+	<string>custompaintShapeLocation</string>
+	<key>subsequentDependencySpeed</key>
+	<string>layoutPhaseScale</string>
+</dict>
+</plist>

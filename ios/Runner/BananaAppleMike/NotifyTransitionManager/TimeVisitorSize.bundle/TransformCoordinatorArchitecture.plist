@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncModeEdge</key>
+	<string>inkwellWithoutJob</string>
+	<key>blocPhaseMode</key>
+	<string>builderLayerRate</string>
+	<key>bulletActionTheme</key>
+	<string>normalGesturePadding</string>
+	<key>gestureExceptPhase</key>
+	<string>catalystAsType</string>
+	<key>mediocreNavigatorMode</key>
+	<string>accordionHandlerTop</string>
+	<key>multiplicationDecoratorAppearance</key>
+	<string>containerAndBuffer</string>
+	<key>stateContextDuration</key>
+	<string>resizableQueryInterval</string>
+	<key>timerBufferVisible</key>
+	<string>petVariableOpacity</string>
+</dict>
+</plist>

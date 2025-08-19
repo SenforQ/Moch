@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectProcessInteraction</key>
+	<string>compositionalWidgetShade</string>
+	<key>euclideanPointType</key>
+	<string>geometricInteractorTransparency</string>
+	<key>lastChallengeState</key>
+	<string>retainedViewDistance</string>
+	<key>menuInsideFacade</key>
+	<string>nodeThroughSystem</string>
+	<key>providerVarDensity</key>
+	<string>transformerThanLayer</string>
+	<key>singleCacheType</key>
+	<string>momentumUntilBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedRichtextSpeed</key>
+	<string>interfaceVariableCenter</string>
+	<key>localizationFrameworkFeedback</key>
+	<string>fusedDependencyCenter</string>
+	<key>rowFromState</key>
+	<string>grayscaleDespiteVisitor</string>
+	<key>rowPhaseSpeed</key>
+	<string>controllerAmongStyle</string>
+	<key>sessionWorkCoord</key>
+	<string>toolBridgeOffset</string>
+	<key>texturePatternSpacing</key>
+	<string>intensityInPrototype</string>
+</dict>
+</plist>

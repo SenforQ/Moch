@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPlatformBound</key>
+	<string>tweenAboutLevel</string>
+	<key>cardOrForm</key>
+	<string>boxExceptFunction</string>
+	<key>curveFromChain</key>
+	<string>overlayForFunction</string>
+	<key>ephemeralTextureHead</key>
+	<string>chapterStateType</string>
+	<key>ignoredAccessorySpeed</key>
+	<string>builderForScope</string>
+	<key>serviceExceptSingleton</key>
+	<string>radiusPatternValidation</string>
+	<key>ternaryAboutMediator</key>
+	<string>navigatorThanForm</string>
+</dict>
+</plist>

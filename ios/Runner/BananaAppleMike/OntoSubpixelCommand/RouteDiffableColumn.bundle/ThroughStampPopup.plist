@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintLevelBrightness</key>
+	<string>nibMediatorBound</string>
+	<key>nativeAlignmentPosition</key>
+	<string>widgetContextFeedback</string>
+	<key>resultInsideFramework</key>
+	<string>tabbarEnvironmentCenter</string>
+	<key>uniqueGraphDistance</key>
+	<string>equalizationUntilContext</string>
+</dict>
+</plist>

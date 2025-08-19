@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryActionPressure</key>
+	<string>effectActivityState</string>
+	<key>factoryContainShape</key>
+	<string>nativePresenterColor</string>
+	<key>newestProviderStatus</key>
+	<string>queryLayerStyle</string>
+	<key>offsetStageSkewx</key>
+	<string>delegatePerCycle</string>
+	<key>originalLabelTag</key>
+	<string>kernelPrototypeStyle</string>
+	<key>sliderPhaseBehavior</key>
+	<string>sampleThanStructure</string>
+	<key>smartGrainIndex</key>
+	<string>activatedIsolateRight</string>
+	<key>spineDecoratorSpacing</key>
+	<string>popupCycleOrigin</string>
+	<key>tensorDrawerSize</key>
+	<string>finalBinaryCoord</string>
+</dict>
+</plist>

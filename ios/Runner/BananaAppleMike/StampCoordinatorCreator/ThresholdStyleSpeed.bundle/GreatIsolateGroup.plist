@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionForTemple</key>
+	<string>intuitiveHeapDelay</string>
+	<key>imageTypeOrientation</key>
+	<string>previewOperationContrast</string>
+	<key>routeCompositeStyle</key>
+	<string>mapTaskSpacing</string>
+	<key>semanticTitleType</key>
+	<string>smallLocalizationVisibility</string>
+	<key>sequentialBatchCenter</key>
+	<string>prevScrollRate</string>
+	<key>stateForChain</key>
+	<string>textureFlyweightDirection</string>
+	<key>temporaryCommandStyle</key>
+	<string>cubitAsContext</string>
+</dict>
+</plist>

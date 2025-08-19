@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectCommandState</key>
+	<string>projectTierValidation</string>
+	<key>transitionAwayEnvironment</key>
+	<string>rapidTitleMargin</string>
+</dict>
+</plist>

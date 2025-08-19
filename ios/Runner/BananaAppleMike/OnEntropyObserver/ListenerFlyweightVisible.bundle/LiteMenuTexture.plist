@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalHashPressure</key>
+	<string>symmetricWidgetMode</string>
+	<key>nibCommandFeedback</key>
+	<string>exponentLevelBorder</string>
+	<key>scrollableUtilSpacing</key>
+	<string>synchronousInteractorFrequency</string>
+	<key>semanticHashPosition</key>
+	<string>flexibleLabelLocation</string>
+	<key>variantAndVisitor</key>
+	<string>tappableIsolatePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateFacadeInset</key>
+	<string>navigatorForNumber</string>
+	<key>presenterAsEnvironment</key>
+	<string>methodFromParam</string>
+	<key>scrollByCycle</key>
+	<string>requiredSliderMargin</string>
+	<key>skinFormDistance</key>
+	<string>logarithmNearBuffer</string>
+</dict>
+</plist>

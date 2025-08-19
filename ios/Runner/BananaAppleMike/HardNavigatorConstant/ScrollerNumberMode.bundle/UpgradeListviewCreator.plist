@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageMementoHue</key>
+	<string>builderVariableValidation</string>
+	<key>interpolationStrategyOpacity</key>
+	<string>substantialCursorTop</string>
+	<key>requestBufferRotation</key>
+	<string>accordionBufferForce</string>
+	<key>tabbarOutsideVar</key>
+	<string>screenSingletonAppearance</string>
+</dict>
+</plist>

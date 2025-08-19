@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerVisitorLeft</key>
+	<string>stateNearDecorator</string>
+	<key>gridviewAndMode</key>
+	<string>gridForParameter</string>
+	<key>localCardSpeed</key>
+	<string>completerChainDensity</string>
+	<key>similarEffectPressure</key>
+	<string>cubitViaStage</string>
+	<key>standaloneDrawerSpacing</key>
+	<string>channelObserverBorder</string>
+</dict>
+</plist>

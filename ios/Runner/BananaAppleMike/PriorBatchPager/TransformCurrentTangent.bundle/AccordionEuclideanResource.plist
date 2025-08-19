@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedVariantBrightness</key>
+	<string>extensionStrategyVisibility</string>
+	<key>animationStructureInteraction</key>
+	<string>unaryDuringState</string>
+	<key>cacheInsideProcess</key>
+	<string>significantObserverInterval</string>
+	<key>constRouterRight</key>
+	<string>subscriptionOrSingleton</string>
+	<key>dedicatedTransitionSkewx</key>
+	<string>commonWidgetDistance</string>
+	<key>durationIncludePhase</key>
+	<string>hierarchicalBrushScale</string>
+	<key>kernelNumberInterval</key>
+	<string>geometricCapacitiesBound</string>
+	<key>mediocreLayerSpeed</key>
+	<string>animationBeyondStage</string>
+	<key>tweenObserverState</key>
+	<string>mobileGridName</string>
+</dict>
+</plist>

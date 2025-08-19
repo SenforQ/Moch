@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEffectTension</key>
+	<string>mediaqueryUntilVisitor</string>
+	<key>equalizationWorkAppearance</key>
+	<string>radiusFlyweightInteraction</string>
+	<key>gestureFromLayer</key>
+	<string>constSpineColor</string>
+	<key>grainOperationAppearance</key>
+	<string>unsortedTimerInset</string>
+	<key>otherModalShape</key>
+	<string>nativeTransitionBorder</string>
+	<key>spriteSinceAdapter</key>
+	<string>sharedTitleCenter</string>
+	<key>statefulWithoutCommand</key>
+	<string>labelOrFramework</string>
+	<key>vectorInState</key>
+	<string>intermediateResourceShape</string>
+</dict>
+</plist>

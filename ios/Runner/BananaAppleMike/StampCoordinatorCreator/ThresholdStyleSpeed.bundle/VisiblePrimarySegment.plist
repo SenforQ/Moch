@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheWithoutStage</key>
+	<string>collectionLevelFlags</string>
+	<key>contractionByFramework</key>
+	<string>semanticDrawerSkewy</string>
+	<key>heapWorkDelay</key>
+	<string>mobilePositionAcceleration</string>
+	<key>listviewAroundVariable</key>
+	<string>materialOverlayRight</string>
+	<key>multiExtensionEdge</key>
+	<string>requestProcessStyle</string>
+	<key>protectedSliderBrightness</key>
+	<string>futureLayerType</string>
+	<key>reducerVarDelay</key>
+	<string>semanticsModeAlignment</string>
+	<key>statefulPlatformEdge</key>
+	<string>layoutAsFlyweight</string>
+	<key>textureExceptInterpreter</key>
+	<string>completerCompositeRotation</string>
+</dict>
+</plist>

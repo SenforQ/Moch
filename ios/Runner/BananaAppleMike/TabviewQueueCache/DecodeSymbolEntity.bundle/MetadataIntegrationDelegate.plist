@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableResponseBorder</key>
+	<string>gridSingletonShade</string>
+	<key>dynamicSensorFeedback</key>
+	<string>inactivePopupDirection</string>
+	<key>euclideanCommandSpeed</key>
+	<string>getxShapeStyle</string>
+	<key>iterativeUsageFrequency</key>
+	<string>certificateBesideCommand</string>
+	<key>mediumDialogsBrightness</key>
+	<string>gateFacadeEdge</string>
+	<key>sliderChainFlags</key>
+	<string>sceneAlongDecorator</string>
+	<key>stateWorkEdge</key>
+	<string>constraintOrVisitor</string>
+	<key>topicDuringComposite</key>
+	<string>frameAtObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationSingletonHead</key>
+	<string>signatureIncludeChain</string>
+	<key>isolateLikePlatform</key>
+	<string>nativeColumnRotation</string>
+	<key>localizationPlatformFeedback</key>
+	<string>beginnerInterfaceSkewy</string>
+	<key>requestDespitePattern</key>
+	<string>plateParameterCount</string>
+	<key>sensorWorkOffset</key>
+	<string>largeIndicatorDuration</string>
+	<key>sliderActivitySaturation</key>
+	<string>dedicatedTextFeedback</string>
+	<key>smartSensorShade</key>
+	<string>transitionInCommand</string>
+	<key>staticChapterRotation</key>
+	<string>gateParamAppearance</string>
+	<key>webUtilDepth</key>
+	<string>usecaseLayerTop</string>
+</dict>
+</plist>

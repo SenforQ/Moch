@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticProgressbarBorder</key>
+	<string>delegateVersusAdapter</string>
+	<key>equipmentFormInteraction</key>
+	<string>mobxKindColor</string>
+	<key>explicitChannelsRotation</key>
+	<string>getxAwaySingleton</string>
+	<key>lazyCommandMode</key>
+	<string>columnAroundFacade</string>
+	<key>tangentFormFlags</key>
+	<string>mediocreMobxTint</string>
+	<key>typicalMovementTag</key>
+	<string>opaqueMenuStyle</string>
+</dict>
+</plist>

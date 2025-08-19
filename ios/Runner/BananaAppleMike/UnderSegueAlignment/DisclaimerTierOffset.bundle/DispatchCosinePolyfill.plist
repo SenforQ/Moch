@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateLocation</key>
+	<string>taskInsideContext</string>
+	<key>commandSystemInteraction</key>
+	<string>mutableTaskOrigin</string>
+	<key>reductionWorkPadding</key>
+	<string>futureActivityRate</string>
+	<key>skinParameterDelay</key>
+	<string>zoneCompositeRight</string>
+	<key>transformerWorkAlignment</key>
+	<string>navigatorOperationName</string>
+	<key>transitionAmongFlyweight</key>
+	<string>gesturedetectorAndProcess</string>
+</dict>
+</plist>

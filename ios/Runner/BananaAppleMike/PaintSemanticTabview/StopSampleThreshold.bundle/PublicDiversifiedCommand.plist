@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderShapeVisible</key>
+	<string>singletonAdapterDistance</string>
+	<key>easyTransitionInterval</key>
+	<string>isolateCycleLeft</string>
+	<key>listenerAwayMediator</key>
+	<string>viewInShape</string>
+	<key>playbackParameterForce</key>
+	<string>channelWithoutComposite</string>
+	<key>protocolCommandDelay</key>
+	<string>kernelPhaseBottom</string>
+</dict>
+</plist>

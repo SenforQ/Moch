@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAmongMode</key>
+	<string>channelsFrameworkVisible</string>
+	<key>cellInStrategy</key>
+	<string>animationPhaseCoord</string>
+	<key>factoryIncludeContext</key>
+	<string>themeBufferVisible</string>
+	<key>imperativeRoleState</key>
+	<string>decorationMethodDensity</string>
+	<key>interfaceExceptStructure</key>
+	<string>standaloneIntensityName</string>
+	<key>repositoryDespiteMode</key>
+	<string>metadataThroughMediator</string>
+	<key>resultAndType</key>
+	<string>retainedMenuTail</string>
+</dict>
+</plist>

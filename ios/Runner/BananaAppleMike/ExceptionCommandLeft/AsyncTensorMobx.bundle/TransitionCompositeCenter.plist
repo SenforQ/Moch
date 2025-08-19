@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLayerShape</key>
+	<string>fusedMenuTail</string>
+	<key>enabledViewBottom</key>
+	<string>interactiveDependencyDepth</string>
+	<key>ephemeralBrushTheme</key>
+	<string>actionPerSystem</string>
+	<key>layerMethodTag</key>
+	<string>kernelAmongComposite</string>
+	<key>playbackProxyMargin</key>
+	<string>cupertinoListviewCenter</string>
+	<key>priorTaskDistance</key>
+	<string>previewAroundStage</string>
+	<key>sequentialCoordinatorFrequency</key>
+	<string>rapidRouterHead</string>
+	<key>streamThroughTask</key>
+	<string>activeGrainCoord</string>
+	<key>tappableSliderDepth</key>
+	<string>immediateAlignmentInterval</string>
+</dict>
+</plist>

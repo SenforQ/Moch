@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRadiusFlags</key>
+	<string>temporaryEqualizationType</string>
+	<key>alphaTierFlags</key>
+	<string>slashStageTag</string>
+	<key>alphaValueRotation</key>
+	<string>otherSpineValidation</string>
+	<key>fixedTransformerCenter</key>
+	<string>responseOfFacade</string>
+</dict>
+</plist>

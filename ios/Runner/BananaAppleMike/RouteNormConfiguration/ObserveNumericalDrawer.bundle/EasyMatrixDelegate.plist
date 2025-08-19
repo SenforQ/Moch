@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabbarContrast</key>
+	<string>adaptivePlateMargin</string>
+	<key>hardSwitchInset</key>
+	<string>mediocreRouterLocation</string>
+	<key>originalVectorRotation</key>
+	<string>textValueSize</string>
+	<key>priorityAwayActivity</key>
+	<string>tabviewUntilMode</string>
+	<key>profileTempleOpacity</key>
+	<string>explicitVectorDensity</string>
+	<key>rowLayerStatus</key>
+	<string>utilByActivity</string>
+</dict>
+</plist>

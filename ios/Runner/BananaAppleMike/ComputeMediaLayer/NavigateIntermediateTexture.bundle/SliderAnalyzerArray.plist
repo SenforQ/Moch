@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVariablePressure</key>
+	<string>advancedSignName</string>
+	<key>commonPresenterSkewy</key>
+	<string>sharedEventLocation</string>
+	<key>labelThroughPlatform</key>
+	<string>grainShapeVisible</string>
+	<key>nibAndNumber</key>
+	<string>cycleViaVar</string>
+	<key>reactiveTaskVisible</key>
+	<string>inheritedTweenBrightness</string>
+	<key>resultByFunction</key>
+	<string>previewStyleAcceleration</string>
+	<key>routeBesidePrototype</key>
+	<string>projectAboutPlatform</string>
+</dict>
+</plist>

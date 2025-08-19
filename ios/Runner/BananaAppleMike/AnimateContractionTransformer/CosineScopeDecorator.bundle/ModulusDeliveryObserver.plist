@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardLayerFormat</key>
+	<string>channelOfShape</string>
+	<key>imageAndPlatform</key>
+	<string>directViewAlignment</string>
+	<key>mobxPlatformLocation</key>
+	<string>temporaryPreviewRight</string>
+	<key>navigatorSinceState</key>
+	<string>topicWithStructure</string>
+</dict>
+</plist>

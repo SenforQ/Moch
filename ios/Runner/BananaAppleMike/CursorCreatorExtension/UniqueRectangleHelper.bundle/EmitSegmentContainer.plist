@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentPhaseIndex</key>
+	<string>prevAlphaOpacity</string>
+	<key>navigatorPrototypeContrast</key>
+	<string>statefulFacadeState</string>
+	<key>requestPlatformStatus</key>
+	<string>routeOrComposite</string>
+	<key>specifyAxisKind</key>
+	<string>resultPerPlatform</string>
+</dict>
+</plist>

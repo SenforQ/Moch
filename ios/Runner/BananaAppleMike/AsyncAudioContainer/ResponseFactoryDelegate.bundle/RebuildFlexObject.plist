@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialStatelessTheme</key>
+	<string>eagerGiftRate</string>
+	<key>cupertinoChainRotation</key>
+	<string>symbolInLevel</string>
+	<key>desktopResponseRotation</key>
+	<string>animationDecoratorScale</string>
+	<key>hardTouchSpeed</key>
+	<string>cupertinoOptimizerVisibility</string>
+	<key>sampleNearState</key>
+	<string>tweenForPlatform</string>
+	<key>symbolPrototypeFlags</key>
+	<string>delegateAlongVariable</string>
+</dict>
+</plist>

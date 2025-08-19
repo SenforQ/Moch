@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowDuringMode</key>
+	<string>layerOutsideStrategy</string>
+	<key>cartesianAlignmentShape</key>
+	<string>frameObserverSaturation</string>
+	<key>geometricAwaitPadding</key>
+	<string>canvasChainOrientation</string>
+	<key>localizationAtPhase</key>
+	<string>directlyGesturedetectorPosition</string>
+	<key>observerBeyondState</key>
+	<string>notificationLikeStrategy</string>
+	<key>robustAllocatorRotation</key>
+	<string>declarativeLayoutState</string>
+	<key>transitionWithoutDecorator</key>
+	<string>animatedPopupDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredEventAppearance</key>
+	<string>standaloneProfileInset</string>
+	<key>newestSceneScale</key>
+	<string>brushParameterInset</string>
+	<key>resolverLevelRight</key>
+	<string>unaryLevelPressure</string>
+	<key>sinkAwayOperation</key>
+	<string>intermediateMediaquerySaturation</string>
+	<key>specifierMethodRight</key>
+	<string>fixedBuilderVelocity</string>
+</dict>
+</plist>

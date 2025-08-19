@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyLikeParam</key>
+	<string>storageAmongProcess</string>
+	<key>layoutNearParameter</key>
+	<string>fixedTextureBehavior</string>
+	<key>localizationViaScope</key>
+	<string>timerByDecorator</string>
+	<key>mainActionCoord</key>
+	<string>sustainableSliderOffset</string>
+	<key>marginFromNumber</key>
+	<string>bulletNumberResponse</string>
+	<key>riverpodScopeInterval</key>
+	<string>interfaceAwayMemento</string>
+</dict>
+</plist>

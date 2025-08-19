@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPhaseFlags</key>
+	<string>queueUntilPrototype</string>
+	<key>navigationShapeTop</key>
+	<string>cursorDuringMethod</string>
+	<key>promiseAtVar</key>
+	<string>usecaseContextLocation</string>
+	<key>publicSubscriptionState</key>
+	<string>curvePhaseCenter</string>
+	<key>switchStructureRate</key>
+	<string>timerVarFrequency</string>
+	<key>tweenFromFunction</key>
+	<string>dropdownbuttonWithoutLayer</string>
+	<key>usecaseBufferInterval</key>
+	<string>variantJobTint</string>
+</dict>
+</plist>

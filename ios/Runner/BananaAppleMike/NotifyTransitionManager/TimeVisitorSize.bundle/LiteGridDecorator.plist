@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionProcessInterval</key>
+	<string>anchorContainVar</string>
+	<key>coordinatorBeyondTask</key>
+	<string>tappableContainerInteraction</string>
+	<key>descriptorStageInteraction</key>
+	<string>explicitPresenterFormat</string>
+	<key>intermediateTransformerType</key>
+	<string>sizedboxModeOrigin</string>
+	<key>paddingAsStage</key>
+	<string>activityPlatformDistance</string>
+	<key>timerAwayPlatform</key>
+	<string>radiusExceptFunction</string>
+	<key>typicalTextAppearance</key>
+	<string>asyncDuringFlyweight</string>
+	<key>unactivatedUtilOpacity</key>
+	<string>cartesianRequestTheme</string>
+</dict>
+</plist>

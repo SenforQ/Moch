@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTouchRight</key>
+	<string>containerViaFlyweight</string>
+	<key>decorationOperationInterval</key>
+	<string>consultativeSizedboxAppearance</string>
+	<key>gatePatternCount</key>
+	<string>eagerBlocAlignment</string>
+	<key>popupDespiteObserver</key>
+	<string>cubitAgainstProxy</string>
+	<key>rapidPreviewInteraction</key>
+	<string>callbackWithoutActivity</string>
+	<key>repositoryOrMemento</key>
+	<string>resourceLikeVariable</string>
+	<key>statefulKindName</key>
+	<string>titleFlyweightHead</string>
+	<key>symmetricGrainTension</key>
+	<string>lastSignKind</string>
+</dict>
+</plist>

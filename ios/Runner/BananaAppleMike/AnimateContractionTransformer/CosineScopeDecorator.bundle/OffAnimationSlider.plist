@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGesturedetectorFeedback</key>
+	<string>gesturedetectorOrNumber</string>
+	<key>firstBufferRotation</key>
+	<string>sequentialRadiusContrast</string>
+	<key>gesturedetectorFunctionTag</key>
+	<string>symmetricRectSpacing</string>
+	<key>intensityAsPlatform</key>
+	<string>remainderBesideChain</string>
+	<key>liteScrollShape</key>
+	<string>tickerThroughSingleton</string>
+	<key>oldAlignmentFeedback</key>
+	<string>hardMediaDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAboutFunction</key>
+	<string>cubitProxyLeft</string>
+	<key>cartesianLossRight</key>
+	<string>iterativeSensorState</string>
+	<key>intuitiveProviderInset</key>
+	<string>streamParamSpeed</string>
+	<key>newestInstructionFormat</key>
+	<string>directSensorOpacity</string>
+	<key>providerFromValue</key>
+	<string>layoutBeyondWork</string>
+	<key>temporaryBlocRight</key>
+	<string>intuitivePrecisionBottom</string>
+</dict>
+</plist>

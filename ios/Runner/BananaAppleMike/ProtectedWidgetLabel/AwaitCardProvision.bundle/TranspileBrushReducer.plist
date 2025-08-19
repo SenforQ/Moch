@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTransitionSkewx</key>
+	<string>clipperThroughTier</string>
+	<key>cacheCommandMode</key>
+	<string>globalOverlayDistance</string>
+	<key>characterBufferMomentum</key>
+	<string>transitionActivityDirection</string>
+	<key>easyIsolateDensity</key>
+	<string>webEntityLocation</string>
+	<key>firstConstraintRate</key>
+	<string>significantQueueBorder</string>
+	<key>inactiveInterfaceTint</key>
+	<string>matrixFacadeInteraction</string>
+	<key>navigationTierRight</key>
+	<string>asynchronousFeatureStatus</string>
+	<key>navigatorAtStrategy</key>
+	<string>activatedFutureOpacity</string>
+</dict>
+</plist>

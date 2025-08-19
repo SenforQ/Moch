@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentNodeValidation</key>
+	<string>managerSinceVisitor</string>
+	<key>cosineSinceVisitor</key>
+	<string>lostNotificationPadding</string>
+	<key>immutableTransitionTransparency</key>
+	<string>intuitiveRowPadding</string>
+	<key>interactorAlongAction</key>
+	<string>handlerWorkScale</string>
+	<key>intermediateThemeMargin</key>
+	<string>listenerIncludeForm</string>
+	<key>multiCoordinatorOrigin</key>
+	<string>beginnerBulletAcceleration</string>
+	<key>nextNotifierIndex</key>
+	<string>descriptorVersusInterpreter</string>
+</dict>
+</plist>

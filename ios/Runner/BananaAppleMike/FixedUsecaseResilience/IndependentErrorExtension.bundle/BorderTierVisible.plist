@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStrategyPressure</key>
+	<string>multiUsecaseResponse</string>
+	<key>descriptionFromPattern</key>
+	<string>transitionMediatorFormat</string>
+	<key>gestureFromBridge</key>
+	<string>screenIncludeMethod</string>
+	<key>presenterModeContrast</key>
+	<string>numericalCurveName</string>
+	<key>rapidCanvasPosition</key>
+	<string>offsetWithKind</string>
+	<key>sinkContainVar</key>
+	<string>observerPatternTag</string>
+	<key>sortedIsolateSaturation</key>
+	<string>rapidErrorTop</string>
+	<key>specifyMovementPressure</key>
+	<string>streamTaskTag</string>
+	<key>widgetPlatformTension</key>
+	<string>exceptionOperationContrast</string>
+</dict>
+</plist>

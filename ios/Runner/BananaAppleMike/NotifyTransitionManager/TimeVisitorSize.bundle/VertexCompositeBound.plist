@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationStyleInterval</key>
+	<string>sequentialDecorationFrequency</string>
+	<key>factoryOperationOffset</key>
+	<string>rowCyclePadding</string>
+	<key>flexibleProviderColor</key>
+	<string>numericalModulusSpacing</string>
+	<key>modulusLevelKind</key>
+	<string>fixedEntropyState</string>
+	<key>nibAsProcess</key>
+	<string>flexPerState</string>
+	<key>segueTaskIndex</key>
+	<string>completerUntilValue</string>
+	<key>themeAboutBridge</key>
+	<string>lazyPopupMomentum</string>
+</dict>
+</plist>

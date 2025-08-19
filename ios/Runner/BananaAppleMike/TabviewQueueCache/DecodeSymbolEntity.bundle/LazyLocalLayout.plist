@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFrameworkName</key>
+	<string>factoryAmongFramework</string>
+	<key>characterWithMode</key>
+	<string>transitionAsLayer</string>
+	<key>configurationParamValidation</key>
+	<string>agileIsolateDuration</string>
+	<key>discardedEntityMode</key>
+	<string>behaviorActivityFeedback</string>
+	<key>mobileSizeShape</key>
+	<string>transformerChainAcceleration</string>
+	<key>offsetJobSaturation</key>
+	<string>futureAwayForm</string>
+	<key>skinStateFeedback</key>
+	<string>usecaseWithLevel</string>
+	<key>timerThroughType</key>
+	<string>liteHeapSpacing</string>
+	<key>vectorViaAdapter</key>
+	<string>layoutTierValidation</string>
+</dict>
+</plist>

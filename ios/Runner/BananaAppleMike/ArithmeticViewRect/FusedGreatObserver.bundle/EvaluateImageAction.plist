@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAlongLevel</key>
+	<string>bufferAdapterTransparency</string>
+	<key>convolutionValueFlags</key>
+	<string>cycleBufferSpacing</string>
+	<key>lastListenerName</key>
+	<string>declarativeParticleSpacing</string>
+</dict>
+</plist>

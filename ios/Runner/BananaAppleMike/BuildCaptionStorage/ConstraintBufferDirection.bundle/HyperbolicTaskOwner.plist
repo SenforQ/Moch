@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPrototypeLeft</key>
+	<string>frameOutsideType</string>
+	<key>constFactorySpacing</key>
+	<string>pivotalMobxOpacity</string>
+	<key>cubitLayerTop</key>
+	<string>variantStrategyType</string>
+	<key>dimensionVersusChain</key>
+	<string>spriteSingletonDelay</string>
+	<key>resourceContextStyle</key>
+	<string>collectionAgainstKind</string>
+	<key>storeWithPrototype</key>
+	<string>marginThanMethod</string>
+	<key>tableMethodSize</key>
+	<string>builderPerProxy</string>
+	<key>temporaryTaskVisible</key>
+	<string>iterativeHeapTail</string>
+</dict>
+</plist>

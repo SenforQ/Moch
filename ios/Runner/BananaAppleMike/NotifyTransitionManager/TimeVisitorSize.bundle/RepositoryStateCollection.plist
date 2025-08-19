@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCompositionContrast</key>
+	<string>containerStyleAcceleration</string>
+	<key>controllerCycleFrequency</key>
+	<string>fragmentPerMode</string>
+	<key>mainProfileDuration</key>
+	<string>basicHashBorder</string>
+	<key>pointMethodInterval</key>
+	<string>gradientFacadeTop</string>
+	<key>popupFlyweightStyle</key>
+	<string>inheritedDelegateVisible</string>
+	<key>statelessWithShape</key>
+	<string>cacheOrComposite</string>
+	<key>titleAwayPlatform</key>
+	<string>scrollableCompositionRight</string>
+</dict>
+</plist>

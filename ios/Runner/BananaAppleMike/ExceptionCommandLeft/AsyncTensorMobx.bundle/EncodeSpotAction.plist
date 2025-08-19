@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTempleFlags</key>
+	<string>fixedAnimationType</string>
+	<key>capsuleBufferLeft</key>
+	<string>indicatorBesideStage</string>
+	<key>materialRepositoryDensity</key>
+	<string>dedicatedCubeFeedback</string>
+	<key>priorMenuDensity</key>
+	<string>kernelNumberAcceleration</string>
+	<key>serviceSincePrototype</key>
+	<string>concreteTangentPadding</string>
+	<key>uniqueQueueDensity</key>
+	<string>axisOrContext</string>
+</dict>
+</plist>

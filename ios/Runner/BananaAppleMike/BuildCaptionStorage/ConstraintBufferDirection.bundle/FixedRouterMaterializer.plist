@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartStrategyBound</key>
+	<string>singletonMethodResponse</string>
+	<key>commandAtContext</key>
+	<string>assetParameterDirection</string>
+	<key>difficultOverlayValidation</key>
+	<string>equalizationAgainstPlatform</string>
+	<key>giftLevelHead</key>
+	<string>imagePlatformDistance</string>
+	<key>interfaceAwayAction</key>
+	<string>giftInStyle</string>
+	<key>iterativeAlignmentSpacing</key>
+	<string>immutableNotificationPosition</string>
+	<key>notifierBeyondObserver</key>
+	<string>priorityAsProxy</string>
+	<key>optionSystemPosition</key>
+	<string>mutableStatefulOpacity</string>
+	<key>popupPrototypeTheme</key>
+	<string>layerPhaseBrightness</string>
+	<key>statelessAdapterAcceleration</key>
+	<string>temporarySceneRotation</string>
+</dict>
+</plist>

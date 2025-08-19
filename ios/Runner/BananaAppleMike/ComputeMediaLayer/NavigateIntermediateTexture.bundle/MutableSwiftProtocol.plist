@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAlignmentFlags</key>
+	<string>topicPerLevel</string>
+	<key>multiDependencyOffset</key>
+	<string>oldIndicatorRotation</string>
+	<key>routeStrategyDepth</key>
+	<string>respectiveMetadataBrightness</string>
+	<key>uniqueTextPadding</key>
+	<string>significantObserverSpacing</string>
+	<key>unsortedBaselineLocation</key>
+	<string>layoutAtActivity</string>
+	<key>usedResponseCenter</key>
+	<string>callbackStageRight</string>
+</dict>
+</plist>

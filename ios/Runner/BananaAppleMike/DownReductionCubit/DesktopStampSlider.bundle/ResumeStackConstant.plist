@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFunctionTransparency</key>
+	<string>commonDependencyStyle</string>
+	<key>customizedInjectionForce</key>
+	<string>instructionBesideProxy</string>
+	<key>deferredDurationPadding</key>
+	<string>sessionFromVisitor</string>
+	<key>featureAndMethod</key>
+	<string>listenerChainInterval</string>
+	<key>futureAboutActivity</key>
+	<string>loopInState</string>
+	<key>normalPresenterShade</key>
+	<string>exceptionAtActivity</string>
+	<key>sizeDecoratorMode</key>
+	<string>discardedIntegerRight</string>
+	<key>spriteTempleDelay</key>
+	<string>configurationFacadeName</string>
+</dict>
+</plist>

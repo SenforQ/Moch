@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProgressbarStyle</key>
+	<string>builderEnvironmentDirection</string>
+	<key>enabledCurveResponse</key>
+	<string>grainFrameworkIndex</string>
+	<key>fixedHashVelocity</key>
+	<string>scrollActionDistance</string>
+	<key>flexCompositeTransparency</key>
+	<string>similarUnarySpacing</string>
+	<key>flexWithoutLayer</key>
+	<string>handlerAlongObserver</string>
+	<key>globalIconScale</key>
+	<string>statelessLevelDistance</string>
+	<key>previewMediatorShape</key>
+	<string>functionalAlignmentResponse</string>
+	<key>previewStyleForce</key>
+	<string>inactiveRadioVisibility</string>
+	<key>providerInterpreterTension</key>
+	<string>loopStyleInterval</string>
+</dict>
+</plist>

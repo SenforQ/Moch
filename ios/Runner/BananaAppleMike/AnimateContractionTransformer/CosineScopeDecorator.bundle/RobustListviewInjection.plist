@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionPhaseHead</key>
+	<string>storyboardStyleAlignment</string>
+	<key>durationOrPattern</key>
+	<string>curveCompositeScale</string>
+	<key>ephemeralImageKind</key>
+	<string>contractionAtProxy</string>
+	<key>navigationThroughSystem</key>
+	<string>arithmeticCompleterDelay</string>
+	<key>textAsDecorator</key>
+	<string>notificationVariableInterval</string>
+</dict>
+</plist>

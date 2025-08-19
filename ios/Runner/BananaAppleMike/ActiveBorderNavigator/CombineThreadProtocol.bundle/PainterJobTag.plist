@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocByTier</key>
+	<string>binaryVisitorDistance</string>
+	<key>groupAndComposite</key>
+	<string>controllerCompositeVelocity</string>
+	<key>instructionVersusMemento</key>
+	<string>sortedStreamMargin</string>
+	<key>precisionOrProxy</key>
+	<string>uniformArithmeticColor</string>
+	<key>primaryAspectDuration</key>
+	<string>featureWithoutBridge</string>
+	<key>storageSinceFramework</key>
+	<string>temporaryInteractorSkewy</string>
+	<key>tangentProxyAppearance</key>
+	<string>lazyKernelSkewy</string>
+	<key>widgetLayerValidation</key>
+	<string>concreteCellDensity</string>
+</dict>
+</plist>

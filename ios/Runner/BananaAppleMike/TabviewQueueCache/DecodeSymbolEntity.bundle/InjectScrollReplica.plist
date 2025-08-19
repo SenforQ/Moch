@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackActivitySpeed</key>
+	<string>captionContainFunction</string>
+	<key>capacitiesAdapterTop</key>
+	<string>dynamicLogDensity</string>
+	<key>compositionAndSingleton</key>
+	<string>storyboardInPrototype</string>
+	<key>plateFlyweightBrightness</key>
+	<string>smallBuilderEdge</string>
+	<key>providerInBuffer</key>
+	<string>reducerActivityCount</string>
+	<key>reducerAdapterDelay</key>
+	<string>sophisticatedDescriptionDuration</string>
+	<key>resilientPreviewTail</key>
+	<string>sizeOfSingleton</string>
+	<key>spriteEnvironmentAcceleration</key>
+	<string>directlyLabelAppearance</string>
+</dict>
+</plist>

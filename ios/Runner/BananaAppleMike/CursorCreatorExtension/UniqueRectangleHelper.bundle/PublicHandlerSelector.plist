@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDuringStage</key>
+	<string>permissiveSwitchShade</string>
+	<key>custompaintDecoratorScale</key>
+	<string>actionOfCommand</string>
+	<key>decorationAndBuffer</key>
+	<string>subpixelBridgeForce</string>
+	<key>marginTierStyle</key>
+	<string>builderViaTier</string>
+	<key>persistentIconCount</key>
+	<string>grainFacadeKind</string>
+	<key>sinkUntilMediator</key>
+	<string>errorFlyweightStatus</string>
+	<key>transformerOfParameter</key>
+	<string>concurrentRouteBrightness</string>
+</dict>
+</plist>

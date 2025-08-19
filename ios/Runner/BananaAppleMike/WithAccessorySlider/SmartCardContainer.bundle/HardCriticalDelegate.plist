@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAtStyle</key>
+	<string>viewShapeAppearance</string>
+	<key>constraintFormHue</key>
+	<string>granularDelegateRate</string>
+	<key>entityInsideVisitor</key>
+	<string>captionLayerScale</string>
+	<key>independentLoopSkewx</key>
+	<string>fixedStorageVisible</string>
+	<key>isolateStructureAcceleration</key>
+	<string>modalLikeOperation</string>
+	<key>playbackSinceState</key>
+	<string>factoryPerAction</string>
+	<key>priorZoneBottom</key>
+	<string>priorNavigatorOffset</string>
+	<key>promiseStateIndex</key>
+	<string>baselinePerSystem</string>
+	<key>statelessPriorityOffset</key>
+	<string>subtleCollectionVisibility</string>
+	<key>usageExceptInterpreter</key>
+	<string>indicatorLevelScale</string>
+</dict>
+</plist>

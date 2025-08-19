@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderSinceMode</key>
+	<string>particleVersusFlyweight</string>
+	<key>nextAnimatedcontainerBound</key>
+	<string>builderDuringInterpreter</string>
+	<key>robustBorderTheme</key>
+	<string>completionInterpreterSkewy</string>
+	<key>statefulFromMode</key>
+	<string>taskLayerHue</string>
+	<key>topicBesideEnvironment</key>
+	<string>statelessContainInterpreter</string>
+</dict>
+</plist>

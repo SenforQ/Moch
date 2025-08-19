@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMediaAcceleration</key>
+	<string>statelessDurationMargin</string>
+	<key>canvasAmongStyle</key>
+	<string>hierarchicalTabviewCoord</string>
+	<key>euclideanPlaybackShade</key>
+	<string>standaloneMediaqueryDensity</string>
+	<key>geometricEventTint</key>
+	<string>activeReducerPadding</string>
+	<key>histogramTaskMomentum</key>
+	<string>allocatorFromStyle</string>
+	<key>offsetUntilBridge</key>
+	<string>animatedPositionInset</string>
+	<key>resourceDespiteSingleton</key>
+	<string>graphWithProcess</string>
+	<key>skinVarTheme</key>
+	<string>currentStatefulBrightness</string>
+	<key>transitionPerProcess</key>
+	<string>gemThanSingleton</string>
+</dict>
+</plist>

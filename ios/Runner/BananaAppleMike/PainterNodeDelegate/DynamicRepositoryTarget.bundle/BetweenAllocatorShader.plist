@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTierAcceleration</key>
+	<string>retainedCharacterOrientation</string>
+	<key>delegateStrategyRate</key>
+	<string>stepThroughBuffer</string>
+	<key>gridviewVersusMediator</key>
+	<string>rectStyleOpacity</string>
+	<key>missedOptimizerBrightness</key>
+	<string>usageParamSpacing</string>
+	<key>momentumMementoColor</key>
+	<string>backwardGemCoord</string>
+</dict>
+</plist>

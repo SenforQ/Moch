@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterInSingleton</key>
+	<string>equalizationAwayNumber</string>
+	<key>configurationViaScope</key>
+	<string>activatedSpriteScale</string>
+	<key>cubitByNumber</key>
+	<string>draggableSinkTheme</string>
+	<key>dynamicAppbarInteraction</key>
+	<string>taskAdapterBorder</string>
+</dict>
+</plist>

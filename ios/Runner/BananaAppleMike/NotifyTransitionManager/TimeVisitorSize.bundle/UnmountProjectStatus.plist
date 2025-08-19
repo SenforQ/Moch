@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalManagerMargin</key>
+	<string>captionUntilParameter</string>
+	<key>immediateTickerMargin</key>
+	<string>scrollLayerValidation</string>
+	<key>invisibleCurveEdge</key>
+	<string>stateAdapterContrast</string>
+	<key>persistentInteractorPadding</key>
+	<string>textureDespiteCycle</string>
+	<key>routeDespitePlatform</key>
+	<string>isolateExceptMemento</string>
+	<key>skirtPrototypeLocation</key>
+	<string>primaryCustompaintSpacing</string>
+	<key>textureThroughLayer</key>
+	<string>stackProxyHue</string>
+</dict>
+</plist>

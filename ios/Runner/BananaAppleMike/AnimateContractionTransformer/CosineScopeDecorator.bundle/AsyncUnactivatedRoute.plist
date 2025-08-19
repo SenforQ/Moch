@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRouterFeedback</key>
+	<string>loopModeTop</string>
+	<key>blocJobTransparency</key>
+	<string>nodePhaseEdge</string>
+	<key>customCubitShade</key>
+	<string>petAboutShape</string>
+	<key>keyEntityStyle</key>
+	<string>coordinatorBufferFeedback</string>
+	<key>metadataFromShape</key>
+	<string>commonStepTag</string>
+	<key>symmetricWidgetSpacing</key>
+	<string>backwardLayerRight</string>
+	<key>tabviewLevelResponse</key>
+	<string>resolverLevelColor</string>
+	<key>transitionCompositeShape</key>
+	<string>cubitThanDecorator</string>
+</dict>
+</plist>

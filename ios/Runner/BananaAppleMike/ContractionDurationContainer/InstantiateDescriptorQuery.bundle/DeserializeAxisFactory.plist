@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAlongKind</key>
+	<string>sceneEnvironmentStatus</string>
+	<key>grainShapeStatus</key>
+	<string>vectorAgainstMemento</string>
+	<key>granularProgressbarLocation</key>
+	<string>lossNearPhase</string>
+	<key>injectionStyleCenter</key>
+	<string>checklistWithSingleton</string>
+	<key>requestAndStage</key>
+	<string>intermediateHandlerEdge</string>
+	<key>substantialChartInteraction</key>
+	<string>scrollableAccessorySkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAdapterType</key>
+	<string>spineBesideActivity</string>
+	<key>customToolOrigin</key>
+	<string>reductionStyleHue</string>
+	<key>interactorScopeContrast</key>
+	<string>delegateAgainstObserver</string>
+	<key>previewActionTag</key>
+	<string>gradientTypeBrightness</string>
+	<key>visibleButtonSaturation</key>
+	<string>comprehensiveRequestPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoKindFrequency</key>
+	<string>tickerPhaseFeedback</string>
+	<key>disabledModelBehavior</key>
+	<string>subsequentUsecaseInteraction</string>
+	<key>exceptionAndPrototype</key>
+	<string>custompaintAlongKind</string>
+	<key>menuOperationSkewx</key>
+	<string>layoutMediatorVelocity</string>
+	<key>mobileObserverScale</key>
+	<string>widgetStateBottom</string>
+	<key>resilientConsumerFrequency</key>
+	<string>immediateNotificationSaturation</string>
+	<key>semanticSegueDistance</key>
+	<string>concreteAwaitDirection</string>
+</dict>
+</plist>

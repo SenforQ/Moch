@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryCommandMode</key>
+	<string>characterNumberAppearance</string>
+	<key>borderVariableFormat</key>
+	<string>descriptionActionInset</string>
+	<key>chartInParameter</key>
+	<string>swiftKindVisibility</string>
+	<key>consumerByDecorator</key>
+	<string>handlerInsideMethod</string>
+	<key>navigatorPerPlatform</key>
+	<string>appbarViaPhase</string>
+	<key>positionSinceType</key>
+	<string>apertureUntilChain</string>
+	<key>progressbarOfValue</key>
+	<string>protocolContextMomentum</string>
+	<key>projectionAsPrototype</key>
+	<string>callbackOperationPadding</string>
+	<key>threadForVariable</key>
+	<string>queueCycleInset</string>
+</dict>
+</plist>

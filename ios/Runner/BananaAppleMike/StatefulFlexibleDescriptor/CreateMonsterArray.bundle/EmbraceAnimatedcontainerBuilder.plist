@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAnimationVisible</key>
+	<string>coordinatorLevelEdge</string>
+	<key>mutableFutureDelay</key>
+	<string>immutableBlocTag</string>
+	<key>nativePointKind</key>
+	<string>lastResourceInterval</string>
+	<key>pageviewSinceContext</key>
+	<string>animationBufferDepth</string>
+	<key>resizableHeapStyle</key>
+	<string>spriteContainStrategy</string>
+	<key>scaleObserverPosition</key>
+	<string>serviceOrValue</string>
+	<key>seamlessBuilderOffset</key>
+	<string>iconStructureVelocity</string>
+</dict>
+</plist>

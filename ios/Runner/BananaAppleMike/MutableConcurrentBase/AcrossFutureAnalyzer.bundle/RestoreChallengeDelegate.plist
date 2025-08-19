@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisContainMethod</key>
+	<string>managerPlatformFlags</string>
+	<key>chapterShapeTag</key>
+	<string>rapidWidgetAlignment</string>
+	<key>featurePerState</key>
+	<string>specifyHashBorder</string>
+	<key>nativeActionSize</key>
+	<string>storageFunctionLocation</string>
+	<key>optimizerPerForm</key>
+	<string>basicCoordinatorFeedback</string>
+	<key>singletonContainPhase</key>
+	<string>viewViaScope</string>
+	<key>standalonePrecisionPadding</key>
+	<string>entityModeBound</string>
+	<key>statelessAmongPlatform</key>
+	<string>cursorObserverAlignment</string>
+	<key>taskPlatformHead</key>
+	<string>metadataVersusFramework</string>
+</dict>
+</plist>

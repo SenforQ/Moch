@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengePhaseBehavior</key>
+	<string>asyncVisitorFlags</string>
+	<key>chapterKindDelay</key>
+	<string>topicAlongCommand</string>
+	<key>dialogsAboutParam</key>
+	<string>similarActionInset</string>
+	<key>groupObserverOrigin</key>
+	<string>containerFromShape</string>
+	<key>subscriptionProcessInterval</key>
+	<string>curveAwayCycle</string>
+</dict>
+</plist>

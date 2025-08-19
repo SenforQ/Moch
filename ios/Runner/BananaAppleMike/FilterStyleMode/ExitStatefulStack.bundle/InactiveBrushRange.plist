@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRichtextOrientation</key>
+	<string>commandOrNumber</string>
+	<key>immediateTickerCount</key>
+	<string>fusedConsumerShape</string>
+	<key>missionScopeBehavior</key>
+	<string>equalizationActionFeedback</string>
+	<key>numericalAsyncPadding</key>
+	<string>basicSymbolTop</string>
+	<key>previewPlatformMode</key>
+	<string>oldIsolateCenter</string>
+	<key>resolverBeyondProcess</key>
+	<string>referenceJobSkewx</string>
+	<key>resolverWithoutActivity</key>
+	<string>responsiveProfileValidation</string>
+	<key>segueAndEnvironment</key>
+	<string>behaviorLikeSystem</string>
+	<key>usageProxyContrast</key>
+	<string>imperativeSensorTheme</string>
+</dict>
+</plist>

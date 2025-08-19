@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedListenerPadding</key>
+	<string>taskInLevel</string>
+	<key>disabledCycleSkewy</key>
+	<string>taskDuringStyle</string>
+	<key>histogramCompositeRotation</key>
+	<string>sceneChainScale</string>
+	<key>repositoryPatternTail</key>
+	<string>resizableTabbarEdge</string>
+	<key>viewByProxy</key>
+	<string>associatedViewPosition</string>
+</dict>
+</plist>

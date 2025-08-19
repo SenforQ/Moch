@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAspectAlignment</key>
+	<string>statefulInterpolationLocation</string>
+	<key>animationTypeForce</key>
+	<string>presenterOrJob</string>
+	<key>movementAgainstFunction</key>
+	<string>activatedReducerName</string>
+	<key>presenterFrameworkMargin</key>
+	<string>hardTweenBehavior</string>
+	<key>sortedServiceTension</key>
+	<string>semanticsInsideActivity</string>
+	<key>storageDecoratorSkewx</key>
+	<string>rowDuringCommand</string>
+</dict>
+</plist>

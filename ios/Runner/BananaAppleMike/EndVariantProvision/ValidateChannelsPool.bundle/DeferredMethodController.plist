@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCycleTail</key>
+	<string>localNodeBottom</string>
+	<key>baseWithoutOperation</key>
+	<string>radiusStyleVelocity</string>
+	<key>loopStageMode</key>
+	<string>pinchableSegmentFlags</string>
+	<key>lostLayoutDistance</key>
+	<string>canvasSinceVariable</string>
+	<key>sinkStructureIndex</key>
+	<string>originalTransitionHue</string>
+	<key>stateSinceStage</key>
+	<string>spriteInMediator</string>
+</dict>
+</plist>

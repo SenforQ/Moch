@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePrototypeVisible</key>
+	<string>baselinePhaseSkewy</string>
+	<key>enabledBlocLocation</key>
+	<string>nativeTaskAppearance</string>
+	<key>graphUntilParam</key>
+	<string>metadataVersusShape</string>
+	<key>hashTaskAlignment</key>
+	<string>sinkVersusState</string>
+	<key>materialBridgeVisible</key>
+	<string>hardProviderColor</string>
+	<key>storageViaPrototype</key>
+	<string>resizableCompletionBottom</string>
+	<key>subsequentStepOffset</key>
+	<string>bulletVariableDistance</string>
+</dict>
+</plist>

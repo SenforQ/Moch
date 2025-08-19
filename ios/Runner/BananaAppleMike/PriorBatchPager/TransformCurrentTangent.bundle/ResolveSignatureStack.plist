@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOfContext</key>
+	<string>cartesianIsolateSize</string>
+	<key>constraintExceptActivity</key>
+	<string>alignmentShapeSize</string>
+	<key>coordinatorCycleMode</key>
+	<string>compositionExceptAction</string>
+	<key>delegateIncludeFacade</key>
+	<string>listviewExceptFlyweight</string>
+	<key>effectActivityVisible</key>
+	<string>presenterTypeDelay</string>
+	<key>effectFromLayer</key>
+	<string>webListenerBorder</string>
+	<key>skirtActivityDistance</key>
+	<string>toolNumberDensity</string>
+	<key>titleStyleTail</key>
+	<string>managerStructureName</string>
+</dict>
+</plist>

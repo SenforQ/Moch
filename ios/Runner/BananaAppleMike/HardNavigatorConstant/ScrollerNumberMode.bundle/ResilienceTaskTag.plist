@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInkwellPressure</key>
+	<string>uniformSpineMomentum</string>
+	<key>hardMissionKind</key>
+	<string>synchronousProfileInteraction</string>
+	<key>managerContainMode</key>
+	<string>accessoryDespiteContext</string>
+	<key>numericalCubitKind</key>
+	<string>asynchronousSceneFrequency</string>
+	<key>particleStageTail</key>
+	<string>optimizerValueShape</string>
+	<key>promiseTypeCoord</key>
+	<string>optionSinceVariable</string>
+	<key>smartInterfaceKind</key>
+	<string>specifierAndContext</string>
+	<key>taskAwayParameter</key>
+	<string>themePrototypeOffset</string>
+	<key>titleContextDistance</key>
+	<string>coordinatorCompositeCount</string>
+</dict>
+</plist>

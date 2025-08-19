@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPrototypeAlignment</key>
+	<string>loopFromForm</string>
+	<key>featureWithTier</key>
+	<string>constraintVisitorTail</string>
+	<key>presenterByCycle</key>
+	<string>containerUntilValue</string>
+	<key>switchBeyondMemento</key>
+	<string>mobxValueFrequency</string>
+</dict>
+</plist>

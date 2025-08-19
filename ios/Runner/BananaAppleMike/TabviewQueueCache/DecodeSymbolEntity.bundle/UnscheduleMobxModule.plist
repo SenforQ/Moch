@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpriteValidation</key>
+	<string>eventActionSpeed</string>
+	<key>agileCubeAcceleration</key>
+	<string>taskVariableOrigin</string>
+	<key>behaviorInMethod</key>
+	<string>semanticsVersusNumber</string>
+	<key>disparateResultBottom</key>
+	<string>mobileParticleValidation</string>
+	<key>equipmentLayerStatus</key>
+	<string>behaviorTypeAcceleration</string>
+	<key>fusedTechniqueDuration</key>
+	<string>sortedIconInteraction</string>
+	<key>kernelWithoutContext</key>
+	<string>uniformContainerFlags</string>
+	<key>publicParticleColor</key>
+	<string>cosineAsContext</string>
+	<key>queueWithoutAction</key>
+	<string>ignoredAxisDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customClipperMode</key>
+	<string>uniformRepositoryDuration</string>
+	<key>masterChainSaturation</key>
+	<string>usageAsPhase</string>
+	<key>sceneKindEdge</key>
+	<string>fusedSpotAcceleration</string>
+	<key>threadTaskFeedback</key>
+	<string>mediaThroughProxy</string>
+</dict>
+</plist>

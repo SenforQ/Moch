@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaParameterBehavior</key>
+	<string>collectionFacadeCount</string>
+	<key>animationAndAdapter</key>
+	<string>radiusViaLayer</string>
+	<key>elasticErrorBehavior</key>
+	<string>exceptionBesideStructure</string>
+	<key>functionalSliderAlignment</key>
+	<string>sceneWithoutVar</string>
+	<key>publicInteractorTail</key>
+	<string>layoutOperationDepth</string>
+	<key>resolverPlatformCount</key>
+	<string>taskExceptMode</string>
+</dict>
+</plist>

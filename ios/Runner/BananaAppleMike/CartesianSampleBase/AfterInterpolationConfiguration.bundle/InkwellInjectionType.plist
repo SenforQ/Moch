@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerBesideProxy</key>
+	<string>decorationWithoutFlyweight</string>
+	<key>offsetFlyweightStatus</key>
+	<string>awaitInsidePrototype</string>
+	<key>reducerTierMargin</key>
+	<string>basicRadiusDistance</string>
+	<key>screenAboutComposite</key>
+	<string>navigatorKindDepth</string>
+</dict>
+</plist>

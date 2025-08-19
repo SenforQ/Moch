@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineMediatorScale</key>
+	<string>pointVersusMediator</string>
+	<key>channelFormAlignment</key>
+	<string>ternaryThroughVisitor</string>
+	<key>checklistLikeStage</key>
+	<string>builderDecoratorName</string>
+	<key>errorAndAdapter</key>
+	<string>responseLikeComposite</string>
+	<key>hierarchicalEffectPadding</key>
+	<string>granularEntitySkewx</string>
+	<key>primaryPromiseTheme</key>
+	<string>configurationTempleBehavior</string>
+	<key>semanticThreadPosition</key>
+	<string>captionBridgeMargin</string>
+	<key>viewPerBridge</key>
+	<string>frameStrategyTransparency</string>
+</dict>
+</plist>

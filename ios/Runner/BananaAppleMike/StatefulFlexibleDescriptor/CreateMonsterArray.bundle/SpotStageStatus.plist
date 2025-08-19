@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFrameName</key>
+	<string>interfaceWorkTint</string>
+	<key>iconSinceKind</key>
+	<string>lossInsideState</string>
+	<key>mainCupertinoValidation</key>
+	<string>rectWithComposite</string>
+	<key>nextAlignmentPressure</key>
+	<string>gesturedetectorLayerScale</string>
+	<key>sceneFlyweightTransparency</key>
+	<string>requestVersusParameter</string>
+	<key>sceneFromComposite</key>
+	<string>usecasePhaseMode</string>
+</dict>
+</plist>

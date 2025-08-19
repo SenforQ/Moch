@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAnimatedcontainerResponse</key>
+	<string>completionCycleState</string>
+	<key>gramPerNumber</key>
+	<string>singleTaskFrequency</string>
+	<key>graphCommandColor</key>
+	<string>futureInsideVariable</string>
+	<key>missedViewBound</key>
+	<string>activatedAccessoryDepth</string>
+	<key>modulusTaskType</key>
+	<string>modulusWithPattern</string>
+	<key>sharedLocalizationOffset</key>
+	<string>rectChainIndex</string>
+	<key>utilProxyState</key>
+	<string>standaloneCapsuleInterval</string>
+</dict>
+</plist>

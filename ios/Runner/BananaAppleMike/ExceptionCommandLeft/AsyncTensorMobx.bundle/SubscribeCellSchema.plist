@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSystemRight</key>
+	<string>factoryProxyRight</string>
+	<key>denseBoxshadowValidation</key>
+	<string>boxDuringCommand</string>
+	<key>elasticSampleName</key>
+	<string>requiredContractionCount</string>
+	<key>groupBesideShape</key>
+	<string>responsiveProjectName</string>
+	<key>hardBlocFormat</key>
+	<string>sliderScopeValidation</string>
+	<key>missedExceptionCenter</key>
+	<string>webSingletonValidation</string>
+	<key>remainderTierRate</key>
+	<string>textureOutsideVisitor</string>
+	<key>resourcePlatformStatus</key>
+	<string>frameMethodAcceleration</string>
+	<key>statefulSingletonDensity</key>
+	<string>metadataAtState</string>
+	<key>unaryAroundParameter</key>
+	<string>activatedInjectionStatus</string>
+</dict>
+</plist>

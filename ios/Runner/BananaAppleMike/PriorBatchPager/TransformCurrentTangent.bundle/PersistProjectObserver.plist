@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheThroughProxy</key>
+	<string>allocatorBeyondContext</string>
+	<key>disabledSizeMomentum</key>
+	<string>euclideanContainerSpeed</string>
+	<key>discardedCubitFormat</key>
+	<string>cubitSinceBridge</string>
+	<key>enabledStateIndex</key>
+	<string>descriptorDuringNumber</string>
+	<key>liteEquipmentVisible</key>
+	<string>firstWorkflowRate</string>
+	<key>offsetDecoratorPosition</key>
+	<string>asynchronousPopupType</string>
+	<key>responsiveRectVisible</key>
+	<string>checkboxAroundShape</string>
+	<key>seamlessQueueTop</key>
+	<string>vectorProcessDistance</string>
+</dict>
+</plist>

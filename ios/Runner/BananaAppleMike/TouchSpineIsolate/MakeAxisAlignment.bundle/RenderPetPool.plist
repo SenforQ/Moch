@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOrTier</key>
+	<string>standaloneBlocInset</string>
+	<key>channelCycleBorder</key>
+	<string>repositoryByCycle</string>
+	<key>compositionalMemberTransparency</key>
+	<string>graphicInFramework</string>
+	<key>lastPopupHead</key>
+	<string>rapidSegmentSkewx</string>
+	<key>referenceOutsideLevel</key>
+	<string>containerAmongFlyweight</string>
+	<key>secondSpecifierDepth</key>
+	<string>managerStateSkewy</string>
+	<key>sliderUntilVar</key>
+	<string>documentFromBuffer</string>
+</dict>
+</plist>

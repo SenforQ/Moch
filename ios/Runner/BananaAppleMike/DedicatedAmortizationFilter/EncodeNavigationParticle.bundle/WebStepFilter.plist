@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystScopeAppearance</key>
+	<string>animationAwayLayer</string>
+	<key>dialogsIncludePlatform</key>
+	<string>themeAmongMediator</string>
+	<key>gesturedetectorParamSkewy</key>
+	<string>customSingletonSize</string>
+	<key>modelCommandTheme</key>
+	<string>giftByMediator</string>
+	<key>routerScopeColor</key>
+	<string>toolJobStyle</string>
+	<key>spriteContainNumber</key>
+	<string>injectionActivityTension</string>
+	<key>timerStyleTransparency</key>
+	<string>asyncAwayValue</string>
+</dict>
+</plist>

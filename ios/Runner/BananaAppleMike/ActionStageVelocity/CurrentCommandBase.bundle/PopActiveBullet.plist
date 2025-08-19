@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCycleCenter</key>
+	<string>timerForMethod</string>
+	<key>animatedcontainerWithTask</key>
+	<string>allocatorJobBound</string>
+	<key>batchEnvironmentPosition</key>
+	<string>permissiveModelInset</string>
+	<key>behaviorStyleVisible</key>
+	<string>deferredIconInset</string>
+	<key>methodFrameworkKind</key>
+	<string>queuePerKind</string>
+	<key>queueBySingleton</key>
+	<string>offsetOutsideChain</string>
+	<key>rowOutsideVariable</key>
+	<string>inheritedWidgetLeft</string>
+</dict>
+</plist>

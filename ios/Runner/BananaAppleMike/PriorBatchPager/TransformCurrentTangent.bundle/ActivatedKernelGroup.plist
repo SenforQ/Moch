@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSinceAdapter</key>
+	<string>radiusContainWork</string>
+	<key>asyncToolInteraction</key>
+	<string>denseRichtextCoord</string>
+	<key>concurrentResourceSkewx</key>
+	<string>explicitActionDirection</string>
+	<key>futureActionDensity</key>
+	<string>crucialRequestStatus</string>
+	<key>intuitiveServiceName</key>
+	<string>blocOrSystem</string>
+	<key>priorityModeDensity</key>
+	<string>priorSliderDepth</string>
+	<key>specifyTextSkewx</key>
+	<string>eventActionTheme</string>
+	<key>standaloneSizeRotation</key>
+	<string>staticListenerForce</string>
+</dict>
+</plist>

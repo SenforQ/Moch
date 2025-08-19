@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferMethodDelay</key>
+	<string>sharedChartFormat</string>
+	<key>capsuleBufferRotation</key>
+	<string>visibleBoxSaturation</string>
+	<key>collectionTaskTop</key>
+	<string>missedColumnVisibility</string>
+	<key>constraintLevelMode</key>
+	<string>effectThroughActivity</string>
+	<key>mobxFlyweightVelocity</key>
+	<string>bufferInAction</string>
+	<key>mutableScaleFormat</key>
+	<string>bitrateObserverType</string>
+	<key>particlePrototypeOffset</key>
+	<string>currentExceptionStyle</string>
+	<key>scrollableRectAcceleration</key>
+	<string>parallelLabelRight</string>
+</dict>
+</plist>

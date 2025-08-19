@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightMargin</key>
+	<string>layerThroughCycle</string>
+	<key>lostContainerSpacing</key>
+	<string>transitionObserverSkewy</string>
+	<key>scaffoldVisitorCenter</key>
+	<string>responseThroughProcess</string>
+	<key>secondCoordinatorBehavior</key>
+	<string>histogramChainBound</string>
+	<key>unsortedUtilState</key>
+	<string>diffableWidgetDelay</string>
+</dict>
+</plist>

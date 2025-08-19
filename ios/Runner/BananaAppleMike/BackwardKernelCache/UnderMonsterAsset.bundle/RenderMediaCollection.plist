@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerParameterPadding</key>
+	<string>dependencySystemPosition</string>
+	<key>cycleAgainstAdapter</key>
+	<string>spriteParamDelay</string>
+	<key>dedicatedSkirtSkewy</key>
+	<string>lossAndPhase</string>
+</dict>
+</plist>

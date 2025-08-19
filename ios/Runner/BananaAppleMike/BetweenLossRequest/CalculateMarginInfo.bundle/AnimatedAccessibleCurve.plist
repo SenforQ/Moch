@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAwayStyle</key>
+	<string>basicCharacterValidation</string>
+	<key>blocFormSkewx</key>
+	<string>canvasVarTransparency</string>
+	<key>lastCubitBrightness</key>
+	<string>cursorSingletonMode</string>
+	<key>musicExceptMediator</key>
+	<string>granularScrollInset</string>
+	<key>previewAwayFlyweight</key>
+	<string>factoryActivityDistance</string>
+</dict>
+</plist>

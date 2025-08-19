@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerPerOperation</key>
+	<string>curveKindLocation</string>
+	<key>criticalServiceCoord</key>
+	<string>intensityAlongParam</string>
+	<key>missedParticleColor</key>
+	<string>nativePresenterSaturation</string>
+	<key>notifierExceptContext</key>
+	<string>otherTabbarBrightness</string>
+	<key>queueParamRotation</key>
+	<string>originalMobxTail</string>
+	<key>resolverForProxy</key>
+	<string>explicitTabviewKind</string>
+	<key>resolverThroughObserver</key>
+	<string>mutableRectBottom</string>
+	<key>routerNumberCenter</key>
+	<string>cosineAsMemento</string>
+	<key>unactivatedScaleMode</key>
+	<string>sessionCycleBorder</string>
+</dict>
+</plist>

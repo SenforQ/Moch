@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertThanTask</key>
+	<string>queryBeyondOperation</string>
+	<key>effectKindVisibility</key>
+	<string>mediaContextDistance</string>
+	<key>graphicShapeInterval</key>
+	<string>alignmentIncludeComposite</string>
+	<key>imageBesidePrototype</key>
+	<string>exceptionProxyState</string>
+	<key>localNavigationDuration</key>
+	<string>gesturePhaseTension</string>
+	<key>movementSingletonSpeed</key>
+	<string>sampleShapeName</string>
+	<key>projectLayerMode</key>
+	<string>observerCommandName</string>
+	<key>providerInsideTier</key>
+	<string>controllerStyleFormat</string>
+	<key>remainderInSingleton</key>
+	<string>utilSinceBridge</string>
+</dict>
+</plist>

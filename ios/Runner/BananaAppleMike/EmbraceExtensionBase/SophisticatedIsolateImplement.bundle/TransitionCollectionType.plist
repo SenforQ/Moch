@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBesidePlatform</key>
+	<string>metadataCompositePadding</string>
+	<key>decorationShapeFlags</key>
+	<string>aspectBeyondParam</string>
+	<key>labelObserverKind</key>
+	<string>heapByPrototype</string>
+	<key>navigatorInBuffer</key>
+	<string>grainTaskOffset</string>
+	<key>responsiveSliderColor</key>
+	<string>mobileBufferMode</string>
+	<key>zoneKindDensity</key>
+	<string>textureParamEdge</string>
+</dict>
+</plist>

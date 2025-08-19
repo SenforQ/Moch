@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAwayStrategy</key>
+	<string>shaderPlatformRight</string>
+	<key>dynamicSceneBehavior</key>
+	<string>displayableStoreHue</string>
+	<key>fragmentWorkFeedback</key>
+	<string>durationFrameworkState</string>
+	<key>multiPositionTail</key>
+	<string>canvasLevelCoord</string>
+	<key>observerFunctionMomentum</key>
+	<string>sliderFromActivity</string>
+	<key>offsetVersusVisitor</key>
+	<string>errorFacadeKind</string>
+	<key>resolverExceptObserver</key>
+	<string>usedSymbolPressure</string>
+</dict>
+</plist>

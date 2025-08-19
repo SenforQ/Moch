@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBrushVisible</key>
+	<string>labelAroundForm</string>
+	<key>desktopTweenScale</key>
+	<string>webSymbolCount</string>
+	<key>entityByNumber</key>
+	<string>tabviewActivityInset</string>
+	<key>isolateVersusKind</key>
+	<string>interactorAlongValue</string>
+	<key>momentumTypePosition</key>
+	<string>optimizerKindResponse</string>
+	<key>reductionProxyMomentum</key>
+	<string>cartesianReferenceVelocity</string>
+	<key>textSystemAlignment</key>
+	<string>resourceOrParam</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRemainderAppearance</key>
+	<string>usageLevelPadding</string>
+	<key>capsuleActivityAlignment</key>
+	<string>cupertinoVersusNumber</string>
+	<key>handlerStrategyInterval</key>
+	<string>methodFromComposite</string>
+	<key>nodeByVisitor</key>
+	<string>unactivatedNormMargin</string>
+	<key>otherSliderOrientation</key>
+	<string>functionalTopicInset</string>
+</dict>
+</plist>

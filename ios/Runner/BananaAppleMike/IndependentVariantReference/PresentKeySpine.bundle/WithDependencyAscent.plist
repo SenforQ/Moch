@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVersusMediator</key>
+	<string>secondProviderIndex</string>
+	<key>composablePositionSaturation</key>
+	<string>lostSkinLocation</string>
+	<key>coordinatorStrategySpacing</key>
+	<string>iconCommandBorder</string>
+	<key>mobilePreviewLocation</key>
+	<string>bulletVersusSingleton</string>
+	<key>numericalViewInset</key>
+	<string>routerWithoutDecorator</string>
+	<key>widgetStructurePosition</key>
+	<string>usecaseStructureDensity</string>
+</dict>
+</plist>

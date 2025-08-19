@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAndForm</key>
+	<string>graphSinceVar</string>
+	<key>bufferStateOrientation</key>
+	<string>activityJobVisible</string>
+	<key>documentPrototypeTheme</key>
+	<string>effectShapeBorder</string>
+	<key>elasticSinkAlignment</key>
+	<string>secondSlashRate</string>
+	<key>globalTableBorder</key>
+	<string>scrollableMediaPadding</string>
+	<key>materialCurveInset</key>
+	<string>beginnerCharacterPadding</string>
+	<key>sceneTaskEdge</key>
+	<string>animatedEqualizationStatus</string>
+</dict>
+</plist>

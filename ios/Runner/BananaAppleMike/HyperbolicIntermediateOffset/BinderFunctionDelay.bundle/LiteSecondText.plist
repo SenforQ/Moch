@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetContainPattern</key>
+	<string>popupAboutVisitor</string>
+	<key>builderFromInterpreter</key>
+	<string>entityPlatformHead</string>
+	<key>concurrentFrameAlignment</key>
+	<string>spriteJobBottom</string>
+	<key>groupPerOperation</key>
+	<string>optionPrototypeDuration</string>
+	<key>interfaceFromPattern</key>
+	<string>resultAlongStyle</string>
+	<key>logMediatorInteraction</key>
+	<string>scrollLayerFormat</string>
+	<key>matrixInPrototype</key>
+	<string>toolValueDistance</string>
+	<key>radioAndParameter</key>
+	<string>projectionLevelTheme</string>
+	<key>remainderAdapterPressure</key>
+	<string>localizationAroundMemento</string>
+	<key>uniqueStatefulType</key>
+	<string>hierarchicalQueueAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorStructureFlags</key>
+	<string>navigatorModeShape</string>
+	<key>apertureParamShade</key>
+	<string>hardZoneHue</string>
+	<key>buttonVariableBottom</key>
+	<string>durationFromOperation</string>
+	<key>callbackForAction</key>
+	<string>factoryScopeDensity</string>
+	<key>delegateAsVisitor</key>
+	<string>equipmentSinceState</string>
+	<key>marginProcessType</key>
+	<string>resilientIsolateOrientation</string>
+</dict>
+</plist>

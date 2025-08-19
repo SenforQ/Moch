@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonScopePadding</key>
+	<string>alignmentDuringPhase</string>
+	<key>concurrentCompletionVisibility</key>
+	<string>tweenInPlatform</string>
+	<key>constEntityBrightness</key>
+	<string>rapidSpecifierVisibility</string>
+	<key>enabledLabelVisible</key>
+	<string>streamStyleDensity</string>
+	<key>featureStrategyAlignment</key>
+	<string>eagerUsecaseBehavior</string>
+	<key>richtextAmongInterpreter</key>
+	<string>awaitAndMediator</string>
+	<key>sessionPerLevel</key>
+	<string>sinkByVisitor</string>
+	<key>subsequentBufferInterval</key>
+	<string>imageForNumber</string>
+	<key>temporaryClipperTail</key>
+	<string>opaqueIntensityBound</string>
+</dict>
+</plist>

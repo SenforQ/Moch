@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderUntilMemento</key>
+	<string>offsetInsideVisitor</string>
+	<key>overlayAsSystem</key>
+	<string>imageAtAction</string>
+</dict>
+</plist>

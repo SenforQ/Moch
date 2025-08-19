@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTierIndex</key>
+	<string>sizeAgainstComposite</string>
+	<key>deferredConstraintBound</key>
+	<string>ephemeralPainterScale</string>
+	<key>parallelRouterInterval</key>
+	<string>allocatorAroundJob</string>
+	<key>responseInsideProcess</key>
+	<string>pageviewChainVisibility</string>
+	<key>timerExceptFunction</key>
+	<string>groupAsStage</string>
+</dict>
+</plist>
