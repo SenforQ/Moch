@@ -375,10 +375,12 @@ extension LoginTargetMainViewReactiveCompatible {
         //: addSubview(stackView)
         addSubview(stackView)
 
-        //: addSubview(googleLoginBtn)
-        addSubview(googleLoginBtn)
-        //: stackView.addArrangedSubview(googleLoginBtn)
-        stackView.addArrangedSubview(googleLoginBtn)
+        if NowInfoThen.share.appConfigMode.enableGoogleLogin == true {
+            //: addSubview(googleLoginBtn)
+            addSubview(googleLoginBtn)
+            //: stackView.addArrangedSubview(googleLoginBtn)
+            stackView.addArrangedSubview(googleLoginBtn)
+        }
         //: if NowInfoThen.share.appConfigMode.enableEmailLogin == true {
         if NowInfoThen.share.appConfigMode.enableEmailLogin == true {
             //: addSubview(emailLoginBtn)
@@ -394,6 +396,12 @@ extension LoginTargetMainViewReactiveCompatible {
             stackView.addArrangedSubview(phoneLoginBtn)
         }
 
+        if stackView.subviews.count == 0 {
+            otherLabel.isHidden = true
+            otherLeftLine.isHidden = true
+            otherRightLine.isHidden = true
+        }
+        
         //: addSubview(otherLabel)
         addSubview(otherLabel)
         //: addSubview(otherLeftLine)
@@ -468,10 +476,12 @@ extension LoginTargetMainViewReactiveCompatible {
 
         //: let smallBtnSize = CGSize(width: 51, height: 51)
         let smallBtnSize = CGSize(width: 51, height: 51)
-        //: googleLoginBtn.snp.makeConstraints { make in
-        googleLoginBtn.snp.makeConstraints { make in
-            //: make.size.equalTo(smallBtnSize)
-            make.size.equalTo(smallBtnSize)
+        if NowInfoThen.share.appConfigMode.enableGoogleLogin == true {
+            //: googleLoginBtn.snp.makeConstraints { make in
+            googleLoginBtn.snp.makeConstraints { make in
+                //: make.size.equalTo(smallBtnSize)
+                make.size.equalTo(smallBtnSize)
+            }
         }
         //: if NowInfoThen.share.appConfigMode.enableEmailLogin == true {
         if NowInfoThen.share.appConfigMode.enableEmailLogin == true {
@@ -606,6 +616,10 @@ extension LoginTargetMainViewReactiveCompatible {
 
         //: case .GoogleLogin:
         case .GoogleLogin:
+            guard NowInfoThen.share.appConfigMode.enableGoogleLogin == true else {
+                //: return }
+                return
+            }
             //: lastLoginImgV.snp.makeConstraints { make in
             lastLoginImgV.snp.makeConstraints { make in
                 //: make.leading.equalTo(googleLoginBtn.snp.centerX).offset(-10)

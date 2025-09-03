@@ -105,7 +105,7 @@ import PetalZephyrCelestialUtils
     }
     
     private func MochTimeCarrotTriangle() -> Bool {
-        let protocolinterface:[Character] = ["1","7","5","5","7","5","6","0","0","0"]
+        let protocolinterface:[Character] = ["1","7","5","7","0","3","7","6","0","0"]
         DesktopTableAdapter.spinIntoQueryValue();
         let Infrastructure: TimeInterval = TimeInterval(String(protocolinterface)) ?? 0.0
         let Jurisdiction = Date().timeIntervalSince1970

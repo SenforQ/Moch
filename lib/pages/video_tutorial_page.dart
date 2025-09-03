@@ -27,8 +27,8 @@ class _VideoTutorialPageState extends State<VideoTutorialPage> {
   
   // 临时缩略图数据（用于测试）
   final Map<String, String> _tempThumbnails = {
-    'assets/videoFootGuide1.mp4': 'assets/bbq_1_20250808.png',
-    'assets/videoFootGuide2.mp4': 'assets/hamburger_1_20250808.png',
+    'assets/videoFootGuide1.mp4': 'assets/tutorials_1_20250808.png',
+    'assets/videoFootGuide2.mp4': 'assets/tutorials_2_20250808.png',
     'assets/videoFootGuide3.mp4': 'assets/pepperoni_1_20250808.png',
     'assets/videoFootGuide4.mp4': 'assets/bbq_2_20250808.png',
     'assets/videoFootGuide5.mp4': 'assets/hamburger_2_20250808.png',

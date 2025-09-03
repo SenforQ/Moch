@@ -58364,6 +58364,7 @@
 				4W3ND7DU90KR0K7XEOX437O6 /* Pods */,
 			);
 			sourceTree = "<group>";
+			tabWidth = 5;
 		};
 		E2IFWHDXDFZ6K1JD1U9ZVGA6 /* ContractionDurationContainer */ = {
 			isa = PBXGroup;
@@ -78831,6 +78832,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8VM0WMWNRCUM5AV2KU018PTZ /* Build configuration list for PBXNativeTarget "Runner" */;
 			buildPhases = (
+				AD6QS129H9DQYGE8Z4TZHGO6 /* [CP] Check Pods Manifest.lock */,
 				BMFAS7I41MZKIRZANY2AN303 /* [CP] Embed Pods Frameworks */,
 				RHB0GC61Z2KSXQPM4398J29H /* Run Script */,
 				Z24RMWTUGQH8RGEIZG3TD13L /* Sources */,
@@ -78838,7 +78840,6 @@
 				K3LKS9TAWGRS6GI9CTR1MIR6 /* Resources */,
 				WJXJK8FMCQ73O17YSCTC4G9B /* Embed Frameworks */,
 				2SJCMCFOM8K1AAFCHX4PM9GK /* Thin Binary */,
-				AD6QS129H9DQYGE8Z4TZHGO6 /* [CP] Check Pods Manifest.lock */,
 				Y93GD319FN8KFIWTYO8YPOZ4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -94748,7 +94749,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = R7FH38Y52V;
@@ -94758,6 +94759,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.3.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.R7FH38Y52V;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -94783,7 +94785,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = R7FH38Y52V;
@@ -94793,6 +94795,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.3.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.R7FH38Y52V;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -94817,7 +94820,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = R7FH38Y52V;
@@ -94827,6 +94830,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.3.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.R7FH38Y52V;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

@@ -449,7 +449,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   Widget _buildFigureItem(FigureInfo figure) {
-    final randomPhoto = FigureService.getRandomPhoto(figure.mochShowPhotoArray);
+    final firstPhoto = FigureService.getFirstPhoto(figure.mochShowPhotoArray);
     
     return GestureDetector(
       onTap: () async {
@@ -488,7 +488,7 @@ class _HomePageState extends State<HomePage> {
                 topRight: Radius.circular(8),
               ),
               child: Image.asset(
-                randomPhoto,
+                firstPhoto,
                 width: double.infinity,
                 height: 180,
                 fit: BoxFit.cover,

@@ -30,4 +30,10 @@ class FigureService {
     final random = DateTime.now().millisecondsSinceEpoch % photoArray.length;
     return photoArray[random];
   }
+
+  // 获取第一张图片
+  static String getFirstPhoto(List<String> photoArray) {
+    if (photoArray.isEmpty) return '';
+    return photoArray[0];
+  }
 }

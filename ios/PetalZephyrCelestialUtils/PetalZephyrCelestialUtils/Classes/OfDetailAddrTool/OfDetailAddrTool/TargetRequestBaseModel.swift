@@ -142,6 +142,7 @@ struct MTheoryMeasurable: HandyJSON {
     var enableSmsLogin: Bool = false // 是否开启手机号登录
     //: var enableEmailLogin: Bool = false
     var enableEmailLogin: Bool = false // 是否开启邮箱登录
+    var enableGoogleLogin: Bool = false     // 是否开启google登录
     //: var disableShootScreen: Bool = false
     var disableShootScreen: Bool = false // false 防止截屏功能开启 true 防止截屏功能关闭，适配后期系统版本不支持导致的闪退
     //: var vpnSimCardCheck: Bool = false
